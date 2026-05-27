@@ -12674,6 +12674,10 @@ body.page-article .article-body > .content-enhancement--step-flow > ol > li::bef
   z-index: 20;
 }
 
+.fr-ebay-market-menu[hidden] {
+  display: none;
+}
+
 .fr-ebay-market-option {
   align-items: center;
   background: transparent;
