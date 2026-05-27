@@ -867,8 +867,10 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
   function closeMenu(section) {
     var menu = section.querySelector('[data-ebay-market-menu]');
     var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
     if (menu) menu.hidden = true;
     if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
   }
   function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
@@ -945,6 +947,8 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
         var expanded = trigger.getAttribute('aria-expanded') === 'true';
         menu.hidden = expanded;
         trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
       });
       Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
         button.addEventListener('click', function (event) {

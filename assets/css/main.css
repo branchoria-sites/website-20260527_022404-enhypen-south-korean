@@ -12664,7 +12664,7 @@ body.page-article .article-body > .content-enhancement--step-flow > ol > li::bef
   border: 1px solid color-mix(in srgb, var(--card-border) 70%, #2563eb 30%);
   border-radius: 0.5rem;
   box-shadow: 0 16px 34px rgba(15, 23, 42, 0.18);
-  display: grid;
+  display: none;
   gap: 0.12rem;
   left: 0;
   min-width: 11rem;
@@ -12674,8 +12674,12 @@ body.page-article .article-body > .content-enhancement--step-flow > ol > li::bef
   z-index: 20;
 }
 
+.fr-ebay-market-picker.fr-ebay-market-picker--open .fr-ebay-market-menu {
+  display: grid;
+}
+
 .fr-ebay-market-menu[hidden] {
-  display: none;
+  display: none !important;
 }
 
 .fr-ebay-market-option {
