@@ -683,9 +683,12 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
       <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
       <div class="fr-ebay-market-toolbar">
-        <p class="fr-ebay-market-label">Shop location</p>
-        <div class="fr-ebay-market-switcher" role="group" aria-label="Choose eBay market">
-          <button class="fr-ebay-market-button" type="button" data-ebay-market-button="EBAY_US" aria-pressed="true">🇺🇸 USA</button><button class="fr-ebay-market-button" type="button" data-ebay-market-button="EBAY_GB" aria-pressed="false">🇬🇧 UK</button>
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <strong data-ebay-selected-market-label>USA</strong></span>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option>
+          </select>
         </div>
       </div>
     </div>
@@ -848,6 +851,12 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
     return url + joiner + params.join('&');
   }
   function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
     return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
       .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
       .filter(function (marketId) { return !!markets[marketId]; });
@@ -859,6 +868,13 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
       link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
@@ -881,6 +897,12 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
       });
     } else if (available.indexOf(defaultMarket) < 0) {
       marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
     }
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       button.addEventListener('click', function () {
