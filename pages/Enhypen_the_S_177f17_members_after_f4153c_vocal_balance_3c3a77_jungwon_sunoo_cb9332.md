@@ -602,10 +602,10 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
         <h4 class="fr-book-title">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN K-Pop Blanket Collage 60&quot;x 80&quot; Soft Velveteen Throw Cozy Fan Merch New</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search eBay: ENHYPEN merch</a>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN merch</a>
         <div class="fr-book-actions">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
           </a>
         </div>
       </div>
@@ -618,10 +618,10 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
         <h4 class="fr-book-title">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer">[OFFLINE] ENHYPEN ENCHIN Official Character POP-UP OFFICIAL MERCH + Tracking</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search eBay: ENHYPEN merch</a>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN merch</a>
         <div class="fr-book-actions">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
           </a>
         </div>
       </div>
@@ -634,10 +634,10 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
         <h4 class="fr-book-title">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer">【OFFLINE &amp; MID-JUNE SHIP】ENHYPEN Official Character ENCHIN POP-UP MERCH</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search eBay: ENHYPEN merch</a>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN merch</a>
         <div class="fr-book-actions">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
           </a>
         </div>
       </div>
@@ -650,10 +650,10 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
         <h4 class="fr-book-title">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN MERCH - BLOOD SAGA</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search eBay: ENHYPEN merch</a>
+        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN merch">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN merch</a>
         <div class="fr-book-actions">
           <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
+            Browse similar on <span data-ebay-domain-label>eBay.com</span>
           </a>
         </div>
       </div>
@@ -661,7 +661,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
       </div>
       <div class="fr-section-footer">
         <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+merch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN merch" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-merch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+          Browse more on <span data-ebay-domain-label>eBay.com</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -729,7 +729,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
   var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
@@ -748,6 +748,10 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
     if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
     return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
   }
   function availableMarkets(section) {
     var select = section.querySelector('[data-ebay-market-select]');
@@ -774,6 +778,9 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
       label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
     });
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
       var active = button.getAttribute('data-ebay-market-button') === marketId;
