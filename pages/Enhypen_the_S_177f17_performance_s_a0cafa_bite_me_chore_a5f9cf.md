@@ -549,9 +549,9 @@ The lasting irony is that the argument may have reinforced the song’s reputati
       <div class="fr-ebay-market-toolbar">
         <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
         <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <strong data-ebay-selected-market-label>USA</strong></span>
+          <span class="fr-ebay-market-current">Using <strong data-ebay-selected-market-label>🇺🇸 USA</strong></span>
           <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+            <option value="EBAY_US" selected>🇺🇸 USA</option><option value="EBAY_GB">🇬🇧 UK</option><option value="EBAY_CA">🇨🇦 Canada</option><option value="EBAY_AU">🇦🇺 Australia</option><option value="EBAY_IE">🇮🇪 Ireland</option>
           </select>
         </div>
       </div>
