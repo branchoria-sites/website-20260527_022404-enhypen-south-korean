@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-s-177f17-members-after/
 description: Focused pages that expand on Stage changes.
-date: '2026-05-27'
+date: '2026-06-08'
 layout: default
 parent_basename: Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7
 parent_title: Stage changes | Members Now

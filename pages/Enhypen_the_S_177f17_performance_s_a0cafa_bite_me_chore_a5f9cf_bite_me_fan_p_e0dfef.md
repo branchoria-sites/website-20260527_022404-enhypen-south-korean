@@ -202,9 +202,11 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-27 02:23:28'
 parent_title: Why Bite Me choreography became such a debate | Stages
 parent_permalink: /bite-me-stage/
 parent_nav_short_title: Bite Me stage
+parent_heading_title: Why Bite Me choreography became such a debate
 ancestor_links:
 - basename: Enhypen_the_S_177f17
   title: ENHYPEN
@@ -214,10 +216,12 @@ ancestor_links:
   title: Stages | Why ENHYPEN's Eras Keep Fans Watching
   permalink: /stages/
   short_title: Stages
+  heading_title: Why ENHYPEN's Stages Matter So Much
 - basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf
   title: Bite Me stage | Stages
   permalink: /bite-me-stage/
   short_title: Bite Me stage
+  heading_title: Why Bite Me choreography became such a debate
 breadcrumb_links:
 - basename: Enhypen_the_S_177f17
   title: ENHYPEN
@@ -227,30 +231,34 @@ breadcrumb_links:
   title: Stages | Why ENHYPEN's Eras Keep Fans Watching
   permalink: /stages/
   short_title: Stages
+  heading_title: Why ENHYPEN's Stages Matter So Much
 - basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf
   title: Bite Me stage | Stages
   permalink: /bite-me-stage/
   short_title: Bite Me stage
+  heading_title: Why Bite Me choreography became such a debate
 sibling_links:
 - basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438
   title: Original staging | Bite Me stage
   permalink: /original-staging/
   short_title: Original staging
+  heading_title: Why the Bite Me partner dance worked
 up_link:
   basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf
   title: Bite Me stage | Stages
   permalink: /bite-me-stage/
   short_title: Bite Me stage
+  heading_title: Why Bite Me choreography became such a debate
 next_link:
   basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438
   title: Original staging | Bite Me stage
   permalink: /original-staging/
   short_title: Original staging
-date: '2026-05-27 02:23:28 '
+  heading_title: Why the Bite Me partner dance worked
 header:
-  og_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-social.png
-  preview_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1.png
-image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-social.png
+  og_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-social.jpg
+  preview_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1.webp
+image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -258,7 +266,7 @@ image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5
 ENHYPEN’s “Bite Me” promotions became one of the clearest recent examples of fans directly influencing a K-pop stage in real time. What began as a choreography debate over female partner dancers quickly turned into a visible campaign involving protest trucks, organised statements and sustained online pressure. Within weeks, parts of the [performance]({{ 'stages/' | relative_url }}) were altered, and later [stages]({{ 'stages/' | relative_url }}) sometimes removed the paired choreography entirely. The result was not a simple “fans won” story. Instead, the controversy exposed a deeper conflict over idol intimacy, artistic direction and how much control fandoms should have over performance choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 
-<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-light.svg" | relative_url }}" alt="Fan protests illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-dark.svg" | relative_url }}" alt="Fan protests illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The changes also created a second backlash. Some viewers thought the revised stages looked safer but flatter, while others believed the original version crossed boundaries they were uncomfortable with. Because “Bite Me” relied heavily on tension between the members and the dancers, even small staging revisions changed the emotional tone of the performance. That is why the argument lasted long after the first protests ended.
 
 ## What fans objected to in the partner choreography
@@ -292,7 +300,7 @@ The backlash against the protests became part of the story itself. Instead of a 
 That tension made the “Bite Me” situation feel larger than one comeback. Fans and commentators began discussing whether K-pop companies had created fandom expectations they could no longer manage.
 
 
-<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-2-light.svg" | relative_url }}" alt="Fan protests illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-2-dark.svg" | relative_url }}" alt="Fan protests illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the stages actually changed
 
 The changes to “Bite Me” did not happen in one dramatic announcement. Instead, viewers gradually noticed differences across performances during the promotion cycle.
@@ -321,7 +329,7 @@ The debate also exposed a contradiction inside idol marketing. K-pop agencies of
 Because of that, the controversy lingered long after the comeback cycle ended. Fans still reference “Bite Me” when discussing parasocial fandom behaviour, agency responsiveness and the limits of fan influence over artistic decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditDoes anyone still get embarrassed thinking about the bite...I still get embarrassed thinking about how a part of our fandom litera...</span></span></span>
 
 
-<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-light.svg" | relative_url }}" alt="Fan protests illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-dark.svg" | relative_url }}" alt="Fan protests illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “Bite Me” controversy became a wider K-pop flashpoint
 
 K-pop has seen backup dancer controversies before, but “Bite Me” stood out because the choreography was central to the comeback’s identity rather than a side element. The dancers were woven directly into the song’s vampire-romance concept, so changing the stage altered the meaning of the performance itself.
@@ -334,6 +342,399 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAfJYqR5RNY" title="BITE ME ERA was a mess..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAfJYqR5RNY" target="_blank" rel="noopener noreferrer">BITE ME ERA was a mess...</a></p><p class="youtube-embed-meta">Channel: Wonnieverse &middot; Views: 187.1K &middot; Uploaded: July 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAfJYqR5RNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAfJYqR5RNY">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to How fans changed the Bite Me stage. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0WPsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fangirls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls">Fangirls</a>
+        </h4>
+        <p class="fr-book-author">By Hannah Ewens</p>
+        
+        <p class="fr-book-desc">Directly relevant to fan reactions and organised fandom.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
+        </h4>
+        <p class="fr-book-author">By Stephan Lee</p>
+        
+        <p class="fr-book-desc">Its focus on idol-image tension mirrors the controversy around stage intimacy and fan expectations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
+        </h4>
+        <p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
+        
+        <p class="fr-book-desc">Explores how passionate fan communities influence organisations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Idol, Burning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oPNtEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Idol, Burning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Idol, Burning">Idol, Burning</a>
+        </h4>
+        <p class="fr-book-author">By Rin Usami</p>
+        
+        <p class="fr-book-desc">Explores fan obsession and emotional reactions to idol behaviour and image.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">eBay marketplace picks</p>
+        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+      </div>
+      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+
+      <div class="fr-ebay-market-toolbar">
+        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+        <div class="fr-ebay-market-picker">
+          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+            <span data-ebay-trigger-market-label>USA</span>
+          </button>
+          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+          </select>
+          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Light Stick Case with Strap"><img src="{{ '/assets/images/marketplace-covers/ca53c923d84a39e416f2.jpg' | relative_url }}" alt="Listing image for ENHYPEN Light Stick Case with Strap" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Light Stick Case with Strap</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN lightstick">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN lightstick</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Official Light Stick Ver.2 K-pop Goods +Photocard"><img src="{{ '/assets/images/marketplace-covers/91a6e29e60186ca37925.jpg' | relative_url }}" alt="Listing image for Enhypen Official Light Stick Ver.2 K-pop Goods +Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer">Enhypen Official Light Stick Ver.2 K-pop Goods +Photocard</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN lightstick">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN lightstick</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Version 2 Lightstick Photocards Not Included Official"><img src="{{ '/assets/images/marketplace-covers/87318a02458b6652ee65.jpg' | relative_url }}" alt="Listing image for Enhypen Version 2 Lightstick Photocards Not Included Official" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer">Enhypen Version 2 Lightstick Photocards Not Included Official</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN lightstick">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN lightstick</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN OFFICIAL LIGHT STICK VER.2 KEY RING+GIFT/FANLIGHT MD GOODS K-POP SEALED"><img src="{{ '/assets/images/marketplace-covers/63c0343c03f2d59e1b9c.jpg' | relative_url }}" alt="Listing image for ENHYPEN OFFICIAL LIGHT STICK VER.2 KEY RING+GIFT/FANLIGHT MD GOODS K-POP SEALED" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN OFFICIAL LIGHT STICK VER.2 KEY RING+GIFT/FANLIGHT MD GOODS K-POP SEALED</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN lightstick">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN lightstick</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+      </div>
+      <div class="fr-section-footer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+lightstick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN lightstick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-the-south-korean-band-enhypen-lightstick" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        </a>
+        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+      </div>
+    </div>
+  </div>
+  <script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i < languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i < timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+  <script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket) < 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
 
 ## Endnotes
 
@@ -492,385 +893,3 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
    Link: [https://x.com/Koreaboo/status/1661263258425380865](https://x.com/Koreaboo/status/1661263258425380865)  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Fans Send Protest Trucks To Call For The...24 May 2023 — ENHYPEN Fans Send Protest Trucks To Call For The Removal Of The Choreog...</p></details>
    Published: May 2023  
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How fans changed the Bite Me stage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Croft</p>
-        
-        <p class="fr-book-desc">Covers the wider K-pop industry mechanics, fandom culture, visuals, and performance systems that help explain ENHYPEN’s enduring era-base...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
-        
-        <p class="fr-book-desc">Captures idol training, fandom intensity, image evolution, and entertainment-industry storytelling closely aligned with ENHYPEN’s career...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Jung</p>
-        
-        <p class="fr-book-desc">Explores the pressure, performance identity, and emotional labour behind modern idol eras and fan engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9EAnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Revolution">K-Pop Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
-        
-        <p class="fr-book-desc">Focuses on idol branding, global fandoms, and evolving public personas central to ENHYPEN’s staying power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
-
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Ver.2 Mini Light Stick Keychain Multi-Color LED"><img src="https://i.ebayimg.com/images/g/j0wAAeSwHpNqEWng/s-l225.jpg" alt="Listing image for ENHYPEN Ver.2 Mini Light Stick Keychain Multi-Color LED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Ver.2 Mini Light Stick Keychain Multi-Color LED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN light stick">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN light stick</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [Pre-Order] ENHYPEN Official Character &#x27;ENCHIN&#x27; POP-UP Official Merch."><img src="https://i.ebayimg.com/images/g/BbIAAeSw9fpqBUgw/s-l225.jpg" alt="Listing image for [Pre-Order] ENHYPEN Official Character &#x27;ENCHIN&#x27; POP-UP Official Merch." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer">[Pre-Order] ENHYPEN Official Character &#x27;ENCHIN&#x27; POP-UP Official Merch.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN light stick">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN light stick</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ( Official OFFLINE POP-UP Merch ) ENHYPEN 엔하이픈 Character [ ENCHIN ]"><img src="https://i.ebayimg.com/images/g/9SsAAeSwXSNqBAtY/s-l225.jpg" alt="Listing image for ( Official OFFLINE POP-UP Merch ) ENHYPEN 엔하이픈 Character [ ENCHIN ]" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer">( Official OFFLINE POP-UP Merch ) ENHYPEN 엔하이픈 Character [ ENCHIN ]</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN light stick">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN light stick</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Ver.2 Mini Light Stick Keychain Multi-Color LED"><img src="https://i.ebayimg.com/images/g/Wm4AAeSweQNqEWkh/s-l225.jpg" alt="Listing image for ENHYPEN Ver.2 Mini Light Stick Keychain Multi-Color LED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Ver.2 Mini Light Stick Keychain Multi-Color LED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN light stick">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN light stick</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+light+stick&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN light stick" data-ebay-reference="fan-protests-how-fans-changed-the-bite-me-stage-enhypen-light-stick" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  if (window.PhoenixAffiliateLocation) return;
-  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
-  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferFromLocale() {
-    var languages = [];
-    try {
-      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
-      else if (navigator.language) languages = [navigator.language];
-    } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
-      var normalized = normalize(languages[i]);
-      if (!normalized) continue;
-      if (localeMarketMap[normalized]) return localeMarketMap[normalized];
-      var languageOnly = normalized.split('-')[0];
-      if (localeMarketMap[languageOnly]) return localeMarketMap[languageOnly];
-    }
-    return '';
-  }
-  function inferFromTimezone() {
-    var tz = '';
-    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
-    if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
-      var rule = timezoneRules[i] || {};
-      try {
-        if (new RegExp(rule.pattern).test(tz)) return rule.market;
-      } catch (err) {}
-    }
-    return '';
-  }
-  function inferMarket(available, options) {
-    available = Array.isArray(available) ? available : [];
-    options = options || {};
-    var storageKey = options.storageKey || 'phoenix-affiliate-market';
-    try {
-      var saved = window.localStorage && localStorage.getItem(storageKey);
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var localeMarket = inferFromLocale();
-    if (localeMarket && available.indexOf(localeMarket) >= 0) return localeMarket;
-    var timezoneMarket = inferFromTimezone();
-    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
-    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
-    return available[0] || '';
-  }
-  window.PhoenixAffiliateLocation = {
-    normalize: normalize,
-    inferMarket: inferMarket,
-    inferFromLocale: inferFromLocale,
-    inferFromTimezone: inferFromTimezone
-  };
-})();
-</script>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-localized-links]');
-  if (!sections.length) return;
-  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_US";
-  function encodeQuery(value) {
-    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
-  }
-  function buildUrl(query, reference, marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket];
-    if (!cfg) return '#';
-    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
-    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
-    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
-    var params = [];
-    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
-    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
-    params.push('mkevt=1');
-    params.push('mkcid=1');
-    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
-    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
-    return url + joiner + params.join('&');
-  }
-  function domainLabel(marketId) {
-    var cfg = markets[marketId] || markets[defaultMarket] || {};
-    return cfg.domain_label || 'eBay';
-  }
-  function flagClass(marketId) {
-    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function closeMenu(section) {
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var picker = section.querySelector('.fr-ebay-market-picker');
-    if (menu) menu.hidden = true;
-    if (trigger) trigger.setAttribute('aria-expanded', 'false');
-    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
-  }
-  function availableMarkets(section) {
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      return Array.prototype.slice.call(select.options)
-        .map(function (option) { return option.value; })
-        .filter(function (marketId) { return !!markets[marketId]; });
-    }
-    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
-      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
-      .filter(function (marketId) { return !!markets[marketId]; });
-  }
-  function applyMarket(section, marketId, persist) {
-    var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
-      var query = link.getAttribute('data-ebay-query') || '';
-      var reference = link.getAttribute('data-ebay-reference') || '';
-      link.setAttribute('href', buildUrl(query, reference, marketId));
-    });
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
-    var selectedText = marketId;
-    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
-      flag.className = flagClass(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
-      label.textContent = selectedText;
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
-      label.textContent = domainLabel(marketId);
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
-    });
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      var active = button.getAttribute('data-ebay-market-button') === marketId;
-      button.setAttribute('aria-pressed', active ? 'true' : 'false');
-    });
-    section.setAttribute('data-ebay-selected-market', marketId);
-    if (persist) {
-      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
-    }
-    closeMenu(section);
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-localized-init') === '1') return;
-    section.setAttribute('data-ebay-localized-init', '1');
-    var available = availableMarkets(section);
-    var marketId = defaultMarket;
-    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
-      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
-        storageKey: 'phoenix-ebay-market',
-        defaultMarket: defaultMarket
-      });
-    } else if (available.indexOf(defaultMarket) < 0) {
-      marketId = available[0] || defaultMarket;
-    }
-    var select = section.querySelector('[data-ebay-market-select]');
-    if (select) {
-      select.addEventListener('change', function () {
-        applyMarket(section, select.value, true);
-      });
-    }
-    var trigger = section.querySelector('[data-ebay-market-trigger]');
-    var menu = section.querySelector('[data-ebay-market-menu]');
-    if (trigger && menu) {
-      trigger.addEventListener('click', function (event) {
-        event.stopPropagation();
-        var expanded = trigger.getAttribute('aria-expanded') === 'true';
-        menu.hidden = expanded;
-        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
-        var picker = trigger.closest('.fr-ebay-market-picker');
-        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
-      });
-      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
-        button.addEventListener('click', function (event) {
-          event.stopPropagation();
-          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
-        });
-      });
-      document.addEventListener('click', function () { closeMenu(section); });
-    }
-    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
-      button.addEventListener('click', function () {
-        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    applyMarket(section, marketId, false);
-  });
-})();
-</script>
-</section>

@@ -202,9 +202,11 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-05-27 02:23:03'
 parent_title: Why ENHYPEN's Stages Matter So Much | ENHYPEN
 parent_permalink: /stages/
 parent_nav_short_title: Stages
+parent_heading_title: Why ENHYPEN's Stages Matter So Much
 ancestor_links:
 - basename: Enhypen_the_S_177f17
   title: ENHYPEN
@@ -214,6 +216,7 @@ ancestor_links:
   title: Stages | Why ENHYPEN's Eras Keep Fans Watching
   permalink: /stages/
   short_title: Stages
+  heading_title: Why ENHYPEN's Stages Matter So Much
 breadcrumb_links:
 - basename: Enhypen_the_S_177f17
   title: ENHYPEN
@@ -223,35 +226,40 @@ breadcrumb_links:
   title: Stages | Why ENHYPEN's Eras Keep Fans Watching
   permalink: /stages/
   short_title: Stages
+  heading_title: Why ENHYPEN's Stages Matter So Much
 sibling_links:
 - basename: Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af
   title: Stadium tour | Stages
   permalink: /stadium-tour/
   short_title: Stadium tour
+  heading_title: How WALK THE LINE made ENHYPEN bigger
 child_links:
 - basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef
   title: Fan protests | Bite Me stage
   permalink: /fan-protests/
   short_title: Fan protests
+  heading_title: How fans changed the Bite Me stage
 - basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438
   title: Original staging | Bite Me stage
   permalink: /original-staging/
   short_title: Original staging
+  heading_title: Why the Bite Me partner dance worked
 up_link:
   basename: Enhypen_the_S_177f17_performance_s_a0cafa
   title: Stages | Why ENHYPEN's Eras Keep Fans Watching
   permalink: /stages/
   short_title: Stages
+  heading_title: Why ENHYPEN's Stages Matter So Much
 next_link:
   basename: Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af
   title: Stadium tour | Stages
   permalink: /stadium-tour/
   short_title: Stadium tour
-date: '2026-05-27 02:23:03 '
+  heading_title: How WALK THE LINE made ENHYPEN bigger
 header:
-  og_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-social.png
-  preview_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1.png
-image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-social.png
+  og_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-social.jpg
+  preview_image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1.webp
+image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -259,7 +267,7 @@ image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5
 ENHYPEN’s “Bite Me” era became one of the group’s defining [performance]({{ 'stages/' | relative_url }}) moments not only because the song succeeded commercially, but because the stage itself triggered a major fan argument about intimacy, idol image and choreography as storytelling. The decision to pair the members with female dancers changed how audiences read the song’s dark vampire-romance concept, and the reaction was strong enough that later performances were altered. What might have been a normal staging choice for another act became a wider debate about fan expectations in fourth-generation K-pop. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">In the song&#x27;s music video and stage...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-light.svg" | relative_url }}" alt="Bite Me stage illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-dark.svg" | relative_url }}" alt="Bite Me stage illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For many fans, the controversy also marked a turning point in how ENHYPEN were discussed as performers. “Bite Me” showed that their choreography was no longer being treated as simple visual accompaniment. Fans argued over it because the staging itself had become central to the song’s meaning, mood and identity.
 
 
@@ -298,7 +306,7 @@ That final argument became surprisingly influential. Even fans who disliked the 
 Online discussions reflected how emotionally loaded the topic became. Reddit threads from the period show fans debating not just choreography but ownership, fan entitlement and whether K-pop companies encourage overly possessive fandom culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">my first time listening to the group only to find out there was no problem...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">e really mad about is that the guys are being touched by...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the funniest thing to me about the people</span><span class="citation-popover-snippet">Redditthe funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</span><span class="citation-popover-meta">Published: June 2, 2023</span></span></span>
 
 
-<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-2-light.svg" | relative_url }}" alt="Bite Me stage illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-2-dark.svg" | relative_url }}" alt="Bite Me stage illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The altered stages changed the mood of the song
 
 By mid-2023, alternative versions of the choreography began appearing without the female dancers. One especially discussed performance aired in Japan, where viewers noticed that the partner sections had been reworked. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">enhypen bite performance without female dancers koreans</span><span class="citation-popover-snippet">KoreabooKoreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</span></span></span>
@@ -325,131 +333,7 @@ In retrospect, the debate became part of the era itself. Fans still reference th
 The lasting irony is that the argument may have reinforced the song’s reputation rather than damaged it. “Bite Me” became one of ENHYPEN’s most recognisable stages precisely because fans treated the choreography as meaningful enough to fight over. The debate turned a comeback performance into a wider conversation about concept, intimacy and what audiences expect from idol performance culture. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">EnhypenEnhypen (Korean: 엔하이픈, stylized in all caps) is a South Korean boy band formed by Belift Lab. Formerly a joint venture between...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">otested to get the female dancers removed...</span></span></span>
 
 
-<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-3-light.svg" | relative_url }}" alt="Bite Me stage illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Title: Bite Me (Enhypen song)  
-   Link: [https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29](https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29)  
-
-2. <a id="endnote-2"></a>
-   Source: scmp.com  
-   Title: rabid k pop fans object enhypens bite me backup dancers fleet protest trucks  
-   Link: [https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks](https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the song&#x27;s music video and stage...Read more...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: allkpop.com  
-   Link: [https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me](https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>allkpopENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest...</p></details>
-   Published: May 2023  
-
-4. <a id="endnote-4"></a>
-   Source: Wikipedia  
-   Title: Dark Blood (EP)  
-   Link: [https://en.wikipedia.org/wiki/Dark_Blood_%28EP%29](https://en.wikipedia.org/wiki/Dark_Blood_%28EP%29)  
-
-5. <a id="endnote-5"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=SAsGObLZxjY](https://www.youtube.com/watch?v=SAsGObLZxjY)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Bite Me&#x27; Dance PracticeENHYPEN (엔하이픈) &#x27;Bite Me&#x27; WORLD TOUR &#x27;FATE&#x27; Dance Practice. ENHYPEN &amp;middot; 3M views; ENHYPEN and...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=plNBQI3rNG4](https://www.youtube.com/watch?v=plNBQI3rNG4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ue. 55K views · 2 years ago. #ENHYPEN...more. Jeff Avenue. 294K...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/](https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEnhypens Bite Me choreography looks better with the...August 2, 2023 — The new choreography for Enhypen&#x27;s Bite Me has been release...</p></details>
-   Published: August 2, 2023  
-
-8. <a id="endnote-8"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/](https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>my first time listening to the group only to find out there was no problem...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/](https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e really mad about is that the guys are being touched by...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: reddit.com  
-   Title: the funniest thing to me about the people  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/](https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditthe funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</p></details>
-   Published: June 2, 2023  
-
-11. <a id="endnote-11"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/](https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted towards the company. It got delulus acting like possessive...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/](https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>otested to get the female dancers removed...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: koreaboo.com  
-   Title: enhypen bite performance without female dancers koreans  
-   Link: [https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/](https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KoreabooKoreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: reddit.com  
-   Title: bite me has a new choreo  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/](https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>???: r/Enhypenthoughtsenhypen did a dance jam live today (230711), and they showed us a new choreo for the bite me chorus!!! they remove...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/1gdkn7o/drunkdazed_choreo_and_the_vampire_concept/](https://www.reddit.com/r/Enhypenthoughts/comments/1gdkn7o/drunkdazed_choreo_and_the_vampire_concept/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drunk-Dazed Choreo and the Vampire ConceptDrunk-Dazed Choreo and the Vampire Concept. Appreciation. So ahaha. I... (F3) A lot of Drunk-D...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/](https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who are the female dancers in bite me?: r/enhypenHello! I’m a gg fan mainly but I like some of enhypens songs, I absolutely love the way...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Enhypen](https://en.wikipedia.org/wiki/Enhypen)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenEnhypen (Korean: 엔하이픈, stylized in all caps) is a South Korean boy band formed by Belift Lab. Formerly a joint venture between...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=xoxHVPrjTfU](https://www.youtube.com/watch?v=xoxHVPrjTfU)  
-
-19. <a id="endnote-19"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bvy5Nc5OJUM](https://www.youtube.com/watch?v=bvy5Nc5OJUM)  
-
-20. <a id="endnote-20"></a>
-   Source: youtube.com  
-   Title: HONEST REACTION to [BE ORIGINAL] ENHYPEN(엔하이픈) 'Bite Me' (4K)  
-   Link: [https://www.youtube.com/watch?v=VqmseKrjVLE](https://www.youtube.com/watch?v=VqmseKrjVLE)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 [BE ORIGINAL] ENHYPEN(엔하이픈) &#x27;Bite Me&#x27; (4K)...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: youtube.com  
-   Title: [BE ORIGINAL] ENHYPEN(엔하이픈) 'Bite Me' (4K)  
-   Link: [https://www.youtube.com/watch?v=seSOmL0XBZQ](https://www.youtube.com/watch?v=seSOmL0XBZQ)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 REACTING TO ENHYPEN – BITE ME...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: youtube.com  
-   Title: REACTING TO ENHYPEN – BITE ME  
-   Link: [https://www.youtube.com/watch?v=dV3Fco-9B4w](https://www.youtube.com/watch?v=dV3Fco-9B4w)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 First Reaction to ENHYPEN Bite Me &amp; Sweet Venom | MV + Dance Practice...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: youtube.com  
-   Title: First Reaction to ENHYPEN Bite Me & Sweet Venom | MV + Dance Practice  
-   Link: [https://www.youtube.com/watch?v=td6FoLzT3jA](https://www.youtube.com/watch?v=td6FoLzT3jA)  
+<img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-3-dark.svg" | relative_url }}" alt="Bite Me stage illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -537,7 +421,7 @@ The lasting irony is that the argument may have reinforced the song’s reputati
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -564,76 +448,76 @@ The lasting irony is that the argument may have reinforced the song’s reputati
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Romance : Untold Daydream Jungwon Official Photocard Polaroid PC Japan"><img src="https://i.ebayimg.com/images/g/rZYAAeSwBthpuwUS/s-l225.jpg" alt="Listing image for Enhypen Romance : Untold Daydream Jungwon Official Photocard Polaroid PC Japan" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="{{ '/assets/images/marketplace-covers/d33739545f97b1a09b2c.jpg' | relative_url }}" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen Romance : Untold Daydream Jungwon Official Photocard Polaroid PC Japan</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN photocard</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Desire Unleash Official Heeseung Photocard | POB Weverse Excl"><img src="https://i.ebayimg.com/images/g/GVcAAeSw9fNpAUrM/s-l225.jpg" alt="Listing image for Enhypen Desire Unleash Official Heeseung Photocard | POB Weverse Excl" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop"><img src="{{ '/assets/images/marketplace-covers/459375c3c3c4206993a4.jpg' | relative_url }}" alt="Listing image for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen Desire Unleash Official Heeseung Photocard | POB Weverse Excl</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN photocard</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen The Sin : Vanish Official Photocard Ni-Ki Weverse Album Ver | Kpop Korea"><img src="https://i.ebayimg.com/images/g/bNYAAeSw8nxpl0pS/s-l225.jpg" alt="Listing image for Enhypen The Sin : Vanish Official Photocard Ni-Ki Weverse Album Ver | Kpop Korea" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="{{ '/assets/images/marketplace-covers/a1244e3aad182ef2818e.jpg' | relative_url }}" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen The Sin : Vanish Official Photocard Ni-Ki Weverse Album Ver | Kpop Korea</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN photocard</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen The Sin : Vanish Official Photocard Jungwon Weverse Album Kpop Korea"><img src="https://i.ebayimg.com/images/g/it0AAeSwtchpl02I/s-l225.jpg" alt="Listing image for Enhypen The Sin : Vanish Official Photocard Jungwon Weverse Album Kpop Korea" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="{{ '/assets/images/marketplace-covers/6fc7819c120ebc047ac0.jpg' | relative_url }}" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen The Sin : Vanish Official Photocard Jungwon Weverse Album Kpop Korea</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.com</span>: ENHYPEN photocard</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.com</span>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.com</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="bite-me-stage-why-bite-me-choreography-became-such-a-debate-enhypen-the-south-korean-band-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -647,8 +531,10 @@ The lasting irony is that the argument may have reinforced the song’s reputati
   function normalize(value) {
     return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
   }
-  function inferFromLocale() {
+  function localeMatches() {
     var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
     try {
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
@@ -656,11 +542,18 @@ The lasting irony is that the argument may have reinforced the song’s reputati
     for (var i = 0; i < languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
-      if (localeMarketMap[normalized]) return localeMarketMap[normalized];
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
       var languageOnly = normalized.split('-')[0];
-      if (localeMarketMap[languageOnly]) return localeMarketMap[languageOnly];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
     }
-    return '';
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
   }
   function inferFromTimezone() {
     var tz = '';
@@ -682,10 +575,11 @@ The lasting irony is that the argument may have reinforced the song’s reputati
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarket = inferFromLocale();
-    if (localeMarket && available.indexOf(localeMarket) >= 0) return localeMarket;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
   }
@@ -702,7 +596,7 @@ The lasting irony is that the argument may have reinforced the song’s reputati
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_US";
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -832,3 +726,128 @@ The lasting irony is that the argument may have reinforced the song’s reputati
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Bite Me (Enhypen song)  
+   Link: [https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29](https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29)  
+
+2. <a id="endnote-2"></a>
+   Source: scmp.com  
+   Title: rabid k pop fans object enhypens bite me backup dancers fleet protest trucks  
+   Link: [https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks](https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the song&#x27;s music video and stage...Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: allkpop.com  
+   Link: [https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me](https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>allkpopENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest...</p></details>
+   Published: May 2023  
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Dark Blood (EP)  
+   Link: [https://en.wikipedia.org/wiki/Dark_Blood_%28EP%29](https://en.wikipedia.org/wiki/Dark_Blood_%28EP%29)  
+
+5. <a id="endnote-5"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=SAsGObLZxjY](https://www.youtube.com/watch?v=SAsGObLZxjY)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Bite Me&#x27; Dance PracticeENHYPEN (엔하이픈) &#x27;Bite Me&#x27; WORLD TOUR &#x27;FATE&#x27; Dance Practice. ENHYPEN &amp;middot; 3M views; ENHYPEN and...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=plNBQI3rNG4](https://www.youtube.com/watch?v=plNBQI3rNG4)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ue. 55K views · 2 years ago. #ENHYPEN...more. Jeff Avenue. 294K...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/](https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEnhypens Bite Me choreography looks better with the...August 2, 2023 — The new choreography for Enhypen&#x27;s Bite Me has been release...</p></details>
+   Published: August 2, 2023  
+
+8. <a id="endnote-8"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/](https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>my first time listening to the group only to find out there was no problem...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/](https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>e really mad about is that the guys are being touched by...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: reddit.com  
+   Title: the funniest thing to me about the people  
+   Link: [https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/](https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditthe funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</p></details>
+   Published: June 2, 2023  
+
+11. <a id="endnote-11"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/](https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ted towards the company. It got delulus acting like possessive...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/](https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>otested to get the female dancers removed...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: koreaboo.com  
+   Title: enhypen bite performance without female dancers koreans  
+   Link: [https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/](https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>KoreabooKoreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: reddit.com  
+   Title: bite me has a new choreo  
+   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/](https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>???: r/Enhypenthoughtsenhypen did a dance jam live today (230711), and they showed us a new choreo for the bite me chorus!!! they remove...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/1gdkn7o/drunkdazed_choreo_and_the_vampire_concept/](https://www.reddit.com/r/Enhypenthoughts/comments/1gdkn7o/drunkdazed_choreo_and_the_vampire_concept/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drunk-Dazed Choreo and the Vampire ConceptDrunk-Dazed Choreo and the Vampire Concept. Appreciation. So ahaha. I... (F3) A lot of Drunk-D...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/](https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who are the female dancers in bite me?: r/enhypenHello! I’m a gg fan mainly but I like some of enhypens songs, I absolutely love the way...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Enhypen](https://en.wikipedia.org/wiki/Enhypen)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenEnhypen (Korean: 엔하이픈, stylized in all caps) is a South Korean boy band formed by Belift Lab. Formerly a joint venture between...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=xoxHVPrjTfU](https://www.youtube.com/watch?v=xoxHVPrjTfU)  
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=bvy5Nc5OJUM](https://www.youtube.com/watch?v=bvy5Nc5OJUM)  
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: HONEST REACTION to [BE ORIGINAL] ENHYPEN(엔하이픈) 'Bite Me' (4K)  
+   Link: [https://www.youtube.com/watch?v=VqmseKrjVLE](https://www.youtube.com/watch?v=VqmseKrjVLE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 [BE ORIGINAL] ENHYPEN(엔하이픈) &#x27;Bite Me&#x27; (4K)...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: [BE ORIGINAL] ENHYPEN(엔하이픈) 'Bite Me' (4K)  
+   Link: [https://www.youtube.com/watch?v=seSOmL0XBZQ](https://www.youtube.com/watch?v=seSOmL0XBZQ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 REACTING TO ENHYPEN – BITE ME...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: youtube.com  
+   Title: REACTING TO ENHYPEN – BITE ME  
+   Link: [https://www.youtube.com/watch?v=dV3Fco-9B4w](https://www.youtube.com/watch?v=dV3Fco-9B4w)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 First Reaction to ENHYPEN Bite Me &amp; Sweet Venom | MV + Dance Practice...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: youtube.com  
+   Title: First Reaction to ENHYPEN Bite Me & Sweet Venom | MV + Dance Practice  
+   Link: [https://www.youtube.com/watch?v=td6FoLzT3jA](https://www.youtube.com/watch?v=td6FoLzT3jA)  
