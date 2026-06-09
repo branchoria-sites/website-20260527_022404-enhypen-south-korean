@@ -462,15 +462,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen - Desire:Unleash Album Poster A"><img src="{{ '/assets/images/marketplace-covers/ac98fb1e0ad1e9fc2cce.jpg' | relative_url }}" alt="Listing image for Enhypen - Desire:Unleash Album Poster A" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="https://i.ebayimg.com/images/g/fugAAeSwvb1p2N4s/s-l225.jpg" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Enhypen - Desire:Unleash Album Poster A</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +478,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Poster [10P Pack] (A4 Size) K-POP 2026.01"><img src="{{ '/assets/images/marketplace-covers/093e83273fb50390ab21.jpg' | relative_url }}" alt="Listing image for ENHYPEN Poster [10P Pack] (A4 Size) K-POP 2026.01" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Poster [10P Pack] (A4 Size) K-POP 2026.01</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +494,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN VR CONCERT IMMERsiON Vol. 2 Limited Poster"><img src="{{ '/assets/images/marketplace-covers/8ec9147074c71ab55bbd.jpg' | relative_url }}" alt="Listing image for ENHYPEN VR CONCERT IMMERsiON Vol. 2 Limited Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Fate Hoodie Size XL Band Tour"><img src="https://i.ebayimg.com/images/g/iKEAAeSwj~VpnbUA/s-l225.jpg" alt="Listing image for Enhypen Fate Hoodie Size XL Band Tour" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN VR CONCERT IMMERsiON Vol. 2 Limited Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">Enhypen Fate Hoodie Size XL Band Tour</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +510,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Heeseung Heeseung poster UNSEEN exhibition Korea"><img src="{{ '/assets/images/marketplace-covers/83047998677938a13fa0.jpg' | relative_url }}" alt="Listing image for ENHYPEN Heeseung Heeseung poster UNSEEN exhibition Korea" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop"><img src="https://i.ebayimg.com/images/g/lEYAAeSwPABp-WIe/s-l225.jpg" alt="Listing image for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Heeseung Heeseung poster UNSEEN exhibition Korea</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +526,7 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="pair-work-how-pair-work-changes-enhypen-s-stage-picture-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,165 +736,164 @@ In that sense, pair formations are not a compromise. They are the mechanism that
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/34159](https://weverse.io/enhypen/notice/34159)  
+   Link: <a href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/34159</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse[NOTICE] ENHYPEN&#x27;s Future ActivitiesAs such, HEESEUNG will be parting ways with ENHYPEN, and ENHYPEN will continue official activi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Choreography](https://en.wikipedia.org/wiki/Choreography)  
+   Link: <a href="https://en.wikipedia.org/wiki/Choreography" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Choreography</a>  
 
 3. <a id="endnote-3"></a>
    Source: creativesteps.co  
    Title: Dance Glossary  
-   Link: [https://creativesteps.co/dance-glossary/](https://creativesteps.co/dance-glossary/)  
+   Link: <a href="https://creativesteps.co/dance-glossary/" target="_blank" rel="noopener noreferrer nofollow">https://creativesteps.co/dance-glossary/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Creative StepsCanon: when movements overlap in time, usually one dancer starts the sequence and another dancer starts a few seconds later...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Studio Choom  
-   Link: [https://en.wikipedia.org/wiki/Studio_Choom](https://en.wikipedia.org/wiki/Studio_Choom)  
+   Link: <a href="https://en.wikipedia.org/wiki/Studio_Choom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Studio_Choom</a>  
 
 5. <a id="endnote-5"></a>
    Source: magazine.weverse.io  
-   Link: [https://magazine.weverse.io/article/view?lang=en&num=467&ref=](https://magazine.weverse.io/article/view?lang=en&num=467&ref=)  
+   Link: <a href="https://magazine.weverse.io/article/view?lang=en&amp;num=467&amp;ref=" target="_blank" rel="noopener noreferrer nofollow">https://magazine.weverse.io/article/view?lang=en&amp;num=467&amp;ref=</a>  
 
 6. <a id="endnote-6"></a>
    Source: weverse.io  
    Title: ENHYPEN (엔하이픈) 'Bite Me' Dance Practice  
-   Link: [https://weverse.io/enhypen/media/0-119786350?hl=es](https://weverse.io/enhypen/media/0-119786350?hl=es)  
+   Link: <a href="https://weverse.io/enhypen/media/0-119786350?hl=es" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/0-119786350?hl=es</a>  
 
 7. <a id="endnote-7"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/3-125947302](https://weverse.io/enhypen/media/3-125947302)  
+   Link: <a href="https://weverse.io/enhypen/media/3-125947302" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/3-125947302</a>  
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Bite Me (Enhypen song)  
-   Link: [https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29](https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bite_Me_%28Enhypen_song%29</a>  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Choreo Vis: Planning and Assessing Formations in Dance Choreographies  
-   Link: [https://arxiv.org/abs/2404.04100](https://arxiv.org/abs/2404.04100)  
+   Link: <a href="https://arxiv.org/abs/2404.04100" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.04100</a>  
 
 10. <a id="endnote-10"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/34925](https://weverse.io/enhypen/notice/34925)  
+   Link: <a href="https://weverse.io/enhypen/notice/34925" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/34925</a>  
 
 11. <a id="endnote-11"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/0-105451735](https://weverse.io/enhypen/media/0-105451735)  
+   Link: <a href="https://weverse.io/enhypen/media/0-105451735" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/0-105451735</a>  
 
 12. <a id="endnote-12"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/26311](https://weverse.io/enhypen/notice/26311)  
+   Link: <a href="https://weverse.io/enhypen/notice/26311" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/26311</a>  
 
 13. <a id="endnote-13"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/0-119786350](https://weverse.io/enhypen/media/0-119786350)  
+   Link: <a href="https://weverse.io/enhypen/media/0-119786350" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/0-119786350</a>  
 
 14. <a id="endnote-14"></a>
    Source: magazine.weverse.io  
-   Link: [https://magazine.weverse.io/article/view/740?artist=ENHYPEN&lang=e](https://magazine.weverse.io/article/view/740?artist=ENHYPEN&lang=e)  
+   Link: <a href="https://magazine.weverse.io/article/view/740?artist=ENHYPEN&amp;lang=e" target="_blank" rel="noopener noreferrer nofollow">https://magazine.weverse.io/article/view/740?artist=ENHYPEN&amp;lang=e</a>  
 
 15. <a id="endnote-15"></a>
    Source: magazine.weverse.io  
-   Link: [https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&lang=ko%3Cbr%3E%EB%8F%84%EC%9B%80%EB%90%A0%EC%A7%80](https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&lang=ko%3Cbr%3E%EB%8F%84%EC%9B%80%EB%90%A0%EC%A7%80)  
+   Link: <a href="https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&amp;lang=ko%3Cbr%3E%EB%8F%84%EC%9B%80%EB%90%A0%EC%A7%80" target="_blank" rel="noopener noreferrer nofollow">https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&amp;lang=ko%3Cbr%3E%EB%8F%84%EC%9B%80%EB%90%A0%EC%A7%80</a>  
 
 16. <a id="endnote-16"></a>
    Source: weverse.io  
    Title: [EPISODE] 'Bite Me' MV Shoot Sketch  
-   Link: [https://weverse.io/enhypen/media/0-119518576](https://weverse.io/enhypen/media/0-119518576)  
+   Link: <a href="https://weverse.io/enhypen/media/0-119518576" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/0-119518576</a>  
 
 17. <a id="endnote-17"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/0-145137672](https://weverse.io/enhypen/media/0-145137672)  
+   Link: <a href="https://weverse.io/enhypen/media/0-145137672" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/0-145137672</a>  
 
 18. <a id="endnote-18"></a>
    Source: magazine.weverse.io  
-   Link: [https://magazine.weverse.io/article/view/1271?artist=ENHYPEN&lang=es](https://magazine.weverse.io/article/view/1271?artist=ENHYPEN&lang=es)  
+   Link: <a href="https://magazine.weverse.io/article/view/1271?artist=ENHYPEN&amp;lang=es" target="_blank" rel="noopener noreferrer nofollow">https://magazine.weverse.io/article/view/1271?artist=ENHYPEN&amp;lang=es</a>  
 
 19. <a id="endnote-19"></a>
    Source: weverse.io  
    Title: ENHYPEN Media  
-   Link: [https://weverse.io/enhypen/media/2-119485731](https://weverse.io/enhypen/media/2-119485731)  
+   Link: <a href="https://weverse.io/enhypen/media/2-119485731" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/2-119485731</a>  
 
 20. <a id="endnote-20"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/0-2473477](https://weverse.io/enhypen/media/0-2473477)  
+   Link: <a href="https://weverse.io/enhypen/media/0-2473477" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/0-2473477</a>  
 
 21. <a id="endnote-21"></a>
    Source: weverse.io  
    Title: ENHYPE N Media  
-   Link: [https://weverse.io/enhypen/media/4-106794826](https://weverse.io/enhypen/media/4-106794826)  
+   Link: <a href="https://weverse.io/enhypen/media/4-106794826" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/4-106794826</a>  
 
 22. <a id="endnote-22"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/2-8844615](https://weverse.io/enhypen/media/2-8844615)  
+   Link: <a href="https://weverse.io/enhypen/media/2-8844615" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/2-8844615</a>  
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/C3AGcPWyxGm/](https://www.instagram.com/reel/C3AGcPWyxGm/)  
+   Link: <a href="https://www.instagram.com/reel/C3AGcPWyxGm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/C3AGcPWyxGm/</a>  
 
 24. <a id="endnote-24"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/CyRI7hdMPid/?hl=en-gb](https://www.instagram.com/reel/CyRI7hdMPid/?hl=en-gb)  
+   Link: <a href="https://www.instagram.com/reel/CyRI7hdMPid/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/CyRI7hdMPid/?hl=en-gb</a>  
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/3573265256258374/posts/4218764888375071/](https://www.facebook.com/groups/3573265256258374/posts/4218764888375071/)  
+   Link: <a href="https://www.facebook.com/groups/3573265256258374/posts/4218764888375071/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3573265256258374/posts/4218764888375071/</a>  
 
 26. <a id="endnote-26"></a>
    Source: aqa.org.uk  
-   Link: [https://www.aqa.org.uk/subjects/dance/gcse/dance-8236/specification/subject-content/choreography](https://www.aqa.org.uk/subjects/dance/gcse/dance-8236/specification/subject-content/choreography)  
+   Link: <a href="https://www.aqa.org.uk/subjects/dance/gcse/dance-8236/specification/subject-content/choreography" target="_blank" rel="noopener noreferrer nofollow">https://www.aqa.org.uk/subjects/dance/gcse/dance-8236/specification/subject-content/choreography</a>  
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: en.yna.co.kr  
-   Link: [https://en.yna.co.kr/view/AEN20260310008800315](https://en.yna.co.kr/view/AEN20260310008800315)  
+   Link: <a href="https://en.yna.co.kr/view/AEN20260310008800315" target="_blank" rel="noopener noreferrer nofollow">https://en.yna.co.kr/view/AEN20260310008800315</a>  
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) ‘Bad Desire (With or Without You)’ Dance Practice  
-   Link: [http://www.youtube.com/watch?v=qhgYrr_3zhE](http://www.youtube.com/watch?v=qhgYrr_3zhE)  
+   Link: <a href="http://www.youtube.com/watch?v=qhgYrr_3zhE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qhgYrr_3zhE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN(엔하이픈) &#x27;Bad Desire (With or Without You)&#x27; (4K) | STUDIO CHOOM ORIGINAL...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) ‘No Doubt’ Dance Practice  
-   Link: [http://www.youtube.com/watch?v=AkioZY59-DA](http://www.youtube.com/watch?v=AkioZY59-DA)  
+   Link: <a href="http://www.youtube.com/watch?v=AkioZY59-DA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=AkioZY59-DA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN dance practice choreography pair formation ENHYPEN (엔하이픈) &#x27;Outside&#x27; Dance Practice ENHYPEN...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/381323807_ChoreoVis_Planning_and_Assessing_Formations_in_Dance_Choreographies](https://www.researchgate.net/publication/381323807_ChoreoVis_Planning_and_Assessing_Formations_in_Dance_Choreographies)  
+   Link: <a href="https://www.researchgate.net/publication/381323807_ChoreoVis_Planning_and_Assessing_Formations_in_Dance_Choreographies" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381323807_ChoreoVis_Planning_and_Assessing_Formations_in_Dance_Choreographies</a>  
 
 31. <a id="endnote-31"></a>
    Source: blended-learning.resources.wjec.co.uk  
-   Link: [https://blended-learning.resources.wjec.co.uk/en/mfw25-26_28-6/2/7](https://blended-learning.resources.wjec.co.uk/en/mfw25-26_28-6/2/7)  
+   Link: <a href="https://blended-learning.resources.wjec.co.uk/en/mfw25-26_28-6/2/7" target="_blank" rel="noopener noreferrer nofollow">https://blended-learning.resources.wjec.co.uk/en/mfw25-26_28-6/2/7</a>  
 
 32. <a id="endnote-32"></a>
    Source: soompi.com  
-   Link: [https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group](https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group)  
+   Link: <a href="https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group</a>  
 
 33. <a id="endnote-33"></a>
    Source: dhcn.cn  
-   Link: [https://www.dhcn.cn/columns/14254.html](https://www.dhcn.cn/columns/14254.html)  
+   Link: <a href="https://www.dhcn.cn/columns/14254.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dhcn.cn/columns/14254.html</a>  
 
 34. <a id="endnote-34"></a>
    Source: x.com  
-   Link: [https://x.com/PRODBYENGENE/status/1516783074289524737](https://x.com/PRODBYENGENE/status/1516783074289524737)  
+   Link: <a href="https://x.com/PRODBYENGENE/status/1516783074289524737" target="_blank" rel="noopener noreferrer nofollow">https://x.com/PRODBYENGENE/status/1516783074289524737</a>  
 
 35. <a id="endnote-35"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/](https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/)  
+   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/</a>  
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/](https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/</a>  

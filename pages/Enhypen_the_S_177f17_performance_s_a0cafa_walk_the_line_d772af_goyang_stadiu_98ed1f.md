@@ -291,7 +291,7 @@ The tour routing reinforced that message. Official announcements positioned Goya
 
 The hardest challenge in a stadium concert is visibility. Arena choreography is designed for controlled sightlines and relatively close viewing angles. In a stadium, performers can become tiny figures unless the entire production is rebuilt around scale.
 
-Fan accounts from Goyang repeatedly focused on how the extended stage sections changed the experience. Rather than relying on one main platform, WALK THE LINE used multiple extensions and performance zones that pushed activity deeper into the venue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Redditr/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span> This mattered because ENHYPEN’s performances rely heavily on synchronisation and shifting formations. A static front-facing setup would have flattened that energy for distant seats.
+Fan accounts from Goyang repeatedly focused on how the extended stage sections changed the experience. Rather than relying on one main platform, WALK THE LINE used multiple extensions and performance zones that pushed activity deeper into the venue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span> This mattered because ENHYPEN’s performances rely heavily on synchronisation and shifting formations. A static front-facing setup would have flattened that energy for distant seats.
 
 The stage design therefore prioritised circulation. Members constantly rotated between the main stage, forward thrust sections and secondary areas. Fans seated far from the centre still experienced moments where the performance physically moved toward them rather than remaining trapped beneath the primary LED wall.
 
@@ -307,7 +307,7 @@ That movement solved several problems at once:
 
 </div>
 
-The visual scale of the production also expanded noticeably compared with earlier tours. Fans described large moving LED structures and extensive screen usage that helped magnify details which would otherwise disappear in a stadium setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">There were</span><span class="citation-popover-snippet">RedditWalk the Line Experience – Member Impressions: r/enhypenMarch 2, 2025 — Even though it was a one-day concert, the stage design was...</span><span class="citation-popover-meta">Published: March 2, 2025</span></span></span> The production did not abandon ENHYPEN’s choreography-first identity, but it supplemented it with more architectural staging.
+The visual scale of the production also expanded noticeably compared with earlier tours. Fans described large moving LED structures and extensive screen usage that helped magnify details which would otherwise disappear in a stadium setting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">There were</span><span class="citation-popover-snippet">Walk the Line Experience – Member Impressions: r/enhypenMarch 2, 2025 — Even though it was a one-day concert, the stage design was...</span><span class="citation-popover-meta">Published: March 2, 2025</span></span></span> The production did not abandon ENHYPEN’s choreography-first identity, but it supplemented it with more architectural staging.
 
 That balance was important. Some acts solve stadium distance by simplifying performances into broad gestures and crowd singalongs. ENHYPEN instead tried to preserve the sharpness of their choreography while enlarging the visual frame around it.
 
@@ -325,7 +325,7 @@ In arenas, fans often experience ENHYPEN through close-up detail: facial express
 
 The audience experience also became more collective. In smaller venues, fans often focus on their immediate viewing angle or individual member interactions. In Goyang, the visual effect of thousands of synchronised light sticks and crowd chants became part of the performance itself. Korea JoongAng Daily’s coverage highlighted the sheer size of the crowd environment around the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span>
 
-At the same time, the concerts revealed the trade-offs of stadium touring. Some online fan discussions noted uneven seat filling in upper sections and debated whether the venue size had been too ambitious for the moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Redditattendance of enhypens &#x27;walk the line&#x27; concertOctober 6, 2024 — There were over ten thousand tickets for enhypens concert available...</span><span class="citation-popover-meta">Published: October 6, 2024</span></span></span> Yet even those conversations reinforced the larger point: ENHYPEN had entered a new category of touring scrutiny. Stadium acts are judged not only on performance quality but also on how convincingly they can command massive spaces.
+At the same time, the concerts revealed the trade-offs of stadium touring. Some online fan discussions noted uneven seat filling in upper sections and debated whether the venue size had been too ambitious for the moment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">attendance of enhypens &#x27;walk the line&#x27; concertOctober 6, 2024 — There were over ten thousand tickets for enhypens concert available...</span><span class="citation-popover-meta">Published: October 6, 2024</span></span></span> Yet even those conversations reinforced the larger point: ENHYPEN had entered a new category of touring scrutiny. Stadium acts are judged not only on performance quality but also on how convincingly they can command massive spaces.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2fZkWBHhWaw" title="XO + Paranormal Love - ENHYPEN WALK THE LINE GOYANG FANCAM LIVE PERFORMANCE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2fZkWBHhWaw" target="_blank" rel="noopener noreferrer">XO + Paranormal Love - ENHYPEN WALK THE LINE GOYANG FANCAM LIVE PERFORMANCE</a></p><p class="youtube-embed-meta">Channel: AtotheJOne97 &middot; Views: 83.4K &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2fZkWBHhWaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2fZkWBHhWaw">Open on YouTube</a></p></div></div></div>
@@ -460,15 +460,15 @@ That is why the Goyang opening remains important inside the broader history of W
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JAKE Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic"><img src="{{ '/assets/images/marketplace-covers/6079de5a5cc558b714e8.jpg' | relative_url }}" alt="Listing image for JAKE Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Fate Hoodie Size XL Band Tour"><img src="https://i.ebayimg.com/images/g/iKEAAeSwj~VpnbUA/s-l225.jpg" alt="Listing image for Enhypen Fate Hoodie Size XL Band Tour" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">JAKE Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">Enhypen Fate Hoodie Size XL Band Tour</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -476,15 +476,15 @@ That is why the Goyang opening remains important inside the broader history of W
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JAKE Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic"><img src="{{ '/assets/images/marketplace-covers/cd8e5f019151d6b29eb3.jpg' | relative_url }}" alt="Listing image for JAKE Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">JAKE Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -492,15 +492,15 @@ That is why the Goyang opening remains important inside the broader history of W
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WALK THE LINE Japan Summer Tour Jake Poster"><img src="{{ '/assets/images/marketplace-covers/86b91a4002ee20aa95b8.jpg' | relative_url }}" alt="Listing image for ENHYPEN WALK THE LINE Japan Summer Tour Jake Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="https://i.ebayimg.com/images/g/fugAAeSwvb1p2N4s/s-l225.jpg" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WALK THE LINE Japan Summer Tour Jake Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -508,15 +508,15 @@ That is why the Goyang opening remains important inside the broader history of W
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for JUNGWON Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic"><img src="{{ '/assets/images/marketplace-covers/3b7e1cfbb2bad7aebb0f.jpg' | relative_url }}" alt="Listing image for JUNGWON Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="https://i.ebayimg.com/images/g/zWAAAeSwJfBp5lX6/s-l225.jpg" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">JUNGWON Enhypen Folded Poster World Tour Blood SAGA In Seoul Official Authentic</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN tour poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN tour poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -524,7 +524,7 @@ That is why the Goyang opening remains important inside the broader history of W
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+tour+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN tour poster -book -books" data-ebay-reference="goyang-launch-why-goyang-stadium-changed-the-tour-enhypen-the-south-korean-band-enhypen-tour-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-goyang-stadium-changed-the-tour-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-goyang-stadium-changed-the-tour-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -734,170 +734,169 @@ That is why the Goyang opening remains important inside the broader history of W
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: weverse.io  
    Title: ENHYPEN WORLD TOUR 'WALK THE LINE' IN GOYANG When  
-   Link: [https://weverse.io/enhypen/notice/21925](https://weverse.io/enhypen/notice/21925)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WeverseENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANG When...</p></details>
+   Link: <a href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/21925</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANG When...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: world.nol.com  
-   Link: [https://world.nol.com/en/ticket/places/24001009/products/24011847](https://world.nol.com/en/ticket/places/24001009/products/24011847)  
+   Link: <a href="https://world.nol.com/en/ticket/places/24001009/products/24011847" target="_blank" rel="noopener noreferrer nofollow">https://world.nol.com/en/ticket/places/24001009/products/24011847</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANGENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANG. Date/Time: Oct 05, 2024 - Oct 06, 2024; Genre: Concert...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/](https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditr/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</p></details>
    Published: January 4, 2025  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
    Title: There were  
-   Link: [https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/](https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWalk the Line Experience – Member Impressions: r/enhypenMarch 2, 2025 — Even though it was a one-day concert, the stage design was...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Walk the Line Experience – Member Impressions: r/enhypenMarch 2, 2025 — Even though it was a one-day concert, the stage design was...</p></details>
    Published: March 2, 2025  
 
 5. <a id="endnote-5"></a>
    Source: setlist.fm  
    Title: goyang stadium goyang si south korea 4b5223de  
-   Link: [https://www.setlist.fm/setlist/enhypen/2024/goyang-stadium-goyang-si-south-korea-4b5223de.html](https://www.setlist.fm/setlist/enhypen/2024/goyang-stadium-goyang-si-south-korea-4b5223de.html)  
+   Link: <a href="https://www.setlist.fm/setlist/enhypen/2024/goyang-stadium-goyang-si-south-korea-4b5223de.html" target="_blank" rel="noopener noreferrer nofollow">https://www.setlist.fm/setlist/enhypen/2024/goyang-stadium-goyang-si-south-korea-4b5223de.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Setlist at Goyang Stadium, Goyang-siOct 6, 2024 — Get the ENHYPEN Setlist of the concert at Goyang Stadium, Goyang-si, South Kore...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: people.com  
-   Link: [https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620](https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620)  
+   Link: <a href="https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620" target="_blank" rel="noopener noreferrer nofollow">https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Notably, Jay played electric guitar on “Blessed-Cursed” and Heeseung introduced “XO” on piano. The evening’s surprise encore, a second pe...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/](https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditattendance of enhypens &#x27;walk the line&#x27; concertOctober 6, 2024 — There were over ten thousand tickets for enhypens concert available...</p></details>
+   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>attendance of enhypens &#x27;walk the line&#x27; concertOctober 6, 2024 — There were over ten thousand tickets for enhypens concert available...</p></details>
    Published: October 6, 2024  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/1f6xxm2/240902_notice_enhypen_world_tour_walk_the_line_in/](https://www.reddit.com/r/enhypen/comments/1f6xxm2/240902_notice_enhypen_world_tour_walk_the_line_in/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1f6xxm2/240902_notice_enhypen_world_tour_walk_the_line_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1f6xxm2/240902_notice_enhypen_world_tour_walk_the_line_in/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>240902 [NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE...It&#x27;s really sad that tours are supposed to be for both artist and fan to enjoy some time...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/](https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rules of K-pop · r/kpopthoughts. •. The fan reaction...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
    Title: 250402 enhypen world tour walk the line in goyang  
-   Link: [https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/](https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>250402 ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...The design of the physical contents looks so cool though! But also doesn&#x27;t remind me at a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: 250402 enhypen world tour walk the line in goyang  
-   Link: [https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/?tl=fr](https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/?tl=fr)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/?tl=fr" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1joy0dg/250402_enhypen_world_tour_walk_the_line_in_goyang/?tl=fr</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>250402 ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; À...250402 ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; À GOYANG... r/enhypen - 250214 Twitter: ENHYPE...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpop/comments/1f6wmap/enhypen_enhypen_world_tour_walk_the_line_in/](https://www.reddit.com/r/kpop/comments/1f6wmap/enhypen_enhypen_world_tour_walk_the_line_in/)  
+   Link: <a href="https://www.reddit.com/r/kpop/comments/1f6wmap/enhypen_enhypen_world_tour_walk_the_line_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1f6wmap/enhypen_enhypen_world_tour_walk_the_line_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN WORLD TOUR: &#x27;WALK THE LINE&#x27; IN GOYANG...This is such a ridiculous tour. Belift literally milking enhypen in front of everyone an...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/22709](https://weverse.io/enhypen/notice/22709)  
+   Link: <a href="https://weverse.io/enhypen/notice/22709" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/22709</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[NOTICE] On-Site Sales of ENHYPEN WORLD3 Oct 2024 — 1) Official Merchandise On-Site Pickup Booth (Weverse PICKUP BOOTH) * Sales Date/Time...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/4-196076090](https://weverse.io/enhypen/media/4-196076090)  
+   Link: <a href="https://weverse.io/enhypen/media/4-196076090" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/4-196076090</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PREVIEW] ENHYPEN WORLD TOUR &#x27;WALK THE LINE...7 Apr 2025 — ENHYPEN WORLD TOUR &quot;WALK THE LINE&quot; IN GOYANG ENHYPEN rocks global ENGENE with...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/26097](https://weverse.io/enhypen/notice/26097)  
+   Link: <a href="https://weverse.io/enhypen/notice/26097" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/26097</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Feel the energy of ENHYPEN&#x27;s third world tour ENHYPEN WORLD TOUR &#x27;WALK...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/media/2-158265921](https://weverse.io/enhypen/media/2-158265921)  
+   Link: <a href="https://weverse.io/enhypen/media/2-158265921" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/2-158265921</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANG24 Apr 2025 — ENHYPEN WORLD TOUR &quot;WALK THE LINE&quot; IN GOYANG ENHYPEN rocks global ENGENE with t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/21950](https://weverse.io/enhypen/notice/21950)  
+   Link: <a href="https://weverse.io/enhypen/notice/21950" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/21950</a>  
 
 18. <a id="endnote-18"></a>
    Source: koreajoongangdaily.joins.com  
    Title: 5 and 6.Read more  
-   Link: [https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676](https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676)  
+   Link: <a href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bmostadium.com  
    Title: BMO Stadium ENHYPEN ANNOUNCE DATES & VENUES FOR U.S  
-   Link: [https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/](https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/)  
+   Link: <a href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow">https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;...Prior to their arrival in the U.S. and Europe, &#x27;WALK THE LINE&#x27; took off with the band&#x27;s first Korean stadium show at Goyang Stadium...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: ebay.co.uk  
-   Link: [https://www.ebay.co.uk/itm/236044903076](https://www.ebay.co.uk/itm/236044903076)  
+   Link: <a href="https://www.ebay.co.uk/itm/236044903076" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/236044903076</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse: 7 Photo Tickets. Digital Code is NOT a physical CD. It is a music kit that allows you to...</p></details>
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/](https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANG...ENHYPEN announces their 3rd World Tour &#x27;WALK THE LINE&#x27;, starting with a 2-day show in Goy...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-sunoo-pre-order-250404-1800%E3%85%A3fri%E3%85%A3kst-r/1184488226807200/](https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-sunoo-pre-order-250404-1800%E3%85%A3fri%E3%85%A3kst-r/1184488226807200/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-sunoo-pre-order-250404-1800%E3%85%A3fri%E3%85%A3kst-r/1184488226807200/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-sunoo-pre-order-250404-1800%E3%85%A3fri%E3%85%A3kst-r/1184488226807200/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN GOYANG...WTS/LFB Enhypen World Tour: &quot;Walk the Line&quot; in Goyang Private Online Streaming: October...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/philippineconcerts/posts/enhypen-kicks-off-its-new-world-tour-walk-the-line-on-october-5-and-6-at-the-goy/1063984311787347/](https://www.facebook.com/philippineconcerts/posts/enhypen-kicks-off-its-new-world-tour-walk-the-line-on-october-5-and-6-at-the-goy/1063984311787347/)  
+   Link: <a href="https://www.facebook.com/philippineconcerts/posts/enhypen-kicks-off-its-new-world-tour-walk-the-line-on-october-5-and-6-at-the-goy/1063984311787347/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/philippineconcerts/posts/enhypen-kicks-off-its-new-world-tour-walk-the-line-on-october-5-and-6-at-the-goy/1063984311787347/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN kicks off its new world tour, WALK THE LINE, on...WHAT: ENHYPEN WALK THE LINE in GOYANG - Live Streaming Day 1 WHEN: October 5...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: soompi.com  
-   Link: [https://www.soompi.com/article/1693006wpp/exclusive-enhypen-brings-on-the-charm-as-they-kick-start-their-walk-the-line-world-tour-at-goyang-stadium](https://www.soompi.com/article/1693006wpp/exclusive-enhypen-brings-on-the-charm-as-they-kick-start-their-walk-the-line-world-tour-at-goyang-stadium)  
+   Link: <a href="https://www.soompi.com/article/1693006wpp/exclusive-enhypen-brings-on-the-charm-as-they-kick-start-their-walk-the-line-world-tour-at-goyang-stadium" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1693006wpp/exclusive-enhypen-brings-on-the-charm-as-they-kick-start-their-walk-the-line-world-tour-at-goyang-stadium</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Exclusive: ENHYPEN Brings On The Charm As They Kick-...6 Oct 2024 — On October 5 and 6, ENHYPEN heralded the start of their third world...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/](https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PREVIEW] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...WHAT: ENHYPEN WALK THE LINE in GOYANG - Live Streaming Day 1 WHEN: October 5, 2024 - S...</p></details>
    Published: October 5, 2024  
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw](https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw)  
+   Link: <a href="https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPENMUSIC VIDEO · ENHYPEN (엔하이픈) &#x27;Knife&#x27; Official MV · ENHYPEN (엔하이픈) &#x27;Shine On Me&#x27; Official MV · ENHYPEN (엔하이픈) &#x27;Outside&#x27; Official Pe...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: allkpop.com  
    Title: enhypen makes stadium debut in korea with walk the line tour  
-   Link: [https://www.allkpop.com/article/2024/10/enhypen-makes-stadium-debut-in-korea-with-walk-the-line-tour](https://www.allkpop.com/article/2024/10/enhypen-makes-stadium-debut-in-korea-with-walk-the-line-tour)  
+   Link: <a href="https://www.allkpop.com/article/2024/10/enhypen-makes-stadium-debut-in-korea-with-walk-the-line-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.allkpop.com/article/2024/10/enhypen-makes-stadium-debut-in-korea-with-walk-the-line-tour</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN makes stadium debut in Korea with &#x27;WALK THE...6 Oct 2024 — ENHYPEN performed live for their fans once again on October 5th and 6...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: trip.com  
    Title: seoul enhypen world tour walk the line final 20250929  
-   Link: [https://www.trip.com/events/seoul--enhypen-world-tour-walk-the-line--final-20250929/](https://www.trip.com/events/seoul--enhypen-world-tour-walk-the-line--final-20250929/)  
+   Link: <a href="https://www.trip.com/events/seoul--enhypen-world-tour-walk-the-line--final-20250929/" target="_blank" rel="noopener noreferrer nofollow">https://www.trip.com/events/seoul--enhypen-world-tour-walk-the-line--final-20250929/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seoul | ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27;: FINALSep 29, 2025 — Seoul | ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27;: FINAL | KSPO DOME (Olympic...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: Wikipedia  
    Title: List of Enhypen live performances  
-   Link: [https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances](https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Enhypen live performancesEnhypen concert chronology. Fate World Tour (2023–24); Walk The Line Tour (2024–25). Concert dates. D...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: x.com  
-   Link: [https://x.com/JoongAngDaily/status/1843244512103088367](https://x.com/JoongAngDaily/status/1843244512103088367)  
+   Link: <a href="https://x.com/JoongAngDaily/status/1843244512103088367" target="_blank" rel="noopener noreferrer nofollow">https://x.com/JoongAngDaily/status/1843244512103088367</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s at Goyang Stadium in Gyeonggi on Oct. 5 and 6...</p></details>

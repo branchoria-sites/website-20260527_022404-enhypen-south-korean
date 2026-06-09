@@ -478,15 +478,15 @@ For fans, the result was a concert that felt mobile rather than distant. Even in
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition"><img src="{{ '/assets/images/marketplace-covers/f09331b147f63b91e60f.jpg' | relative_url }}" alt="Listing image for ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="https://i.ebayimg.com/images/g/TmwAAeSw4G1p-SMR/s-l225.jpg" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +494,15 @@ For fans, the result was a concert that felt mobile rather than distant. Even in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WALK THE LINE Movie Admission Bonus 4th A4 Poster"><img src="{{ '/assets/images/marketplace-covers/d3c3fb90b905e1f318bc.jpg' | relative_url }}" alt="Listing image for ENHYPEN WALK THE LINE Movie Admission Bonus 4th A4 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop"><img src="https://i.ebayimg.com/images/g/lEYAAeSwPABp-WIe/s-l225.jpg" alt="Listing image for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WALK THE LINE Movie Admission Bonus 4th A4 Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +510,15 @@ For fans, the result was a concert that felt mobile rather than distant. Even in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Walk The Line Summer Edition Japanese K-Pop Concert Poster CAT22"><img src="{{ '/assets/images/marketplace-covers/566026662f7ea0b19632.jpg' | relative_url }}" alt="Listing image for ENHYPEN Walk The Line Summer Edition Japanese K-Pop Concert Poster CAT22" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Walk The Line Summer Edition Japanese K-Pop Concert Poster CAT22</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,15 +526,15 @@ For fans, the result was a concert that felt mobile rather than distant. Even in
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN “Walk The Line” Tour Movie Poster 27X40 LIMITED EDITION"><img src="{{ '/assets/images/marketplace-covers/2069b14e9571f4454005.jpg' | relative_url }}" alt="Listing image for ENHYPEN “Walk The Line” Tour Movie Poster 27X40 LIMITED EDITION" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Fate Hoodie Size XL Band Tour"><img src="https://i.ebayimg.com/images/g/iKEAAeSwj~VpnbUA/s-l225.jpg" alt="Listing image for Enhypen Fate Hoodie Size XL Band Tour" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN “Walk The Line” Tour Movie Poster 27X40 LIMITED EDITION</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">Enhypen Fate Hoodie Size XL Band Tour</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -542,7 +542,7 @@ For fans, the result was a concert that felt mobile rather than distant. Even in
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster -book -books" data-ebay-reference="stage-layout-how-the-stage-reached-more-fans-enhypen-the-south-korean-band-enhypen-walk-the-line-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-stage-reached-more-fans-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-the-stage-reached-more-fans-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -752,133 +752,132 @@ For fans, the result was a concert that felt mobile rather than distant. Even in
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/](https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1j1mrl0/walk_the_line_experience_member_impressions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Walk the Line Experience – Member Impressions: r/enhypenThe graphics on the led screens. The setlist is so good and spaced well. The sta...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: WALK THE LINE IN U.S  
-   Link: [https://www.reddit.com/r/enhypen/comments/1jzx50e/walk_the_line_in_us_europe_megathread/](https://www.reddit.com/r/enhypen/comments/1jzx50e/walk_the_line_in_us_europe_megathread/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1jzx50e/walk_the_line_in_us_europe_megathread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1jzx50e/walk_the_line_in_us_europe_megathread/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; EUROPE Megathread: r/enhypenApril 15, 2025 — You can check the stage maps on the ticketing website once the tiers are posted/ticket sa...</p></details>
    Published: April 15, 2025  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/bts7/comments/1qh63vs/since_the_stage_will_be_360_which_is_the_front/](https://www.reddit.com/r/bts7/comments/1qh63vs/since_the_stage_will_be_360_which_is_the_front/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSince the stage will be 360, which is the front and back...It&#x27;s the square in the center and also extended out into half of the ex...</p></details>
+   Link: <a href="https://www.reddit.com/r/bts7/comments/1qh63vs/since_the_stage_will_be_360_which_is_the_front/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bts7/comments/1qh63vs/since_the_stage_will_be_360_which_is_the_front/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Since the stage will be 360, which is the front and back...It&#x27;s the square in the center and also extended out into half of the ex...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/](https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/)  
+   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>attendance of enhypens &#x27;walk the line&#x27; concertThere were over ten thousand tickets for enhypens concert available, as of a few days ago...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/1k8e8n0/wtl_tour_additional_dates/](https://www.reddit.com/r/enhypen/comments/1k8e8n0/wtl_tour_additional_dates/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1k8e8n0/wtl_tour_additional_dates/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1k8e8n0/wtl_tour_additional_dates/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WTL Tour Additional DatesIt doesn&#x27;t help that the Linkin Park concert has a 360 stage layout so they would need to completely change Enhy...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpop_uncensored/comments/1p66ig7/what_has_been_your_mostleast_enjoyable_concert/](https://www.reddit.com/r/kpop_uncensored/comments/1p66ig7/what_has_been_your_mostleast_enjoyable_concert/)  
+   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1p66ig7/what_has_been_your_mostleast_enjoyable_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1p66ig7/what_has_been_your_mostleast_enjoyable_concert/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>why? +bonus Q: are there any upcoming concerts you’re planning...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/btsthoughts/comments/1sijeak/my_thoughts_on_arirang_concert_as_a/](https://www.reddit.com/r/btsthoughts/comments/1sijeak/my_thoughts_on_arirang_concert_as_a/)  
+   Link: <a href="https://www.reddit.com/r/btsthoughts/comments/1sijeak/my_thoughts_on_arirang_concert_as_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/btsthoughts/comments/1sijeak/my_thoughts_on_arirang_concert_as_a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMER EDITION. 39. 4. My Thoughts on My Awkward Senpai · r/weeb.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/](https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1j1idtq/can_we_talk_about_enhypens_concert_last_night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rt here. As you can imagine, I&#x27;m exhausted but I...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: Things that you hate about kpop concerts?  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/1it70i4/things_that_you_hate_about_kpop_concerts_best_and/](https://www.reddit.com/r/kpopthoughts/comments/1it70i4/things_that_you_hate_about_kpop_concerts_best_and/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1it70i4/things_that_you_hate_about_kpop_concerts_best_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1it70i4/things_that_you_hate_about_kpop_concerts_best_and/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best and worst...I had to sacrifice some visibility of the stage, but In the end, I still enjoyed everything even from far behind, relyi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/yr1l3e/new_trend_in_mediaplay_surrounding_concert/](https://www.reddit.com/r/kpopthoughts/comments/yr1l3e/new_trend_in_mediaplay_surrounding_concert/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/yr1l3e/new_trend_in_mediaplay_surrounding_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/yr1l3e/new_trend_in_mediaplay_surrounding_concert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many arenas can be set up for theater seating. They put the stage in the middle, and cut the venue in half.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/1lnb0sg/some_thoughts_on_the_sm_town_london_concert/](https://www.reddit.com/r/kpopthoughts/comments/1lnb0sg/some_thoughts_on_the_sm_town_london_concert/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1lnb0sg/some_thoughts_on_the_sm_town_london_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1lnb0sg/some_thoughts_on_the_sm_town_london_concert/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some Thoughts on the SM Town London ConcertI&#x27;ve read so much negativity on here about their stage presence, they owned the stage complete...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen_uncensored/comments/1sq7ren/theories_on_why_heeseung_left_enhypen_50/](https://www.reddit.com/r/enhypen_uncensored/comments/1sq7ren/theories_on_why_heeseung_left_enhypen_50/)  
+   Link: <a href="https://www.reddit.com/r/enhypen_uncensored/comments/1sq7ren/theories_on_why_heeseung_left_enhypen_50/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen_uncensored/comments/1sq7ren/theories_on_why_heeseung_left_enhypen_50/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>hem, while WALK THE LINE was easier because it was...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: melodicmag.com  
-   Link: [https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/](https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/)  
+   Link: <a href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</p></details>
    Published: August 15, 2025  
 
 14. <a id="endnote-14"></a>
    Source: koreajoongangdaily.joins.com  
    Title: 5 and 6.Read more  
-   Link: [https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676](https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676)  
+   Link: <a href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUYqN5ED1YC/](https://www.instagram.com/reel/DUYqN5ED1YC/)  
+   Link: <a href="https://www.instagram.com/reel/DUYqN5ED1YC/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUYqN5ED1YC/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Don&#x27;t miss electrifying live performances in ENHYPEN [WALK...ENHYPEN is taking over the big screen this month! ENHYPEN... WALK THE LINE...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/posts/dont-miss-electrifying-live-performances-in-enhypen-walk-the-line-summer-edition/1425362326053121/](https://www.facebook.com/officialENHYPEN/posts/dont-miss-electrifying-live-performances-in-enhypen-walk-the-line-summer-edition/1425362326053121/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/posts/dont-miss-electrifying-live-performances-in-enhypen-walk-the-line-summer-edition/1425362326053121/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/posts/dont-miss-electrifying-live-performances-in-enhypen-walk-the-line-summer-edition/1425362326053121/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>enhypen [walk the line summer edition] in cinemasDon&#x27;t miss electrifying live performances in ENHYPEN [WALK THE LINE SUMMER EDITION] IN C...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bandwagon.asia  
-   Link: [https://www.bandwagon.asia/articles/enhypen-to-exclusively-release-walk-the-line-summer-edition-in-cinemas-worldwide-this-march](https://www.bandwagon.asia/articles/enhypen-to-exclusively-release-walk-the-line-summer-edition-in-cinemas-worldwide-this-march)  
+   Link: <a href="https://www.bandwagon.asia/articles/enhypen-to-exclusively-release-walk-the-line-summer-edition-in-cinemas-worldwide-this-march" target="_blank" rel="noopener noreferrer nofollow">https://www.bandwagon.asia/articles/enhypen-to-exclusively-release-walk-the-line-summer-edition-in-cinemas-worldwide-this-march</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN to release &#x27;[WALK THE LINE SUMMER EDITION...28 Jan 2026 — Be immersed in a world of killer choreography, soaring vocals, and the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/](https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/posts/preview-enhypen-world-tour-walk-the-line-in-goyang-spot-1-pre-order-250404-1800%E3%85%A3/1183551140234242/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[PREVIEW] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...WHAT: ENHYPEN WALK THE LINE in GOYANG - Live Streaming Day 1 WHEN: October 5, 2024 - S...</p></details>
    Published: October 5, 2024  
 
 19. <a id="endnote-19"></a>
    Source: kpopconcerts.com  
    Title: enhypen solidifies future with engenes in sold out walk the line la show  
-   Link: [https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/](https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/)  
+   Link: <a href="https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/" target="_blank" rel="noopener noreferrer nofollow">https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[RECAP] ENHYPEN Solidifies Future with ENGENEs in...17 Aug 2025 — JUNGWON then stepped up to a “WALK THE LINE” branded podium surrounded...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/_MbOWwMQdmM](https://www.youtube.com/shorts/_MbOWwMQdmM)  
+   Link: <a href="https://www.youtube.com/shorts/_MbOWwMQdmM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/_MbOWwMQdmM</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/](https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/posts/enhypen-world-tour-walk-the-line-in-goyang-preview-cuts-2-pre-order-250404-1800%E3%85%A3/1185036890085667/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ges throughout the ground. The main stage will measure...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/officialENHYPEN/videos/enhypen-walk-the-line-summer-edition-in-cinemas/1644916039999951/](https://www.facebook.com/officialENHYPEN/videos/enhypen-walk-the-line-summer-edition-in-cinemas/1644916039999951/)  
+   Link: <a href="https://www.facebook.com/officialENHYPEN/videos/enhypen-walk-the-line-summer-edition-in-cinemas/1644916039999951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/officialENHYPEN/videos/enhypen-walk-the-line-summer-edition-in-cinemas/1644916039999951/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CREENX, 4DX and ULTRA 4DX where available. Get tickets before it&#x27;s...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DVObHpRCEHp/](https://www.instagram.com/p/DVObHpRCEHp/)  
+   Link: <a href="https://www.instagram.com/p/DVObHpRCEHp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVObHpRCEHp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the big screen with this special concert! Coming soon...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=-2G3v5DC8oA](https://www.youtube.com/watch?v=-2G3v5DC8oA)  
+   Link: <a href="https://www.youtube.com/watch?v=-2G3v5DC8oA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-2G3v5DC8oA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN MENT World Tour &#x27;Walk The Line&#x27; in Goyang Day 2 2024...</p></details>

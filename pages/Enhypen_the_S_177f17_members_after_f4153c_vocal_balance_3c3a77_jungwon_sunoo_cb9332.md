@@ -271,11 +271,11 @@ The answer increasingly looks like yes, though not by copying the old arrangemen
 
 ## Why Jungwon Becomes the Structural Anchor
 
-Even before the lineup change, Jungwon’s voice was arguably the easiest to identify instantly in ENHYPEN songs. Fans repeatedly described his tone as unusually recognisable, with a slightly nasal, tight-edged texture that cuts through dense production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1byj9m5/enhypen_updated_vocal_analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditEnhypen updated vocal analysis?: r/EnhypenthoughtsJungwon does really well with rnb songs, his voice suits lower register songs mo...</span></span></span> That distinctiveness becomes more important after Heeseung’s exit because ENHYPEN can no longer rely on one overpowering high-line vocalist to define chorus peaks.
+Even before the lineup change, Jungwon’s voice was arguably the easiest to identify instantly in ENHYPEN songs. Fans repeatedly described his tone as unusually recognisable, with a slightly nasal, tight-edged texture that cuts through dense production. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1byj9m5/enhypen_updated_vocal_analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypen updated vocal analysis?: r/EnhypenthoughtsJungwon does really well with rnb songs, his voice suits lower register songs mo...</span></span></span> That distinctiveness becomes more important after Heeseung’s exit because ENHYPEN can no longer rely on one overpowering high-line vocalist to define chorus peaks.
 
 Jungwon instead anchors songs through continuity. His strength is not overwhelming belting power. It is control under pressure. Fans and vocal discussions have consistently pointed to his stability during live [stages]({{ 'stages/' | relative_url }}) and difficult choreography. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/woniemilktea/status/2053256287610155222" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">X (formerly Twitter)Jungwon&#x27;s vocals are always one of the firsts to be...His vocals are always stable, he could be lying down and sound...</span></span></span> In practice, that makes him the safest choice to carry opening refrains, pre-chorus transitions and recurring melodic motifs that hold a song together.
 
-This is especially useful in ENHYPEN’s darker material. Tracks built around restrained tension rather than explosive release suit Jungwon’s voice extremely well. One recurring fan observation is that he performs especially comfortably in lower-register or R&B-leaning material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/k6enxb/has_anyone_successfully_distinguished_the_members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditHas anyone successfully distinguished the members...Listening to official audio is harder to differentiate their voices but person...</span></span></span> That gives six-member ENHYPEN a cleaner centre for mood-heavy songs where emotional control matters more than sheer vocal force.
+This is especially useful in ENHYPEN’s darker material. Tracks built around restrained tension rather than explosive release suit Jungwon’s voice extremely well. One recurring fan observation is that he performs especially comfortably in lower-register or R&B-leaning material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/k6enxb/has_anyone_successfully_distinguished_the_members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Has anyone successfully distinguished the members...Listening to official audio is harder to differentiate their voices but person...</span></span></span> That gives six-member ENHYPEN a cleaner centre for mood-heavy songs where emotional control matters more than sheer vocal force.
 
 There is also a psychological element to his role. As leader, Jungwon already functions as the group’s organisational centre publicly and on stage. A more structurally important vocal role naturally reinforces that perception. Instead of trying to dominate songs, he often sounds like the member guiding them from section to section. That is a subtle difference from Heeseung, whose vocal role often involved escalation and climax.
 
@@ -292,7 +292,7 @@ Sunoo’s vocal appeal has always been tied less to power than to emotional colo
 
 His role works best when songs need emotional bloom. In tracks where Jungwon tightens tension, Sunoo can soften or widen the atmosphere. That contrast is crucial for ENHYPEN because their production style often leans cold, dramatic or cinematic. Without a brighter counterweight, the group could easily drift into monotony.
 
-Sunoo also benefits from a vocal quality that many fans associate with melodic ease across registers. Discussions around ENHYPEN’s early vocal distribution often highlighted his grounded stability and flexibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/ocx8dx/jungwon_is_a_low_register_king/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Jungwon is a low register king: r/EnhypenthoughtsJungwon now has the second widest known vocal range in Enhypen, spanning nearly 3 octav...</span></span></span> Even when debates about technical ranking varied, Sunoo consistently appeared near the top tier of the group’s vocal line alongside Heeseung and Jungwon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Vocal Ranking: r/enhypen</span><span class="citation-popover-snippet">RedditVocal Ranking: r/enhypenMarch 8, 2022 — Sunoo and Jay-they said sunoo sound grounded,his vocals are very stable.As of jay they sai...</span><span class="citation-popover-meta">Published: March 8, 2022</span></span></span>
+Sunoo also benefits from a vocal quality that many fans associate with melodic ease across registers. Discussions around ENHYPEN’s early vocal distribution often highlighted his grounded stability and flexibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/ocx8dx/jungwon_is_a_low_register_king/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Jungwon is a low register king: r/EnhypenthoughtsJungwon now has the second widest known vocal range in Enhypen, spanning nearly 3 octav...</span></span></span> Even when debates about technical ranking varied, Sunoo consistently appeared near the top tier of the group’s vocal line alongside Heeseung and Jungwon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Vocal Ranking: r/enhypen</span><span class="citation-popover-snippet">Vocal Ranking: r/enhypenMarch 8, 2022 — Sunoo and Jay-they said sunoo sound grounded,his vocals are very stable.As of jay they sai...</span><span class="citation-popover-meta">Published: March 8, 2022</span></span></span>
 
 What changes now is not simply the number of lines he receives, but the type of emotional responsibility attached to them. Previously, Sunoo often acted as a contrast colour inside songs dominated by Heeseung’s climactic framework. In the new structure, his voice has to participate more directly in defining the group’s emotional identity itself.
 
@@ -338,7 +338,7 @@ In that sense, Jungwon and Sunoo are not replacements for Heeseung individually.
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-3-dark.svg" | relative_url }}" alt="Vocal Axis illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can Jungwon and Sunoo Carry the New Sound?
 
-They probably can, but only if ENHYPEN fully embrace a different type of vocal identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Vocal Ranking: r/enhypen</span><span class="citation-popover-snippet">RedditVocal Ranking: r/enhypenMarch 8, 2022 — Sunoo and Jay-they said sunoo sound grounded,his vocals are very stable.As of jay they sai...</span><span class="citation-popover-meta">Published: March 8, 2022</span></span></span>
+They probably can, but only if ENHYPEN fully embrace a different type of vocal identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Vocal Ranking: r/enhypen</span><span class="citation-popover-snippet">Vocal Ranking: r/enhypenMarch 8, 2022 — Sunoo and Jay-they said sunoo sound grounded,his vocals are very stable.As of jay they sai...</span><span class="citation-popover-meta">Published: March 8, 2022</span></span></span>
 
 Jungwon alone cannot reproduce Heeseung’s towering vocal architecture. Sunoo alone cannot stabilise the entire group’s live structure. Together, however, they create a workable and potentially more nuanced balance: Jungwon controlling the spine of songs while Sunoo restores emotional brightness and melodic lift.
 
@@ -467,15 +467,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Poster [10P Pack] (A4 Size) K-POP 2026.01"><img src="{{ '/assets/images/marketplace-covers/093e83273fb50390ab21.jpg' | relative_url }}" alt="Listing image for ENHYPEN Poster [10P Pack] (A4 Size) K-POP 2026.01" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="https://i.ebayimg.com/images/g/TmwAAeSw4G1p-SMR/s-l225.jpg" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Poster [10P Pack] (A4 Size) K-POP 2026.01</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +483,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen - Desire:Unleash Album Poster A"><img src="{{ '/assets/images/marketplace-covers/ac98fb1e0ad1e9fc2cce.jpg' | relative_url }}" alt="Listing image for Enhypen - Desire:Unleash Album Poster A" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="https://i.ebayimg.com/images/g/zWAAAeSwJfBp5lX6/s-l225.jpg" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Enhypen - Desire:Unleash Album Poster A</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +499,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Walk The Line 27x40 Single Sided Movie Poster Free Shipping"><img src="{{ '/assets/images/marketplace-covers/ffa755b76711c6fd7fd4.jpg' | relative_url }}" alt="Listing image for Enhypen Walk The Line 27x40 Single Sided Movie Poster Free Shipping" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Enhypen Walk The Line 27x40 Single Sided Movie Poster Free Shipping</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +515,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN VR CONCERT IMMERsiON Vol. 2 Limited Poster"><img src="{{ '/assets/images/marketplace-covers/8ec9147074c71ab55bbd.jpg' | relative_url }}" alt="Listing image for ENHYPEN VR CONCERT IMMERsiON Vol. 2 Limited Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="https://i.ebayimg.com/images/g/fugAAeSwvb1p2N4s/s-l225.jpg" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN VR CONCERT IMMERsiON Vol. 2 Limited Poster</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +531,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster -book -books" data-ebay-reference="vocal-axis-can-jungwon-and-sunoo-carry-the-new-sound-enhypen-the-south-korean-band-enhypen-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,148 +741,147 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/1byj9m5/enhypen_updated_vocal_analysis/](https://www.reddit.com/r/Enhypenthoughts/comments/1byj9m5/enhypen_updated_vocal_analysis/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEnhypen updated vocal analysis?: r/EnhypenthoughtsJungwon does really well with rnb songs, his voice suits lower register songs mo...</p></details>
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/1byj9m5/enhypen_updated_vocal_analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/1byj9m5/enhypen_updated_vocal_analysis/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen updated vocal analysis?: r/EnhypenthoughtsJungwon does really well with rnb songs, his voice suits lower register songs mo...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/k6enxb/has_anyone_successfully_distinguished_the_members/](https://www.reddit.com/r/enhypen/comments/k6enxb/has_anyone_successfully_distinguished_the_members/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditHas anyone successfully distinguished the members...Listening to official audio is harder to differentiate their voices but person...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/k6enxb/has_anyone_successfully_distinguished_the_members/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/k6enxb/has_anyone_successfully_distinguished_the_members/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has anyone successfully distinguished the members...Listening to official audio is harder to differentiate their voices but person...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/k19zk4/can_you_easily_identify_the_vocals_of_each_member/](https://www.reddit.com/r/enhypen/comments/k19zk4/can_you_easily_identify_the_vocals_of_each_member/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/k19zk4/can_you_easily_identify_the_vocals_of_each_member/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/k19zk4/can_you_easily_identify_the_vocals_of_each_member/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>easily recognize which member is singing? Personally, I can only...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpop_uncensored/comments/1lev66m/enhypen_vocal_discussion_mostly_jungwon/](https://www.reddit.com/r/kpop_uncensored/comments/1lev66m/enhypen_vocal_discussion_mostly_jungwon/)  
+   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1lev66m/enhypen_vocal_discussion_mostly_jungwon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1lev66m/enhypen_vocal_discussion_mostly_jungwon/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>g with his voice but I still think ENHYPEN has...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/ocx8dx/jungwon_is_a_low_register_king/](https://www.reddit.com/r/Enhypenthoughts/comments/ocx8dx/jungwon_is_a_low_register_king/)  
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/ocx8dx/jungwon_is_a_low_register_king/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/ocx8dx/jungwon_is_a_low_register_king/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jungwon is a low register king: r/EnhypenthoughtsJungwon now has the second widest known vocal range in Enhypen, spanning nearly 3 octav...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
    Title: Vocal Ranking: r/enhypen  
-   Link: [https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/](https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditVocal Ranking: r/enhypenMarch 8, 2022 — Sunoo and Jay-they said sunoo sound grounded,his vocals are very stable.As of jay they sai...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/t9jwep/vocal_ranking/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Vocal Ranking: r/enhypenMarch 8, 2022 — Sunoo and Jay-they said sunoo sound grounded,his vocals are very stable.As of jay they sai...</p></details>
    Published: March 8, 2022  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/j0jete/opinion_voices_of_enhypen_members_in_live_singing/](https://www.reddit.com/r/enhypen/comments/j0jete/opinion_voices_of_enhypen_members_in_live_singing/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/j0jete/opinion_voices_of_enhypen_members_in_live_singing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/j0jete/opinion_voices_of_enhypen_members_in_live_singing/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>He sounds great live, but when recorded, his voice doesn&#x27;t...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/](https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>so I could see why it would be easy to mistake him to have the...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/jsvizy/enhypen_vocals/](https://www.reddit.com/r/enhypen/comments/jsvizy/enhypen_vocals/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditenhypen vocalsheeseung, jungwon and sunoo have great vocals imo but they will get better just like the rest of them and just becaus...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/jsvizy/enhypen_vocals/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/jsvizy/enhypen_vocals/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>enhypen vocalsheeseung, jungwon and sunoo have great vocals imo but they will get better just like the rest of them and just becaus...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/rqd7n3/enhypen_vocal_trio/](https://www.reddit.com/r/Enhypenthoughts/comments/rqd7n3/enhypen_vocal_trio/)  
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/rqd7n3/enhypen_vocal_trio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/rqd7n3/enhypen_vocal_trio/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN VOCAL TRIO: r/EnhypenthoughtsAnyways Heeseung, Jungwon and Sunoo do have amazing voices and skills. Let&#x27;s hope Belift gives them...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
    Title: Enhypen did a good job in Melbourne from what I can see  
-   Link: [https://www.reddit.com/r/kpop_uncensored/comments/1rush7t/enhypen_did_a_good_job_in_melbourne_from_what_i/](https://www.reddit.com/r/kpop_uncensored/comments/1rush7t/enhypen_did_a_good_job_in_melbourne_from_what_i/)  
+   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1rush7t/enhypen_did_a_good_job_in_melbourne_from_what_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1rush7t/enhypen_did_a_good_job_in_melbourne_from_what_i/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I anticipated Sunoo, Sunghoon, Jay and Jake taking over Heeseungs parts. Mostly those...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
    Title: What do you think the members' positions be?  
-   Link: [https://www.reddit.com/r/enhypen/comments/kk6wa5/what_do_you_think_the_members_positions_be/](https://www.reddit.com/r/enhypen/comments/kk6wa5/what_do_you_think_the_members_positions_be/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/kk6wa5/what_do_you_think_the_members_positions_be/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/kk6wa5/what_do_you_think_the_members_positions_be/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/enhypenjungwon - leader, main/lead vocal, lead dancer · Heeseung - center, main vocal · Sunoo - lead vocal, visual · Ni-ki - main dance...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/unpopularkpopopinions/comments/qfx8i7/enhypen_cant_sing_very_well/](https://www.reddit.com/r/unpopularkpopopinions/comments/qfx8i7/enhypen_cant_sing_very_well/)  
+   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/qfx8i7/enhypen_cant_sing_very_well/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/qfx8i7/enhypen_cant_sing_very_well/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN can&#x27;t sing very well: r/unpopularkpopopinionsMost people who hear their vocals can instantly tell that more than half the member...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: brainly.in  
-   Link: [https://brainly.in/question/52547349](https://brainly.in/question/52547349)  
+   Link: <a href="https://brainly.in/question/52547349" target="_blank" rel="noopener noreferrer nofollow">https://brainly.in/question/52547349</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>heeseung - center, main vocalist. jay - lead dancer, vocalist, rapper too ig. jake - lead vocalist, sub...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: thenationalnews.com  
    Title: who is heeseung departing member of enhypen  
-   Link: [https://www.thenationalnews.com/arts-culture/music-stage/2026/03/11/who-is-heeseung-departing-member-of-enhypen/](https://www.thenationalnews.com/arts-culture/music-stage/2026/03/11/who-is-heeseung-departing-member-of-enhypen/)  
+   Link: <a href="https://www.thenationalnews.com/arts-culture/music-stage/2026/03/11/who-is-heeseung-departing-member-of-enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/arts-culture/music-stage/2026/03/11/who-is-heeseung-departing-member-of-enhypen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The NationalWho is Heeseung, departing member of Enhypen?11 Mar 2026 — Within Enhypen, Heeseung was often described as the group&#x27;s musica...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Enhypen](https://en.wikipedia.org/wiki/Enhypen)  
+   Link: <a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenThe group consists of six members: Jay, Jake, Sunghoon, Sunoo, Jungwon, and Ni-Ki. Originally a seven-piece ensemble, Heeseung...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/woniemilktea/status/2053256287610155222](https://x.com/woniemilktea/status/2053256287610155222)  
+   Link: <a href="https://x.com/woniemilktea/status/2053256287610155222" target="_blank" rel="noopener noreferrer nofollow">https://x.com/woniemilktea/status/2053256287610155222</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)Jungwon&#x27;s vocals are always one of the firsts to be...His vocals are always stable, he could be lying down and sound...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/407780401859272/posts/926526756651298/](https://www.facebook.com/groups/407780401859272/posts/926526756651298/)  
+   Link: <a href="https://www.facebook.com/groups/407780401859272/posts/926526756651298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/407780401859272/posts/926526756651298/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN fan reacts to Heeseung&#x27;s departureHeeseung will no longer be part of ENHYPEN&#x27;s group activities. The group will now continue as a...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/philstarnews/posts/enhypens-heeseung-departed-the-k-pop-group-to-pursue-his-distinct-musical-vision/1382527607251322/](https://www.facebook.com/philstarnews/posts/enhypens-heeseung-departed-the-k-pop-group-to-pursue-his-distinct-musical-vision/1382527607251322/)  
+   Link: <a href="https://www.facebook.com/philstarnews/posts/enhypens-heeseung-departed-the-k-pop-group-to-pursue-his-distinct-musical-vision/1382527607251322/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/philstarnews/posts/enhypens-heeseung-departed-the-k-pop-group-to-pursue-his-distinct-musical-vision/1382527607251322/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Heeseung departed the K...ENHYPEN&#x27;s Heeseung departed the K-pop group to pursue his &quot;distinct musical vision,&quot; their agency Be...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ENHYPENPARKJAY/posts/that-powerful-vocals-black-hair-from-enhypen-/1095520765936159/](https://www.facebook.com/ENHYPENPARKJAY/posts/that-powerful-vocals-black-hair-from-enhypen-/1095520765936159/)  
+   Link: <a href="https://www.facebook.com/ENHYPENPARKJAY/posts/that-powerful-vocals-black-hair-from-enhypen-/1095520765936159/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ENHYPENPARKJAY/posts/that-powerful-vocals-black-hair-from-enhypen-/1095520765936159/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>THAT POWERFUL VOCALS BLACK HAIR FROM...Their vocals was really strong and soothing at the same time but I&#x27;m not surprised because Enhype...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/%40koconuutt/7390850201991692806?region=us](https://www.lemon8-app.com/%40koconuutt/7390850201991692806?region=us)  
+   Link: <a href="https://www.lemon8-app.com/%40koconuutt/7390850201991692806?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40koconuutt/7390850201991692806?region=us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>my friend rates enha membersSunoo&#x27;s bright and cheerful personality is infectious, and his vocal skills contribute significantly to the g...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Jnt8mYLMJZM](https://www.youtube.com/watch?v=Jnt8mYLMJZM)  
+   Link: <a href="https://www.youtube.com/watch?v=Jnt8mYLMJZM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jnt8mYLMJZM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN ~ All Songs Line Distribution [from GIVEN-TAKEN...He has lots of lines in enhypen songs because he has nice vocal tone and suits...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: koreaboo.com  
-   Link: [https://www.koreaboo.com/lists/enhypen-members-best-live-vocals-singer-singing-ranked/](https://www.koreaboo.com/lists/enhypen-members-best-live-vocals-singer-singing-ranked/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KoreabooRanking The ENHYPEN Members With The Best Live VocalsSep 21, 2025 — Ranking The ENHYPEN Members With The Best [Live Vocals](&amp;#123;&amp;#123; &#x27;live-changes/&#x27; | relative_url &amp;#125;&amp;#125;) · 7...</p></details>
+   Link: <a href="https://www.koreaboo.com/lists/enhypen-members-best-live-vocals-singer-singing-ranked/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/lists/enhypen-members-best-live-vocals-singer-singing-ranked/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking The ENHYPEN Members With The Best Live VocalsSep 21, 2025 — Ranking The ENHYPEN Members With The Best [Live Vocals](&amp;#123;&amp;#123; &#x27;live-changes/&#x27; | relative_url &amp;#125;&amp;#125;) · 7...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kprofiles.com  
-   Link: [https://kprofiles.com/poll-who-is-the-best-vocalist-rapper-dancer-in-enhypen/](https://kprofiles.com/poll-who-is-the-best-vocalist-rapper-dancer-in-enhypen/)  
+   Link: <a href="https://kprofiles.com/poll-who-is-the-best-vocalist-rapper-dancer-in-enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://kprofiles.com/poll-who-is-the-best-vocalist-rapper-dancer-in-enhypen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Poll: Who Is The Best Vocalist/Rapper/Dancer In ENHYPEN?Jan 13, 2022 — My reasonings: for vocals it is obvious that heeseung is the best...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYCzGPEMRC2/](https://www.instagram.com/reel/DYCzGPEMRC2/)  
+   Link: <a href="https://www.instagram.com/reel/DYCzGPEMRC2/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYCzGPEMRC2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unoo, and Ni-ki-each bringing unique talents in vocals, dance, and...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: 9 Minutes of Sunoo’s Live Vocals (Sunoo [Live Vocal](&#123;&#123; 'live-changes/' | relative_url &#125;&#125;) Compilation)  
-   Link: [https://www.youtube.com/watch?v=mbnM34IUceE](https://www.youtube.com/watch?v=mbnM34IUceE)  
+   Link: <a href="https://www.youtube.com/watch?v=mbnM34IUceE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mbnM34IUceE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Jungwon Sunoo vocals compilation 9 Minutes of Sunoo’s Live Vocals(Sunoo Live Vocal Compilation) Heesunki🦊...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUb_Twuk1ur/](https://www.instagram.com/reel/DUb_Twuk1ur/)  
+   Link: <a href="https://www.instagram.com/reel/DUb_Twuk1ur/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUb_Twuk1ur/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sence, eventually debuting with ENHYPEN in...</p></details>
