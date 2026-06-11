@@ -1,6 +1,6 @@
 {
   "version": 7,
-  "generated_at_utc": "2026-06-11T10:13:15.284609Z",
+  "generated_at_utc": "2026-06-11T10:37:51.983975Z",
   "incremental_enabled": true,
   "files": {
     "Enhypen_the_S_177f17": {
@@ -10,21 +10,21 @@
         "basename": "Enhypen_the_S_177f17",
         "title": "Why ENHYPEN's Eras Keep Fans Watching",
         "permalink": "/enhypen-the-south-korean-band/",
-        "word_count": 11587,
-        "char_count": 89317,
-        "line_count": 362,
+        "word_count": 9789,
+        "char_count": 82814,
+        "line_count": 758,
         "heading_count": 13,
         "h2_count": 12,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 61,
-        "url_count": 190,
+        "url_count": 202,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 77,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -32,14 +32,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 299,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 414,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c": {
@@ -49,21 +64,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c",
         "title": "Who Is in ENHYPEN Now?",
         "permalink": "/members-now/",
-        "word_count": 9836,
-        "char_count": 75531,
-        "line_count": 202,
+        "word_count": 8052,
+        "char_count": 68964,
+        "line_count": 598,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 30,
-        "url_count": 124,
+        "url_count": 136,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 78,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -71,14 +86,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 267,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 382,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa": {
@@ -88,21 +118,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa",
         "title": "Why ENHYPEN's Stages Matter So Much",
         "permalink": "/stages/",
-        "word_count": 11630,
-        "char_count": 89884,
-        "line_count": 300,
+        "word_count": 9610,
+        "char_count": 82386,
+        "line_count": 695,
         "heading_count": 9,
         "h2_count": 8,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 49,
-        "url_count": 168,
+        "url_count": 180,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 75,
-        "inline_internal_link_count": 2,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -110,14 +140,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 280,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 395,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7": {
@@ -127,21 +172,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
         "title": "How Does Six Member ENHYPEN Move Onstage?",
         "permalink": "/stage-changes/",
-        "word_count": 10229,
-        "char_count": 78731,
-        "line_count": 304,
+        "word_count": 8188,
+        "char_count": 70945,
+        "line_count": 706,
         "heading_count": 9,
         "h2_count": 8,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 35,
-        "url_count": 125,
+        "url_count": 137,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 77,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -149,14 +194,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 328,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 443,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77": {
@@ -166,21 +226,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
         "title": "Who Carries ENHYPEN's Vocals Now?",
         "permalink": "/vocal-balance/",
-        "word_count": 9707,
-        "char_count": 75741,
-        "line_count": 309,
+        "word_count": 7903,
+        "char_count": 68913,
+        "line_count": 714,
         "heading_count": 14,
         "h2_count": 9,
         "h3_count": 5,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 30,
-        "url_count": 110,
+        "url_count": 122,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 77,
+        "internal_link_candidate_pool_size": 0,
         "inline_internal_link_count": 0,
-        "related_report_count": 6,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -188,14 +248,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 373,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 488,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf": {
@@ -205,21 +280,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
         "title": "Why Bite Me choreography became such a debate",
         "permalink": "/bite-me-stage/",
-        "word_count": 9760,
-        "char_count": 75483,
-        "line_count": 185,
+        "word_count": 7737,
+        "char_count": 68103,
+        "line_count": 583,
         "heading_count": 6,
         "h2_count": 6,
         "h3_count": 0,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 23,
-        "url_count": 109,
+        "url_count": 121,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 76,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -227,14 +302,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 270,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 385,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af": {
@@ -244,21 +334,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
         "title": "How WALK THE LINE made ENHYPEN bigger",
         "permalink": "/stadium-tour/",
-        "word_count": 11089,
-        "char_count": 85393,
-        "line_count": 249,
+        "word_count": 9112,
+        "char_count": 77892,
+        "line_count": 648,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 29,
-        "url_count": 122,
+        "url_count": 134,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 76,
+        "internal_link_candidate_pool_size": 0,
         "inline_internal_link_count": 0,
-        "related_report_count": 6,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -266,14 +356,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 297,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 412,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0": {
@@ -283,21 +388,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
         "title": "Why Ni ki matters more in six member stages",
         "permalink": "/ni-ki-bridge/",
-        "word_count": 9687,
-        "char_count": 74611,
-        "line_count": 225,
+        "word_count": 7849,
+        "char_count": 67833,
+        "line_count": 623,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 26,
-        "url_count": 108,
+        "url_count": 120,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 77,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -305,14 +410,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 286,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 401,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3": {
@@ -322,21 +442,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
         "title": "How pair work changes ENHYPEN's stage picture",
         "permalink": "/pair-work/",
-        "word_count": 8885,
-        "char_count": 67880,
-        "line_count": 233,
+        "word_count": 7079,
+        "char_count": 61411,
+        "line_count": 630,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 36,
-        "url_count": 125,
+        "url_count": 137,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 76,
+        "internal_link_candidate_pool_size": 0,
         "inline_internal_link_count": 0,
-        "related_report_count": 6,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -344,14 +464,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 280,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 395,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332": {
@@ -361,21 +496,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
         "title": "Can Jungwon and Sunoo Carry the New Sound?",
         "permalink": "/vocal-axis/",
-        "word_count": 9668,
-        "char_count": 74786,
-        "line_count": 221,
+        "word_count": 7838,
+        "char_count": 68641,
+        "line_count": 618,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 27,
-        "url_count": 109,
+        "url_count": 121,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 77,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -383,14 +518,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 285,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 400,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8": {
@@ -400,21 +550,21 @@
         "basename": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
         "title": "What Sounds Different in Six Member Performances?",
         "permalink": "/live-changes/",
-        "word_count": 9226,
-        "char_count": 71380,
-        "line_count": 243,
+        "word_count": 7226,
+        "char_count": 64128,
+        "line_count": 645,
         "heading_count": 10,
         "h2_count": 6,
         "h3_count": 4,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 25,
-        "url_count": 99,
+        "url_count": 111,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 78,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -422,14 +572,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 314,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 429,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef": {
@@ -439,21 +604,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
         "title": "How fans changed the Bite Me stage",
         "permalink": "/fan-protests/",
-        "word_count": 10285,
-        "char_count": 80976,
-        "line_count": 231,
+        "word_count": 8522,
+        "char_count": 74765,
+        "line_count": 626,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 27,
-        "url_count": 118,
+        "url_count": 130,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 75,
-        "inline_internal_link_count": 2,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -461,14 +626,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 280,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 395,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438": {
@@ -478,21 +658,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
         "title": "Why the Bite Me partner dance worked",
         "permalink": "/original-staging/",
-        "word_count": 9130,
-        "char_count": 70645,
-        "line_count": 167,
+        "word_count": 7330,
+        "char_count": 64360,
+        "line_count": 562,
         "heading_count": 6,
         "h2_count": 5,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 21,
-        "url_count": 99,
+        "url_count": 111,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 76,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -500,14 +680,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 255,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 370,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f": {
@@ -517,21 +712,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
         "title": "Why Goyang Stadium Changed the Tour",
         "permalink": "/goyang-launch/",
-        "word_count": 10127,
-        "char_count": 78174,
-        "line_count": 236,
+        "word_count": 8280,
+        "char_count": 71181,
+        "line_count": 634,
         "heading_count": 7,
         "h2_count": 6,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 30,
-        "url_count": 115,
+        "url_count": 127,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 76,
-        "inline_internal_link_count": 1,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -539,14 +734,29 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 279,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 394,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     },
     "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f": {
@@ -556,21 +766,21 @@
         "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
         "title": "How the Stage Reached More Fans",
         "permalink": "/stage-layout/",
-        "word_count": 9718,
-        "char_count": 76016,
-        "line_count": 214,
+        "word_count": 7983,
+        "char_count": 69707,
+        "line_count": 613,
         "heading_count": 8,
         "h2_count": 7,
         "h3_count": 1,
         "endnote_heading_count": 1,
         "footnote_definition_count": 0,
         "numbered_endnote_count": 24,
-        "url_count": 103,
+        "url_count": 115,
         "youtube_embed_count": 3,
         "has_related_reports_panel": false,
-        "internal_link_candidate_pool_size": 77,
-        "inline_internal_link_count": 2,
-        "related_report_count": 6,
+        "internal_link_candidate_pool_size": 0,
+        "inline_internal_link_count": 0,
+        "related_report_count": 0,
         "internal_link_hit_page_cap": false,
         "internal_link_hit_paragraph_cap": false,
         "prompt_leak_hit_count": 0,
@@ -578,24 +788,39 @@
         "structured_output_hit_count": 0,
         "broken_citation_artifact_hit_count": 0,
         "inline_citation_domain_fallback_count": 0,
-        "unresolved_plain_citation_hit_count": 0,
+        "unresolved_plain_citation_hit_count": 2,
         "placeholder_citation_hit_count": 0,
         "malformed_heading_artifact_hit_count": 0,
         "suspicious_markdown_link_boundary_hit_count": 0,
         "embed_integrity_hit_count": 0,
         "needs_review": false,
         "hide_from_navigation": false,
-        "issue_samples": []
+        "issue_samples": [
+          {
+            "line": 295,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "else if (navigator.language) languages = [navigator.language];"
+          },
+          {
+            "line": 410,
+            "labels": [
+              "unresolved_plain_citation"
+            ],
+            "text": "if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;"
+          }
+        ]
       }
     }
   },
   "summary": {
     "processed_pages": 15,
-    "reused_pages": 0,
-    "rebuilt_pages": 15,
+    "reused_pages": 15,
+    "rebuilt_pages": 0,
     "error_pages": 0,
     "removed_stale_pages": 0,
-    "removed_superseded_png_assets": 15,
+    "removed_superseded_png_assets": 0,
     "total_tracked_pages": 15
   }
 }

@@ -166,10 +166,6 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-header:
-  og_image: /assets/images/Enhypen_the_S_177f17-overview-social.jpg
-  preview_image: /assets/images/Enhypen_the_S_177f17-overview-social.jpg
-image: /assets/images/Enhypen_the_S_177f17-overview-social.jpg
 site_image_description: Six performers stand on a large concert stage with bright spotlights, raised platforms, microphones, and a cheering crowd holding...
 ---
 
