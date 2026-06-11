@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /members-now/
 nav_short_title: Vocal balance
 title: Who Carries ENHYPEN's Vocals Now?
-title_full: Who Carries ENHYPEN's Vocals Now? | Members Now
+title_full: Who Carries ENHYPEN's Vocals Now?
 display_title_short: Vocal balance
 display_title: Vocal balance
 heading_title: Who Carries ENHYPEN's Vocals Now?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 02:23:00'
-parent_title: Who Is in ENHYPEN Now? | ENHYPEN
+parent_title: Who Is in ENHYPEN Now?
 parent_permalink: /members-now/
 parent_nav_short_title: Members Now
 parent_heading_title: Who Is in ENHYPEN Now?
@@ -266,16 +266,14 @@ image: /assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c
 
 Heeseung’s departure changes more than ENHYPEN’s member count. It changes the way the group sounds at its emotional peaks. Before leaving to pursue solo work under BELIFT LAB in 2026, Heeseung was widely treated by fans and vocal analysts as ENHYPEN’s central vocal anchor: the member trusted with sustained high notes, climactic bridges, opening lines that established tone, and live stabilisation during difficult choreography. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2026-03-10/entertainment/kpop/Enhypens-Heeseung-to-leave-band-to-pursue-new-musical-direction-agency-says/2541422" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s Heeseung to leave band to pursue new musical...10 Mar 2026 — Enhypen member Heeseung is leaving the band...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">The announcement was made by the label on March 10, 2026, through a multilingual statement posted on ENHYPEN&#x27;s social media. According to...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-1-dark.svg" | relative_url }}" alt="Vocal balance illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Now ENHYPEN continue as Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIF T LAB: 빌리프랩빌리프랩 공식 홈페이지</span><span class="citation-popover-snippet">BELIFT LAB: 빌리프랩빌리프랩 공식 홈페이지 - The Official Website for BELIFT LAB...</span></span></span> The interesting question for fans is not whether one member “replaces” Heeseung. K-pop groups rarely work that way after a major vocal exit. Instead, ENHYPEN appear to redistribute vocal pressure across several members depending on song structure, stamina demands and live conditions. That creates a noticeably different vocal balance: less centred around one dominant tenor and more dependent on shared phrasing, alternating textures and careful line assignment.
 
 ## Heeseung’s Former Role in ENHYPEN’s Sound
 
-Heeseung occupied a very specific space in ENHYPEN’s music. Even fans who focused more on choreography or concept usually recognised him as the member most associated with technical vocal confidence. Discussions among vocal-focused fans consistently highlighted his range, resonance and ability to hold difficult lines while dancing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditEnhypen&#x27;s updated vocal range (Live+Studio combined)...When not dancing, Heeseung demonstrates better posture and alignment, more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditSome clarifications about Enhypen&#x27;s Vocal Range (more...Objectively speaking, Heeseung has the widest known vocal range in Enhypen...</span></span></span>
+Heeseung occupied a very specific space in ENHYPEN’s music. Even fans who focused more on choreography or concept usually recognised him as the member most associated with technical vocal confidence. Discussions among vocal-focused fans consistently highlighted his range, resonance and ability to hold difficult lines while dancing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypen&#x27;s updated vocal range (Live+Studio combined)...When not dancing, Heeseung demonstrates better posture and alignment, more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Some clarifications about Enhypen&#x27;s Vocal Range (more...Objectively speaking, Heeseung has the widest known vocal range in Enhypen...</span></span></span>
 
 That role mattered because ENHYPEN’s music often relies on tension-heavy choruses and atmospheric layering rather than relaxed, conversational singing. Songs such as “Given-Taken”, “Drunk-Dazed” and later arena-era material frequently build towards compressed, emotionally intense peaks. In that structure, Heeseung often acted as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,7 @@ He also had a flexible tone. He could sound polished and restrained in darker so
 His exit therefore creates two separate challenges at once:
 
 1. replacing vocal technique in studio arrangements;
-2. redistributing stamina in live [performance]({{ 'stages/' | relative_url }}).
+2. redistributing stamina in live performance.
 
 Those are not always solved by the same member.
 
@@ -305,7 +303,6 @@ Another factor is choreography. ENHYPEN’s performances are physically demandin
 
 The six-member version of ENHYPEN therefore benefits from a more distributed system:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * one member handling stability;
@@ -317,7 +314,6 @@ The six-member version of ENHYPEN therefore benefits from a more distributed sys
 
 That creates a sound which may feel less vocally “vertical” — fewer towering single-member moments — but potentially more blended as a group.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IuaEJ64k5fw" title="ENHYPEN Plays ‘Who Gets The Most Hype’ | Billboard News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IuaEJ64k5fw" target="_blank" rel="noopener noreferrer">ENHYPEN Plays ‘Who Gets The Most Hype’ | Billboard News</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 402.7K &middot; Uploaded: July 2024 &middot; Length: 2 minutes 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IuaEJ64k5fw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IuaEJ64k5fw">Open on YouTube</a></p></div></div></div>
 
 ## Jungwon and Sunoo Become the Core Vocal Axis
@@ -328,10 +324,9 @@ Even before the lineup change, Jungwon often handled emotionally connective phra
 
 He is also the leader, which matters psychologically during concerts. Fans often listen differently after a lineup change, searching for reassurance and continuity. A stable Jungwon chorus entrance helps the group feel recognisably “ENHYPEN” even when arrangements shift.
 
-Sunoo, meanwhile, becomes increasingly important for colour and emotional lift. His voice naturally adds brightness and expressiveness, which can compensate for the loss of Heeseung’s smoother upper register. Earlier fan discussions comparing the group’s vocal qualities already noted Sunoo’s strong upper texture, even if his delivery could sound more nasal under pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditEnhypen&#x27;s updated vocal range (Live+Studio combined)...When not dancing, Heeseung demonstrates better posture and alignment, more...</span></span></span>
+Sunoo, meanwhile, becomes increasingly important for colour and emotional lift. His voice naturally adds brightness and expressiveness, which can compensate for the loss of Heeseung’s smoother upper register. Earlier fan discussions comparing the group’s vocal qualities already noted Sunoo’s strong upper texture, even if his delivery could sound more nasal under pressure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypen&#x27;s updated vocal range (Live+Studio combined)...When not dancing, Heeseung demonstrates better posture and alignment, more...</span></span></span>
 
 That makes Sunoo particularly useful in:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,14 +353,12 @@ Sunghoon’s contribution is subtler but important in live staging. His controll
 
 Together, those three members likely prevent the group from sounding vocally top-heavy after Heeseung’s exit.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-2-dark.svg" | relative_url }}" alt="Vocal balance illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Ni-ki’s Role Changes More Than Fans Expected
 
 Ni-ki is still primarily associated with dance and stage power, but Heeseung’s departure indirectly expands his vocal visibility too.
 
 In seven-member ENHYPEN, Ni-ki could remain more performance-specialised because the vocal centre was already firmly defined. In six-member ENHYPEN, every member becomes more audible by necessity. That means:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +371,6 @@ In seven-member ENHYPEN, Ni-ki could remain more performance-specialised because
 Ni-ki does not need to transform into a lead vocalist for this to matter. Instead, his deeper tone becomes useful for texture contrast. When a group loses a prominent upper-register singer, strengthening lower support can stop arrangements feeling empty.
 
 This is especially noticeable in live concerts where backing tracks are reduced and microphone layering becomes more exposed.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0XnOVXfFe1o" title="ENHYPEN - Brought The Heat Back (Line Distribution + Lyrics Karaoke) PATREON REQUESTED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0XnOVXfFe1o" target="_blank" rel="noopener noreferrer">ENHYPEN - Brought The Heat Back (Line Distribution + Lyrics Karaoke) PATREON REQUESTED</a></p><p class="youtube-embed-meta">Channel: random_k &middot; Views: 79.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0XnOVXfFe1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0XnOVXfFe1o">Open on YouTube</a></p></div></div></div>
 
@@ -400,7 +392,6 @@ Long held notes are exhausting during choreography-heavy performances. Without H
 
 This is common in K-pop lineup restructures because preserving overall performance quality matters more than reproducing studio arrangements exactly.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-3-dark.svg" | relative_url }}" alt="Vocal balance illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Heavier Use of Harmonies
 
@@ -419,7 +410,6 @@ Heeseung frequently handled tension-building moments before final choruses. With
 
 Fans attached to the older structure may initially hear this as a loss. Others may find the newer balance more collaborative and less predictable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YiX_TBSeJ6A" title="ENHYPEN All Songs Line Distribution #enhypen #kpop #hybe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YiX_TBSeJ6A" target="_blank" rel="noopener noreferrer">ENHYPEN All Songs Line Distribution #enhypen #kpop #hybe</a></p><p class="youtube-embed-meta">Channel: 𝘾𝙊𝙇𝙇𝙀𝙏𝘼 𝙆𝙋𝙊𝙋 &middot; Views: 407.1K &middot; Uploaded: November 2023 &middot; Length: 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YiX_TBSeJ6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YiX_TBSeJ6A">Open on YouTube</a></p></div></div></div>
 
 ## The Six-Member Sound Is More Collective Than Before
@@ -427,7 +417,6 @@ Fans attached to the older structure may initially hear this as a loss. Others m
 The most important shift is conceptual rather than technical. Seven-member ENHYPEN often sounded organised around a recognisable vocal centre. Six-member ENHYPEN sound more ensemble-oriented.
 
 That does not automatically mean weaker vocals. It means the group now relies more heavily on:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -559,15 +548,15 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Border Carnival Album With Inclusions And Folded Poster"><img src="https://i.ebayimg.com/images/g/JaAAAeSwLSlqDfA-/s-l225.jpg" alt="Listing image for Enhypen Border Carnival Album With Inclusions And Folded Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen Border Carnival Album With Inclusions And Folded Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -575,15 +564,15 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="https://i.ebayimg.com/images/g/zWAAAeSwJfBp5lX6/s-l225.jpg" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Foto Buch+3Karte+2 P.Ring+Poster+GIFT"><img src="https://i.ebayimg.com/images/g/UuwAAOSwmlRmb8DY/s-l225.jpg" alt="Listing image for ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Foto Buch+3Karte+2 P.Ring+Poster+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Foto Buch+3Karte+2 P.Ring+Poster+GIFT</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -591,15 +580,15 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="https://i.ebayimg.com/images/g/TmwAAeSw4G1p-SMR/s-l225.jpg" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN PHOTOCARD New Album [THE SIN : VANISH] Knife Official_7 Type"><img src="https://i.ebayimg.com/images/g/rpQAAeSww8FpqSQL/s-l225.jpg" alt="Listing image for ENHYPEN PHOTOCARD New Album [THE SIN : VANISH] Knife Official_7 Type" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN PHOTOCARD New Album [THE SIN : VANISH] Knife Official_7 Type</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -607,15 +596,15 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="https://i.ebayimg.com/images/g/fugAAeSwvb1p2N4s/s-l225.jpg" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Foto+Buch+Poster+3Karte"><img src="https://i.ebayimg.com/images/g/z54AAeSwRHFpP4Ky/s-l225.jpg" alt="Listing image for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Foto+Buch+Poster+3Karte" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Foto+Buch+Poster+3Karte</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -623,7 +612,7 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-carries-enhypen-s-vocals-now-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="who-carries-enhypen-s-vocals-now-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -833,155 +822,156 @@ That collective balance may ultimately become the defining sound of ENHYPEN’s 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/](https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEnhypen&#x27;s updated vocal range (Live+Studio combined)...When not dancing, Heeseung demonstrates better posture and alignment, more...</p></details>
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/1mp4agp/enhypens_updated_vocal_range_livestudio_combined/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen&#x27;s updated vocal range (Live+Studio combined)...When not dancing, Heeseung demonstrates better posture and alignment, more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/](https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditSome clarifications about Enhypen&#x27;s Vocal Range (more...Objectively speaking, Heeseung has the widest known vocal range in Enhypen...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/me89d0/some_clarifications_about_enhypens_vocal_range/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Some clarifications about Enhypen&#x27;s Vocal Range (more...Objectively speaking, Heeseung has the widest known vocal range in Enhypen...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/k6km09/full_vocal_analysis_of_giventaken_kbs_stage/](https://www.reddit.com/r/enhypen/comments/k6km09/full_vocal_analysis_of_giventaken_kbs_stage/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/k6km09/full_vocal_analysis_of_giventaken_kbs_stage/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/k6km09/full_vocal_analysis_of_giventaken_kbs_stage/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>s the end already went a bit flat, and he was just flat for...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: elle.com  
-   Link: [https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/](https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/)  
+   Link: <a href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Since their debut, they&#x27;ve quickly risen to global fame, achieving milestones like headlining their first offline concert in 2022, perfor...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
    Title: Vocal Analysis to ENHYPEN Killing Voice  
-   Link: [https://www.youtube.com/watch?v=58sxT8KI_PU](https://www.youtube.com/watch?v=58sxT8KI_PU)  
+   Link: <a href="https://www.youtube.com/watch?v=58sxT8KI_PU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=58sxT8KI_PU</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN - Brought The Heat Back (Line Distribution + Lyrics Karaoke)...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=0XnOVXfFe1o](https://www.youtube.com/watch?v=0XnOVXfFe1o)  
+   Link: <a href="https://www.youtube.com/watch?v=0XnOVXfFe1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0XnOVXfFe1o</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Songs Line Distribution...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
    Title: ENHYPEN All Songs Line Distribution  
-   Link: [https://www.youtube.com/watch?v=YiX_TBSeJ6A](https://www.youtube.com/watch?v=YiX_TBSeJ6A)  
+   Link: <a href="https://www.youtube.com/watch?v=YiX_TBSeJ6A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YiX_TBSeJ6A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN | Orange Blood, Vampires, Creative Process, Fate Tour...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
    Title: ENHYPEN | Orange Blood, Vampires, Creative Process, Fate Tour  
-   Link: [https://www.youtube.com/watch?v=DvkCiXlegqQ](https://www.youtube.com/watch?v=DvkCiXlegqQ)  
+   Link: <a href="https://www.youtube.com/watch?v=DvkCiXlegqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvkCiXlegqQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN vocal analysis line distribution...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: koreajoongangdaily.joins.com  
-   Link: [https://koreajoongangdaily.joins.com/news/2026-03-10/entertainment/kpop/Enhypens-Heeseung-to-leave-band-to-pursue-new-musical-direction-agency-says/2541422](https://koreajoongangdaily.joins.com/news/2026-03-10/entertainment/kpop/Enhypens-Heeseung-to-leave-band-to-pursue-new-musical-direction-agency-says/2541422)  
+   Link: <a href="https://koreajoongangdaily.joins.com/news/2026-03-10/entertainment/kpop/Enhypens-Heeseung-to-leave-band-to-pursue-new-musical-direction-agency-says/2541422" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2026-03-10/entertainment/kpop/Enhypens-Heeseung-to-leave-band-to-pursue-new-musical-direction-agency-says/2541422</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyEnhypen&#x27;s Heeseung to leave band to pursue new musical...10 Mar 2026 — Enhypen member Heeseung is leaving the band...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: teenvogue.com  
-   Link: [https://www.teenvogue.com/story/heeseung-is-leaving-enhypen](https://www.teenvogue.com/story/heeseung-is-leaving-enhypen)  
+   Link: <a href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/heeseung-is-leaving-enhypen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The announcement was made by the label on March 10, 2026, through a multilingual statement posted on ENHYPEN&#x27;s social media. According to...</p></details>
    Published: March 10, 2026  
 
 11. <a id="endnote-11"></a>
    Source: beliftlab.com  
-   Link: [https://beliftlab.com/artist/profile/ENHYPEN](https://beliftlab.com/artist/profile/ENHYPEN)  
+   Link: <a href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/ENHYPEN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIFT LAB빌리프랩 홈페이지: ENHYPEN30 Nov 2020 — ENHYPEN—consisting of JUNGWON, JAY, JAKE, SUNGHOON, SUNOO, and NI-KI—are a six-member multinati...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: beliftlab.com  
    Title: BELIF T LAB: 빌리프랩빌리프랩 공식 홈페이지  
-   Link: [https://beliftlab.com/](https://beliftlab.com/)  
+   Link: <a href="https://beliftlab.com/" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIFT LAB: 빌리프랩빌리프랩 공식 홈페이지 - The Official Website for BELIFT LAB...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: kpop.fandom.com  
    Title: Belift Lab  
-   Link: [https://kpop.fandom.com/wiki/Belift_Lab](https://kpop.fandom.com/wiki/Belift_Lab)  
+   Link: <a href="https://kpop.fandom.com/wiki/Belift_Lab" target="_blank" rel="noopener noreferrer nofollow">https://kpop.fandom.com/wiki/Belift_Lab</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lab | Kpop Wiki - FandomBelift Lab (빌리프랩, also known as BE:LIFT and previously BELIF+) is a South Korean media company. It was founded as...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: soompi.com  
-   Link: [https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen](https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen)  
+   Link: <a href="https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIFT LAB Reaffirms Heeseung Is Not Returning To...15 Mar 2026 — On March 15, BELIFT LAB reaffirmed in a statement to The Korea Herald...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Enhypen](https://en.wikipedia.org/wiki/Enhypen)  
+   Link: <a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenThe group consists of six members: Jay, Jake, Sunghoon, Sunoo, Jungwon, and Ni-Ki. Originally a seven-piece ensemble, Heeseung...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/](https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/)  
+   Link: <a href="https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIFT LAB Reaffirms ENHYPEN&#x27;s Heeseung Will Not...15 Mar 2026 — BELIFT LAB has shut down speculation that ENHYPEN member Heeseung might...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: x.com  
-   Link: [https://x.com/i/trending/2032969123052077212](https://x.com/i/trending/2032969123052077212)  
+   Link: <a href="https://x.com/i/trending/2032969123052077212" target="_blank" rel="noopener noreferrer nofollow">https://x.com/i/trending/2032969123052077212</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIFT LAB Confirms Heeseung&#x27;s ENHYPEN Departure...14 Mar 2026 — BELIFT LAB announced on March 10 that ENHYPEN member Lee Heeseung will...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: en.yna.co.kr  
-   Link: [https://en.yna.co.kr/view/AEN20260310008800315](https://en.yna.co.kr/view/AEN20260310008800315)  
+   Link: <a href="https://en.yna.co.kr/view/AEN20260310008800315" target="_blank" rel="noopener noreferrer nofollow">https://en.yna.co.kr/view/AEN20260310008800315</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reshaped as six-member group with Heeseung&#x27;s...10 Mar 2026 — The group, which debuted in 2020, currently consists of seven members: Jung...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: allkpop.com  
-   Link: [https://www.allkpop.com/video/2022/06/enhypens-heeseung-shows-off-his-live-vocal-skills-with-his-cover-performances-on-leemujin-service-show](https://www.allkpop.com/video/2022/06/enhypens-heeseung-shows-off-his-live-vocal-skills-with-his-cover-performances-on-leemujin-service-show)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Heeseung shows off his [live vocal](&amp;#123;&amp;#123; &#x27;live-changes/&#x27; | relative_url &amp;#125;&amp;#125;) skills with his...After performing &quot;Tamed-Dashed,&quot; Heeseung covered three songs in total &quot;So...</p></details>
+   Link: <a href="https://www.allkpop.com/video/2022/06/enhypens-heeseung-shows-off-his-live-vocal-skills-with-his-cover-performances-on-leemujin-service-show" target="_blank" rel="noopener noreferrer nofollow">https://www.allkpop.com/video/2022/06/enhypens-heeseung-shows-off-his-live-vocal-skills-with-his-cover-performances-on-leemujin-service-show</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Heeseung shows off his live vocal skills with his...After performing &quot;Tamed-Dashed,&quot; Heeseung covered three songs in total &quot;So...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/34159](https://weverse.io/enhypen/notice/34159)  
+   Link: <a href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/34159</a>  
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=IuaEJ64k5fw](https://www.youtube.com/watch?v=IuaEJ64k5fw)  
+   Link: <a href="https://www.youtube.com/watch?v=IuaEJ64k5fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IuaEJ64k5fw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Plays &#x27;Who Gets The Most Hype&#x27; | Billboard NewsThe boys of ENHYPEN play &#x27;Who Gets The Most Hype&#x27; during their last interview with...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: music-news.com  
    Title: HEESEUNG leaves ENHYPEN as K pop group continues with six members  
-   Link: [https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members](https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members)  
+   Link: <a href="https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members" target="_blank" rel="noopener noreferrer nofollow">https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HEESEUNG leaves ENHYPEN as K-pop group continues...10 Mar 2026 — ENHYPEN will continue as a six-member group after BELIFT LAB announced...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: shiningawards.com  
-   Link: [https://shiningawards.com/enhypens-live-vocals-without-heeseung-spark-controversy-member-issues-apology/](https://shiningawards.com/enhypens-live-vocals-without-heeseung-spark-controversy-member-issues-apology/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s [Live Vocals](&amp;#123;&amp;#123; &#x27;live-changes/&#x27; | relative_url &amp;#125;&amp;#125;) Without Heeseung Spark...The group, now performing without former member Heeseung (who goes by EVAN), took home ma...</p></details>
+   Link: <a href="https://shiningawards.com/enhypens-live-vocals-without-heeseung-spark-controversy-member-issues-apology/" target="_blank" rel="noopener noreferrer nofollow">https://shiningawards.com/enhypens-live-vocals-without-heeseung-spark-controversy-member-issues-apology/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Live Vocals Without Heeseung Spark...The group, now performing without former member Heeseung (who goes by EVAN), took home ma...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: hollywoodreporter.com  
    Title: enhypen heeseung departs kpop group belift soloist 1236525952  
-   Link: [https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/](https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/)  
+   Link: <a href="https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen&#x27;s Heeseung Leaves K-pop Group, Remains...10 Mar 2026 — K-pop company Belift Lab has announced that Enhypen member Heeseung will...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/lemon4926195126/7430983529947644421?region=us](https://www.lemon8-app.com/lemon4926195126/7430983529947644421?region=us)  
+   Link: <a href="https://www.lemon8-app.com/lemon4926195126/7430983529947644421?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/lemon4926195126/7430983529947644421?region=us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide to Enhypens oldest member heeseungSunoo, born on June 24, 2003, is the third youngest member of ENHYPEN and its talented lead vocal...</p></details>
    Published: June 24, 2003  
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
    Title: on march 10 2026 belift lab officially announced that heeseung will leave enhype  
-   Link: [https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/](https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/)  
+   Link: <a href="https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The group will now continue as a six-member team (Jungwon, Jay, Jake, Sunghoon...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FiloEngenesgroup/posts/ranking-enhypen-members-with-the-best-live-vocalsfan-voted-and-here-is-the-resul/831355936496620/](https://www.facebook.com/FiloEngenesgroup/posts/ranking-enhypen-members-with-the-best-live-vocalsfan-voted-and-here-is-the-resul/831355936496620/)  
+   Link: <a href="https://www.facebook.com/FiloEngenesgroup/posts/ranking-enhypen-members-with-the-best-live-vocalsfan-voted-and-here-is-the-resul/831355936496620/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FiloEngenesgroup/posts/ranking-enhypen-members-with-the-best-live-vocalsfan-voted-and-here-is-the-resul/831355936496620/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ung once again proved why he&#x27;s ENHYPEN&#x27;s vocal powerhouse.Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DNHrKphuZOm/](https://www.instagram.com/reel/DNHrKphuZOm/)  
+   Link: <a href="https://www.instagram.com/reel/DNHrKphuZOm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DNHrKphuZOm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>both emotional softer lines and powerful high notes, which...</p></details>

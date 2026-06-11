@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-s-177f17-members-after/
 description: Focused pages that expand on Members Now.
-date: '2026-06-09'
+date: '2026-06-11'
 layout: default
 parent_basename: Enhypen_the_S_177f17_members_after_f4153c
-parent_title: Members Now | Enhypen the South Korean band
+parent_title: Members Now
 parent_nav_short_title: Members Now
 parent_permalink: /members-now/
 ---

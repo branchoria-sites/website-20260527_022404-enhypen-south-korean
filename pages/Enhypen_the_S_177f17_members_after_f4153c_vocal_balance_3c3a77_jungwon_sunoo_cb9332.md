@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /vocal-balance/
 nav_short_title: Vocal Axis
 title: Can Jungwon and Sunoo Carry the New Sound?
-title_full: Can Jungwon and Sunoo Carry the New Sound? | Vocal balance
+title_full: Can Jungwon and Sunoo Carry the New Sound?
 display_title_short: Vocal Axis
 display_title: Vocal Axis
 heading_title: Can Jungwon and Sunoo Carry the New Sound?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 02:23:25'
-parent_title: Who Carries ENHYPEN's Vocals Now? | Members Now
+parent_title: Who Carries ENHYPEN's Vocals Now?
 parent_permalink: /vocal-balance/
 parent_nav_short_title: Vocal balance
 parent_heading_title: Who Carries ENHYPEN's Vocals Now?
@@ -265,7 +265,6 @@ image: /assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c
 
 After Heeseung’s departure, ENHYPEN’s vocal identity no longer revolves around one dominant climactic singer. Instead, the group’s centre of gravity shifts toward a partnership: Jungwon as the structural stabiliser and Sunoo as the emotional brightener. That change matters because ENHYPEN’s music has always depended on tension, atmosphere and sharply emotional choruses rather than relaxed pop phrasing. In a six-member lineup, the question is no longer who replaces Heeseung line-for-line, but whether Jungwon and Sunoo together can create a convincing new balance.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-1-dark.svg" | relative_url }}" alt="Vocal Axis illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The answer increasingly looks like yes, though not by copying the old arrangement. Jungwon and Sunoo succeed precisely because their voices do different jobs. Jungwon provides control, tonal consistency and identifiable texture. Sunoo adds lift, emotional openness and melodic brightness. Together, they reshape ENHYPEN into a group that sounds less vertically “main vocal”-driven and more dependent on contrast and interplay. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/arts-culture/music-stage/2026/03/11/who-is-heeseung-departing-member-of-enhypen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-title">who is heeseung departing member of enhypen</span><span class="citation-popover-snippet">The NationalWho is Heeseung, departing member of Enhypen?11 Mar 2026 — Within Enhypen, Heeseung was often described as the group&#x27;s musica...</span></span></span>
 
@@ -280,7 +279,6 @@ This is especially useful in ENHYPEN’s darker material. Tracks built around re
 There is also a psychological element to his role. As leader, Jungwon already functions as the group’s organisational centre publicly and on stage. A more structurally important vocal role naturally reinforces that perception. Instead of trying to dominate songs, he often sounds like the member guiding them from section to section. That is a subtle difference from Heeseung, whose vocal role often involved escalation and climax.
 
 The trade-off is that Jungwon alone cannot fully recreate the dramatic verticality Heeseung brought to major choruses. Some listeners already noted before the lineup shift that Jungwon’s tone could flatten slightly under certain demanding passages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/k19zk4/can_you_easily_identify_the_vocals_of_each_member/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">easily recognize which member is singing? Personally, I can only...</span></span></span> As a result, ENHYPEN’s newer arrangements benefit when his lines are supported by layered harmonies or contrasted with brighter voices rather than forcing him into nonstop peak-note duty.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jnt8mYLMJZM" title="ENHYPEN All Songs Line Distribution [from GIVEN-TAKEN to XO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jnt8mYLMJZM" target="_blank" rel="noopener noreferrer">ENHYPEN All Songs Line Distribution [from GIVEN-TAKEN to XO]</a></p><p class="youtube-embed-meta">Channel: K-STAT &middot; Views: 48.0K &middot; Uploaded: July 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jnt8mYLMJZM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jnt8mYLMJZM">Open on YouTube</a></p></div></div></div>
 
@@ -298,7 +296,6 @@ What changes now is not simply the number of lines he receives, but the type of 
 
 That may actually suit him better than some fans expected. Because Sunoo’s tone naturally feels expressive and slightly theatrical, he thrives in moments requiring emotional immediacy rather than technical intimidation. In six-member ENHYPEN, that becomes an advantage instead of a secondary trait.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-2-dark.svg" | relative_url }}" alt="Vocal Axis illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where Their Voices Work Best Together
 
@@ -307,7 +304,6 @@ The strongest version of the new vocal axis appears when Jungwon and Sunoo are n
 Their voices complement each other because they resolve opposite weaknesses. Jungwon’s tone is focused, controlled and rhythmically reliable, but can become emotionally narrow if isolated too long. Sunoo’s tone feels emotionally expansive and bright, but benefits from a firmer structural counterpart underneath. Together, they create movement inside choruses without needing one member to dominate every peak.
 
 This pairing works especially well in three situations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +317,6 @@ Importantly, this arrangement changes the way ENHYPEN songs breathe. Earlier tra
 
 It also helps compensate for the physical realities of ENHYPEN performances. Their choreography remains demanding, and distributing vocal pressure more evenly reduces the risk of obvious fatigue during live stages. Rather than assigning one member every difficult climax, the group can alternate intensity between Jungwon’s stability and Sunoo’s lift while Jay, Jake and others reinforce harmonies around them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/j0jete/opinion_voices_of_enhypen_members_in_live_singing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">He sounds great live, but when recorded, his voice doesn&#x27;t...Read more...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mbnM34IUceE" title="9 Minutes of Sunoo’s Live Vocals(Sunoo Live Vocal Compilation)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mbnM34IUceE" target="_blank" rel="noopener noreferrer">9 Minutes of Sunoo’s Live Vocals(Sunoo Live Vocal Compilation)</a></p><p class="youtube-embed-meta">Channel: Heesunki🦊 &middot; Views: 33.6K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mbnM34IUceE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mbnM34IUceE">Open on YouTube</a></p></div></div></div>
 
 ## The Biggest Challenge: Replacing Emotional Peaks Without Copying Heeseung
@@ -334,7 +329,6 @@ That means fans may notice fewer “hero note” moments and more emphasis on at
 
 In that sense, Jungwon and Sunoo are not replacements for Heeseung individually. They are the mechanism through which ENHYPEN transition away from depending on a single vocal centre altogether.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-3-dark.svg" | relative_url }}" alt="Vocal Axis illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Can Jungwon and Sunoo Carry the New Sound?
 
@@ -346,9 +340,7 @@ That combination changes ENHYPEN’s sound from singular to relational. The emot
 
 The six-member version of ENHYPEN therefore sounds most convincing not when it imitates the old centre, but when it leans fully into this new dual-axis approach.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ddT6MDgHV0" title="[Cover] ENHYPEN JUNGWON - Monster (원곡 : Shawn Mendes, Justin Bieber)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ddT6MDgHV0" target="_blank" rel="noopener noreferrer">[Cover] ENHYPEN JUNGWON - Monster (원곡 : Shawn Mendes, Justin Bieber)</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 6.9M &middot; Uploaded: February 2025 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ddT6MDgHV0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ddT6MDgHV0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -467,15 +459,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="https://i.ebayimg.com/images/g/TmwAAeSw4G1p-SMR/s-l225.jpg" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Jungwon Album Photocard Dimension Answer Yet Version"><img src="https://i.ebayimg.com/images/g/KBgAAeSwnhhpxpVd/s-l225.jpg" alt="Listing image for Enhypen Jungwon Album Photocard Dimension Answer Yet Version" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer">Enhypen Jungwon Album Photocard Dimension Answer Yet Version</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jungwon photocard ENHYPEN">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jungwon photocard ENHYPEN</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +475,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="https://i.ebayimg.com/images/g/zWAAAeSwJfBp5lX6/s-l225.jpg" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 5pcs/set ENHYPEN ROMANCE: UNTOLD Member Photo Cards HEESEUNG Self Made Photocard"><img src="https://i.ebayimg.com/images/g/kiYAAeSw22RpEvPO/s-l225.jpg" alt="Listing image for 5pcs/set ENHYPEN ROMANCE: UNTOLD Member Photo Cards HEESEUNG Self Made Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer">5pcs/set ENHYPEN ROMANCE: UNTOLD Member Photo Cards HEESEUNG Self Made Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jungwon photocard ENHYPEN">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jungwon photocard ENHYPEN</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +491,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Dark blood jungwon album photocard"><img src="https://i.ebayimg.com/images/g/OqcAAeSweUNqJYzj/s-l225.jpg" alt="Listing image for Enhypen Dark blood jungwon album photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer">Enhypen Dark blood jungwon album photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jungwon photocard ENHYPEN">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jungwon photocard ENHYPEN</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +507,15 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="https://i.ebayimg.com/images/g/fugAAeSwvb1p2N4s/s-l225.jpg" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official - Enhypen - The Sin: Vanish - Weverse - photocard - Jungwon"><img src="https://i.ebayimg.com/images/g/-yQAAeSwY6BpmL1B/s-l225.jpg" alt="Listing image for Official - Enhypen - The Sin: Vanish - Weverse - photocard - Jungwon" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer">Official - Enhypen - The Sin: Vanish - Weverse - photocard - Jungwon</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Jungwon photocard ENHYPEN">Search <span data-ebay-domain-label>eBay.co.uk</span>: Jungwon photocard ENHYPEN</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +523,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Jungwon+photocard+ENHYPEN&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Jungwon photocard ENHYPEN" data-ebay-reference="can-jungwon-and-sunoo-carry-the-new-sound-jungwon-photocard-enhypen" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,6 +733,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -863,7 +856,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
 23. <a id="endnote-23"></a>
    Source: koreaboo.com  
    Link: <a href="https://www.koreaboo.com/lists/enhypen-members-best-live-vocals-singer-singing-ranked/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/lists/enhypen-members-best-live-vocals-singer-singing-ranked/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking The ENHYPEN Members With The Best Live VocalsSep 21, 2025 — Ranking The ENHYPEN Members With The Best [Live Vocals](&amp;#123;&amp;#123; &#x27;live-changes/&#x27; | relative_url &amp;#125;&amp;#125;) · 7...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ranking The ENHYPEN Members With The Best Live VocalsSep 21, 2025 — Ranking The ENHYPEN Members With The Best Live Vocals · 7...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: kprofiles.com  
@@ -877,7 +870,7 @@ The six-member version of ENHYPEN therefore sounds most convincing not when it i
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Title: 9 Minutes of Sunoo’s Live Vocals (Sunoo [Live Vocal](&#123;&#123; 'live-changes/' | relative_url &#125;&#125;) Compilation)  
+   Title: 9 Minutes of Sunoo’s Live Vocals (Sunoo Live Vocal Compilation)  
    Link: <a href="https://www.youtube.com/watch?v=mbnM34IUceE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mbnM34IUceE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Jungwon Sunoo vocals compilation 9 Minutes of Sunoo’s Live Vocals(Sunoo Live Vocal Compilation) Heesunki🦊...</p></details>
 

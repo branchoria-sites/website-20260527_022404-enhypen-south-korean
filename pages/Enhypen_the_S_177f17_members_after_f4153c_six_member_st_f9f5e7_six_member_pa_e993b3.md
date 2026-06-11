@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /stage-changes/
 nav_short_title: Pair work
 title: How pair work changes ENHYPEN's stage picture
-title_full: How pair work changes ENHYPEN's stage picture | Stage changes
+title_full: How pair work changes ENHYPEN's stage picture
 display_title_short: Pair work
 display_title: Pair work
 heading_title: How pair work changes ENHYPEN's stage picture
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 02:23:24'
-parent_title: How Does Six Member ENHYPEN Move Onstage? | Members Now
+parent_title: How Does Six Member ENHYPEN Move Onstage?
 parent_permalink: /stage-changes/
 parent_nav_short_title: Stage changes
 parent_heading_title: How Does Six Member ENHYPEN Move Onstage?
@@ -263,8 +263,7 @@ image: /assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9
 
 ## Introduction
 
-ENHYPEN’s six-member choreography changes the stage picture by making pair work more important. Without a seventh member to sit naturally in the middle, formations cannot rely as easily on one fixed centre framed by three members on each side. Duos, mirrored pairs and ripple timing become the cleanest way to keep the group looking full, intentional and sharp. That matters because BELIFT LAB has confirmed ENHYPEN will continue as six [members after]({{ 'members-now/' | relative_url }}) Heeseung’s departure, with Jay, Jake, Sunghoon, Sunoo, Jungwon and Ni-ki carrying the group’s performances forward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN&#x27;s Future ActivitiesAs such, HEESEUNG will be parting ways with ENHYPEN, and ENHYPEN will continue official activi...</span></span></span>
-
+ENHYPEN’s six-member choreography changes the stage picture by making pair work more important. Without a seventh member to sit naturally in the middle, formations cannot rely as easily on one fixed centre framed by three members on each side. Duos, mirrored pairs and ripple timing become the cleanest way to keep the group looking full, intentional and sharp. That matters because BELIFT LAB has confirmed ENHYPEN will continue as six members after Heeseung’s departure, with Jay, Jake, Sunghoon, Sunoo, Jungwon and Ni-ki carrying the group’s performances forward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN&#x27;s Future ActivitiesAs such, HEESEUNG will be parting ways with ENHYPEN, and ENHYPEN will continue official activi...</span></span></span>
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-1-dark.svg" | relative_url }}" alt="Pair work illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Pair formations do not simply “fill a gap”. They change the grammar of the stage. A six-person ENHYPEN formation is often strongest when the viewer can read three connected duos, two mirrored trios, or a chain of movement passing from pair to pair. For fans, that means watching less for one permanent centre and more for how members answer, reflect or cut across each other.
@@ -279,19 +278,17 @@ For ENHYPEN, the payoff is visual density. Six bodies spread evenly across a lar
 
 This is why pair work can make six-member choreography feel tighter rather than smaller. The group loses one body, but gains a clearer need for visible relationships between the remaining bodies.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oiBLJPvGNc8" title="[MIX &amp; MAX] ENHYPEN JUNGWON &amp; NI-KI (정원 &amp; 니키) &#x27;Bleeding Darkness&#x27; (4K)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oiBLJPvGNc8" target="_blank" rel="noopener noreferrer">[MIX &amp; MAX] ENHYPEN JUNGWON &amp; NI-KI (정원 &amp; 니키) &#x27;Bleeding Darkness&#x27; (4K)</a></p><p class="youtube-embed-meta">Channel: STUDIO CHOOM [스튜디오 춤] &middot; Views: 19.2M &middot; Uploaded: April 2022 &middot; Length: 2 minutes 51 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oiBLJPvGNc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oiBLJPvGNc8">Open on YouTube</a></p></div></div></div>
 
 ## Which pairings create clear visual contrast
 
-The most useful ENHYPEN pairs are not always the ones that look identical. In [performance]({{ 'stages/' | relative_url }}) terms, contrast can be more interesting than sameness. A strong duo often works because the members share timing while differing in texture: one sharper, one smoother; one compact, one expansive; one emotionally bright, one cooler or more restrained.
+The most useful ENHYPEN pairs are not always the ones that look identical. In performance terms, contrast can be more interesting than sameness. A strong duo often works because the members share timing while differing in texture: one sharper, one smoother; one compact, one expansive; one emotionally bright, one cooler or more restrained.
 
 Jungwon and Ni-ki are the clearest reference point because their dance partnership has already been foregrounded outside full-group choreography. Studio Choom’s “Mix & Max” series launched with Jungwon and Ni-ki as its first pair performance, and Ni-ki later told Weverse Magazine that dancing as two rather than seven carried pressure because they had to perform with full energy from start to finish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Studio_Choom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Studio Choom</span><span class="citation-popover-snippet">Studio Choom</span></span></span>
 
 That comment is useful for understanding six-member ENHYPEN as a whole. Pair work exposes dancers. In a seven-member formation, a member can disappear briefly into a larger picture. In a duo, there is nowhere to hide: timing, weight, arm lines and facial focus all become easier to compare.
 
 Different pairings can therefore serve different stage functions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +300,6 @@ Different pairings can therefore serve different stage functions:
 </div>
 
 The key is not to assign permanent “best pairs”. It is to use pairing as a choreographic switchboard. A chorus may need mirrored stability; a bridge may need emotional contrast; a dance break may need the two strongest movement accents placed opposite each other.
-
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-2-dark.svg" | relative_url }}" alt="Pair work illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How ripples replace old centre shapes
@@ -318,7 +314,6 @@ This suits ENHYPEN’s darker, high-tension performance style. Their official �
 
 The six-member version of that logic does not need outside partners to work. The same principle can be internalised: members become reflections, shadows or opposing forces for each other.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AkioZY59-DA" title="ENHYPEN (엔하이픈) ‘No Doubt’ Dance Practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AkioZY59-DA" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘No Doubt’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 5.6M &middot; Uploaded: November 2024 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AkioZY59-DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AkioZY59-DA">Open on YouTube</a></p></div></div></div>
 
 ## Why mirrored moves raise the difficulty
@@ -331,7 +326,6 @@ For ENHYPEN, this raises the stakes of synchronisation. Their performances have 
 
 The tradeoff is clear. Six members can look more exposed, but they can also look faster and more precise. When the pair system is well designed, the absence of a single centre becomes less important because the whole stage keeps generating new focal points.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-3-dark.svg" | relative_url }}" alt="Pair work illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The new stage picture fans should watch for
 
@@ -341,9 +335,7 @@ That changes what fans should look for in performances. Instead of asking only w
 
 In that sense, pair formations are not a compromise. They are the mechanism that can make six-member ENHYPEN read as a redesigned performance unit rather than a reduced one.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gshIYm8iL04" title="ENHYPEN JUNGWON &amp; NI-KI - &#x27;Bleeding Darkness&#x27; REACTION!! (MIX &amp; MAX Studio Choom Performance)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gshIYm8iL04" target="_blank" rel="noopener noreferrer">ENHYPEN JUNGWON &amp; NI-KI - &#x27;Bleeding Darkness&#x27; REACTION!! (MIX &amp; MAX Studio Choom Performance)</a></p><p class="youtube-embed-meta">Channel: TriFate &middot; Views: 49.4K &middot; Uploaded: April 2022 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gshIYm8iL04" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gshIYm8iL04">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -462,15 +454,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size"><img src="https://i.ebayimg.com/images/g/fugAAeSwvb1p2N4s/s-l225.jpg" alt="Listing image for ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen The Sin Vanish Album Weverse POBs Photocard UK Seller"><img src="https://i.ebayimg.com/images/g/ALIAAeSwfPNpeKNr/s-l225.jpg" alt="Listing image for Enhypen The Sin Vanish Album Weverse POBs Photocard UK Seller" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN [WALK THE LINE IN JP] Zip-Up Hoodie No Photocard L Size</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen The Sin Vanish Album Weverse POBs Photocard UK Seller</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -478,15 +470,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Romance Untold Photocard"><img src="https://i.ebayimg.com/images/g/Y3oAAeSwK-9qJrcX/s-l225.jpg" alt="Listing image for Enhypen Romance Untold Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen Romance Untold Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -494,15 +486,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Fate Hoodie Size XL Band Tour"><img src="https://i.ebayimg.com/images/g/iKEAAeSwj~VpnbUA/s-l225.jpg" alt="Listing image for Enhypen Fate Hoodie Size XL Band Tour" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Official - Enhypen - The Sin Vanish Group QR Photocard Weverse"><img src="https://i.ebayimg.com/images/g/CiMAAeSwCBhpmK2R/s-l225.jpg" alt="Listing image for Official - Enhypen - The Sin Vanish Group QR Photocard Weverse" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">Enhypen Fate Hoodie Size XL Band Tour</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Official - Enhypen - The Sin Vanish Group QR Photocard Weverse</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -510,15 +502,15 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop"><img src="https://i.ebayimg.com/images/g/lEYAAeSwPABp-WIe/s-l225.jpg" alt="Listing image for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen popular jake official photo card collection"><img src="https://i.ebayimg.com/images/g/V9EAAeSwcM9p4cAj/s-l225.jpg" alt="Listing image for Enhypen popular jake official photo card collection" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">Enhypen popular jake official photo card collection</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -526,7 +518,7 @@ In that sense, pair formations are not a compromise. They are the mechanism that
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard" data-ebay-reference="how-pair-work-changes-enhypen-s-stage-picture-enhypen-photocard" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -736,6 +728,7 @@ In that sense, pair formations are not a compromise. They are the mechanism that
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -896,4 +889,4 @@ In that sense, pair formations are not a compromise. They are the mechanism that
 
 36. <a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/</a>  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/1qxqvy4/even_vs_odd_whats_better_for_kpop_groups_and/</a>

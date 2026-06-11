@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /stage-changes/
 nav_short_title: Ni ki bridge
 title: Why Ni ki matters more in six member stages
-title_full: Why Ni ki matters more in six member stages | Stage changes
+title_full: Why Ni ki matters more in six member stages
 display_title_short: Ni ki bridge
 display_title: Ni ki bridge
 heading_title: Why Ni ki matters more in six member stages
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 02:23:17'
-parent_title: How Does Six Member ENHYPEN Move Onstage? | Members Now
+parent_title: How Does Six Member ENHYPEN Move Onstage?
 parent_permalink: /stage-changes/
 parent_nav_short_title: Stage changes
 parent_heading_title: How Does Six Member ENHYPEN Move Onstage?
@@ -265,10 +265,8 @@ image: /assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9
 
 In a six-member version of ENHYPEN, Ni-ki becomes more than the group’s standout dancer. He becomes the bridge that keeps the stage visually connected. ENHYPEN’s choreography has always depended on fast formation swaps, sharp directional changes and a constant sense of momentum. When one member disappears from a formation built for seven bodies, the danger is not simply empty space. The danger is broken motion.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-1-dark.svg" | relative_url }}" alt="Ni ki bridge illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That is where Ni-ki matters most. His speed, body control and ability to redirect movement mid-transition help six-member [stages]({{ 'stages/' | relative_url }}) feel intentional instead of reduced. Fans often focus on his centre moments because they are visually explosive, but his real structural value is usually in the seconds between those highlights: the turns, crossings, resets and travelling motions that stop the choreography from looking visually thin. His technical reputation inside ENHYPEN has been established since debut, with members and interview profiles repeatedly highlighting how quickly he learns, teaches and adapts choreography. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">In just three months since forming, they&#x27;ve achieved significant milestones including breaking first-week sales records, performing at ye...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CaJa-eMfna4" title="[TUTORIAL] -&#x27;Trendsetter&#x27; by ENHYPEN NI-KI(니키) Artist Of The Month - STEP by STEP EXPLANATION" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CaJa-eMfna4" target="_blank" rel="noopener noreferrer">[TUTORIAL] -&#x27;Trendsetter&#x27; by ENHYPEN NI-KI(니키) Artist Of The Month - STEP by STEP EXPLANATION</a></p><p class="youtube-embed-meta">Channel: 88 Beats Dance &middot; Views: 62.6K &middot; Uploaded: May 2024 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CaJa-eMfna4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CaJa-eMfna4">Open on YouTube</a></p></div></div></div>
 
@@ -282,27 +280,25 @@ Ni-ki’s advantage is that he maintains clarity while moving at high speed. Fan
 
 One reason this works is his control over momentum. Many dancers hit the endpoint of a move strongly but lose energy during the travel phase. Ni-ki tends to perform the transition itself as part of the choreography. Even when repositioning, he keeps tension through the torso and directional intent through the shoulders and head. That makes the audience follow him naturally across the stage.
 
-This effect becomes even more noticeable in darker ENHYPEN concepts built around tension and pursuit. Songs like “Given-Taken” or “Future Perfect (Pass the MIC)” rely heavily on forceful directional movement rather than static elegance. Coverage and fan discussions around “Future Perfect” specifically highlighted how naturally Ni-ki suited the track’s hard-hitting choreography and [performance]({{ 'stages/' | relative_url }}) style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreaboo.com/news/enhypen-ni-ki-future-perfect-pass-mic-choreography-praise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">ENHYPEN&#x27;s Ni-Ki Gains Praise For Nailing The &quot;Future</span><span class="citation-popover-snippet">KoreabooENHYPEN&#x27;s Ni-Ki Gains Praise For Nailing The &quot;Future...July 11, 2022 — 11 Jul 2022 — ENHYPEN&#x27;s latest title track, “Future Perfe...</span><span class="citation-popover-meta">Published: July 11, 2022</span></span></span> In six-member arrangements, that same attack quality can compensate for the missing visual density.
+This effect becomes even more noticeable in darker ENHYPEN concepts built around tension and pursuit. Songs like “Given-Taken” or “Future Perfect (Pass the MIC)” rely heavily on forceful directional movement rather than static elegance. Coverage and fan discussions around “Future Perfect” specifically highlighted how naturally Ni-ki suited the track’s hard-hitting choreography and performance style. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreaboo.com/news/enhypen-ni-ki-future-perfect-pass-mic-choreography-praise/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">ENHYPEN&#x27;s Ni-Ki Gains Praise For Nailing The &quot;Future</span><span class="citation-popover-snippet">ENHYPEN&#x27;s Ni-Ki Gains Praise For Nailing The &quot;Future...July 11, 2022 — 11 Jul 2022 — ENHYPEN&#x27;s latest title track, “Future Perfe...</span><span class="citation-popover-meta">Published: July 11, 2022</span></span></span> In six-member arrangements, that same attack quality can compensate for the missing visual density.
 
-Another overlooked detail is spacing intelligence. Ni-ki has repeatedly been described by fans and fellow performers as unusually aware of stage geometry and synchronisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/l3xafw/enhypens_niki_is_an_exceptional_dancer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Enhypen&#x27;s Ni-Ki is an exceptional dancer: r/kpopthoughts</span><span class="citation-popover-snippet">RedditEnhypen&#x27;s Ni-Ki is an exceptional dancer: r/kpopthoughtsJanuary 24, 2021 — I heard that he was trained in dancing/or taught to dan...</span><span class="citation-popover-meta">Published: January 24, 2021</span></span></span> That matters because six-member choreography leaves less room for hidden adjustment. If a line opens too wide or collapses too early, the imbalance becomes obvious immediately.
+Another overlooked detail is spacing intelligence. Ni-ki has repeatedly been described by fans and fellow performers as unusually aware of stage geometry and synchronisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/l3xafw/enhypens_niki_is_an_exceptional_dancer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Enhypen&#x27;s Ni-Ki is an exceptional dancer: r/kpopthoughts</span><span class="citation-popover-snippet">Enhypen&#x27;s Ni-Ki is an exceptional dancer: r/kpopthoughtsJanuary 24, 2021 — I heard that he was trained in dancing/or taught to dan...</span><span class="citation-popover-meta">Published: January 24, 2021</span></span></span> That matters because six-member choreography leaves less room for hidden adjustment. If a line opens too wide or collapses too early, the imbalance becomes obvious immediately.
 
 In practice, this means Ni-ki often functions like a moving anchor. Even when he is not the centre, other members can time spacing changes against his motion because his pacing is reliable and physically precise.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LMZ2o96p0Yk" title="Enhypen Choreographer Reacting to K-Pop Dances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LMZ2o96p0Yk" target="_blank" rel="noopener noreferrer">Enhypen Choreographer Reacting to K-Pop Dances</a></p><p class="youtube-embed-meta">Channel: STEEZY &middot; Views: 421.0K &middot; Uploaded: October 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LMZ2o96p0Yk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LMZ2o96p0Yk">Open on YouTube</a></p></div></div></div>
 
 ## Why his timing changes the feel of synchronisation
 
-ENHYPEN’s reputation as a performance group depends heavily on synchronisation. Research into group dance synchrony consistently shows that audiences notice timing alignment not only in major moves but also in transitions and directional consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2107.13847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sync Up: Vision-based Practice Support for Synchronized Dancing</span><span class="citation-popover-snippet">arXivSyncUp: Vision-based Practice Support for Synchronized DancingJuly 29, 2021...</span><span class="citation-popover-meta">Published: July 29, 2021</span></span></span> In six-member choreography, those details become more visible because mirrored pairings expose even tiny timing gaps.
+ENHYPEN’s reputation as a performance group depends heavily on synchronisation. Research into group dance synchrony consistently shows that audiences notice timing alignment not only in major moves but also in transitions and directional consistency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2107.13847" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Sync Up: Vision-based Practice Support for Synchronized Dancing</span><span class="citation-popover-snippet">SyncUp: Vision-based Practice Support for Synchronized DancingJuly 29, 2021...</span><span class="citation-popover-meta">Published: July 29, 2021</span></span></span> In six-member choreography, those details become more visible because mirrored pairings expose even tiny timing gaps.
 
 Ni-ki’s technical value is partly that he rarely loses definition during acceleration. Many dancers can hit isolated movements sharply, but transitions often blur when the choreography speeds up. Ni-ki tends to maintain consistent angles even through rapid directional changes, which helps the entire formation appear tighter.
 
 This is one reason fans often describe him as making performances feel “bigger” than they are. It is not just charisma. It is movement continuity.
 
-There is also an important psychological effect on group synchronisation. Strong technical dancers often stabilise collective timing because other members unconsciously calibrate around them. Reddit discussions from dance-oriented fans repeatedly point to Ni-ki as the member who most visibly controls rhythm precision inside ENHYPEN performances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/w6rttr/niki_is_a_genius_idol_and_the_undeclared_ace_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditNI-KI is a Genius Idol and the Undeclared ACE of Enhypen!He has to match the level of his members so they have told him that he has...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/bangtan/comments/olyxid/210717_enhypen_dance_jam_live_included_permission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">210717 enhypen dance jam live included permission</span><span class="citation-popover-snippet">Reddit210717 ENHYPEN Dance JAM Live included Permission to...July 17, 2021 — Super casual but cute seeing them do some of the choreo, es...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span> In six-member stages, that stabilising effect becomes more important because there are fewer bodies smoothing over visual inconsistencies.
+There is also an important psychological effect on group synchronisation. Strong technical dancers often stabilise collective timing because other members unconsciously calibrate around them. Reddit discussions from dance-oriented fans repeatedly point to Ni-ki as the member who most visibly controls rhythm precision inside ENHYPEN performances. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/w6rttr/niki_is_a_genius_idol_and_the_undeclared_ace_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">NI-KI is a Genius Idol and the Undeclared ACE of Enhypen!He has to match the level of his members so they have told him that he has...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/bangtan/comments/olyxid/210717_enhypen_dance_jam_live_included_permission/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">210717 enhypen dance jam live included permission</span><span class="citation-popover-snippet">210717 ENHYPEN Dance JAM Live included Permission to...July 17, 2021 — Super casual but cute seeing them do some of the choreo, es...</span><span class="citation-popover-meta">Published: July 17, 2021</span></span></span> In six-member stages, that stabilising effect becomes more important because there are fewer bodies smoothing over visual inconsistencies.
 
-Interestingly, Ni-ki’s role is not always about dancing at maximum intensity. Some fans have noted that he deliberately scales back certain movements so the overall group picture remains clean rather than individually dominant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/k7tajt/if_enhypen_do_official_positions_at_least_more/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditIf Enhypen do official positions, at least more than half...After Niki, the best dancers would be either Jungwon, Heeseung, Jay an...</span></span></span> That restraint matters more in six-member performances, where overextension from one member can break formation balance very quickly.
-
+Interestingly, Ni-ki’s role is not always about dancing at maximum intensity. Some fans have noted that he deliberately scales back certain movements so the overall group picture remains clean rather than individually dominant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/k7tajt/if_enhypen_do_official_positions_at_least_more/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">If Enhypen do official positions, at least more than half...After Niki, the best dancers would be either Jungwon, Heeseung, Jay an...</span></span></span> That restraint matters more in six-member performances, where overextension from one member can break formation balance very quickly.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-2-dark.svg" | relative_url }}" alt="Ni ki bridge illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When centre moments help or unbalance the stage
@@ -321,7 +317,6 @@ This distinction matters because ENHYPEN’s performance identity has always dep
 
 A six-member arrangement therefore increases the importance of choreographic discipline around Ni-ki. His transitions can save visual flow, but if the staging relies on him too heavily, the performance risks losing the layered ensemble feeling that defines ENHYPEN at their best.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Nyx0Pz8cspQ" title="ENHYPEN NI-KI (니키) May 2024 Artist Of The Month Performance Practice" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Nyx0Pz8cspQ" target="_blank" rel="noopener noreferrer">ENHYPEN NI-KI (니키) May 2024 Artist Of The Month Performance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 2.7M &middot; Uploaded: May 2024 &middot; Length: 2 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Nyx0Pz8cspQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Nyx0Pz8cspQ">Open on YouTube</a></p></div></div></div>
 
 ## What fans may notice in future dance breaks
@@ -329,7 +324,6 @@ A six-member arrangement therefore increases the importance of choreographic dis
 Future six-member dance breaks will probably lean harder into travelling motion instead of static centre poses. That shift naturally benefits Ni-ki because travelling choreography is one of his strongest performance areas.
 
 Fans may notice several recurring patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -343,10 +337,9 @@ Fans may notice several recurring patterns:
 
 This could also push ENHYPEN toward a more kinetic stage identity overall. Their strongest performances already tend to feel like continuous motion rather than isolated highlight poses. Six-member choreography may intensify that style instead of weakening it.
 
-Ni-ki’s own background supports that direction. Since pre-debut, he has been recognised for quickly learning and teaching choreography, adapting movement styles and maintaining strong control at high speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">In just three months since forming, they&#x27;ve achieved significant milestones including breaking first-week sales records, performing at ye...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/enhypen/comments/j39urh/to_those_who_have_technical_knowledge_on_dancing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Those]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I know it&#x27;s between Heeseung, Jay, Jungwon and Sunghoon, but I&#x27;m</span><span class="citation-popover-snippet">RedditTo those who have technical knowledge on dancing, after...This is been on my mind for a while, and I decided to post it on this su...</span></span></span> skills become disproportionately valuable when choreography has to compensate for reduced formation density.
+Ni-ki’s own background supports that direction. Since pre-debut, he has been recognised for quickly learning and teaching choreography, adapting movement styles and maintaining strong control at high speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">In just three months since forming, they&#x27;ve achieved significant milestones including breaking first-week sales records, performing at ye...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/enhypen/comments/j39urh/to_those_who_have_technical_knowledge_on_dancing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit Those]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">I know it&#x27;s between Heeseung, Jay, Jungwon and Sunghoon, but I&#x27;m</span><span class="citation-popover-snippet">To those who have technical knowledge on dancing, after...This is been on my mind for a while, and I decided to post it on this su...</span></span></span> skills become disproportionately valuable when choreography has to compensate for reduced formation density.
 
 The result is that six-member ENHYPEN stages may look less traditionally symmetrical but more fluid. And in that version of the group, Ni-ki’s most important contribution is not simply being the best dancer onstage. It is making the movement between formations feel alive enough that the audience stops thinking about the missing seventh position altogether.
-
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-3-dark.svg" | relative_url }}" alt="Ni ki bridge illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -467,15 +460,15 @@ The result is that six-member ENHYPEN stages may look less traditionally symmetr
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Fate Hoodie Size XL Band Tour"><img src="https://i.ebayimg.com/images/g/iKEAAeSwj~VpnbUA/s-l225.jpg" alt="Listing image for Enhypen Fate Hoodie Size XL Band Tour" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NI-KI Poster"><img src="https://i.ebayimg.com/images/g/gqsAAeSwdkBqFPI6/s-l225.jpg" alt="Listing image for NI-KI Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">Enhypen Fate Hoodie Size XL Band Tour</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer">NI-KI Poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ni-ki poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ni-ki poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -483,15 +476,15 @@ The result is that six-member ENHYPEN stages may look less traditionally symmetr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop"><img src="https://i.ebayimg.com/images/g/lEYAAeSwPABp-WIe/s-l225.jpg" alt="Listing image for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN NI-KI EXHIBITION UNSEEN HYBE INSIGHT MINI POSTER SET"><img src="https://i.ebayimg.com/images/g/w5cAAOSwI79nG5Dm/s-l225.jpg" alt="Listing image for ENHYPEN NI-KI EXHIBITION UNSEEN HYBE INSIGHT MINI POSTER SET" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN NI-KI EXHIBITION UNSEEN HYBE INSIGHT MINI POSTER SET</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ni-ki poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ni-ki poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -499,15 +492,15 @@ The result is that six-member ENHYPEN stages may look less traditionally symmetr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="https://i.ebayimg.com/images/g/TmwAAeSw4G1p-SMR/s-l225.jpg" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ni-Ki Official Folded Mini Poster Enhypen 1st Album Dimension : Dilemma Kpop"><img src="https://i.ebayimg.com/images/g/RykAAOSwuhFhZlkH/s-l225.jpg" alt="Listing image for Ni-Ki Official Folded Mini Poster Enhypen 1st Album Dimension : Dilemma Kpop" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer">Ni-Ki Official Folded Mini Poster Enhypen 1st Album Dimension : Dilemma Kpop</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ni-ki poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ni-ki poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -515,15 +508,15 @@ The result is that six-member ENHYPEN stages may look less traditionally symmetr
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="https://i.ebayimg.com/images/g/zWAAAeSwJfBp5lX6/s-l225.jpg" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen 7th Mini Album The Sin : Vanish Fugitives Wevers Ver. Official Photocard"><img src="https://i.ebayimg.com/images/g/pxMAAeSw431pcxyx/s-l225.jpg" alt="Listing image for Enhypen 7th Mini Album The Sin : Vanish Fugitives Wevers Ver. Official Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen 7th Mini Album The Sin : Vanish Fugitives Wevers Ver. Official Photocard</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Ni-ki poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Ni-ki poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -531,7 +524,7 @@ The result is that six-member ENHYPEN stages may look less traditionally symmetr
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Ni-ki+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Ni-ki poster" data-ebay-reference="why-ni-ki-matters-more-in-six-member-stages-ni-ki-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -741,151 +734,152 @@ The result is that six-member ENHYPEN stages may look less traditionally symmetr
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
    Title: Ni-ki as the 4th gen main dancer (reposted without live chat)  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/](https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/)  
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hear me out on this, okay. There are a lot of great dancers in kpop and you can prefer any...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
    Title: Enhypen's Ni-Ki is an exceptional dancer: r/kpopthoughts  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/l3xafw/enhypens_niki_is_an_exceptional_dancer/](https://www.reddit.com/r/kpopthoughts/comments/l3xafw/enhypens_niki_is_an_exceptional_dancer/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditEnhypen&#x27;s Ni-Ki is an exceptional dancer: r/kpopthoughtsJanuary 24, 2021 — I heard that he was trained in dancing/or taught to dan...</p></details>
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/l3xafw/enhypens_niki_is_an_exceptional_dancer/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/l3xafw/enhypens_niki_is_an_exceptional_dancer/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen&#x27;s Ni-Ki is an exceptional dancer: r/kpopthoughtsJanuary 24, 2021 — I heard that he was trained in dancing/or taught to dan...</p></details>
    Published: January 24, 2021  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/w6rttr/niki_is_a_genius_idol_and_the_undeclared_ace_of/](https://www.reddit.com/r/kpopthoughts/comments/w6rttr/niki_is_a_genius_idol_and_the_undeclared_ace_of/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditNI-KI is a Genius Idol and the Undeclared ACE of Enhypen!He has to match the level of his members so they have told him that he has...</p></details>
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/w6rttr/niki_is_a_genius_idol_and_the_undeclared_ace_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/w6rttr/niki_is_a_genius_idol_and_the_undeclared_ace_of/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NI-KI is a Genius Idol and the Undeclared ACE of Enhypen!He has to match the level of his members so they have told him that he has...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: koreaboo.com  
    Title: ENHYPEN's Ni-Ki Gains Praise For Nailing The "Future  
-   Link: [https://www.koreaboo.com/news/enhypen-ni-ki-future-perfect-pass-mic-choreography-praise/](https://www.koreaboo.com/news/enhypen-ni-ki-future-perfect-pass-mic-choreography-praise/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KoreabooENHYPEN&#x27;s Ni-Ki Gains Praise For Nailing The &quot;Future...July 11, 2022 — 11 Jul 2022 — ENHYPEN&#x27;s latest title track, “Future Perfe...</p></details>
+   Link: <a href="https://www.koreaboo.com/news/enhypen-ni-ki-future-perfect-pass-mic-choreography-praise/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/news/enhypen-ni-ki-future-perfect-pass-mic-choreography-praise/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Ni-Ki Gains Praise For Nailing The &quot;Future...July 11, 2022 — 11 Jul 2022 — ENHYPEN&#x27;s latest title track, “Future Perfe...</p></details>
    Published: July 11, 2022  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: 210717 enhypen dance jam live included permission  
-   Link: [https://www.reddit.com/r/bangtan/comments/olyxid/210717_enhypen_dance_jam_live_included_permission/](https://www.reddit.com/r/bangtan/comments/olyxid/210717_enhypen_dance_jam_live_included_permission/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit210717 ENHYPEN Dance JAM Live included Permission to...July 17, 2021 — Super casual but cute seeing them do some of the choreo, es...</p></details>
+   Link: <a href="https://www.reddit.com/r/bangtan/comments/olyxid/210717_enhypen_dance_jam_live_included_permission/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/bangtan/comments/olyxid/210717_enhypen_dance_jam_live_included_permission/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>210717 ENHYPEN Dance JAM Live included Permission to...July 17, 2021 — Super casual but cute seeing them do some of the choreo, es...</p></details>
    Published: July 17, 2021  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Sync Up: Vision-based Practice Support for Synchronized Dancing  
-   Link: [https://arxiv.org/abs/2107.13847](https://arxiv.org/abs/2107.13847)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSyncUp: Vision-based Practice Support for Synchronized DancingJuly 29, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2107.13847" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.13847</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SyncUp: Vision-based Practice Support for Synchronized DancingJuly 29, 2021...</p></details>
    Published: July 29, 2021  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2503.19917](https://arxiv.org/abs/2503.19917)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivA Study on the Matching Rate of Dance Movements Using 2D Skeleton Detection and 3D Pose Estimation: Why Is SEVENTEEN&#x27;s Performance S...</p></details>
+   Link: <a href="https://arxiv.org/abs/2503.19917" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2503.19917</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Study on the Matching Rate of Dance Movements Using 2D Skeleton Detection and 3D Pose Estimation: Why Is SEVENTEEN&#x27;s Performance S...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/k7tajt/if_enhypen_do_official_positions_at_least_more/](https://www.reddit.com/r/kpopthoughts/comments/k7tajt/if_enhypen_do_official_positions_at_least_more/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIf Enhypen do official positions, at least more than half...After Niki, the best dancers would be either Jungwon, Heeseung, Jay an...</p></details>
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/k7tajt/if_enhypen_do_official_positions_at_least_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/k7tajt/if_enhypen_do_official_positions_at_least_more/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>If Enhypen do official positions, at least more than half...After Niki, the best dancers would be either Jungwon, Heeseung, Jay an...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: I know it's between Heeseung, Jay, Jungwon and Sunghoon, but I'm  
-   Link: [https://www.reddit.com/r/enhypen/comments/j39urh/to_those_who_have_technical_knowledge_on_dancing/](https://www.reddit.com/r/enhypen/comments/j39urh/to_those_who_have_technical_knowledge_on_dancing/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditTo those who have technical knowledge on dancing, after...This is been on my mind for a while, and I decided to post it on this su...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/j39urh/to_those_who_have_technical_knowledge_on_dancing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/j39urh/to_those_who_have_technical_knowledge_on_dancing/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>To those who have technical knowledge on dancing, after...This is been on my mind for a while, and I decided to post it on this su...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/](https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/)  
+   Link: <a href="https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e that they gave him the green light on that choreo.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/1bpiypw/what_do_you_see_the_members_doing_outside_of_music/](https://www.reddit.com/r/enhypen/comments/1bpiypw/what_do_you_see_the_members_doing_outside_of_music/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1bpiypw/what_do_you_see_the_members_doing_outside_of_music/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1bpiypw/what_do_you_see_the_members_doing_outside_of_music/</a>  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/p032s9/doesnt_niki_have_a_high_chance_featuring_in/](https://www.reddit.com/r/Enhypenthoughts/comments/p032s9/doesnt_niki_have_a_high_chance_featuring_in/)  
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/p032s9/doesnt_niki_have_a_high_chance_featuring_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/p032s9/doesnt_niki_have_a_high_chance_featuring_in/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And guess who fits this criteria. Yup, Enhypen. Ni-ki (or any En- member) would do so well! He&#x27;s...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
    Title: ENHYPE N Jungwon & Ni-ki  
-   Link: [https://www.reddit.com/r/kpop/comments/ywy9az/enhypen_jungwon_niki_run_bts_orig_bts_dance/](https://www.reddit.com/r/kpop/comments/ywy9az/enhypen_jungwon_niki_run_bts_orig_bts_dance/)  
+   Link: <a href="https://www.reddit.com/r/kpop/comments/ywy9az/enhypen_jungwon_niki_run_bts_orig_bts_dance/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/ywy9az/enhypen_jungwon_niki_run_bts_orig_bts_dance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Jungwon &amp; Ni-ki - Run BTS (orig. BTS) (Dance...Him and Jungwon both did amazing on this, they dance really well together too! Th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
    Title: 240510 trendsetter x humble covered by enhypen  
-   Link: [https://www.reddit.com/r/enhypen/comments/1cop1dn/240510_trendsetter_x_humble_covered_by_enhypen/](https://www.reddit.com/r/enhypen/comments/1cop1dn/240510_trendsetter_x_humble_covered_by_enhypen/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/1cop1dn/240510_trendsetter_x_humble_covered_by_enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1cop1dn/240510_trendsetter_x_humble_covered_by_enhypen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>240510 &#x27;Trendsetter&#x27; X &#x27;HUMBLE.&#x27; covered by ENHYPEN NI-KI...We already know he&#x27;s a dance genius, but he was so charismatic here and his...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
    Title: 201205 enhypen giventaken dance practice  
-   Link: [https://www.reddit.com/r/enhypen/comments/k75lti/201205_enhypen_giventaken_dance_practice/](https://www.reddit.com/r/enhypen/comments/k75lti/201205_enhypen_giventaken_dance_practice/)  
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/k75lti/201205_enhypen_giventaken_dance_practice/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/k75lti/201205_enhypen_giventaken_dance_practice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>201205 ENHYPEN &#x27;Given-Taken&#x27; Dance PracticeGiven-Taken has such a stunning choreography. I&#x27;m really impressed with the creativity of Doob...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: teenvogue.com  
-   Link: [https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom](https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom)  
+   Link: <a href="https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In just three months since forming, they&#x27;ve achieved significant milestones including breaking first-week sales records, performing at ye...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DT8K4aVjDzp/](https://www.instagram.com/reel/DT8K4aVjDzp/)  
+   Link: <a href="https://www.instagram.com/reel/DT8K4aVjDzp/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DT8K4aVjDzp/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Watching the formations today and seeing how the members intentionally left the middle open for Heeseung Hyung… it&#x27;s proof that no...Rea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LMZ2o96p0Yk](https://www.youtube.com/watch?v=LMZ2o96p0Yk)  
+   Link: <a href="https://www.youtube.com/watch?v=LMZ2o96p0Yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LMZ2o96p0Yk</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=04Wa5wr4r9I](http://www.youtube.com/watch?v=04Wa5wr4r9I)  
+   Link: <a href="http://www.youtube.com/watch?v=04Wa5wr4r9I" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=04Wa5wr4r9I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Ni-ki dance practice focus center ENHYPEN NI-KI (니키) May 2024 Artist Of The Month Performance Practice ENHYPEN...</p></details>
    Published: May 2024  
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
    Title: STEEZ Y Studio on Instagram: "Shoutout to you, Niki!  
-   Link: [https://www.instagram.com/reel/DF8mUepT5EW/?hl=en](https://www.instagram.com/reel/DF8mUepT5EW/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DF8mUepT5EW/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DF8mUepT5EW/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You don&#x27;t...Which one of the members of ENHYPEN ENHYPEN&#x27;S CHOREOGRAPHER (JUNG JAE HOON) do you feel like really does your choreography i...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FiloEngenesgroup/posts/its-been-two-years-since-ni-kis-legendary-studio-choom-artist-of-the-month-perfo/983513887947490/](https://www.facebook.com/FiloEngenesgroup/posts/its-been-two-years-since-ni-kis-legendary-studio-choom-artist-of-the-month-perfo/983513887947490/)  
+   Link: <a href="https://www.facebook.com/FiloEngenesgroup/posts/its-been-two-years-since-ni-kis-legendary-studio-choom-artist-of-the-month-perfo/983513887947490/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FiloEngenesgroup/posts/its-been-two-years-since-ni-kis-legendary-studio-choom-artist-of-the-month-perfo/983513887947490/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ormance that shows a deeper color of ENHYPEN is completed.” NI-KI&#x27;s...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=8sR0iS3C6kk](http://www.youtube.com/watch?v=8sR0iS3C6kk)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] 241005 - 241006 [WALK THE LINE](&amp;#123;&amp;#123; &#x27;stadium-tour/&#x27; | relative_url &amp;#125;&amp;#125;) IN GOYANG Moonstruck - ENHYPEN NI-KI FOCUS/엔하이픈 니키 직캠(fan cam)...</p></details>
+   Link: <a href="http://www.youtube.com/watch?v=8sR0iS3C6kk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8sR0iS3C6kk</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] 241005 - 241006 WALK THE LINE IN GOYANG Moonstruck - ENHYPEN NI-KI FOCUS/엔하이픈 니키 직캠(fan cam)...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=WIllGKaCl18](http://www.youtube.com/watch?v=WIllGKaCl18)  
+   Link: <a href="http://www.youtube.com/watch?v=WIllGKaCl18" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=WIllGKaCl18</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] 260116 Big Girls Don’t Cry 엔하이픈 니키 직캠 ENHYPEN NI-KI FOCUS FANCAM | THE SIN: VANISH SHOWCASE...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=CaJa-eMfna4](https://www.youtube.com/watch?v=CaJa-eMfna4)  
+   Link: <a href="https://www.youtube.com/watch?v=CaJa-eMfna4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CaJa-eMfna4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>STEP by STEP EXPLANATION. 62K views · 1 year ago. #niki #enhypen #...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: elle.com  
    Title: who are enhypen members  
-   Link: [https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/](https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/)  
+   Link: <a href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Since their debut, they&#x27;ve quickly risen to global fame, achieving milestones like headlining their first offline concert in 2022, perfor...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Nyx0Pz8cspQ](http://www.youtube.com/watch?v=Nyx0Pz8cspQ)  
+   Link: <a href="http://www.youtube.com/watch?v=Nyx0Pz8cspQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Nyx0Pz8cspQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>[입덕직캠] 엔하이픈 니키 직캠 4K &#x27;Outside&#x27; (ENHYPEN NI-KI FanCam) | @MCOUNTDOWN_2025.6.26...</p></details>
-   Published: May 2024  
+   Published: May 2024

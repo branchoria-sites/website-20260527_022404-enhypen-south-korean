@@ -27,7 +27,7 @@ sidebar_expanded_urls:
 - /members-now/
 nav_short_title: Stage changes
 title: How Does Six Member ENHYPEN Move Onstage?
-title_full: How Does Six Member ENHYPEN Move Onstage? | Members Now
+title_full: How Does Six Member ENHYPEN Move Onstage?
 display_title_short: Stage changes
 display_title: Stage changes
 heading_title: How Does Six Member ENHYPEN Move Onstage?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-05-27 02:22:54'
-parent_title: Who Is in ENHYPEN Now? | ENHYPEN
+parent_title: Who Is in ENHYPEN Now?
 parent_permalink: /members-now/
 parent_nav_short_title: Members Now
 parent_heading_title: Who Is in ENHYPEN Now?
@@ -264,8 +264,7 @@ image: /assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9
 
 ## Introduction
 
-ENHYPEN’s move from seven members to six changes more than line distribution. It changes the geometry of the group itself. For a [performance]({{ 'stages/' | relative_url }})-heavy act built on razor-sharp synchronisation, layered formations and dramatic centre switches, losing one body onstage alters how every chorus, transition and dance break reads to the audience.
-
+ENHYPEN’s move from seven members to six changes more than line distribution. It changes the geometry of the group itself. For a performance-heavy act built on razor-sharp synchronisation, layered formations and dramatic centre switches, losing one body onstage alters how every chorus, transition and dance break reads to the audience.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-1-dark.svg" | relative_url }}" alt="Stage changes illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The difference is especially noticeable because ENHYPEN spent years developing choreography around a seven-member structure. Their [stages]({{ 'stages/' | relative_url }}) often relied on asymmetry: one member in the middle, three balancing each side, or rotating triangles that expanded and collapsed around a centre figure. In a six-member version of ENHYPEN, choreographers have to rethink spacing, pairing logic and visual rhythm while still preserving the group’s intense identity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://enhypen.fandom.com/wiki/ENHYPEN_Choreography" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enhypen.fandom.com">[ENHYPEN Wiki]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enhypen.fandom.com</span><span class="citation-popover-snippet">ENHYPEN WikiENHYPEN ChoreographyENHYPEN Choreography are special choreography videos posted on ENHYPEN&#x27;s YouTube channel. Episodes. 1. &#x27;C...</span></span></span> Weverse Rather than making performances automatically weaker <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Open source on weverse.io.</span></span></span>, the shift pushes the group toward a different kind of stage design. Six-member ENHYPEN can look faster, cleaner and more aggressive in motion, but only if the choreography feels intentionally rebuilt instead of merely “missing” someone.
@@ -275,7 +274,6 @@ The difference is especially noticeable because ENHYPEN spent years developing c
 Seven-member choreography has a built-in visual advantage in K-pop: there is always a true centre. One member can stand in the middle while the others frame them symmetrically. ENHYPEN used this constantly in performances that emphasised theatrical imagery, especially in darker concepts where formations resembled circles, wings, corridors or shifting shadows.
 
 With six members, symmetry works differently. There is no single mathematical middle. Choreographers now have three main choices:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -293,7 +291,6 @@ The practical consequence is that six-member ENHYPEN stages are likely to rely m
 
 That can actually suit ENHYPEN’s performance personality. Their strongest stages already tend to feel kinetic rather than statuesque. The group often performs with a sense of momentum, where members cut through formations rather than simply posing inside them. A six-member arrangement naturally encourages that approach.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YVJ8tPG2zGE" title="[Artist Of The Month] Choreo-Record with ENHYPEN NI-KI(니키) | May 2024 (ENG/JPN)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YVJ8tPG2zGE" target="_blank" rel="noopener noreferrer">[Artist Of The Month] Choreo-Record with ENHYPEN NI-KI(니키) | May 2024 (ENG/JPN)</a></p><p class="youtube-embed-meta">Channel: STUDIO CHOOM [스튜디오 춤] &middot; Views: 991.3K &middot; Uploaded: May 2024 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YVJ8tPG2zGE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YVJ8tPG2zGE">Open on YouTube</a></p></div></div></div>
 
 ## The Loss of the “Hidden Buffer” in Synchronisation
@@ -302,7 +299,7 @@ Seven-member groups also benefit from something dancers quietly understand: odd-
 
 In six-member choreography, spacing errors become easier to notice because the stage balance is stricter. If one member arrives half a beat early in a mirrored pair formation, the audience can immediately see the asymmetry.
 
-That increases pressure on ENHYPEN’s strongest technical performers, especially Jungwon, Sunghoon and Ni-ki, who often anchor the group’s visual timing. Fans already associate ENHYPEN with disciplined synchronisation and high-intensity dance execution, partly because of how heavily the group leaned into performance identity from debut onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/k0ks9r/a_dancers_analysis_of_each_member_in_enhypen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditA dancer&#x27;s analysis of each member in Enhypen!November 25, 2020 — Yes Niki is definitely the best dancer in the group, I do believe...</span><span class="citation-popover-meta">Published: November 25, 2020</span></span></span>
+That increases pressure on ENHYPEN’s strongest technical performers, especially Jungwon, Sunghoon and Ni-ki, who often anchor the group’s visual timing. Fans already associate ENHYPEN with disciplined synchronisation and high-intensity dance execution, partly because of how heavily the group leaned into performance identity from debut onward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/k0ks9r/a_dancers_analysis_of_each_member_in_enhypen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A dancer&#x27;s analysis of each member in Enhypen!November 25, 2020 — Yes Niki is definitely the best dancer in the group, I do believe...</span><span class="citation-popover-meta">Published: November 25, 2020</span></span></span>
 
 A six-member setup means synchronisation stops being just an aesthetic bonus and becomes structural support. The choreography has fewer places to “hide”.
 
@@ -322,7 +319,6 @@ Second, he becomes more important as a centre destabiliser rather than just a ce
 
 Third, his physical scale and extension become more noticeable. In smaller formations, large movement quality reads even larger. His long lines and explosive directional changes naturally fill empty visual space that might otherwise feel exposed in a six-member arrangement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-snippet">Weverse MagazineNI-KI: “Moments like that make me think I was born to do this”17 Nov 2024 — Moments like that are so amazing that they ma...</span></span></span> Leisurebyte That does not mean ENHYPEN simply turns into <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leisurebyte.com/5-enhypen-ni-ki-dance-covers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leisurebyte.com">[leisurebyte.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leisurebyte.com</span><span class="citation-popover-title">5 enhypen ni ki dance covers</span><span class="citation-popover-snippet">5 Times ENHYPEN NI-KI&#x27;s Dance Covers Set the Stage...Apr 5, 2024 — ENHYPEN Ni-ki, captivates audiences with his magnetic presence and a...</span></span></span>“Ni-ki and backup dancers”. In fact, the challenge is the opposite. If choreography over-relies on him to generate energy, stages risk feeling unbalanced. The smarter approach is to use him as connective tissue between centres.
 
-
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-2-dark.svg" | relative_url }}" alt="Stage changes illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Pair Work Matters More Now
 
@@ -331,7 +327,6 @@ One of the biggest hidden changes in six-member choreography is the rise of pair
 Seven-member ENHYPEN often used one-versus-many visual storytelling: a central figure isolated from the group, then absorbed back into it. Six members naturally encourage duos and mirrored partnerships instead.
 
 That shift could benefit several member combinations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -347,7 +342,6 @@ It also opens the door for more canon-style choreography, where movements ripple
 
 Fans may notice that future stages feel less “packed” but more readable. Instead of constantly processing seven moving bodies, viewers can track cleaner visual conversations between members.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LMZ2o96p0Yk" title="Enhypen Choreographer Reacting to K-Pop Dances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LMZ2o96p0Yk" target="_blank" rel="noopener noreferrer">Enhypen Choreographer Reacting to K-Pop Dances</a></p><p class="youtube-embed-meta">Channel: STEEZY &middot; Views: 421.0K &middot; Uploaded: October 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LMZ2o96p0Yk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LMZ2o96p0Yk">Open on YouTube</a></p></div></div></div>
 
 ## Centre Distribution Becomes a Bigger Creative Choice
@@ -362,7 +356,6 @@ This may especially reshape how emotional climaxes are staged. Songs that previo
 
 The interesting part is that this can make performances feel more deliberate. Audiences become more aware of why a specific member is centred at a specific moment.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tLES93xqrkQ" title="Performer Reacts to Enhypen-TXT 2021 KBS 가요대축제 &#x27;Legend of KPOP&#x27; Dance Practice 댄서의 안무연습 반응" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tLES93xqrkQ" target="_blank" rel="noopener noreferrer">Performer Reacts to Enhypen-TXT 2021 KBS 가요대축제 &#x27;Legend of KPOP&#x27; Dance Practice 댄서의 안무연습 반응</a></p><p class="youtube-embed-meta">Channel: Jeff Avenue &middot; Views: 157.4K &middot; Uploaded: December 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tLES93xqrkQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tLES93xqrkQ">Open on YouTube</a></p></div></div></div>
 
 ## How Future Stages Can Feel Intentional Instead of Incomplete
@@ -372,7 +365,6 @@ The biggest danger for any group losing a member is visual comparison. Fans reme
 Six-member ENHYPEN works best when the choreography openly commits to being different.
 
 That likely means:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,14 +376,13 @@ That likely means:
 
 </div>
 
-The group’s advantage is that ENHYPEN were never purely formation-dependent performers. Their identity has always mixed athletic precision with emotional theatricality. Even fan discussions about standout stages frequently focus on atmosphere, intensity and commitment as much as exact choreography details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpop/comments/ua6wa2/enhypen_jungwon_niki_bleeding_darkness_m2_studio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ENHYPEN (Jungwon &amp; Ni-ki</span><span class="citation-popover-snippet">RedditENHYPEN (Jungwon &amp; Ni-ki) - Bleeding Darkness (M2 Studio...April 23, 2022 — ENHYPEN stands for storyline, phenomenal understanding...</span><span class="citation-popover-meta">Published: April 23, 2022</span></span></span>
+The group’s advantage is that ENHYPEN were never purely formation-dependent performers. Their identity has always mixed athletic precision with emotional theatricality. Even fan discussions about standout stages frequently focus on atmosphere, intensity and commitment as much as exact choreography details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpop/comments/ua6wa2/enhypen_jungwon_niki_bleeding_darkness_m2_studio/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ENHYPEN (Jungwon &amp; Ni-ki</span><span class="citation-popover-snippet">ENHYPEN (Jungwon &amp; Ni-ki) - Bleeding Darkness (M2 Studio...April 23, 2022 — ENHYPEN stands for storyline, phenomenal understanding...</span><span class="citation-popover-meta">Published: April 23, 2022</span></span></span>
 
 That gives the six-member lineup room to evolve rather than merely compensate.
 
 The most convincing future performances will probably be the ones that stop trying to recreate the feeling of seven people onstage and instead embrace the sharper edges of six: cleaner lines, harder contrasts, faster transitions and more exposed individuality.
 
 In that sense, the choreography challenge is also the group’s opportunity. ENHYPEN’s performances may become less about dense symmetry and more about movement tension — six members constantly pulling the stage picture apart and snapping it back together again.
-
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-3-dark.svg" | relative_url }}" alt="Stage changes illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -512,15 +503,15 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch"><img src="https://i.ebayimg.com/images/g/TmwAAeSw4G1p-SMR/s-l225.jpg" alt="Listing image for ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Walk the Line Summer Ed. A4 double-sided poster 210x297mm used"><img src="https://i.ebayimg.com/images/g/oTQAAeSwfwZqHha0/s-l225.jpg" alt="Listing image for ENHYPEN Walk the Line Summer Ed. A4 double-sided poster 210x297mm used" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Hoodie Mens Medium Black Tamed-Dashed Graphic Pullover K-Pop Merch</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Walk the Line Summer Ed. A4 double-sided poster 210x297mm used</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN dance poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN dance poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -528,15 +519,15 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop"><img src="https://i.ebayimg.com/images/g/lEYAAeSwPABp-WIe/s-l225.jpg" alt="Listing image for ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Poster 7 Pieces Slight Damage Collectible"><img src="https://i.ebayimg.com/images/g/xz8AAeSwlGRqHhbP/s-l225.jpg" alt="Listing image for Enhypen Poster 7 Pieces Slight Damage Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Niki Wear bastard PUNK PRINT APPLIQUE HOODIE Zip Up M Size Gray KPop</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen Poster 7 Pieces Slight Damage Collectible</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN dance poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN dance poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -544,15 +535,15 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie"><img src="https://i.ebayimg.com/images/g/zWAAAeSwJfBp5lX6/s-l225.jpg" alt="Listing image for &#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN poster clear file 5-piece set"><img src="https://i.ebayimg.com/images/g/FZsAAeSwVQlpkMis/s-l225.jpg" alt="Listing image for ENHYPEN poster clear file 5-piece set" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">&#x27;For Bastard Punk Print Applique Hoodie&#x27;/Ni-ki Enhypen Hoodie</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN poster clear file 5-piece set</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN dance poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN dance poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -560,15 +551,15 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard"><img src="https://i.ebayimg.com/images/g/dKwAAeSwpB1qBzRj/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Please read the description Clear file poster"><img src="https://i.ebayimg.com/images/g/oS8AAeSwlKlqEbrV/s-l225.jpg" alt="Listing image for ENHYPEN Please read the description Clear file poster" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR MANIFESTO in JAPAN Official Zip-Up Hoodie M Size No Photocard</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Please read the description Clear file poster</a>
         </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN hoodie</a>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN dance poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN dance poster</a>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
           </a>
         </div>
@@ -576,7 +567,7 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN hoodie" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+dance+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-does-six-member-enhypen-move-onstage-enhypen-dance-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN dance poster" data-ebay-reference="how-does-six-member-enhypen-move-onstage-enhypen-dance-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
@@ -786,192 +777,193 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: weverse.io  
-   Link: [https://weverse.io/enhypen/notice/34159](https://weverse.io/enhypen/notice/34159)  
+   Link: <a href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/34159</a>  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/enhypen/comments/k0ks9r/a_dancers_analysis_of_each_member_in_enhypen/](https://www.reddit.com/r/enhypen/comments/k0ks9r/a_dancers_analysis_of_each_member_in_enhypen/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditA dancer&#x27;s analysis of each member in Enhypen!November 25, 2020 — Yes Niki is definitely the best dancer in the group, I do believe...</p></details>
+   Link: <a href="https://www.reddit.com/r/enhypen/comments/k0ks9r/a_dancers_analysis_of_each_member_in_enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/k0ks9r/a_dancers_analysis_of_each_member_in_enhypen/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A dancer&#x27;s analysis of each member in Enhypen!November 25, 2020 — Yes Niki is definitely the best dancer in the group, I do believe...</p></details>
    Published: November 25, 2020  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/](https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/)  
+   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/pyon2q/niki_as_the_4th_gen_main_dancer_reposted_without/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hear me out on this, okay. There are a lot of great dancers in kpop and you can prefer any...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/xommra/niki_is_an_amazing_dancer_who_lives_for_dancing/](https://www.reddit.com/r/kpopthoughts/comments/xommra/niki_is_an_amazing_dancer_who_lives_for_dancing/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/xommra/niki_is_an_amazing_dancer_who_lives_for_dancing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/xommra/niki_is_an_amazing_dancer_who_lives_for_dancing/</a>  
 
 5. <a id="endnote-5"></a>
    Source: magazine.weverse.io  
-   Link: [https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&lang=en](https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&lang=en)  
+   Link: <a href="https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow">https://magazine.weverse.io/article/view/1269?artist=ENHYPEN&amp;lang=en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse MagazineNI-KI: “Moments like that make me think I was born to do this”17 Nov 2024 — Moments like that are so amazing that they ma...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: leisurebyte.com  
    Title: 5 enhypen ni ki dance covers  
-   Link: [https://www.leisurebyte.com/5-enhypen-ni-ki-dance-covers/](https://www.leisurebyte.com/5-enhypen-ni-ki-dance-covers/)  
+   Link: <a href="https://www.leisurebyte.com/5-enhypen-ni-ki-dance-covers/" target="_blank" rel="noopener noreferrer nofollow">https://www.leisurebyte.com/5-enhypen-ni-ki-dance-covers/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Times ENHYPEN NI-KI&#x27;s Dance Covers Set the Stage...Apr 5, 2024 — ENHYPEN Ni-ki, captivates audiences with his magnetic presence and a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: ENHYPEN (Jungwon & Ni-ki)  
-   Link: [https://www.reddit.com/r/kpop/comments/ua6wa2/enhypen_jungwon_niki_bleeding_darkness_m2_studio/](https://www.reddit.com/r/kpop/comments/ua6wa2/enhypen_jungwon_niki_bleeding_darkness_m2_studio/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditENHYPEN (Jungwon &amp; Ni-ki) - Bleeding Darkness (M2 Studio...April 23, 2022 — ENHYPEN stands for storyline, phenomenal understanding...</p></details>
+   Link: <a href="https://www.reddit.com/r/kpop/comments/ua6wa2/enhypen_jungwon_niki_bleeding_darkness_m2_studio/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/ua6wa2/enhypen_jungwon_niki_bleeding_darkness_m2_studio/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (Jungwon &amp; Ni-ki) - Bleeding Darkness (M2 Studio...April 23, 2022 — ENHYPEN stands for storyline, phenomenal understanding...</p></details>
    Published: April 23, 2022  
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/](https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/)  
+   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>o hyped to show it along with the members being so...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) ‘Bad Desire (With or Without You)’ Dance Practice  
-   Link: [http://www.youtube.com/watch?v=qhgYrr_3zhE](http://www.youtube.com/watch?v=qhgYrr_3zhE)  
+   Link: <a href="http://www.youtube.com/watch?v=qhgYrr_3zhE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=qhgYrr_3zhE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Outside&#x27; Dance Practice...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) 'Outside' Dance Practice  
-   Link: [http://www.youtube.com/watch?v=1sFHss7ZkvE](http://www.youtube.com/watch?v=1sFHss7ZkvE)  
+   Link: <a href="http://www.youtube.com/watch?v=1sFHss7ZkvE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=1sFHss7ZkvE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Fatal Trouble&#x27; Dance Practice...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) 'Fatal Trouble' Dance Practice  
-   Link: [http://www.youtube.com/watch?v=GwnvuL3QCdE](http://www.youtube.com/watch?v=GwnvuL3QCdE)  
+   Link: <a href="http://www.youtube.com/watch?v=GwnvuL3QCdE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=GwnvuL3QCdE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) ‘Knife’ Dance Practice...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) ‘Knife’ Dance Practice  
-   Link: [http://www.youtube.com/watch?v=vU43ebmiPRk](http://www.youtube.com/watch?v=vU43ebmiPRk)  
+   Link: <a href="http://www.youtube.com/watch?v=vU43ebmiPRk" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=vU43ebmiPRk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) ‘ParadoXXX Invasion’ Dance Practice...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: ENHYPEN (엔하이픈) ‘Parado XXX Invasion’ Dance Practice  
-   Link: [http://www.youtube.com/watch?v=6sav2WZJn_0](http://www.youtube.com/watch?v=6sav2WZJn_0)  
+   Link: <a href="http://www.youtube.com/watch?v=6sav2WZJn_0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6sav2WZJn_0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN dance practice choreography performance ENHYPEN (엔하이픈) ‘Bad Desire (With or Without You)’ Dance Practice ENHYPEN...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: enhypen.fandom.com  
-   Link: [https://enhypen.fandom.com/wiki/ENHYPEN_Choreography](https://enhypen.fandom.com/wiki/ENHYPEN_Choreography)  
+   Link: <a href="https://enhypen.fandom.com/wiki/ENHYPEN_Choreography" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/ENHYPEN_Choreography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN WikiENHYPEN ChoreographyENHYPEN Choreography are special choreography videos posted on ENHYPEN&#x27;s YouTube channel. Episodes. 1. &#x27;C...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: beliftlab.com  
-   Link: [https://beliftlab.com/artist/profile/ENHYPEN](https://beliftlab.com/artist/profile/ENHYPEN)  
+   Link: <a href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/ENHYPEN</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>빌리프랩 홈페이지: ENHYPEN30 Nov 2020 — ENHYPEN—consisting of JUNGWON, JAY, JAKE, SUNGHOON, SUNOO, and NI-KI—are a six-member multinational boy g...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=VVCa8_xDPAE](https://www.youtube.com/watch?v=VVCa8_xDPAE)  
+   Link: <a href="https://www.youtube.com/watch?v=VVCa8_xDPAE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VVCa8_xDPAE</a>  
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YVJ8tPG2zGE](https://www.youtube.com/watch?v=YVJ8tPG2zGE)  
+   Link: <a href="https://www.youtube.com/watch?v=YVJ8tPG2zGE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YVJ8tPG2zGE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NHYPEN NI-KI(니키) | Dance cover (4K)...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LMZ2o96p0Yk](https://www.youtube.com/watch?v=LMZ2o96p0Yk)  
+   Link: <a href="https://www.youtube.com/watch?v=LMZ2o96p0Yk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LMZ2o96p0Yk</a>  
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Nyx0Pz8cspQ](https://www.youtube.com/watch?v=Nyx0Pz8cspQ)  
+   Link: <a href="https://www.youtube.com/watch?v=Nyx0Pz8cspQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nyx0Pz8cspQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN NI-KI (니키) May 2024 Artist Of The Month...ENHYPEN NI-KI (니키) May 2024 Artist Of The Month Performance Practice... Ni-ki enhypen...</p></details>
    Published: May 2024  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=uBhVS-teHOk](https://www.youtube.com/watch?v=uBhVS-teHOk)  
+   Link: <a href="https://www.youtube.com/watch?v=uBhVS-teHOk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uBhVS-teHOk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A RETIRED DANCER&#x27;S POV— NI-KI x JUNGWON &quot;Bleeding...ENHYPEN JUNGWON &amp; NI-KI - &#x27;Bleeding Darkness&#x27; REACTION!!... A RETIRED DANCER&#x27;S POV—...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: CHOREOGRAPH Y REVIEW  
-   Link: [https://www.youtube.com/watch?v=zwhBfarbZGc](https://www.youtube.com/watch?v=zwhBfarbZGc)  
+   Link: <a href="https://www.youtube.com/watch?v=zwhBfarbZGc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zwhBfarbZGc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CHOREOGRAPHY REVIEW - ENHYPEN (엔하이픈) &#x27;Tamed...CHOREOGRAPHY REVIEW - ENHYPEN (엔하이픈) &#x27;Tamed-Dashed&#x27; Official MV + Dance Practice. 2.5K vie...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=p9KIQaMeaP0](https://www.youtube.com/watch?v=p9KIQaMeaP0)  
+   Link: <a href="https://www.youtube.com/watch?v=p9KIQaMeaP0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p9KIQaMeaP0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN NI-KI (니키) May 2024 Artist Of The Month...ENHYPEN NI-KI (니키) May 2024 Artist Of The Month Performance Practice #niki #enhypen #e...</p></details>
    Published: May 2024  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WOhuTjuv0fw](https://www.youtube.com/watch?v=WOhuTjuv0fw)  
+   Link: <a href="https://www.youtube.com/watch?v=WOhuTjuv0fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WOhuTjuv0fw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>he ascended. From the boy who danced with ghosts of legends to the artist who now stands untouchable...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=tLES93xqrkQ](https://www.youtube.com/watch?v=tLES93xqrkQ)  
+   Link: <a href="https://www.youtube.com/watch?v=tLES93xqrkQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tLES93xqrkQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Performer Reacts to Enhypen-TXT 2021 KBS 가요대축제...Performer Reacts to Enhypen &#x27;MAMA 2021 Dance Practice&#x27; | ANALYSIS | Jeff Avenue. Jeff A...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Enhypen](https://en.wikipedia.org/wiki/Enhypen)  
+   Link: <a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenThe group consists of six members: Jay, Jake, Sunghoon, Sunoo, Jungwon, and Ni-Ki. Originally a seven-piece ensemble, Heeseung...</p></details>
 
 ### Additional References
 
 26. <a id="endnote-26"></a>
    Source: beliftlab.com  
-   Link: [https://beliftlab.com/about/index](https://beliftlab.com/about/index)  
+   Link: <a href="https://beliftlab.com/about/index" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/about/index</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ABOUTBELIFT LAB is rapidly growing and always hiring! We are looking to recruit talent befitting BELIFT LAB for all areas including busin...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us](https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us)  
+   Link: <a href="https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Ni-Ki&#x27;s Iconic Black Hair &amp; Mesmerizing Dance...As an ENGENE, I&#x27;m completely obsessed with Ni-Ki&#x27;s incredible dance skills and h...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/%40danielachristianebeverly/7471684208981705262?region=us](https://www.lemon8-app.com/%40danielachristianebeverly/7471684208981705262?region=us)  
+   Link: <a href="https://www.lemon8-app.com/%40danielachristianebeverly/7471684208981705262?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/%40danielachristianebeverly/7471684208981705262?region=us</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Niki&#x27;s Angel Numbers Dance: Main Dancer...NumerologyNerd: This article beautifully illustrates how K-pop performers like Niki fr...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/](https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/)  
+   Link: <a href="https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BELIFT LAB Reaffirms ENHYPEN&#x27;s Heeseung Will Not...15 Mar 2026 — BELIFT LAB has shut down speculation that ENHYPEN member Heeseung might...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: bandwagon.asia  
-   Link: [https://www.bandwagon.asia/articles/get-to-know-the-team-behind-bts-jungkook-seven-choreographers-dancers-producers-han-sohee-latto-bighit-music-hybe-july-2023](https://www.bandwagon.asia/articles/get-to-know-the-team-behind-bts-jungkook-seven-choreographers-dancers-producers-han-sohee-latto-bighit-music-hybe-july-2023)  
+   Link: <a href="https://www.bandwagon.asia/articles/get-to-know-the-team-behind-bts-jungkook-seven-choreographers-dancers-producers-han-sohee-latto-bighit-music-hybe-july-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.bandwagon.asia/articles/get-to-know-the-team-behind-bts-jungkook-seven-choreographers-dancers-producers-han-sohee-latto-bighit-music-hybe-july-2023</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Get to know the team behind BTS&#x27; Jungkook&#x27;s &#x27;SEVEN&#x27;18 Jul 2023 — Recruiting a stacked lineup of premiere choreographers and top producers...</p></details>
    Published: july 2023  
 
 31. <a id="endnote-31"></a>
    Source: lemon8-app.com  
-   Link: [https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us](https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us)  
+   Link: <a href="https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us</a>  
 
 32. <a id="endnote-32"></a>
    Source: kstationtv.com  
-   Link: [https://kstationtv.com/2021/01/24/enhypen-ni-ki-expresses-himself-through-dance/?lang=en](https://kstationtv.com/2021/01/24/enhypen-ni-ki-expresses-himself-through-dance/?lang=en)  
+   Link: <a href="https://kstationtv.com/2021/01/24/enhypen-ni-ki-expresses-himself-through-dance/?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://kstationtv.com/2021/01/24/enhypen-ni-ki-expresses-himself-through-dance/?lang=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN: NI-KI expresses himself through danceDuring this performance, NI-KI decided to let his movements express themselves. With large...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: music-news.com  
    Title: HEESEUNG leaves ENHYPEN as K pop group continues with six members  
-   Link: [https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members](https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members)  
+   Link: <a href="https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members" target="_blank" rel="noopener noreferrer nofollow">https://www.music-news.com/news/UK/187661/HEESEUNG-leaves-ENHYPEN-as-K-pop-group-continues-with-six-members</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>HEESEUNG leaves ENHYPEN as K-pop group continues...10 Mar 2026 — ENHYPEN will continue as a six-member group after BELIFT LAB announced...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: hollywoodreporter.com  
    Title: enhypen heeseung departs kpop group belift soloist 1236525952  
-   Link: [https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/](https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/)  
+   Link: <a href="https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/music/music-news/enhypen-heeseung-departs-kpop-group-belift-soloist-1236525952/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen&#x27;s Heeseung Leaves K-pop Group, Remains...10 Mar 2026 — K-pop company Belift Lab has announced that Enhypen member Heeseung will...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
    Title: on march 10 2026 belift lab officially announced that heeseung will leave enhype  
-   Link: [https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/](https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/)  
+   Link: <a href="https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100064689317056/posts/on-march-10-2026-belift-lab-officially-announced-that-heeseung-will-leave-enhype/1434547185378245/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The group will now continue as a six-member team (Jungwon, Jay, Jake, Sunghoon...Read more...</p></details>
