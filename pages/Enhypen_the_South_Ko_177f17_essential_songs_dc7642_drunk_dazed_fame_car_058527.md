@@ -471,16 +471,16 @@ That balance explains why the song continues to occupy a distinctive place withi
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Frenzy+of+Renown%3A+Fame+and+Its+History+Leo+BRAUDY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Frenzy of Renown: Fame and Its History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Society+of+the+Spectacle+Guy+Debord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Society of the Spectacle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/913644-M.jpg" alt="Cover for The Society of the Spectacle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Frenzy+of+Renown%3A+Fame+and+Its+History+Leo+BRAUDY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Frenzy of Renown: Fame and Its History">The Frenzy of Renown: Fame and Its History</a>
+<a href="https://www.amazon.com/s?k=The+Society+of+the+Spectacle+Guy+Debord&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Society of the Spectacle">The Society of the Spectacle</a>
 </h4>
-<p class="fr-book-author">By Leo BRAUDY</p>
+<p class="fr-book-author">By Guy Debord, Guy Debord</p>
         
-<p class="fr-book-desc">First published 1986.</p>
+<p class="fr-book-desc">First published 1988. Subjects: Social psychology, Proletariat, Social classes, Social movements, Technology, social aspects.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Frenzy+of+Renown%3A+Fame+and+Its+History+Leo+BRAUDY&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Society+of+the+Spectacle+Guy+Debord&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
