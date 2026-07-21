@@ -264,16 +264,16 @@ image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d7
 
 ## Introduction
 
-ENHYPEN’s third world tour, WALK THE LINE, was the point where the group stopped looking like a fast-rising arena act and started looking like a full-scale global touring force. The change was not only about bigger venues. It was about how the concerts were built: longer stage extensions, stadium sightline planning, moving platforms, large LED environments and crowd interaction designed for tens of thousands of people at once. By opening the tour at Goyang Stadium in South Korea in October 2024, ENHYPEN signalled that they were ready to test whether their performance style could scale beyond tightly controlled arena choreography into something expansive without losing intimacy. Weverse <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span>
+ENHYPEN’s third world tour, WALK THE LINE, was the point where the group stopped looking like a fast-rising arena act and started looking like a full-scale global touring force. The change was not only about bigger venues. It was about how the concerts were built: longer stage extensions, stadium sightline planning, moving platforms, large LED environments and crowd interaction designed for tens of thousands of people at once. By opening the tour at Goyang Stadium in South Korea in October 2024, ENHYPEN signalled that they were ready to test whether their performance style could scale beyond tightly controlled arena choreography into something expansive without losing intimacy. Weverse<span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span>
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-1-dark.svg" | relative_url }}" alt="Stadium tour illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What made WALK THE LINE important to fans was that the group largely succeeded. The tour expanded across domes, stadiums and major arenas in Asia before adding a dedicated U.S. and European leg in 2025. Instead of abandoning the precise performance identity that built their reputation, ENHYPEN adapted it to larger physical spaces. The result was a tour that showed how K-pop staging changes once a group graduates from “performance-focused” to “stadium-capable”.
 
 ## Why Goyang Stadium mattered
 
-The decision to begin WALK THE LINE at Goyang Stadium carried symbolic weight inside the K-pop touring industry. Goyang Sports Complex Main Stadium is associated with acts that can fill large-scale domestic venues, and for ENHYPEN it represented a jump from arena-level touring into a category associated with top-tier concert demand. Korean coverage at the time described the opening weekend as a major milestone because it was the group’s first concert at a stadium with roughly 41,000 seats. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span>
+The decision to begin WALK THE LINE at Goyang Stadium carried symbolic weight inside the K-pop touring industry. Goyang Sports Complex Main Stadium is associated with acts that can fill large-scale domestic venues, and for ENHYPEN it represented a jump from arena-level touring into a category associated with top-tier concert demand. Korean coverage at the time described the opening weekend as a major milestone because it was the group’s first concert at a stadium with roughly 41,000 seats.<span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span>
 
-That mattered because ENHYPEN’s earlier tours had grown quickly but still followed a familiar progression: theatres and mid-sized arenas during MANIFESTO, then larger arena and dome dates during FATE. WALK THE LINE compressed the next step. Instead of cautiously adding one oversized venue near the end of a tour, the group opened with a stadium statement and built the rest of the routing outward from there. Official tour information positioned the Goyang concerts as the launch point before the move into Japanese dome cities including Tokyo, Fukuoka and Osaka. <span class="citation-chip-wrap"><a class="citation-chip" href="https://world.nol.com/en/content/festas/0191d94f-32a8-7770-9f77-761105f8de53" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.nol.com">[NOL World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.nol.com</span><span class="citation-popover-snippet">NOL WorldENHYPEN World Tour Walk The Line in GoyangJoin ENHYPEN&#x27;s third world tour, Walk The Line in Goyang, on Oct. 5–6, 2024 at Goyang...</span></span></span>
+That mattered because ENHYPEN’s earlier tours had grown quickly but still followed a familiar progression: theatres and mid-sized arenas during MANIFESTO, then larger arena and dome dates during FATE. WALK THE LINE compressed the next step. Instead of cautiously adding one oversized venue near the end of a tour, the group opened with a stadium statement and built the rest of the routing outward from there. Official tour information positioned the Goyang concerts as the launch point before the move into Japanese dome cities including Tokyo, Fukuoka and Osaka.<span class="citation-chip-wrap"><a class="citation-chip" href="https://world.nol.com/en/content/festas/0191d94f-32a8-7770-9f77-761105f8de53" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: world.nol.com">[NOL World]</a><span class="citation-popover" role="note"><span class="citation-popover-source">world.nol.com</span><span class="citation-popover-snippet">NOL WorldENHYPEN World Tour Walk The Line in GoyangJoin ENHYPEN&#x27;s third world tour, Walk The Line in Goyang, on Oct. 5–6, 2024 at Goyang...</span></span></span>
 
 For fans inside the venue, the scale shift was visible immediately. Stadium staging forced ENHYPEN to widen formations, redesign travel paths across the stage and think differently about camera direction. A dance move that reads clearly in an arena can disappear in a stadium unless it is supported by lighting, screens and movement across multiple stage zones. WALK THE LINE therefore relied heavily on layered visual design rather than a single frontal performance platform.
 
@@ -283,7 +283,7 @@ The group also had to solve a common stadium-tour problem: preserving emotional 
 
 ## How multi-stage layouts changed the concert experience
 
-One of the most noticeable differences between WALK THE LINE and ENHYPEN’s earlier tours was the physical stage geography. Fan discussions from the Goyang shows repeatedly mentioned multiple extended sections reaching deeper into the audience rather than a simple runway attached to the main stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
+One of the most noticeable differences between WALK THE LINE and ENHYPEN’s earlier tours was the physical stage geography. Fan discussions from the Goyang shows repeatedly mentioned multiple extended sections reaching deeper into the audience rather than a simple runway attached to the main stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">r/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</span><span class="citation-popover-meta">Published: January 4, 2025</span></span></span>
 
 That layout changed how the concert felt depending on where a fan was seated. Instead of prioritising only the central floor area, the production created shifting focal points throughout the night. Members rotated between the main stage, forward extensions and rear performance areas, making the show feel less static in large venues.
 
@@ -299,7 +299,7 @@ The design choice also matched ENHYPEN’s strengths as performers. Their choreo
 
 This approach helped the group avoid a common stadium-tour problem where choreography-heavy acts appear visually trapped at one end of the venue.
 
-Reports from the U.S. leg described a T-shaped extended stage combined with large LED screens, moving platforms, lasers and pyrotechnics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melodicmag.com">[MELODIC Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melodicmag.com</span><span class="citation-popover-snippet">// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span> The technical scale mattered, but the more interesting point was how those elements were used to preserve fan visibility. Even in venues holding well over 15,000 people, the members were rarely stationary for long.
+Reports from the U.S. leg described a T-shaped extended stage combined with large LED screens, moving platforms, lasers and pyrotechnics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melodicmag.com">[MELODIC Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melodicmag.com</span><span class="citation-popover-snippet">// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span> The technical scale mattered, but the more interesting point was how those elements were used to preserve fan visibility. Even in venues holding well over 15,000 people, the members were rarely stationary for long.
 
 The production scale also became more cinematic than earlier tours. WALK THE LINE leaned heavily into dramatic transitions between dark fantasy material, aggressive dance tracks and brighter crowd songs. ENHYPEN had already developed a reputation for theatrical concept performance through songs such as “Drunk-Dazed”, “Bite Me” and “Fever”, but the tour staging amplified that identity with fire effects, giant screen environments and large-scale lighting cues designed for stadium viewing rather than phone-camera close-ups.
 
@@ -308,9 +308,9 @@ At the same time, the concerts still included moments deliberately engineered fo
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-2-dark.svg" | relative_url }}" alt="Stadium tour illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Japan dome and Asian stadium expansion
 
-Although the Goyang opening received the most symbolic attention, the broader Asian routing showed the real scale of the tour. WALK THE LINE expanded through Japanese domes and later added major stadium dates in the Philippines, Thailand and Japan itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...[Concert Information] ▷ Concert...</span></span></span>
+Although the Goyang opening received the most symbolic attention, the broader Asian routing showed the real scale of the tour. WALK THE LINE expanded through Japanese domes and later added major stadium dates in the Philippines, Thailand and Japan itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...[Concert Information] ▷ Concert...</span></span></span>
 
-Japan was especially important because dome touring remains one of the clearest measurements of sustained K-pop demand outside Korea. The tour included Belluna Dome, Kyocera Dome and PayPay Dome before later adding stadium dates such as Ajinomoto Stadium and Yanmar Stadium Nagai. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/25381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[Notice] 『ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN... 【Schedule・Concert Venue】 [Tokyo] AJINOMOTO STADIUM Satu...</span></span></span>
+Japan was especially important because dome touring remains one of the clearest measurements of sustained K-pop demand outside Korea. The tour included Belluna Dome, Kyocera Dome and PayPay Dome before later adding stadium dates such as Ajinomoto Stadium and Yanmar Stadium Nagai.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/25381" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[Notice] 『ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN... 【Schedule・Concert Venue】 [Tokyo] AJINOMOTO STADIUM Satu...</span></span></span>
 
 That routing reflected a transition in ENHYPEN’s audience profile. Earlier tours proved they could attract committed fans internationally. WALK THE LINE tested whether that support could scale repeatedly across multiple large-capacity markets in succession. The tour structure suggested confidence not only in ticket demand but also in the group’s ability to physically sustain stadium-level production schedules.
 
@@ -320,7 +320,7 @@ It also changed expectations around what kind of act ENHYPEN were becoming. Duri
 
 ## What the U.S. and Europe legs proved
 
-The 2025 U.S. and European expansion may have been the clearest sign that WALK THE LINE was not just a regional success story. Official announcements placed ENHYPEN in major venues across New York, Chicago, Houston, Los Angeles, London, Paris, Berlin and other cities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmostadium.com">[BMO Stadium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmostadium.com</span><span class="citation-popover-title">BMO Stadium ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S</span><span class="citation-popover-snippet">&amp;...ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S. &amp; EUROPEAN LEG OF &#x27;WALK THE LINE&#x27; WORLD TOUR. PRESALES FOR ENGENE MEMBERS START APRIL 23. G...</span></span></span> Weverse The routing itself was revealing. The tour did not rely entirely on theatres or conservative market testing. Instead <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...[Concert Information] ▷ Concert...</span></span></span>, it included large arenas such as The O2 in London, Accor Arena in Paris and United Center in Chicago, along with BMO Stadium in Los Angeles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ao-arena.com/events/detail/enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ao-arena.com">[ao-arena.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ao-arena.com</span><span class="citation-popover-snippet">Us · Sign-Up. ENHYPEN. WORLD TOUR &#x27;WALK THE LINE&#x27; IN EUROPE. Buy Tickets · Buy Premium. Date. 25 Aug, 2025. Event Starts. 7:30 PM. Availa...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmostadium.com">[BMO Stadium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmostadium.com</span><span class="citation-popover-title">BMO Stadium ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S</span><span class="citation-popover-snippet">&amp;...ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S. &amp; EUROPEAN LEG OF &#x27;WALK THE LINE&#x27; WORLD TOUR. PRESALES FOR ENGENE MEMBERS START APRIL 23. G...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For European fans especially]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Enhypen live performances</span><span class="citation-popover-snippet">List of Enhypen live performancesTour by Enhypen · Manifesto World Tour (2022–23); Fate World Tour (2023–24); Walk The Line Tour (2024...</span></span></span>, the tour carried extra emotional weight because it marked ENHYPEN’s first dedicated European run. Coverage after the concerts repeatedly highlighted how strongly audiences responded despite the group entering some markets later than many peer acts. [조선일보]
+The 2025 U.S. and European expansion may have been the clearest sign that WALK THE LINE was not just a regional success story. Official announcements placed ENHYPEN in major venues across New York, Chicago, Houston, Los Angeles, London, Paris, Berlin and other cities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmostadium.com">[BMO Stadium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmostadium.com</span><span class="citation-popover-title">BMO Stadium ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S</span><span class="citation-popover-snippet">&amp;...ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S. &amp; EUROPEAN LEG OF &#x27;WALK THE LINE&#x27; WORLD TOUR. PRESALES FOR ENGENE MEMBERS START APRIL 23. G...</span></span></span> Weverse The routing itself was revealing. The tour did not rely entirely on theatres or conservative market testing. Instead<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...[Concert Information] ▷ Concert...</span></span></span>, it included large arenas such as The O2 in London, Accor Arena in Paris and United Center in Chicago, along with BMO Stadium in Los Angeles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ao-arena.com/events/detail/enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ao-arena.com">[ao-arena.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ao-arena.com</span><span class="citation-popover-snippet">Us · Sign-Up. ENHYPEN. WORLD TOUR &#x27;WALK THE LINE&#x27; IN EUROPE. Buy Tickets · Buy Premium. Date. 25 Aug, 2025. Event Starts. 7:30 PM. Availa...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bmostadium.com">[BMO Stadium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bmostadium.com</span><span class="citation-popover-title">BMO Stadium ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S</span><span class="citation-popover-snippet">&amp;...ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S. &amp; EUROPEAN LEG OF &#x27;WALK THE LINE&#x27; WORLD TOUR. PRESALES FOR ENGENE MEMBERS START APRIL 23. G...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For European fans especially]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of Enhypen live performances</span><span class="citation-popover-snippet">List of Enhypen live performancesTour by Enhypen · Manifesto World Tour (2022–23); Fate World Tour (2023–24); Walk The Line Tour (2024...</span></span></span>, the tour carried extra emotional weight because it marked ENHYPEN’s first dedicated European run. Coverage after the concerts repeatedly highlighted how strongly audiences responded despite the group entering some markets later than many peer acts. [조선일보]
 
 The European dates demonstrated two things at once:
 
@@ -329,18 +329,18 @@ The European dates demonstrated two things at once:
 
 That second point matters. Some acts succeed internationally because of chart visibility or viral songs but struggle to fill large venues consistently. WALK THE LINE suggested ENHYPEN’s reputation as a live-performance group had become portable across markets.
 
-The U.S. leg reinforced the same idea from a production angle. Reports from New York and Los Angeles described loud crowd participation, full-scale staging effects and arena environments designed around audience immersion rather than simple replication of Korean concert layouts. Bandwagon Music <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melodicmag.com">[MELODIC Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melodicmag.com</span><span class="citation-popover-snippet">// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
+The U.S. leg reinforced the same idea from a production angle. Reports from New York and Los Angeles described loud crowd participation, full-scale staging effects and arena environments designed around audience immersion rather than simple replication of Korean concert layouts. Bandwagon Music<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melodicmag.com">[MELODIC Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melodicmag.com</span><span class="citation-popover-snippet">// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
 
 Importantly, ENHYPEN did not completely redesign themselves for Western touring. The concerts still leaned heavily on the group’s established theatrical identity, intense choreography and fantasy imagery. What changed was the scale of delivery. WALK THE LINE made it clear that ENHYPEN’s style could survive enlargement.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-3-dark.svg" | relative_url }}" alt="Stadium tour illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The trade-off between spectacle and precision
 
-Not every consequence of the bigger tour scale was automatically positive. Some fans and reviewers noted that WALK THE LINE occasionally felt shorter or more streamlined than previous tours, likely because stadium logistics and heavy production pacing change how concerts are structured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.broadwayworld.com/bwwmusic/article/Concert-Review-ENHYPEN-Kicks-Off-WALK-THE-LINE-US-Tour-in-New-York-With-Energy-and-Charisma-20250807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: broadwayworld.com">[BroadwayWorld]</a><span class="citation-popover" role="note"><span class="citation-popover-source">broadwayworld.com</span><span class="citation-popover-snippet">Concert Review: ENHYPEN Kicks Off WALK THE LINE...August 7, 2025 — 7 Aug 2025 — Walk The Line is overall a much shorter sho...</span><span class="citation-popover-meta">Published: August 7, 2025</span></span></span>
+Not every consequence of the bigger tour scale was automatically positive. Some fans and reviewers noted that WALK THE LINE occasionally felt shorter or more streamlined than previous tours, likely because stadium logistics and heavy production pacing change how concerts are structured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.broadwayworld.com/bwwmusic/article/Concert-Review-ENHYPEN-Kicks-Off-WALK-THE-LINE-US-Tour-in-New-York-With-Energy-and-Charisma-20250807" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: broadwayworld.com">[BroadwayWorld]</a><span class="citation-popover" role="note"><span class="citation-popover-source">broadwayworld.com</span><span class="citation-popover-snippet">Concert Review: ENHYPEN Kicks Off WALK THE LINE...August 7, 2025 — 7 Aug 2025 — Walk The Line is overall a much shorter sho...</span><span class="citation-popover-meta">Published: August 7, 2025</span></span></span>
 
 That tension is common in large-scale touring. As venues become larger, productions often sacrifice spontaneity in favour of timing precision, stage resets and technical coordination. ENHYPEN’s challenge was especially difficult because their identity depends on tightly controlled choreography.
 
-WALK THE LINE therefore became a balancing act between two versions of ENHYPEN: <span class="citation-chip-wrap"><a class="citation-chip" href="https://kpop.fandom.com/wiki/ENHYPEN_World_Tour_%27Walk_the_Line%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpop.fandom.com">[kpop.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpop.fandom.com</span><span class="citation-popover-title">ENHYPEN World Tour &#x27;Walk the Line</span><span class="citation-popover-snippet">On September 2, 2024, Belift Lab announced the dates for ENHYPEN&#x27;s third world tour.Read more...</span><span class="citation-popover-meta">Published: September 2, 2024</span></span></span>
+WALK THE LINE therefore became a balancing act between two versions of ENHYPEN:<span class="citation-chip-wrap"><a class="citation-chip" href="https://kpop.fandom.com/wiki/ENHYPEN_World_Tour_%27Walk_the_Line%27" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kpop.fandom.com">[kpop.fandom.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kpop.fandom.com</span><span class="citation-popover-title">ENHYPEN World Tour &#x27;Walk the Line</span><span class="citation-popover-snippet">On September 2, 2024, Belift Lab announced the dates for ENHYPEN&#x27;s third world tour.Read more...</span><span class="citation-popover-meta">Published: September 2, 2024</span></span></span>
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -351,199 +351,199 @@ WALK THE LINE therefore became a balancing act between two versions of ENHYPEN: 
 
 The impressive part was not that the group solved every problem perfectly. It was that the tour showed they could adapt without losing the core qualities fans recognised immediately. Even at stadium scale, audiences still talked about synchronisation, dramatic concepts and emotional crowd interaction rather than only production budget.
 
-That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where ENHYPEN proved that their performance identity could survive growth instead of being flattened by it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melodicmag.com">[MELODIC Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melodicmag.com</span><span class="citation-popover-snippet">// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
+That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where ENHYPEN proved that their performance identity could survive growth instead of being flattened by it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreajoongangdaily.joins.com">[Korea Joongang Daily]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreajoongangdaily.joins.com</span><span class="citation-popover-title">5 and 6.Read more</span><span class="citation-popover-snippet">Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: melodicmag.com">[MELODIC Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">melodicmag.com</span><span class="citation-popover-snippet">// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</span><span class="citation-popover-meta">Published: August 15, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7gI0OsztEGs" title="ENHYPEN &#x27;WALK THE LINE&#x27; TOUR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7gI0OsztEGs" target="_blank" rel="noopener noreferrer">ENHYPEN &#x27;WALK THE LINE&#x27; TOUR</a></p><p class="youtube-embed-meta">Channel: aegpresents &middot; Views: 655.3K &middot; Uploaded: May 2025 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7gI0OsztEGs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7gI0OsztEGs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How WALK THE LINE made ENHYPEN bigger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How WALK THE LINE made ENHYPEN bigger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Croft</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
+</h4>
+<p class="fr-book-author">By Malcolm Croft</p>
         
-        <p class="fr-book-desc">Provides wider context for global touring, fandom and performance escalation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider context for global touring, fandom and performance escalation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond the Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjvFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Beyond the Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the Story">Beyond the Story</a>
-        </h4>
-        <p class="fr-book-author">By BTS, Myeongseok Kang</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond the Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjvFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Beyond the Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the Story">Beyond the Story</a>
+</h4>
+<p class="fr-book-author">By BTS, Myeongseok Kang</p>
         
-        <p class="fr-book-desc">Highly relevant to readers interested in HYBE-scale touring and stadium growth.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highly relevant to readers interested in HYBE-scale touring and stadium growth.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
+</h4>
+<p class="fr-book-author">By Jessica Jung</p>
         
-        <p class="fr-book-desc">Covers the personal and professional pressures behind idol success.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the personal and professional pressures behind idol success.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
+</h4>
+<p class="fr-book-author">By Stephan Lee</p>
         
-        <p class="fr-book-desc">Relevant to the transition from trainee-level performance to global touring culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to the transition from trainee-level performance to global touring culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the Story</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the Story</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Shine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition"><img src="https://i.ebayimg.com/images/g/ewUAAeSwgcVp3qwA/s-l225.jpg" alt="Listing image for ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition"><img src="https://i.ebayimg.com/images/g/ewUAAeSwgcVp3qwA/s-l225.jpg" alt="Listing image for ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Walk The Line Tour Movie Poster 27x40 S/S In Cinemas Limited Edition</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WALK THE LINE Movie Admission Bonus Poster Bookmark"><img src="https://i.ebayimg.com/images/g/0-wAAeSw9WJqIdom/s-l225.jpg" alt="Listing image for ENHYPEN WALK THE LINE Movie Admission Bonus Poster Bookmark" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WALK THE LINE Movie Admission Bonus Poster Bookmark</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WALK THE LINE Movie Admission Bonus Poster Bookmark"><img src="https://i.ebayimg.com/images/g/0-wAAeSw9WJqIdom/s-l225.jpg" alt="Listing image for ENHYPEN WALK THE LINE Movie Admission Bonus Poster Bookmark" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WALK THE LINE Movie Admission Bonus Poster Bookmark</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB"><img src="https://i.ebayimg.com/images/g/A7UAAOSwfGhn8zq-/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB"><img src="https://i.ebayimg.com/images/g/A7UAAOSwfGhn8zq-/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB"><img src="https://i.ebayimg.com/images/g/-WsAAOSwgSFn8w9N/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB"><img src="https://i.ebayimg.com/images/g/-WsAAOSwgSFn8w9N/s-l225.jpg" alt="Listing image for ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN WORLD TOUR WALK THE LINE IN GOYANG/Code+3 Photo Book+2 Poster+9 Card+POB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN WALK THE LINE poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN WALK THE LINE poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+WALK+THE+LINE+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN WALK THE LINE poster" data-ebay-reference="how-walk-the-line-made-enhypen-bigger-enhypen-walk-the-line-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,163 +749,163 @@ That is why WALK THE LINE mattered beyond ticket numbers. It was the tour where 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/21925</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse[NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...[Concert Information] ▷ Concert...</p></details>
+   Link:<a href="https://weverse.io/enhypen/notice/21925" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/21925</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse[NOTICE] ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...[Concert Information] ▷ Concert...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: world.nol.com  
-   Link: <a href="https://world.nol.com/en/content/festas/0191d94f-32a8-7770-9f77-761105f8de53" target="_blank" rel="noopener noreferrer nofollow">https://world.nol.com/en/content/festas/0191d94f-32a8-7770-9f77-761105f8de53</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOL WorldENHYPEN World Tour Walk The Line in GoyangJoin ENHYPEN&#x27;s third world tour, Walk The Line in Goyang, on Oct. 5–6, 2024 at Goyang...</p></details>
+   Link:<a href="https://world.nol.com/en/content/festas/0191d94f-32a8-7770-9f77-761105f8de53" target="_blank" rel="noopener noreferrer nofollow">https://world.nol.com/en/content/festas/0191d94f-32a8-7770-9f77-761105f8de53</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NOL WorldENHYPEN World Tour Walk The Line in GoyangJoin ENHYPEN&#x27;s third world tour, Walk The Line in Goyang, on Oct. 5–6, 2024 at Goyang...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: List of Enhypen live performances  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>List of Enhypen live performancesTour by Enhypen · Manifesto World Tour (2022–23); Fate World Tour (2023–24); Walk The Line Tour (2024...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_Enhypen_live_performances</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>List of Enhypen live performancesTour by Enhypen · Manifesto World Tour (2022–23); Fate World Tour (2023–24); Walk The Line Tour (2024...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</p></details>
+   Link:<a href="https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1htcgnw/walk_the_line_tour_section_thoughts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/enhypen - walk the line tour section thoughts!!January 4, 2025 — It was nice having different views, cuz I was able to be close t...</p></details>
    Published: January 4, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: people.com  
-   Link: <a href="https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620" target="_blank" rel="noopener noreferrer nofollow">https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Notably, Jay played electric guitar on “Blessed-Cursed” and Heeseung introduced “XO” on piano. The evening’s surprise encore, a second pe...</p></details>
+   Link:<a href="https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620" target="_blank" rel="noopener noreferrer nofollow">https://people.com/enhypen-concert-walk-the-line-at-ubs-arena-11787620</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Notably, Jay played electric guitar on “Blessed-Cursed” and Heeseung introduced “XO” on piano. The evening’s surprise encore, a second pe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/25381" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/25381</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse[Notice] 『ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...&lt; Concert Information &gt; 【Schedule・Concert Venue】 [Tokyo] AJINOMOTO STADIUM Satu...</p></details>
+   Link:<a href="https://weverse.io/enhypen/notice/25381" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/25381</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weverse[Notice] 『ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...&lt; Concert Information &gt; 【Schedule・Concert Venue】 [Tokyo] AJINOMOTO STADIUM Satu...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/26311" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/26311</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nd September. The reservation schedule for each region is different...</p></details>
+   Link:<a href="https://weverse.io/enhypen/notice/26311" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/26311</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nd September. The reservation schedule for each region is different...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ao-arena.com  
-   Link: <a href="https://www.ao-arena.com/events/detail/enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.ao-arena.com/events/detail/enhypen</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Us · Sign-Up. ENHYPEN. WORLD TOUR &#x27;WALK THE LINE&#x27; IN EUROPE. Buy Tickets · Buy Premium. Date. 25 Aug, 2025. Event Starts. 7:30 PM. Availa...</p></details>
+   Link:<a href="https://www.ao-arena.com/events/detail/enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.ao-arena.com/events/detail/enhypen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Us · Sign-Up. ENHYPEN. WORLD TOUR &#x27;WALK THE LINE&#x27; IN EUROPE. Buy Tickets · Buy Premium. Date. 25 Aug, 2025. Event Starts. 7:30 PM. Availa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bandwagon.asia  
    Title: enhypen light up new york with sold out walk the line tour kick off gig report  
-   Link: <a href="https://www.bandwagon.asia/articles/enhypen-light-up-new-york-with-sold-out-walk-the-line-tour-kick-off-gig-report" target="_blank" rel="noopener noreferrer nofollow">https://www.bandwagon.asia/articles/enhypen-light-up-new-york-with-sold-out-walk-the-line-tour-kick-off-gig-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>leg of their ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; with two sold-out nights at the UBS Arena on 6 and 7 August...</p></details>
+   Link:<a href="https://www.bandwagon.asia/articles/enhypen-light-up-new-york-with-sold-out-walk-the-line-tour-kick-off-gig-report" target="_blank" rel="noopener noreferrer nofollow">https://www.bandwagon.asia/articles/enhypen-light-up-new-york-with-sold-out-walk-the-line-tour-kick-off-gig-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>leg of their ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; with two sold-out nights at the UBS Arena on 6 and 7 August...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: broadwayworld.com  
-   Link: <a href="https://www.broadwayworld.com/bwwmusic/article/Concert-Review-ENHYPEN-Kicks-Off-WALK-THE-LINE-US-Tour-in-New-York-With-Energy-and-Charisma-20250807" target="_blank" rel="noopener noreferrer nofollow">https://www.broadwayworld.com/bwwmusic/article/Concert-Review-ENHYPEN-Kicks-Off-WALK-THE-LINE-US-Tour-in-New-York-With-Energy-and-Charisma-20250807</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Review: ENHYPEN Kicks Off WALK THE LINE...August 7, 2025 — 7 Aug 2025 — Walk The Line is overall a much shorter sho...</p></details>
+   Link:<a href="https://www.broadwayworld.com/bwwmusic/article/Concert-Review-ENHYPEN-Kicks-Off-WALK-THE-LINE-US-Tour-in-New-York-With-Energy-and-Charisma-20250807" target="_blank" rel="noopener noreferrer nofollow">https://www.broadwayworld.com/bwwmusic/article/Concert-Review-ENHYPEN-Kicks-Off-WALK-THE-LINE-US-Tour-in-New-York-With-Energy-and-Charisma-20250807</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Concert Review: ENHYPEN Kicks Off WALK THE LINE...August 7, 2025 — 7 Aug 2025 — Walk The Line is overall a much shorter sho...</p></details>
    Published: August 7, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/29417" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/29417</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUR &#x27;WALK THE LINE&#x27; IN EUROPE,” scheduled for Friday, August 22, 2025 at...</p></details>
+   Link:<a href="https://weverse.io/enhypen/notice/29417" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/29417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUR &#x27;WALK THE LINE&#x27; IN EUROPE,” scheduled for Friday, August 22, 2025 at...</p></details>
    Published: August 22, 2025  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: kpop.fandom.com  
    Title: ENHYPEN World Tour 'Walk the Line'  
-   Link: <a href="https://kpop.fandom.com/wiki/ENHYPEN_World_Tour_%27Walk_the_Line%27" target="_blank" rel="noopener noreferrer nofollow">https://kpop.fandom.com/wiki/ENHYPEN_World_Tour_%27Walk_the_Line%27</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On September 2, 2024, Belift Lab announced the dates for ENHYPEN&#x27;s third world tour.Read more...</p></details>
+   Link:<a href="https://kpop.fandom.com/wiki/ENHYPEN_World_Tour_%27Walk_the_Line%27" target="_blank" rel="noopener noreferrer nofollow">https://kpop.fandom.com/wiki/ENHYPEN_World_Tour_%27Walk_the_Line%27</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On September 2, 2024, Belift Lab announced the dates for ENHYPEN&#x27;s third world tour.Read more...</p></details>
    Published: September 2, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: 250415 enhypen world tour walk the line in us  
-   Link: <a href="https://www.reddit.com/r/enhypen/comments/1jz2h1h/250415_enhypen_world_tour_walk_the_line_in_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1jz2h1h/250415_enhypen_world_tour_walk_the_line_in_us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>250415 ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...The ticketing site above has FAQ sections for both US and Europe if anyone wants to read...</p></details>
+   Link:<a href="https://www.reddit.com/r/enhypen/comments/1jz2h1h/250415_enhypen_world_tour_walk_the_line_in_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1jz2h1h/250415_enhypen_world_tour_walk_the_line_in_us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>250415 ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27; IN...The ticketing site above has FAQ sections for both US and Europe if anyone wants to read...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpop/comments/1jz2hik/enhypen_enhypen_world_tour_walk_the_line_in_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1jz2hik/enhypen_enhypen_world_tour_walk_the_line_in_us/</a>  
+   Link:<a href="https://www.reddit.com/r/kpop/comments/1jz2hik/enhypen_enhypen_world_tour_walk_the_line_in_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1jz2hik/enhypen_enhypen_world_tour_walk_the_line_in_us/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>attendance of enhypens &#x27;walk the line&#x27; concertThere were over ten thousand tickets for enhypens concert available, as of a few days ago...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop_uncensored/comments/1fxepdt/attendance_of_enhypens_walk_the_line_concert/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>attendance of enhypens &#x27;walk the line&#x27; concertThere were over ten thousand tickets for enhypens concert available, as of a few days ago...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: koreajoongangdaily.joins.com  
    Title: 5 and 6.Read more  
-   Link: <a href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</p></details>
+   Link:<a href="https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676" target="_blank" rel="noopener noreferrer nofollow">https://koreajoongangdaily.joins.com/news/2024-10-07/entertainment/kpop/Enhypens-Walk-The-Line-world-tour-hits-the-ground-running-at-Goyang-Stadium/2149676</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korea Joongang DailyEnhypen&#x27;s &#x27;Walk The Line&#x27; world tour hits the ground running...7 Oct 2024 — Enhypen kicked off its highly anticipate...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: melodicmag.com  
-   Link: <a href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</p></details>
+   Link:<a href="https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/" target="_blank" rel="noopener noreferrer nofollow">https://www.melodicmag.com/live-events/enhypen-ignites-ubs-arena-with-their-walk-the-line-tour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>// MELODIC MagazineENHYPEN ignites UBS Arena with their &#x27;WALK THE LINE...August 15, 2025 — 15 Aug 2025 — The extended T-shaped stage gav...</p></details>
    Published: August 15, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: unitedbypop.com  
-   Link: <a href="https://www.unitedbypop.com/music/reviews/review-enhypen-brings-the-heat-to-london/" target="_blank" rel="noopener noreferrer nofollow">https://www.unitedbypop.com/music/reviews/review-enhypen-brings-the-heat-to-london/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United By Pop[REVIEW] ENHYPEN brings the heat to LondonAugust 23, 2025 — 23 Aug 2025 — In the span of two hours, they turned a vast arena...</p></details>
+   Link:<a href="https://www.unitedbypop.com/music/reviews/review-enhypen-brings-the-heat-to-london/" target="_blank" rel="noopener noreferrer nofollow">https://www.unitedbypop.com/music/reviews/review-enhypen-brings-the-heat-to-london/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United By Pop[REVIEW] ENHYPEN brings the heat to LondonAugust 23, 2025 — 23 Aug 2025 — In the span of two hours, they turned a vast arena...</p></details>
    Published: August 23, 2025  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: bmostadium.com  
    Title: BMO Stadium ENHYPEN ANNOUNCE DATES & VENUES FOR U.S  
-   Link: <a href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow">https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;...ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S. &amp; EUROPEAN LEG OF &#x27;WALK THE LINE&#x27; WORLD TOUR. PRESALES FOR ENGENE MEMBERS START APRIL 23. G...</p></details>
+   Link:<a href="https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/" target="_blank" rel="noopener noreferrer nofollow">https://bmostadium.com/news/enhypen-announce-dates-venues-for-u-s-european-leg-of-walk-the-line-world-tour/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp;...ENHYPEN ANNOUNCE DATES &amp; VENUES FOR U.S. &amp; EUROPEAN LEG OF &#x27;WALK THE LINE&#x27; WORLD TOUR. PRESALES FOR ENGENE MEMBERS START APRIL 23. G...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AEGPresentsUK/posts/just-announcedenhypen-world-tour-walk-the-line-in-europe-august-september-2025re/1069853318510917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AEGPresentsUK/posts/just-announcedenhypen-world-tour-walk-the-line-in-europe-august-september-2025re/1069853318510917/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JUST ANNOUNCED! Enhypen | World Tour &#x27;Walk The Line&#x27;...Enhypen | World Tour &#x27;Walk The Line&#x27; in Europe | August - September 2025. Registe...</p></details>
+   Link:<a href="https://www.facebook.com/AEGPresentsUK/posts/just-announcedenhypen-world-tour-walk-the-line-in-europe-august-september-2025re/1069853318510917/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AEGPresentsUK/posts/just-announcedenhypen-world-tour-walk-the-line-in-europe-august-september-2025re/1069853318510917/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JUST ANNOUNCED! Enhypen | World Tour &#x27;Walk The Line&#x27;...Enhypen | World Tour &#x27;Walk The Line&#x27; in Europe | August - September 2025. Registe...</p></details>
    Published: September 2025  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theo2.co.uk  
-   Link: <a href="https://www.theo2.co.uk/events/detail/enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.theo2.co.uk/events/detail/enhypen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPENK-pop powerhouse ENHYPEN have announced their third world tour ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27;, which is heading to The O2 on F...</p></details>
+   Link:<a href="https://www.theo2.co.uk/events/detail/enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.theo2.co.uk/events/detail/enhypen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPENK-pop powerhouse ENHYPEN have announced their third world tour ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27;, which is heading to The O2 on F...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/6506512586094141/posts/24413916454927146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/6506512586094141/posts/24413916454927146/</a>  
+   Link:<a href="https://www.facebook.com/groups/6506512586094141/posts/24413916454927146/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/6506512586094141/posts/24413916454927146/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IErXx0lFKPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IErXx0lFKPQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=IErXx0lFKPQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IErXx0lFKPQ</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: kpopconcerts.com  
    Title: enhypen solidifies future with engenes in sold out walk the line la show  
-   Link: <a href="https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/" target="_blank" rel="noopener noreferrer nofollow">https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[RECAP] ENHYPEN Solidifies Future with ENGENEs in...17 Aug 2025 — JUNGWON then stepped up to a “WALK THE LINE” branded podium surrounded...</p></details>
+   Link:<a href="https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/" target="_blank" rel="noopener noreferrer nofollow">https://kpopconcerts.com/event-recaps/enhypen-solidifies-future-with-engenes-in-sold-out-walk-the-line-la-show/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[RECAP] ENHYPEN Solidifies Future with ENGENEs in...17 Aug 2025 — JUNGWON then stepped up to a “WALK THE LINE” branded podium surrounded...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: forbes.com  
    Title: enhypen walk the line world tour in japan hits theaters in march  
-   Link: <a href="https://www.forbes.com/sites/laurasirikul/2026/01/27/enhypen-walk-the-line-world-tour-in-japan-hits-theaters-in-march/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/laurasirikul/2026/01/27/enhypen-walk-the-line-world-tour-in-japan-hits-theaters-in-march/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN &#x27;Walk The Line&#x27; World Tour In Japan Hits...27 Jan 2026 — Filled with live performances, candid rehearsal footage and behind-the...</p></details>
+   Link:<a href="https://www.forbes.com/sites/laurasirikul/2026/01/27/enhypen-walk-the-line-world-tour-in-japan-hits-theaters-in-march/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/laurasirikul/2026/01/27/enhypen-walk-the-line-world-tour-in-japan-hits-theaters-in-march/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN &#x27;Walk The Line&#x27; World Tour In Japan Hits...27 Jan 2026 — Filled with live performances, candid rehearsal footage and behind-the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: nme.com  
    Title: enhypen on their sold out walk the line tour 3906130  
-   Link: <a href="https://www.nme.com/features/enhypen-on-their-sold-out-walk-the-line-tour-3906130" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/features/enhypen-on-their-sold-out-walk-the-line-tour-3906130</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN on their sold-out Walk the Line tour and...7 Nov 2025 — We just wrapped up a huge dome and stadium tour before coming to the U.S...</p></details>
+   Link:<a href="https://www.nme.com/features/enhypen-on-their-sold-out-walk-the-line-tour-3906130" target="_blank" rel="noopener noreferrer nofollow">https://www.nme.com/features/enhypen-on-their-sold-out-walk-the-line-tour-3906130</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN on their sold-out Walk the Line tour and...7 Nov 2025 — We just wrapped up a huge dome and stadium tour before coming to the U.S...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MarcusTheatres/posts/get-ready-to-experience-enhypens-world-tour-on-the-big-screenenhypen-walk-the-li/1338131941689086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MarcusTheatres/posts/get-ready-to-experience-enhypens-world-tour-on-the-big-screenenhypen-walk-the-li/1338131941689086/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r — ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27;. Following their...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MarcusTheatres/posts/get-ready-to-experience-enhypens-world-tour-on-the-big-screenenhypen-walk-the-li/1338131941689086/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MarcusTheatres/posts/get-ready-to-experience-enhypens-world-tour-on-the-big-screenenhypen-walk-the-li/1338131941689086/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r — ENHYPEN WORLD TOUR &#x27;WALK THE LINE&#x27;. Following their...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tinygmusic.com  
    Title: ENHYPE N Concludes Spectacular Sold-Out U.S  
-   Link: <a href="https://www.tinygmusic.com/post/enhypen-concludes-spectacular-sold-out-u-s-leg-of-walk-the-line-world-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.tinygmusic.com/post/enhypen-concludes-spectacular-sold-out-u-s-leg-of-walk-the-line-world-tour</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Leg of...18 Aug 2025 — ENHYPEN Concludes Spectacular Sold-Out U.S. Leg of WALK THE LINE World Tour with electrifying performances. Disco...</p></details>
+   Link:<a href="https://www.tinygmusic.com/post/enhypen-concludes-spectacular-sold-out-u-s-leg-of-walk-the-line-world-tour" target="_blank" rel="noopener noreferrer nofollow">https://www.tinygmusic.com/post/enhypen-concludes-spectacular-sold-out-u-s-leg-of-walk-the-line-world-tour</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leg of...18 Aug 2025 — ENHYPEN Concludes Spectacular Sold-Out U.S. Leg of WALK THE LINE World Tour with electrifying performances. Disco...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: chosun.com  
-   Link: <a href="https://www.chosun.com/english/kpop-culture-en/2025/09/04/FKZEPX7CHRBDPITF37PKJ2B5PE/" target="_blank" rel="noopener noreferrer nofollow">https://www.chosun.com/english/kpop-culture-en/2025/09/04/FKZEPX7CHRBDPITF37PKJ2B5PE/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>조선일보ENHYPEN concludes sold-out European debut tour4 Sept 2025 — At the end of the concert, ENHYPEN said, “We&#x27;ve finished the &#x27;WALK THE LI...</p></details>
+   Link:<a href="https://www.chosun.com/english/kpop-culture-en/2025/09/04/FKZEPX7CHRBDPITF37PKJ2B5PE/" target="_blank" rel="noopener noreferrer nofollow">https://www.chosun.com/english/kpop-culture-en/2025/09/04/FKZEPX7CHRBDPITF37PKJ2B5PE/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>조선일보ENHYPEN concludes sold-out European debut tour4 Sept 2025 — At the end of the concert, ENHYPEN said, “We&#x27;ve finished the &#x27;WALK THE LI...</p></details>

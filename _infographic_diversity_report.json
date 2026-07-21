@@ -1,0 +1,611 @@
+{
+  "generated_at_utc": "2026-07-21T19:04:22.270993Z",
+  "mode": "warn_only",
+  "summary": {
+    "pages_with_stage2_metadata": 25,
+    "pages_review_recommended": 0,
+    "warning_reason_counts": {}
+  },
+  "pages": [
+    {
+      "basename": "Enhypen_the_South_Ko_177f17",
+      "title": "How ENHYPEN Turned Desire Into Pop Mythology",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "bio_profile_central",
+        "grid_stats"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "other"
+      ],
+      "titles": [
+        "ENHYPEN Narrative Evolution Time line",
+        "Current ENHYPEN Member Profiles",
+        "ENHYPEN Commercial Success Metrics"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+      "title": "How ENHYPEN's Eras Connect Into One Story",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ENHYPEN Narrative Evolution Time line",
+        "Vampire Mythology: Dark vs. Orange Blood",
+        "The Sin: Vanish Narrative Elements"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+      "title": "Why Bite Me Makes Love Feel Dangerous",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "quadrant",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "The Moral Decay of Power in DARK BLOOD",
+        "Symbolism of the Bite in ENHYPEN Lore",
+        "Evolution of the Blood Series Narrative"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+      "title": "When ENHYPEN Rejected the Correct Path",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "versus",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ENHYPEN Narrative Evolution Stages",
+        "Blessed Cursed Concept Contrasts",
+        "Manifesto: Day 1 Core Elements"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+      "title": "Why ENHYPEN's Debut Felt Like a Threshold",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "quadrant",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ENHYPEN's Transition from I LAND to Debut",
+        "The 'Given Taken' Success Dilemma",
+        "Vampire Metaphors in Border: Day One"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+      "title": "Which Songs Best Explain ENHYPEN's Appeal?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "comparison_columns",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ENHYPEN's Narrative Emotional Arc",
+        "Drunk Dazed vs. FEVER Dynamics",
+        "Vampiric Imagery in ENHYPEN Songs"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+      "title": "Why Drunk Dazed Makes Fame Feel Dangerous",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "list_vertical",
+        "myth_facts"
+      ],
+      "roles": [
+        "chronology",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "ENHYPEN's Transition to Fame",
+        "Sensory Overload in Drunk Dazed",
+        "Vampire Metaphor vs. Celebrity Reality"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+      "title": "Why ENHYPEN's Chaos Always Looks Precise",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "timeline_genealogy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "chronology"
+      ],
+      "titles": [
+        "Choreography Evolution in ENHYPEN Tracks",
+        "Drunk Dazed vs. FEVER Performance Styles",
+        "Core Elements of ENHYPEN's Performance Grammar"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+      "title": "How FEVER Made Restraint Feel Overwhelming",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "fact_box_sidebar",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "summary"
+      ],
+      "titles": [
+        "Musical Evolution from Drunk Dazed to FEVER",
+        "Choreography Mechanics of FEVER",
+        "Core Elements of FEVER's Identity"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+      "title": "How I LAND Built ENHYPEN's Fan Connection",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "I LAND Selection and Debut Process",
+        "Authority Balance in ENHYPEN Formation",
+        "Symbolism of ENHYPEN and ENGENE"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.167,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+      "title": "How ENGENE Made Connection the Group's Identity",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "prism",
+        "venn"
+      ],
+      "roles": [
+        "chronology",
+        "taxonomy",
+        "comparison"
+      ],
+      "titles": [
+        "ENHYPEN Fandom Identity Evolution",
+        "Dual Meanings of ENGENE Name",
+        "ENGENE Naming Strategy Success Factors"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+      "title": "How Much Did Fans Really Choose ENHYPEN?",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "tug_of_war",
+        "cards_grid"
+      ],
+      "roles": [
+        "process",
+        "other",
+        "summary"
+      ],
+      "titles": [
+        "I LAND Global Voting Evolution",
+        "Public Vote vs Producer Authority",
+        "ENHYPEN Debut Selection Hierarchy"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+      "title": "Why ENGENE Felt Connected Before Debut",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "versus",
+        "tree_map"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ENHYPEN Pre Debut Journey via I LAND",
+        "Passive vs. Active Fan Engagement",
+        "I LAND Global Participation Metrics"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.111,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+      "title": "Who Does What in ENHYPEN Now?",
+      "infographic_count": 3,
+      "templates": [
+        "list_vertical",
+        "versus",
+        "cards_grid"
+      ],
+      "roles": [
+        "summary",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ENHYPEN Six Member Performance System",
+        "Heeseung Departure Structural Impacts",
+        "ENHYPEN Member Cultural Backgrounds"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.286,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+      "title": "Why Jungwon and Ni Ki Anchor ENHYPEN",
+      "infographic_count": 3,
+      "templates": [
+        "myth_facts",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "Jungwon vs Ni Ki Performance Roles",
+        "Jungwon's Analytical Performance Method",
+        "ENHYPEN Performance Mechanism Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+      "title": "How ENHYPEN's Members Change a Song's Mood",
+      "infographic_count": 3,
+      "templates": [
+        "structure_taxonomy",
+        "quadrant",
+        "venn"
+      ],
+      "roles": [
+        "taxonomy",
+        "comparison",
+        "comparison"
+      ],
+      "titles": [
+        "ENHYPEN Performance Identity Dynamics",
+        "Jay vs Jake Performance Contrast",
+        "Sunghoon and Sunoo Visual Texture"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+      "title": "How ENHYPEN Rebuilt Its Six Member Performance",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ENHYPEN Transition to Six Members",
+        "Vocal Redistribution Strategy Benefits",
+        "Member Roles in Six Member Era"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+      "title": "What Makes ENHYPEN's Choreography So Distinctive?",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_horizon",
+        "myth_facts",
+        "structure_taxonomy"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "ENHYPEN Choreography Narrative Evolution",
+        "Drunk Dazed vs Fever Dynamics",
+        "ENHYPEN Choreographic System Components"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+      "title": "What ENHYPEN's Dance Practices Reveal About Precision",
+      "infographic_count": 3,
+      "templates": [
+        "process_steps",
+        "comparison_columns",
+        "list_vertical"
+      ],
+      "roles": [
+        "process",
+        "comparison",
+        "summary"
+      ],
+      "titles": [
+        "ENHYPEN Choreography Refinement Cycle",
+        "Pose Matching vs. Temporal Alignment",
+        "ENHYPEN Precision Detail Markers"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+      "title": "Why ENHYPEN's Floorwork Changes the Story",
+      "infographic_count": 3,
+      "templates": [
+        "process_pipeline",
+        "cards_grid",
+        "tree_map"
+      ],
+      "roles": [
+        "process",
+        "summary",
+        "taxonomy"
+      ],
+      "titles": [
+        "ENHYPEN Floorwork Narrative Key Stages",
+        "Narrative Meanings of Low Levels",
+        "ENHYPEN Performance Case Studies"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.125,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+      "title": "How Future Perfect Made ENHYPEN Move Differently",
+      "infographic_count": 3,
+      "templates": [
+        "quadrant",
+        "timeline_snake",
+        "fact_box_sidebar"
+      ],
+      "roles": [
+        "comparison",
+        "chronology",
+        "summary"
+      ],
+      "titles": [
+        "ENHYPEN Choreography Style Evolution",
+        "Visual Expansion in Future Perfect",
+        "Technical Demands of Future Perfect"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+      "title": "Why ENHYPEN's Vampire Story Still Works",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_snake",
+        "orbital_rings",
+        "quadrant"
+      ],
+      "roles": [
+        "chronology",
+        "other",
+        "comparison"
+      ],
+      "titles": [
+        "ENHYPEN Vampire Mythology Evolution",
+        "Recurring Symbols in Dark Moon",
+        "Dark Moon Narrative Layers"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.333,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+      "title": "Why Blood Remembers What Dark Moon Characters Forget",
+      "infographic_count": 3,
+      "templates": [
+        "timeline_vertical",
+        "comparison_columns",
+        "tree_roots"
+      ],
+      "roles": [
+        "chronology",
+        "comparison",
+        "taxonomy"
+      ],
+      "titles": [
+        "Mechanism of Blood Based Recognition",
+        "Blood Functions in Dark Moon",
+        "Fragments of Forgotten Memory"
+      ],
+      "role_diversity_count": 3,
+      "max_title_similarity": 0.143,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+      "title": "Why Mortality Matters in ENHYPEN's Orange Blood",
+      "infographic_count": 3,
+      "templates": [
+        "tug_of_war",
+        "tree_map",
+        "process_steps"
+      ],
+      "roles": [
+        "other",
+        "taxonomy",
+        "process"
+      ],
+      "titles": [
+        "Vampire Mythology Evolution in Orange Blood",
+        "Symbolic Meanings in Sweet Venom",
+        "Narrative Progression of Still Monster"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.0,
+      "review_recommended": false,
+      "warning_reasons": []
+    },
+    {
+      "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+      "title": "Which Love Is Real in Dark Moon: Two Moons?",
+      "infographic_count": 3,
+      "templates": [
+        "cards_grid",
+        "list_vertical",
+        "versus"
+      ],
+      "roles": [
+        "summary",
+        "summary",
+        "comparison"
+      ],
+      "titles": [
+        "Competing Claims in Dark Moon: Two Moons",
+        "Destabilizing Effects of Shared Memories",
+        "Evolution of Dark Moon Mythology"
+      ],
+      "role_diversity_count": 2,
+      "max_title_similarity": 0.25,
+      "review_recommended": false,
+      "warning_reasons": []
+    }
+  ]
+}

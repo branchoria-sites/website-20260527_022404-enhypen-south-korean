@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-s-177f17-performance-s/
 description: Focused pages that expand on Stages.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Enhypen_the_S_177f17_performance_s_a0cafa
 parent_title: Stages
@@ -16,7 +16,7 @@ parent_permalink: /stages/
 
 # Explore Topics in Stages
 
-The following pages expand on the main **[Stages]({{ '/stages/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Stages]({{ '/stages/' | relative_url }})** page and cover its key branches in.
 
 - [Bite Me stage]({{ '/bite-me-stage/' | relative_url }})
 - [Stadium tour]({{ '/stadium-tour/' | relative_url }})

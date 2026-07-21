@@ -213,31 +213,31 @@ image: /assets/images/Enhypen_the_S_177f17-overview-social.jpg
 
 ## Introduction
 
-What makes Enhypen especially interesting is the way the group’s concept and career mechanics match. Their name is drawn from the hyphen, a symbol of connection, and BELIFT LAB frames the group as artists who “connect people and the world through their music.” <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> That idea is not just branding. It shows up in their fan relationship, lore-heavy releases, multilingual strategy, sharp choreography, and the way their albums have moved between South Korea, Japan, the United States and global charts.
+What makes Enhypen especially interesting is the way the group’s concept and career mechanics match. Their name is drawn from the hyphen, a symbol of connection, and BELIFT LAB frames the group as artists who “connect people and the world through their music.”<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> That idea is not just branding. It shows up in their fan relationship, lore-heavy releases, multilingual strategy, sharp choreography, and the way their albums have moved between South Korea, Japan, the United States and global charts.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17-overview.webp" | relative_url }}" alt="Overview image for Enhypen the South Korean band" loading="eager" decoding="sync" fetchpriority="high">
 ## Who are Enhypen now?
 
-As of BELIFT LAB’s current profile, Enhypen consists of Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. The same official page gives the group’s debut date as 30 November 2020 and lists the members’ birthdays, with Jungwon born in 2004, Jay, Jake and Sunghoon in 2002, Sunoo in 2003 and Ni-ki in 2005. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
+As of BELIFT LAB’s current profile, Enhypen consists of Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. The same official page gives the group’s debut date as 30 November 2020 and lists the members’ birthdays, with Jungwon born in 2004, Jay, Jake and Sunghoon in 2002, Sunoo in 2003 and Ni-ki in 2005.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
-For a first-time listener, the most useful way to understand the group is not by memorising positions, but by recognising their balance. Jungwon is widely identified as the leader; Jay and Jake bring strong international-facing fluency and stage personality; Sunghoon’s background as a former figure skater adds a distinctive precision to his performance image; Sunoo is often associated with expressive brightness and audience connection; and Ni-ki, the youngest member, is central to the group’s dance reputation. Profiles published before the 2026 change still describe Enhypen’s original seven-member formation and give useful context for the members’ individual appeal, including Heeseung’s former role in the group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-snippet">Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</span></span></span>
+For a first-time listener, the most useful way to understand the group is not by memorising positions, but by recognising their balance. Jungwon is widely identified as the leader; Jay and Jake bring strong international-facing fluency and stage personality; Sunghoon’s background as a former figure skater adds a distinctive precision to his performance image; Sunoo is often associated with expressive brightness and audience connection; and Ni-ki, the youngest member, is central to the group’s dance reputation. Profiles published before the 2026 change still describe Enhypen’s original seven-member formation and give useful context for the members’ individual appeal, including Heeseung’s former role in the group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-snippet">Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</span></span></span>
 
-Heeseung’s departure is now part of the group’s current context. BELIFT LAB announced in March 2026 that he would leave Enhypen while remaining with the company to prepare solo work, and coverage of the announcement reported that Enhypen would continue as a six-member group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/ENHYPEN/status/2031263792613699825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The change was emotional for fans because Heeseung had been a founding member, but the most reliable present-tense description of Enhypen is the one now reflected in BELIFT LAB’s updated official profile. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
+Heeseung’s departure is now part of the group’s current context. BELIFT LAB announced in March 2026 that he would leave Enhypen while remaining with the company to prepare solo work, and coverage of the announcement reported that Enhypen would continue as a six-member group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/ENHYPEN/status/2031263792613699825" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> The change was emotional for fans because Heeseung had been a founding member, but the most reliable present-tense description of Enhypen is the one now reflected in BELIFT LAB’s updated official profile.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
 ## How I-LAND shaped the group fans know
 
-Enhypen’s origin matters because I-LAND did more than introduce members; it taught viewers to read the group through growth, pressure and teamwork. BELIFT LAB describes I-LAND as a global artist development project that aired on Mnet for roughly three months from June 2020, with the final members selected after a series of missions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> That survival-show background gave early fans a unusually close view of the members before debut, making the group’s fan culture feel participatory from the start.
+Enhypen’s origin matters because I-LAND did more than introduce members; it taught viewers to read the group through growth, pressure and teamwork. BELIFT LAB describes I-LAND as a global artist development project that aired on Mnet for roughly three months from June 2020, with the final members selected after a series of missions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> That survival-show background gave early fans a unusually close view of the members before debut, making the group’s fan culture feel participatory from the start.
 
-Their debut EP, Border: Day One, arrived on 30 November 2020. The early “border” framing was apt: Enhypen were presented as trainees crossing into debut, teenagers crossing into public life, and a new act trying to convert programme attention into real fandom. The Korea Times later described the group as formed through I-LAND, co-produced by CJ ENM and HYBE, and noted that they debuted with Border: Day One in November 2020. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span>
+Their debut EP, Border: Day One, arrived on 30 November 2020. The early “border” framing was apt: Enhypen were presented as trainees crossing into debut, teenagers crossing into public life, and a new act trying to convert programme attention into real fandom. The Korea Times later described the group as formed through I-LAND, co-produced by CJ ENM and HYBE, and noted that they debuted with Border: Day One in November 2020.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span>
 
 That origin also helps explain why Enhypen’s fandom tends to care so much about process: dance practice, growth between comebacks, member self-reflection and touring stamina. For many fans, the group’s appeal is not only the finished stage, but the visible arc from survival-show uncertainty to large-scale touring act.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-1-dark.svg" | relative_url }}" alt="Enhypen the South Korean band illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the name and fandom concept still matter
 
-Enhypen’s name is one of the cleaner pieces of K-pop branding because it is easy to connect to the group’s actual story. BELIFT LAB says the name is inspired by the hyphen, which connects one word to another, and represents six boys connecting, discovering one another and growing together. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> It is a simple metaphor, but it has proved flexible enough to cover the group’s music, fandom and international career.
+Enhypen’s name is one of the cleaner pieces of K-pop branding because it is easy to connect to the group’s actual story. BELIFT LAB says the name is inspired by the hyphen, which connects one word to another, and represents six boys connecting, discovering one another and growing together.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> It is a simple metaphor, but it has proved flexible enough to cover the group’s music, fandom and international career.
 
-The fandom name, ENGENE, extends that same idea. BELIFT LAB’s Weverse notice explained the name through two meanings: fans are the “engine” that helps Enhypen move forward, and fans share a “gene” with the group in a shared process of connection, development and growth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Open source on weverse.io.</span></span></span> For fans, that is why “connection” is not just a slogan; it is the language through which the group’s albums, fan events and messages are often framed.
+The fandom name, ENGENE, extends that same idea. BELIFT LAB’s Weverse notice explained the name through two meanings: fans are the “engine” that helps Enhypen move forward, and fans share a “gene” with the group in a shared process of connection, development and growth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Open source on weverse.io.</span></span></span> For fans, that is why “connection” is not just a slogan; it is the language through which the group’s albums, fan events and messages are often framed.
 
 This matters because Enhypen’s fan culture is unusually tied to continuity. Their albums frequently feel like chapters, their performances reward close watching, and their official language encourages fans to see each era as part of a longer relationship rather than a one-off comeback.
 
@@ -245,9 +245,9 @@ This matters because Enhypen’s fan culture is unusually tied to continuity. Th
 
 Enhypen’s music is difficult to reduce to one style, but the group’s strongest signature is a mix of sleek pop production, dramatic mood and choreography built for replay. Their earlier work leaned heavily into tension, transformation and darker imagery, while later releases widened into brighter pop, R&B and romance-led material. The result is a discography that can move from the sharp debut impact of “Given-Taken” to the viral softness of “Polaroid Love”, the bite and theatricality of “Bite Me”, and the polished romance framing of Romance: Untold.
 
-The group’s first full-length album, Dimension: Dilemma, became a major turning point. In November 2021, The Korea Times reported that it had sold 1,139,099 copies since release, citing Gaon Chart data, and that it had reached No. 11 on the Billboard 200. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span> That mattered because it showed Enhypen were not just a promising rookie act with a strong debut audience; they had become a serious album-selling force less than a year after debut.
+The group’s first full-length album, Dimension: Dilemma, became a major turning point. In November 2021, The Korea Times reported that it had sold 1,139,099 copies since release, citing Gaon Chart data, and that it had reached No. 11 on the Billboard 200.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span> That mattered because it showed Enhypen were not just a promising rookie act with a strong debut audience; they had become a serious album-selling force less than a year after debut.
 
-Romance: Untold then pushed the group’s image into a more mature, romantic frame. Billboard reported in 2024 that the album gave Enhypen their second No. 1 on the Top Album Sales chart, and IFPI later ranked Romance: Untold at No. 4 on its 2024 Global Album Chart and No. 2 on its 2024 Global Album Sales Chart with 3.4 million units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/enhypen-romance-untold-number-one-top-album-sales-chart-1235736631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">enhypen romance untold number one top album sales chart 1235736631</span><span class="citation-popover-snippet">enhypen romance untold number one top album sales chart 1235736631</span></span></span> For fans, the album was not just a commercial milestone; it was also a sign that Enhypen could soften the edges of their concept without losing their performance identity.
+Romance: Untold then pushed the group’s image into a more mature, romantic frame. Billboard reported in 2024 that the album gave Enhypen their second No. 1 on the Top Album Sales chart, and IFPI later ranked Romance: Untold at No. 4 on its 2024 Global Album Chart and No. 2 on its 2024 Global Album Sales Chart with 3.4 million units.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/chart-beat/enhypen-romance-untold-number-one-top-album-sales-chart-1235736631/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">enhypen romance untold number one top album sales chart 1235736631</span><span class="citation-popover-snippet">enhypen romance untold number one top album sales chart 1235736631</span></span></span> For fans, the album was not just a commercial milestone; it was also a sign that Enhypen could soften the edges of their concept without losing their performance identity.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Yq0eoeaPymA" title="ENHYPEN’s Hot Coachella Set: Exclusive Behind the Scenes Tour Stop | All Access | Billboard News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Yq0eoeaPymA" target="_blank" rel="noopener noreferrer">ENHYPEN’s Hot Coachella Set: Exclusive Behind the Scenes Tour Stop | All Access | Billboard News</a></p><p class="youtube-embed-meta">Channel: Billboard News &middot; Views: 278.7K &middot; Uploaded: April 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Yq0eoeaPymA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Yq0eoeaPymA">Open on YouTube</a></p></div></div></div>
 
@@ -255,7 +255,7 @@ Romance: Untold then pushed the group’s image into a more mature, romantic fra
 
 Enhypen are often described through numbers, but their fanbase is built on stages. Their choreography tends to rely on clean lines, synchronisation, fast transitions and facial performance rather than loose charisma alone. That is why their songs often gain extra force in live clips: the group’s music is written and arranged with bodies in motion.
 
-Their touring growth has reinforced that reputation. By 2023, coverage of the group highlighted sold-out Tokyo Dome concerts and a US tour, milestones that signalled their move from fast-rising act to arena-level performers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</span></span></span> Their later international visibility grew further with US television and festival stages; GQ reported that Enhypen made their US television debut on Jimmy Kimmel Live! and performed at Coachella in 2025, where their custom Prada stagewear became part of the group’s festival story. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span><span class="citation-popover-snippet">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span></span></span>
+Their touring growth has reinforced that reputation. By 2023, coverage of the group highlighted sold-out Tokyo Dome concerts and a US tour, milestones that signalled their move from fast-rising act to arena-level performers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</span></span></span> Their later international visibility grew further with US television and festival stages; GQ reported that Enhypen made their US television debut on Jimmy Kimmel Live! and performed at Coachella in 2025, where their custom Prada stagewear became part of the group’s festival story.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span><span class="citation-popover-snippet">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span></span></span>
 
 Coachella mattered because it placed Enhypen in a less controlled live-pop environment than the usual comeback stage. Festival audiences are mixed, stage time is limited, and production choices have to communicate identity quickly. Enhypen’s appearance showed how their strongest assets — synchronised performance, dramatic styling and a fandom ready to amplify every clip — translate outside the standard K-pop promotion cycle.
 
@@ -263,28 +263,28 @@ Coachella mattered because it placed Enhypen in a less controlled live-pop envir
 
 Enhypen’s discography is easiest to follow as a sequence of identity shifts rather than just a list of releases.
 
-Border: Day One introduced the group as newly chosen performers standing at the edge of debut. It is the era that explains the early fascination with fate, selection and transition. Dimension: Dilemma gave them their first full-album breakthrough and confirmed their commercial scale, crossing the million-seller threshold in 2021. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span>
+Border: Day One introduced the group as newly chosen performers standing at the edge of debut. It is the era that explains the early fascination with fate, selection and transition. Dimension: Dilemma gave them their first full-album breakthrough and confirmed their commercial scale, crossing the million-seller threshold in 2021.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span>
 
-Manifesto: Day 1 and later releases expanded the group’s confidence, with bigger live ambitions and more direct statements of identity. Orange Blood brought another emotionally rich era in 2023, with members discussing future goals, health, confidence and the wish to enjoy the moment more fully in interviews around that period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</span></span></span>
+Manifesto: Day 1 and later releases expanded the group’s confidence, with bigger live ambitions and more direct statements of identity. Orange Blood brought another emotionally rich era in 2023, with members discussing future goals, health, confidence and the wish to enjoy the moment more fully in interviews around that period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</span></span></span>
 
-Romance: Untold became the clearest evidence of global scale. Its IFPI placements in 2024 showed that Enhypen were competing not only inside K-pop but on worldwide album charts, particularly in physical and download sales where K-pop remained especially strong. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">Open source on ifpi.org.</span></span></span> Desire: Unleash carried that momentum into 2025, ranking No. 4 on IFPI’s 2025 Global Album Sales Chart with 2.13 million units. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Global Charts</span><span class="citation-popover-snippet">Global Charts</span></span></span>
+Romance: Untold became the clearest evidence of global scale. Its IFPI placements in 2024 showed that Enhypen were competing not only inside K-pop but on worldwide album charts, particularly in physical and download sales where K-pop remained especially strong.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-snippet">Open source on ifpi.org.</span></span></span> Desire: Unleash carried that momentum into 2025, ranking No. 4 on IFPI’s 2025 Global Album Sales Chart with 2.13 million units.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">Global Charts</span><span class="citation-popover-snippet">Global Charts</span></span></span>
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-2-dark.svg" | relative_url }}" alt="Enhypen the South Korean band illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why fans connect so strongly
 
 Enhypen’s fan appeal comes from a mix of high production and visible vulnerability. The group’s origin story encourages fans to see each success as earned growth. Their concept language gives fans a shared vocabulary. Their performances offer the satisfaction of precision. Their member dynamics give fans different emotional entry points, from dance focus to humour, sincerity, visual storytelling and live-stage intensity.
 
-The fan relationship is also structurally important. The name ENGENE explicitly casts fans as a force that helps the group move forward, and official membership infrastructure has long treated fandom as part of the group’s global activity rather than a side audience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/en/shop/USD/artists/10/sales/5404" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Open source on weverse.io.</span></span></span> That helps explain why album releases, tours, voting periods and social-media moments often feel like collective projects.
+The fan relationship is also structurally important. The name ENGENE explicitly casts fans as a force that helps the group move forward, and official membership infrastructure has long treated fandom as part of the group’s global activity rather than a side audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.weverse.io/en/shop/USD/artists/10/sales/5404" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.weverse.io</span><span class="citation-popover-snippet">Open source on weverse.io.</span></span></span> That helps explain why album releases, tours, voting periods and social-media moments often feel like collective projects.
 
-There is a tradeoff, though. A fandom built on closeness can feel changes more sharply. Heeseung’s 2026 departure was not simply a line-up update; it affected how many fans understood the group’s history and emotional continuity. Coverage at the time described shock and sadness among fans, while BELIFT LAB framed the decision as a move made after discussion and in respect of Heeseung’s solo direction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/music-news/enhypen-label-heeseung-band-exit-most-fulfilling-approach-1236197045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">enhypen label heeseung band exit most fulfilling approach 1236197045</span><span class="citation-popover-snippet">enhypen label heeseung band exit most fulfilling approach 1236197045</span></span></span> The group’s next chapters will be judged not only by songs and sales, but by how convincingly the six-member formation re-establishes its emotional centre.
+There is a tradeoff, though. A fandom built on closeness can feel changes more sharply. Heeseung’s 2026 departure was not simply a line-up update; it affected how many fans understood the group’s history and emotional continuity. Coverage at the time described shock and sadness among fans, while BELIFT LAB framed the decision as a move made after discussion and in respect of Heeseung’s solo direction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.billboard.com/music/music-news/enhypen-label-heeseung-band-exit-most-fulfilling-approach-1236197045/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: billboard.com">[Billboard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">billboard.com</span><span class="citation-popover-title">enhypen label heeseung band exit most fulfilling approach 1236197045</span><span class="citation-popover-snippet">enhypen label heeseung band exit most fulfilling approach 1236197045</span></span></span> The group’s next chapters will be judged not only by songs and sales, but by how convincingly the six-member formation re-establishes its emotional centre.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YQsvyUqgS4Y" title="ENHYPEN On &#x27;ROMANCE:UNTOLD&#x27; Success, LA Pop-Up &amp; More At KCON LA 2024 | All Access | Billboard News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YQsvyUqgS4Y" target="_blank" rel="noopener noreferrer">ENHYPEN On &#x27;ROMANCE:UNTOLD&#x27; Success, LA Pop-Up &amp; More At KCON LA 2024 | All Access | Billboard News</a></p><p class="youtube-embed-meta">Channel: Billboard &middot; Views: 107.2K &middot; Uploaded: July 2024 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YQsvyUqgS4Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YQsvyUqgS4Y">Open on YouTube</a></p></div></div></div>
 
 ## Enhypen’s place in K-pop’s global era
 
-Enhypen’s rise shows how fourth-generation K-pop globalisation works in practice. They were built through a televised selection format, launched with an immediate online fandom, promoted through concept-heavy albums, expanded through Japanese and US activity, and turned album buying into a major global strength. IFPI’s 2024 report placed Enhypen at No. 14 on the Global Recording Artist Chart, while Romance: Untold ranked No. 2 on the Global Album Sales Chart. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">taylor swift seventeen and morgan wallen top ifpi global album charts</span><span class="citation-popover-snippet">taylor swift seventeen and morgan wallen top ifpi global album charts</span></span></span>
+Enhypen’s rise shows how fourth-generation K-pop globalisation works in practice. They were built through a televised selection format, launched with an immediate online fandom, promoted through concept-heavy albums, expanded through Japanese and US activity, and turned album buying into a major global strength. IFPI’s 2024 report placed Enhypen at No. 14 on the Global Recording Artist Chart, while Romance: Untold ranked No. 2 on the Global Album Sales Chart.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ifpi.org">[IFPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ifpi.org</span><span class="citation-popover-title">taylor swift seventeen and morgan wallen top ifpi global album charts</span><span class="citation-popover-snippet">taylor swift seventeen and morgan wallen top ifpi global album charts</span></span></span>
 
-Their career also shows how fashion and brand partnerships now sit inside pop identity. Prada’s custom Coachella outfits were not just styling; they positioned Enhypen as luxury-facing performers whose visual world could travel beyond music-show sets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span><span class="citation-popover-snippet">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span></span></span> For fans, these partnerships often matter because they create new images, magazine moments and public signals of status. For the industry, they show that Enhypen’s value is not limited to streaming or album charts.
+Their career also shows how fashion and brand partnerships now sit inside pop identity. Prada’s custom Coachella outfits were not just styling; they positioned Enhypen as luxury-facing performers whose visual world could travel beyond music-show sets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq.com">[GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq.com</span><span class="citation-popover-title">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span><span class="citation-popover-snippet">ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada</span></span></span> For fans, these partnerships often matter because they create new images, magazine moments and public signals of status. For the industry, they show that Enhypen’s value is not limited to streaming or album charts.
 
 Still, the group’s core remains musical and performative. The reason brand campaigns and global stages work is that Enhypen already have a recognisable performance grammar: dramatic staging, controlled movement, strong visual concepts and a fandom that reads details closely.
 
@@ -296,7 +296,7 @@ A new listener does not need to start with every album. The best entry path is t
 
 Start with “Given-Taken” for the debut mythology and early dramatic tone. Move to “Drunk-Dazed” or “Tamed-Dashed” for the rush of their early performance identity. Try “Polaroid Love” to hear their softer, fan-beloved side. Then listen to “Bite Me” for theatrical confidence and “XO (Only If You Say Yes)” or Romance: Untold material for the later romantic-pop era.
 
-For fans who care most about albums, Dimension: Dilemma is the commercial breakthrough to understand, while Romance: Untold is the clearest marker of Enhypen’s global scale. The first became their million-selling full-album moment; the second placed near the top of IFPI’s worldwide album rankings in 2024. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span>
+For fans who care most about albums, Dimension: Dilemma is the commercial breakthrough to understand, while Romance: Untold is the clearest marker of Enhypen’s global scale. The first became their million-selling full-album moment; the second placed near the top of IFPI’s worldwide album rankings in 2024.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreatimes.co.kr">[The Korea Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreatimes.co.kr</span><span class="citation-popover-title">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span><span class="citation-popover-snippet">The Korea Times Enhypen sells over 1 million copies of &#x27;Dimension: Dilemma</span></span></span>
 
 ## Why Enhypen still feel like a story in motion
 
@@ -307,194 +307,194 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-3-dark.svg" | relative_url }}" alt="Enhypen the South Korean band illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why ENHYPEN&#x27;s Eras Keep Fans Watching. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why ENHYPEN&#x27;s Eras Keep Fans Watching. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Croft</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
+</h4>
+<p class="fr-book-author">By Malcolm Croft</p>
         
-        <p class="fr-book-desc">Covers the wider K-pop industry mechanics, fandom culture, visuals, and performance systems that help explain ENHYPEN’s enduring era-base...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the wider K-pop industry mechanics, fandom culture, visuals, and performance systems that help explain ENHYPEN’s enduring era-base...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
+</h4>
+<p class="fr-book-author">By Stephan Lee</p>
         
-        <p class="fr-book-desc">Captures idol training, fandom intensity, image evolution, and entertainment-industry storytelling closely aligned with ENHYPEN’s career...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures idol training, fandom intensity, image evolution, and entertainment-industry storytelling closely aligned with ENHYPEN’s career...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
+</h4>
+<p class="fr-book-author">By Jessica Jung</p>
         
-        <p class="fr-book-desc">Explores the pressure, performance identity, and emotional labour behind modern idol eras and fan engagement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the pressure, performance identity, and emotional labour behind modern idol eras and fan engagement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9EAnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Revolution">K-Pop Revolution</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9EAnEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Revolution">K-Pop Revolution</a>
+</h4>
+<p class="fr-book-author">By Stephan Lee</p>
         
-        <p class="fr-book-desc">Focuses on idol branding, global fandoms, and evolving public personas central to ENHYPEN’s staying power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on idol branding, global fandoms, and evolving public personas central to ENHYPEN’s staying power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop+Revolution+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shine</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Shine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shine</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Border Day One Album With Inclusions And Folded Poster"><img src="https://i.ebayimg.com/images/g/wQgAAeSwWi9qDfGF/s-l225.jpg" alt="Listing image for Enhypen Border Day One Album With Inclusions And Folded Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen Border Day One Album With Inclusions And Folded Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Border Day One Album With Inclusions And Folded Poster"><img src="https://i.ebayimg.com/images/g/wQgAAeSwWi9qDfGF/s-l225.jpg" alt="Listing image for Enhypen Border Day One Album With Inclusions And Folded Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">Enhypen Border Day One Album With Inclusions And Folded Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card"><img src="https://i.ebayimg.com/images/g/JtUAAeSwjfBpP3ao/s-l225.jpg" alt="Listing image for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card"><img src="https://i.ebayimg.com/images/g/JtUAAeSwjfBpP3ao/s-l225.jpg" alt="Listing image for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card"><img src="https://i.ebayimg.com/images/g/3-UAAeSwaU9pP4Og/s-l225.jpg" alt="Listing image for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card"><img src="https://i.ebayimg.com/images/g/3-UAAeSwaU9pP4Og/s-l225.jpg" alt="Listing image for ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN THE SIN:VANISH 7th Mini Album FUGITIVES Ver/CD+10Photo+Book+Poster+3Card</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Photo Book+3Card+2 P.Ring+Poster+GIFT"><img src="https://i.ebayimg.com/images/g/IXYAAOSw3vlmb8kI/s-l225.jpg" alt="Listing image for ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Photo Book+3Card+2 P.Ring+Poster+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Photo Book+3Card+2 P.Ring+Poster+GIFT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Photo Book+3Card+2 P.Ring+Poster+GIFT"><img src="https://i.ebayimg.com/images/g/IXYAAOSw3vlmb8kI/s-l225.jpg" alt="Listing image for ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Photo Book+3Card+2 P.Ring+Poster+GIFT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN ROMANCE : UNTOLD 2nd Full Album CD+Photo Book+3Card+2 P.Ring+Poster+GIFT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-enhypen-s-eras-keep-fans-watching-enhypen-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN poster" data-ebay-reference="why-enhypen-s-eras-keep-fans-watching-enhypen-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -510,7 +510,7 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -530,7 +530,7 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -562,7 +562,7 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -614,7 +614,7 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -659,7 +659,7 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -700,271 +700,271 @@ The most accurate way to describe Enhypen is not just “a South Korean band” 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: elle.com  
-   Link: <a href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</p></details>
+   Link:<a href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/709</a>  
+   Link:<a href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/709</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: billboard.com  
    Title: enhypen romance untold number one top album sales chart 1235736631  
-   Link: <a href="https://www.billboard.com/music/chart-beat/enhypen-romance-untold-number-one-top-album-sales-chart-1235736631/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/enhypen-romance-untold-number-one-top-album-sales-chart-1235736631/</a>  
+   Link:<a href="https://www.billboard.com/music/chart-beat/enhypen-romance-untold-number-one-top-album-sales-chart-1235736631/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/enhypen-romance-untold-number-one-top-album-sales-chart-1235736631/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ifpi.org  
-   Link: <a href="https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/</a>  
+   Link:<a href="https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-makes-music-history-as-ifpis-biggest-selling-global-recording-artist-of-the-year-for-the-fifth-time/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ifpi.org  
    Title: Global Charts  
-   Link: <a href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/global-charts/</a>  
+   Link:<a href="https://www.ifpi.org/our-industry/global-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/our-industry/global-charts/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: shop.weverse.io  
-   Link: <a href="https://shop.weverse.io/en/shop/USD/artists/10/sales/5404" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/shop/USD/artists/10/sales/5404</a>  
+   Link:<a href="https://shop.weverse.io/en/shop/USD/artists/10/sales/5404" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/shop/USD/artists/10/sales/5404</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: billboard.com  
    Title: enhypen label heeseung band exit most fulfilling approach 1236197045  
-   Link: <a href="https://www.billboard.com/music/music-news/enhypen-label-heeseung-band-exit-most-fulfilling-approach-1236197045/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/music-news/enhypen-label-heeseung-band-exit-most-fulfilling-approach-1236197045/</a>  
+   Link:<a href="https://www.billboard.com/music/music-news/enhypen-label-heeseung-band-exit-most-fulfilling-approach-1236197045/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/music-news/enhypen-label-heeseung-band-exit-most-fulfilling-approach-1236197045/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enhypen-jp.weverse.io  
    Title: io ENHYPE N OFFICIAL SITE  
-   Link: <a href="https://enhypen-jp.weverse.io/" target="_blank" rel="noopener noreferrer nofollow">https://enhypen-jp.weverse.io/</a>  
+   Link:<a href="https://enhypen-jp.weverse.io/" target="_blank" rel="noopener noreferrer nofollow">https://enhypen-jp.weverse.io/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/highlight</a>  
+   Link:<a href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/highlight</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/highlight/about" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/highlight/about</a>  
+   Link:<a href="https://weverse.io/enhypen/highlight/about" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/highlight/about</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/1798" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/1798</a>  
+   Link:<a href="https://weverse.io/enhypen/notice/1798" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/1798</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/notice/22598" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/22598</a>  
+   Link:<a href="https://weverse.io/enhypen/notice/22598" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/22598</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: weverse.io  
-   Link: <a href="https://weverse.io/enhypen/media/1-50423" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/1-50423</a>  
+   Link:<a href="https://weverse.io/enhypen/media/1-50423" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/media/1-50423</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: shop.weverse.io  
-   Link: <a href="https://shop.weverse.io/en/shop/USD/artists/10/notices/2738" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/shop/USD/artists/10/notices/2738</a>  
+   Link:<a href="https://shop.weverse.io/en/shop/USD/artists/10/notices/2738" target="_blank" rel="noopener noreferrer nofollow">https://shop.weverse.io/en/shop/USD/artists/10/notices/2738</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: billboard.com  
    Title: enhypen kpop star profile 1235310162  
-   Link: <a href="https://www.billboard.com/music/pop/enhypen-kpop-star-profile-1235310162/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-kpop-star-profile-1235310162/</a>  
+   Link:<a href="https://www.billboard.com/music/pop/enhypen-kpop-star-profile-1235310162/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-kpop-star-profile-1235310162/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: billboard.com  
    Title: enhypen coachella billboard korea cover 1235946078  
-   Link: <a href="https://www.billboard.com/music/pop/enhypen-coachella-billboard-korea-cover-1235946078/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-coachella-billboard-korea-cover-1235946078/</a>  
+   Link:<a href="https://www.billboard.com/music/pop/enhypen-coachella-billboard-korea-cover-1235946078/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-coachella-billboard-korea-cover-1235946078/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: billboard.com  
    Title: enhypen hot coachella set exclusive behind the scenes  
-   Link: <a href="https://www.billboard.com/video/enhypen-hot-coachella-set-exclusive-behind-the-scenes/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/video/enhypen-hot-coachella-set-exclusive-behind-the-scenes/</a>  
+   Link:<a href="https://www.billboard.com/video/enhypen-hot-coachella-set-exclusive-behind-the-scenes/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/video/enhypen-hot-coachella-set-exclusive-behind-the-scenes/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/artist/enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/enhypen/</a>  
+   Link:<a href="https://www.billboard.com/artist/enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/enhypen/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/artist/enhypen/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/enhypen/page/7/</a>  
+   Link:<a href="https://www.billboard.com/artist/enhypen/page/7/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/enhypen/page/7/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/artist/enhypen/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/enhypen/page/6/</a>  
+   Link:<a href="https://www.billboard.com/artist/enhypen/page/6/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/enhypen/page/6/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: billboard.com  
    Title: enhypen tops artist 100 first time sin vanish top album sales 1236163418  
-   Link: <a href="https://www.billboard.com/music/chart-beat/enhypen-tops-artist-100-first-time-sin-vanish-top-album-sales-1236163418/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/enhypen-tops-artist-100-first-time-sin-vanish-top-album-sales-1236163418/</a>  
+   Link:<a href="https://www.billboard.com/music/chart-beat/enhypen-tops-artist-100-first-time-sin-vanish-top-album-sales-1236163418/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/enhypen-tops-artist-100-first-time-sin-vanish-top-album-sales-1236163418/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: billboard.com  
    Title: enhypen second studio album romance untold release date details 1235711162  
-   Link: <a href="https://www.billboard.com/music/pop/enhypen-second-studio-album-romance-untold-release-date-details-1235711162/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-second-studio-album-romance-untold-release-date-details-1235711162/</a>  
+   Link:<a href="https://www.billboard.com/music/pop/enhypen-second-studio-album-romance-untold-release-date-details-1235711162/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-second-studio-album-romance-untold-release-date-details-1235711162/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/artist/heeseung/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/heeseung/</a>  
+   Link:<a href="https://www.billboard.com/artist/heeseung/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/artist/heeseung/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: billboard.com  
    Title: ateez golden hour part 2 number one billboard 200 chart 1235837704  
-   Link: <a href="https://www.billboard.com/music/chart-beat/ateez-golden-hour-part-2-number-one-billboard-200-chart-1235837704/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/ateez-golden-hour-part-2-number-one-billboard-200-chart-1235837704/</a>  
+   Link:<a href="https://www.billboard.com/music/chart-beat/ateez-golden-hour-part-2-number-one-billboard-200-chart-1235837704/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/chart-beat/ateez-golden-hour-part-2-number-one-billboard-200-chart-1235837704/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: billboard.com  
-   Link: <a href="https://www.billboard.com/music/pop/enhypen-release-date-second-studio-album-repackage-romance-untold-daydream-1235799845/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-release-date-second-studio-album-repackage-romance-untold-daydream-1235799845/</a>  
+   Link:<a href="https://www.billboard.com/music/pop/enhypen-release-date-second-studio-album-repackage-romance-untold-daydream-1235799845/" target="_blank" rel="noopener noreferrer nofollow">https://www.billboard.com/music/pop/enhypen-release-date-second-studio-album-repackage-romance-untold-daydream-1235799845/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: enhypen.fandom.com  
-   Link: <a href="https://enhypen.fandom.com/wiki/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/ENHYPEN</a>  
+   Link:<a href="https://enhypen.fandom.com/wiki/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/ENHYPEN</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: kpop.fandom.com  
-   Link: <a href="https://kpop.fandom.com/wiki/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://kpop.fandom.com/wiki/ENHYPEN</a>  
+   Link:<a href="https://kpop.fandom.com/wiki/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://kpop.fandom.com/wiki/ENHYPEN</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: enhypen.fandom.com  
-   Link: <a href="https://enhypen.fandom.com/wiki/ENGENE" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/ENGENE</a>  
+   Link:<a href="https://enhypen.fandom.com/wiki/ENGENE" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/ENGENE</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ifpi.org  
    Title: taylor swift seventeen and morgan wallen top ifpi global album charts  
-   Link: <a href="https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/</a>  
+   Link:<a href="https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/" target="_blank" rel="noopener noreferrer nofollow">https://www.ifpi.org/taylor-swift-seventeen-and-morgan-wallen-top-ifpi-global-album-charts/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: ENHYPEN | Orange Blood, Vampires, Creative Process, Fate Tour  
-   Link: <a href="https://www.youtube.com/watch?v=DvkCiXlegqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvkCiXlegqQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Shine On Me&#x27; Official MV...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DvkCiXlegqQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DvkCiXlegqQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Shine On Me&#x27; Official MV...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: beliftlab.com  
    Title: BELIFT LAB빌리프랩 | BELIFT LAB  
-   Link: <a href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/ENHYPEN</a>  
+   Link:<a href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/ENHYPEN</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: koreatimes.co.kr  
    Title: The Korea Times Enhypen sells over 1 million copies of 'Dimension: Dilemma'  
-   Link: <a href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma</a>  
+   Link:<a href="https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20211111/enhypen-sells-over-1-million-copies-of-dimension-dilemma</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: teenvogue.com  
-   Link: <a href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/heeseung-is-leaving-enhypen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/heeseung-is-leaving-enhypen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ENHYPEN/status/2031263792613699825" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ENHYPEN/status/2031263792613699825</a>  
+   Link:<a href="https://x.com/ENHYPEN/status/2031263792613699825" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ENHYPEN/status/2031263792613699825</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: teenvogue.com  
    Title: enhypen orange blood vision boards interview 2023  
-   Link: <a href="https://www.teenvogue.com/story/enhypen-orange-blood-vision-boards-interview-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-orange-blood-vision-boards-interview-2023</a>  
+   Link:<a href="https://www.teenvogue.com/story/enhypen-orange-blood-vision-boards-interview-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-orange-blood-vision-boards-interview-2023</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: gq.com  
    Title: ENHYPEN Just Rocked Coachella in Cowboy-Themed Custom Prada  
-   Link: <a href="https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks</a>  
+   Link:<a href="https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks" target="_blank" rel="noopener noreferrer nofollow">https://www.gq.com/story/enhypen-coachella-2025-custom-prada-looks</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/</a>  
+   Link:<a href="https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: beliftlab.com  
-   Link: <a href="https://beliftlab.com/artist/profile/EVAN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/EVAN</a>  
+   Link:<a href="https://beliftlab.com/artist/profile/EVAN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/EVAN</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: beliftlab.com  
-   Link: <a href="https://beliftlab.com/about/index" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/about/index</a>  
+   Link:<a href="https://beliftlab.com/about/index" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/about/index</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/enhypen/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/enhypen/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/enhypen/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/enhypen/?hl=en</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVskuW3jAcp/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVskuW3jAcp/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DVskuW3jAcp/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVskuW3jAcp/?hl=en</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DIUl-svuENK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIUl-svuENK/</a>  
+   Link:<a href="https://www.instagram.com/reel/DIUl-svuENK/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIUl-svuENK/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: Wikipedia  
    Title: Dimension: Dilemma  
-   Link: <a href="https://en.wikipedia.org/wiki/Dimension%3A_Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dimension%3A_Dilemma</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Dimension%3A_Dilemma" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Dimension%3A_Dilemma</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: Wikipedia  
    Title: Romance: Untold  
-   Link: <a href="https://en.wikipedia.org/wiki/Romance%3A_Untold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Romance%3A_Untold</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Romance%3A_Untold" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Romance%3A_Untold</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: x.com  
-   Link: <a href="https://x.com/AsiaEnhypen/status/1876134315463151837" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AsiaEnhypen/status/1876134315463151837</a>  
+   Link:<a href="https://x.com/AsiaEnhypen/status/1876134315463151837" target="_blank" rel="noopener noreferrer nofollow">https://x.com/AsiaEnhypen/status/1876134315463151837</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: x.com  
-   Link: <a href="https://x.com/kchartsmaster/status/1891872744049946628" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kchartsmaster/status/1891872744049946628</a>  
+   Link:<a href="https://x.com/kchartsmaster/status/1891872744049946628" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kchartsmaster/status/1891872744049946628</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: x.com  
-   Link: <a href="https://x.com/kchartsmaster/status/1994771517998022973?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kchartsmaster/status/1994771517998022973?lang=en</a>  
+   Link:<a href="https://x.com/kchartsmaster/status/1994771517998022973?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/kchartsmaster/status/1994771517998022973?lang=en</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: soompi.com  
    Title: belift lab reaffirms heeseung is not returning to enhypen  
-   Link: <a href="https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen</a>  
+   Link:<a href="https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: rhythmhive.drimage.com  
-   Link: <a href="https://rhythmhive.drimage.com/notice/weverse/enhypen" target="_blank" rel="noopener noreferrer nofollow">https://rhythmhive.drimage.com/notice/weverse/enhypen</a>  
+   Link:<a href="https://rhythmhive.drimage.com/notice/weverse/enhypen" target="_blank" rel="noopener noreferrer nofollow">https://rhythmhive.drimage.com/notice/weverse/enhypen</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: musicmundial.com  
    Title: belift lab announces heeseungs departure from enhypen  
-   Link: <a href="https://www.musicmundial.com/en/belift-lab-announces-heeseungs-departure-from-enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmundial.com/en/belift-lab-announces-heeseungs-departure-from-enhypen/</a>  
+   Link:<a href="https://www.musicmundial.com/en/belift-lab-announces-heeseungs-departure-from-enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.musicmundial.com/en/belift-lab-announces-heeseungs-departure-from-enhypen/</a>  
 
 ### Additional References
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXJdb0EgfXx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXJdb0EgfXx/</a>  
+   Link:<a href="https://www.instagram.com/p/DXJdb0EgfXx/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXJdb0EgfXx/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: pinkvilla.com  
-   Link: <a href="https://www.pinkvilla.com/entertainment/2025-mama-awards-day-1-full-winners-list-enhypen-takes-1st-daesang-cortis-blackpinks-rose-win-big-1398792" target="_blank" rel="noopener noreferrer nofollow">https://www.pinkvilla.com/entertainment/2025-mama-awards-day-1-full-winners-list-enhypen-takes-1st-daesang-cortis-blackpinks-rose-win-big-1398792</a>  
+   Link:<a href="https://www.pinkvilla.com/entertainment/2025-mama-awards-day-1-full-winners-list-enhypen-takes-1st-daesang-cortis-blackpinks-rose-win-big-1398792" target="_blank" rel="noopener noreferrer nofollow">https://www.pinkvilla.com/entertainment/2025-mama-awards-day-1-full-winners-list-enhypen-takes-1st-daesang-cortis-blackpinks-rose-win-big-1398792</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: enhypenguide.com  
-   Link: <a href="https://www.enhypenguide.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.enhypenguide.com/</a>  
+   Link:<a href="https://www.enhypenguide.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.enhypenguide.com/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/DramaHush/posts/enhypen-arrived-at-incheon-international-airport-on-the-morning-of-january-11-af/1290677319757569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DramaHush/posts/enhypen-arrived-at-incheon-international-airport-on-the-morning-of-january-11-af/1290677319757569/</a>  
+   Link:<a href="https://www.facebook.com/DramaHush/posts/enhypen-arrived-at-incheon-international-airport-on-the-morning-of-january-11-af/1290677319757569/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DramaHush/posts/enhypen-arrived-at-incheon-international-airport-on-the-morning-of-january-11-af/1290677319757569/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/C92sA2uR5M6/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C92sA2uR5M6/?hl=en-gb</a>  
+   Link:<a href="https://www.instagram.com/p/C92sA2uR5M6/?hl=en-gb" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/C92sA2uR5M6/?hl=en-gb</a>  
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OneSeoulPH/posts/enhypen-reveals-fandom-name-engene-it-has-two-meanings1-fans-are-the-engines-tha/1800819223430367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OneSeoulPH/posts/enhypen-reveals-fandom-name-engene-it-has-two-meanings1-fans-are-the-engines-tha/1800819223430367/</a>  
+   Link:<a href="https://www.facebook.com/OneSeoulPH/posts/enhypen-reveals-fandom-name-engene-it-has-two-meanings1-fans-are-the-engines-tha/1800819223430367/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OneSeoulPH/posts/enhypen-reveals-fandom-name-engene-it-has-two-meanings1-fans-are-the-engines-tha/1800819223430367/</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61554103336494/posts/enhypens-desire-unleash-ranks-no-16-on-ifpis-2025-biggest-global-albums-chart-ma/122249445482136777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61554103336494/posts/enhypens-desire-unleash-ranks-no-16-on-ifpis-2025-biggest-global-albums-chart-ma/122249445482136777/</a>  
+   Link:<a href="https://www.facebook.com/61554103336494/posts/enhypens-desire-unleash-ranks-no-16-on-ifpis-2025-biggest-global-albums-chart-ma/122249445482136777/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61554103336494/posts/enhypens-desire-unleash-ranks-no-16-on-ifpis-2025-biggest-global-albums-chart-ma/122249445482136777/</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/gmanews/posts/enhypen-is-starting-their-era-as-a-six-member-groupfollowing-the-news-of-heeseun/1474566298048356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gmanews/posts/enhypen-is-starting-their-era-as-a-six-member-groupfollowing-the-news-of-heeseun/1474566298048356/</a>  
+   Link:<a href="https://www.facebook.com/gmanews/posts/enhypen-is-starting-their-era-as-a-six-member-groupfollowing-the-news-of-heeseun/1474566298048356/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/gmanews/posts/enhypen-is-starting-their-era-as-a-six-member-groupfollowing-the-news-of-heeseun/1474566298048356/</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/presentation/708310600/Blue-Modern-Group-Project-Creative-Presentation" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/708310600/Blue-Modern-Group-Project-Creative-Presentation</a>  
+   Link:<a href="https://www.scribd.com/presentation/708310600/Blue-Modern-Group-Project-Creative-Presentation" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/presentation/708310600/Blue-Modern-Group-Project-Creative-Presentation</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVtF00rDLTz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVtF00rDLTz/</a>
+   Link:<a href="https://www.instagram.com/p/DVtF00rDLTz/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVtF00rDLTz/</a>

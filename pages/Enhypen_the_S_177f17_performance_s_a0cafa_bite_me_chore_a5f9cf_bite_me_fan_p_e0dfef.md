@@ -263,23 +263,23 @@ image: /assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5
 
 ## Introduction
 
-ENHYPEN’s “Bite Me” promotions became one of the clearest recent examples of fans directly influencing a K-pop stage in real time. What began as a choreography debate over female partner dancers quickly turned into a visible campaign involving protest trucks, organised statements and sustained online pressure. Within weeks, parts of the performance were altered, and later [stages]({{ 'stages/' | relative_url }}) sometimes removed the paired choreography entirely. The result was not a simple “fans won” story. Instead, the controversy exposed a deeper conflict over idol intimacy, artistic direction and how much control fandoms should have over performance choices. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+ENHYPEN’s “Bite Me” promotions became one of the clearest recent examples of fans directly influencing a K-pop stage in real time. What began as a choreography debate over female partner dancers quickly turned into a visible campaign involving protest trucks, organised statements and sustained online pressure. Within weeks, parts of the performance were altered, and later [stages]({{ 'stages/' | relative_url }}) sometimes removed the paired choreography entirely. The result was not a simple “fans won” story. Instead, the controversy exposed a deeper conflict over idol intimacy, artistic direction and how much control fandoms should have over performance choices.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-dark.svg" | relative_url }}" alt="Fan protests illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The changes also created a second backlash. Some viewers thought the revised stages looked safer but flatter, while others believed the original version crossed boundaries they were uncomfortable with. Because “Bite Me” relied heavily on tension between the members and the dancers, even small staging revisions changed the emotional tone of the performance. That is why the argument lasted long after the first protests ended.
 
 ## What fans objected to in the partner choreography
 
-The strongest objections focused on the close-contact choreography during the chorus. “Bite Me” used female dancers not as background extras but as direct partners. The members leaned into each other, mirrored movements and used body positioning that emphasised physical closeness. In a vampire-themed concept built around temptation and seduction, the choreography was clearly intentional rather than incidental. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/kpop-fans-protest-truck-removal-female-backup-dancers-enhypen-korea-2023-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">kpop fans protest truck removal female backup dancers enhypen korea 2023 5</span><span class="citation-popover-snippet">Business InsiderK-Pop Fans Sent Protest Trucks for Removal of Female...29 May 2023 — Fans who disagreed with the choreography chosen for...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The strongest objections focused on the close-contact choreography during the chorus. “Bite Me” used female dancers not as background extras but as direct partners. The members leaned into each other, mirrored movements and used body positioning that emphasised physical closeness. In a vampire-themed concept built around temptation and seduction, the choreography was clearly intentional rather than incidental.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.businessinsider.com/kpop-fans-protest-truck-removal-female-backup-dancers-enhypen-korea" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: businessinsider.com">[Business Insider]</a><span class="citation-popover" role="note"><span class="citation-popover-source">businessinsider.com</span><span class="citation-popover-title">kpop fans protest truck removal female backup dancers enhypen korea</span><span class="citation-popover-snippet">Business InsiderK-Pop Fans Sent Protest Trucks for Removal of Female...29 May 2023 — Fans who disagreed with the choreography chosen for...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 For critics inside the fandom, several complaints appeared repeatedly:
 
 * The choreography felt “too intimate” for an idol group with a young fanbase.
 * Some fans argued the concept blurred fantasy and realism too aggressively.
 * Others claimed the female dancers distracted attention from the members.
-* A smaller but vocal group framed the issue around the members’ ages, especially younger members performing sensual choreography. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+* A smaller but vocal group framed the issue around the members’ ages, especially younger members performing sensual choreography. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-But the debate quickly moved beyond choreography itself. International fans and many casual viewers argued that the backlash revealed possessiveness inside idol culture more than genuine concern about performance content. On Reddit and other discussion spaces, critics of the protests repeatedly described the outrage as parasocial behaviour: fans reacting negatively to seeing idols paired with women on stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the controversy over enhypen&#x27;s choreography was so</span><span class="citation-popover-snippet">the controversy over enhypen&#x27;s choreography was so...May 25, 2023 — So what now? There is literally NOTHING inappropriate about th...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the funniest thing to me about the people</span><span class="citation-popover-snippet">the funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</span><span class="citation-popover-meta">Published: June 2, 2023</span></span></span>
+But the debate quickly moved beyond choreography itself. International fans and many casual viewers argued that the backlash revealed possessiveness inside idol culture more than genuine concern about performance content. On Reddit and other discussion spaces, critics of the protests repeatedly described the outrage as parasocial behaviour: fans reacting negatively to seeing idols paired with women on stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the controversy over enhypen&#x27;s choreography was so</span><span class="citation-popover-snippet">the controversy over enhypen&#x27;s choreography was so...May 25, 2023 — So what now? There is literally NOTHING inappropriate about th...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the funniest thing to me about the people</span><span class="citation-popover-snippet">the funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</span><span class="citation-popover-meta">Published: June 2, 2023</span></span></span>
 
 That interpretation gained traction partly because the choreography itself was comparatively restrained by industry standards. Many observers noted that the dance relied more on proximity and atmosphere than overtly sexual movement. The anger therefore appeared disproportionate to outsiders, which amplified media attention around the controversy.
 
@@ -287,11 +287,11 @@ That interpretation gained traction partly because the choreography itself was c
 
 ## How protest trucks and online pushback shaped the debate
 
-The controversy escalated unusually fast because fans organised offline protests almost immediately after promotions began. Trucks with LED message boards were sent to HYBE and BELIFT LAB demanding that the company remove the partner choreography and female dancers from performances. Photos of the trucks spread widely across Korean and international social media, turning what could have stayed a niche fandom argument into a broader K-pop discussion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The controversy escalated unusually fast because fans organised offline protests almost immediately after promotions began. Trucks with LED message boards were sent to HYBE and BELIFT LAB demanding that the company remove the partner choreography and female dancers from performances. Photos of the trucks spread widely across Korean and international social media, turning what could have stayed a niche fandom argument into a broader K-pop discussion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scmp.com">[South China Morning Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scmp.com</span><span class="citation-popover-title">rabid k pop fans object enhypens bite me backup dancers fleet protest trucks</span><span class="citation-popover-snippet">Protest trucks...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: allkpop.com">[2allkpop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">allkpop.com</span><span class="citation-popover-snippet">ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
 The protest messages did not simply criticise styling decisions. They explicitly demanded revisions to the stage itself. That mattered because truck protests in K-pop are often used to pressure agencies publicly rather than privately. By using them over choreography, fans signalled that they viewed the issue as serious enough to justify organised action.
 
-At the same time, counter-reactions became just as visible. Many fans defended the [original staging]({{ 'original-staging/' | relative_url }}) and accused the protesting side of infantilising the members. Online discussions repeatedly pointed out that ENHYPEN were not rookies performing innocent concepts anymore and that “Bite Me” was designed as a darker, mature comeback. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypen&#x27;s Bite Me comeback and the ridiculous outrage...I hear Enhypen had a &quot;controversy&quot; about it which made me worried cause th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think Enhypen&#x27;s controversy is a good example on how...Yes. The backlash was not directed towards the artists themselves, it was...</span></span></span>
+At the same time, counter-reactions became just as visible. Many fans defended the [original staging]({{ 'original-staging/' | relative_url }}) and accused the protesting side of infantilising the members. Online discussions repeatedly pointed out that ENHYPEN were not rookies performing innocent concepts anymore and that “Bite Me” was designed as a darker, mature comeback.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypen&#x27;s Bite Me comeback and the ridiculous outrage...I hear Enhypen had a &quot;controversy&quot; about it which made me worried cause th...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I think Enhypen&#x27;s controversy is a good example on how...Yes. The backlash was not directed towards the artists themselves, it was...</span></span></span>
 
 The backlash against the protests became part of the story itself. Instead of a unified fandom complaint, the situation turned into a public split over what fans should be allowed to influence. Some argued that agencies always monitor fan sentiment and adjust promotions accordingly, making the revisions normal business practice. Others believed changing the choreography rewarded controlling behaviour and encouraged future fan interventions.
 
@@ -302,11 +302,11 @@ That tension made the “Bite Me” situation feel larger than one comeback. Fan
 
 The changes to “Bite Me” did not happen in one dramatic announcement. Instead, viewers gradually noticed differences across performances during the promotion cycle.
 
-Early stages prominently featured the female dancers during the chorus and key transitions. Later performances reduced or removed some of those partner interactions, and eventually certain broadcasts presented revised formations without female dancers entirely. A July 2023 Japanese performance especially drew attention because viewers immediately recognised that the partner choreography had disappeared. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koreaboo.com/lists/kpop-backup-dancers-controversies-scandals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">kpop backup dancers controversies scandals</span><span class="citation-popover-snippet">Earlier this year, ENHYPEN&#x27;s agency faced backlash from some domestic fans for ENHYPEN&#x27;s “Bite” Me” choreography.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=w07d9rWDRKs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">kdancers. 2.7K views 2 years ago...</span></span></span>
+Early stages prominently featured the female dancers during the chorus and key transitions. Later performances reduced or removed some of those partner interactions, and eventually certain broadcasts presented revised formations without female dancers entirely. A July 2023 Japanese performance especially drew attention because viewers immediately recognised that the partner choreography had disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koreaboo.com/lists/kpop-backup-dancers-controversies-scandals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">kpop backup dancers controversies scandals</span><span class="citation-popover-snippet">Earlier this year, ENHYPEN&#x27;s agency faced backlash from some domestic fans for ENHYPEN&#x27;s “Bite” Me” choreography.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=w07d9rWDRKs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">kdancers. 2.7K views 2 years ago...</span></span></span>
 
-The revised version shifted focus back onto member-only synchronisation. Instead of paired movements creating tension between individuals, the choreography returned to a more conventional boy-group structure built around formation changes and centre transitions. Fans who preferred the new version argued that it made the members look sharper and kept visual attention concentrated on ENHYPEN themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koreaboo.com/news/korean-netizen-express-outrage-enhypen-new-choreography-bite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">korean netizen express outrage enhypen new choreography bite</span><span class="citation-popover-snippet">Korean Netizens Express Outrage Over ENHYPEN&#x27;s &quot;New&quot;...25 May 2023 — Korean fans criticized ENHYPEN&#x27;s &quot;fixed&quot; choreography. Netizens rea...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The revised version shifted focus back onto member-only synchronisation. Instead of paired movements creating tension between individuals, the choreography returned to a more conventional boy-group structure built around formation changes and centre transitions. Fans who preferred the new version argued that it made the members look sharper and kept visual attention concentrated on ENHYPEN themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koreaboo.com/news/korean-netizen-express-outrage-enhypen-new-choreography-bite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">korean netizen express outrage enhypen new choreography bite</span><span class="citation-popover-snippet">Korean Netizens Express Outrage Over ENHYPEN&#x27;s &quot;New&quot;...25 May 2023 — Korean fans criticized ENHYPEN&#x27;s &quot;fixed&quot; choreography. Netizens rea...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-However, many viewers felt the stage lost part of its original identity. Reddit discussions after the revisions repeatedly argued that the choreography looked emptier or emotionally incomplete without the dancers. Some fans described the original version as cinematic and theatrical, while the revised version felt safer but more generic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">bite me has a new choreo</span><span class="citation-popover-snippet">???: r/Enhypenthoughtsenhypen did a dance jam live today (230711), and they showed us a new choreo for the bite me chorus!!! they remove...</span></span></span>
+However, many viewers felt the stage lost part of its original identity. Reddit discussions after the revisions repeatedly argued that the choreography looked emptier or emotionally incomplete without the dancers. Some fans described the original version as cinematic and theatrical, while the revised version felt safer but more generic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">bite me has a new choreo</span><span class="citation-popover-snippet">???: r/Enhypenthoughtsenhypen did a dance jam live today (230711), and they showed us a new choreo for the bite me chorus!!! they remove...</span></span></span>
 
 The contrast became especially obvious because “Bite Me” had been choreographed around interaction from the start. Removing the dancers did not simply remove decoration; it altered spacing, pacing and visual storytelling.
 
@@ -316,13 +316,13 @@ The contrast became especially obvious because “Bite Me” had been choreograp
 
 The choreography changes solved almost nothing cleanly because the revised stages generated a second round of disagreement.
 
-For supporters of the protests, the newer stages proved that the song worked better without the female dancers. Korean online comments highlighted cleaner formations and more focus on the members’ body lines and expressions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">enhypen bite performance without female dancers koreans</span><span class="citation-popover-snippet">Koreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</span></span></span>
+For supporters of the protests, the newer stages proved that the song worked better without the female dancers. Korean online comments highlighted cleaner formations and more focus on the members’ body lines and expressions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: koreaboo.com">[Koreaboo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">koreaboo.com</span><span class="citation-popover-title">enhypen bite performance without female dancers koreans</span><span class="citation-popover-snippet">Koreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</span></span></span>
 
-For critics of the changes, though, the revisions became symbolic of fan overreach. Many argued that the company had effectively shown fans that enough pressure could reshape a performance mid-promotion. That concern appeared frequently in discussions about the long-term consequences of the controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypens Bite Me choreography looks better with the...August 2, 2023 — The new choreography for Enhypen&#x27;s Bite Me has been release...</span><span class="citation-popover-meta">Published: August 2, 2023</span></span></span>
+For critics of the changes, though, the revisions became symbolic of fan overreach. Many argued that the company had effectively shown fans that enough pressure could reshape a performance mid-promotion. That concern appeared frequently in discussions about the long-term consequences of the controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Enhypens Bite Me choreography looks better with the...August 2, 2023 — The new choreography for Enhypen&#x27;s Bite Me has been release...</span><span class="citation-popover-meta">Published: August 2, 2023</span></span></span>
 
 The debate also exposed a contradiction inside idol marketing. K-pop agencies often sell emotional closeness and fantasy connection as part of fandom culture, but “Bite Me” showed what can happen when a concept visibly disrupts that fantasy. The partner choreography forced fans to confront the difference between a controlled romantic concept and real discomfort about idols interacting with women on stage.
 
-Because of that, the controversy lingered long after the comeback cycle ended. Fans still reference “Bite Me” when discussing parasocial fandom behaviour, agency responsiveness and the limits of fan influence over artistic decisions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Does anyone still get embarrassed thinking about the bite...I still get embarrassed thinking about how a part of our fandom litera...</span></span></span>
+Because of that, the controversy lingered long after the comeback cycle ended. Fans still reference “Bite Me” when discussing parasocial fandom behaviour, agency responsiveness and the limits of fan influence over artistic decisions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Does anyone still get embarrassed thinking about the bite...I still get embarrassed thinking about how a part of our fandom litera...</span></span></span>
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-dark.svg" | relative_url }}" alt="Fan protests illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the “Bite Me” controversy became a wider K-pop flashpoint
@@ -338,194 +338,194 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nAfJYqR5RNY" title="BITE ME ERA was a mess..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nAfJYqR5RNY" target="_blank" rel="noopener noreferrer">BITE ME ERA was a mess...</a></p><p class="youtube-embed-meta">Channel: Wonnieverse &middot; Views: 187.1K &middot; Uploaded: July 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nAfJYqR5RNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nAfJYqR5RNY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How fans changed the Bite Me stage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How fans changed the Bite Me stage. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0WPsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fangirls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls">Fangirls</a>
-        </h4>
-        <p class="fr-book-author">By Hannah Ewens</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fangirls on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=0WPsDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fangirls" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fangirls">Fangirls</a>
+</h4>
+<p class="fr-book-author">By Hannah Ewens</p>
         
-        <p class="fr-book-desc">Directly relevant to fan reactions and organised fandom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to fan reactions and organised fandom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fangirls+by+Hannah+Ewens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
+</h4>
+<p class="fr-book-author">By Stephan Lee</p>
         
-        <p class="fr-book-desc">Its focus on idol-image tension mirrors the controversy around stage intimacy and fan expectations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Its focus on idol-image tension mirrors the controversy around stage intimacy and fan expectations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
-        </h4>
-        <p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fanocracy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FdOQDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fanocracy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fanocracy">Fanocracy</a>
+</h4>
+<p class="fr-book-author">By David Meerman Scott, Reiko Scott</p>
         
-        <p class="fr-book-desc">Explores how passionate fan communities influence organisations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how passionate fan communities influence organisations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fanocracy+by+David+Meerman+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Idol, Burning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oPNtEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Idol, Burning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Idol, Burning">Idol, Burning</a>
-        </h4>
-        <p class="fr-book-author">By Rin Usami</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Idol, Burning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=oPNtEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Idol, Burning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Idol, Burning">Idol, Burning</a>
+</h4>
+<p class="fr-book-author">By Rin Usami</p>
         
-        <p class="fr-book-desc">Explores fan obsession and emotional reactions to idol behaviour and image.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores fan obsession and emotional reactions to idol behaviour and image.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Idol%2C+Burning+Rin+Usami&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fangirls&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fangirls</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fanocracy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fanocracy</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Heeseung Dark Blood Bite Me New Ver. Official Concept Photocard"><img src="https://i.ebayimg.com/images/g/PD0AAOSwtNZkm7fH/s-l225.jpg" alt="Listing image for ENHYPEN Heeseung Dark Blood Bite Me New Ver. Official Concept Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Heeseung Dark Blood Bite Me New Ver. Official Concept Photocard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Heeseung Dark Blood Bite Me New Ver. Official Concept Photocard"><img src="https://i.ebayimg.com/images/g/PD0AAOSwtNZkm7fH/s-l225.jpg" alt="Listing image for ENHYPEN Heeseung Dark Blood Bite Me New Ver. Official Concept Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Heeseung Dark Blood Bite Me New Ver. Official Concept Photocard</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Jungwon Dark Blood Bite Me Official Selfie Photocard"><img src="https://i.ebayimg.com/images/g/gqMAAOSwEeJkm7io/s-l225.jpg" alt="Listing image for ENHYPEN Jungwon Dark Blood Bite Me Official Selfie Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Jungwon Dark Blood Bite Me Official Selfie Photocard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENHYPEN Jungwon Dark Blood Bite Me Official Selfie Photocard"><img src="https://i.ebayimg.com/images/g/gqMAAOSwEeJkm7io/s-l225.jpg" alt="Listing image for ENHYPEN Jungwon Dark Blood Bite Me Official Selfie Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">ENHYPEN Jungwon Dark Blood Bite Me Official Selfie Photocard</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [ENHYPEN] DARK BLOOD / Bite Me / New Ver. Official Selfie Photocard #1"><img src="https://i.ebayimg.com/images/g/Wb8AAOSwnuBkhwDx/s-l225.jpg" alt="Listing image for [ENHYPEN] DARK BLOOD / Bite Me / New Ver. Official Selfie Photocard #1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">[ENHYPEN] DARK BLOOD / Bite Me / New Ver. Official Selfie Photocard #1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [ENHYPEN] DARK BLOOD / Bite Me / New Ver. Official Selfie Photocard #1"><img src="https://i.ebayimg.com/images/g/Wb8AAOSwnuBkhwDx/s-l225.jpg" alt="Listing image for [ENHYPEN] DARK BLOOD / Bite Me / New Ver. Official Selfie Photocard #1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">[ENHYPEN] DARK BLOOD / Bite Me / New Ver. Official Selfie Photocard #1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [ENHYPEN] DARK BLOOD / Bite Me / Half Ver. Official Concept Photocard #2"><img src="https://i.ebayimg.com/images/g/rGIAAOSwztxkhvt-/s-l225.jpg" alt="Listing image for [ENHYPEN] DARK BLOOD / Bite Me / Half Ver. Official Concept Photocard #2" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">[ENHYPEN] DARK BLOOD / Bite Me / Half Ver. Official Concept Photocard #2</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for [ENHYPEN] DARK BLOOD / Bite Me / Half Ver. Official Concept Photocard #2"><img src="https://i.ebayimg.com/images/g/rGIAAOSwztxkhvt-/s-l225.jpg" alt="Listing image for [ENHYPEN] DARK BLOOD / Bite Me / Half Ver. Official Concept Photocard #2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">[ENHYPEN] DARK BLOOD / Bite Me / Half Ver. Official Concept Photocard #2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN Bite Me photocard">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN Bite Me photocard</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+Bite+Me+photocard&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN Bite Me photocard" data-ebay-reference="how-fans-changed-the-bite-me-stage-enhypen-bite-me-photocard" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,158 +731,158 @@ Even years later, the “Bite Me” stages remain memorable not just because of 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: scmp.com  
    Title: rabid k pop fans object enhypens bite me backup dancers fleet protest trucks  
-   Link: <a href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Protest trucks...</p></details>
+   Link:<a href="https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks" target="_blank" rel="noopener noreferrer nofollow">https://www.scmp.com/news/asia/east-asia/article/3222260/rabid-k-pop-fans-object-enhypens-bite-me-backup-dancers-fleet-protest-trucks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protest trucks...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: allkpop.com  
-   Link: <a href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow">https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</p></details>
+   Link:<a href="https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me" target="_blank" rel="noopener noreferrer nofollow">https://www.allkpop.com/article/2023/05/enhypen-fans-issue-a-joint-statement-launch-a-truck-protest-demanding-the-removal-of-suggestive-choreography-with-female-dancers-in-bite-me</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN fans issue a joint statement, launch a truck...24 May 2023 — ENHYPEN fans issue a joint statement, launch a truck protest demand...</p></details>
    Published: May 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: koreaboo.com  
    Title: kpop backup dancers controversies scandals  
-   Link: <a href="https://www.koreaboo.com/lists/kpop-backup-dancers-controversies-scandals/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/lists/kpop-backup-dancers-controversies-scandals/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earlier this year, ENHYPEN&#x27;s agency faced backlash from some domestic fans for ENHYPEN&#x27;s “Bite” Me” choreography.Read more...</p></details>
+   Link:<a href="https://www.koreaboo.com/lists/kpop-backup-dancers-controversies-scandals/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/lists/kpop-backup-dancers-controversies-scandals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Earlier this year, ENHYPEN&#x27;s agency faced backlash from some domestic fans for ENHYPEN&#x27;s “Bite” Me” choreography.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: the controversy over enhypen's choreography was so  
-   Link: <a href="https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the controversy over enhypen&#x27;s choreography was so...May 25, 2023 — So what now? There is literally NOTHING inappropriate about th...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpoprants/comments/13rmhq0/the_controversy_over_enhypens_choreography_was_so/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the controversy over enhypen&#x27;s choreography was so...May 25, 2023 — So what now? There is literally NOTHING inappropriate about th...</p></details>
    Published: May 25, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: koreaboo.com  
    Title: korean netizen express outrage enhypen new choreography bite  
-   Link: <a href="https://www.koreaboo.com/news/korean-netizen-express-outrage-enhypen-new-choreography-bite/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/news/korean-netizen-express-outrage-enhypen-new-choreography-bite/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Korean Netizens Express Outrage Over ENHYPEN&#x27;s &quot;New&quot;...25 May 2023 — Korean fans criticized ENHYPEN&#x27;s &quot;fixed&quot; choreography. Netizens rea...</p></details>
+   Link:<a href="https://www.koreaboo.com/news/korean-netizen-express-outrage-enhypen-new-choreography-bite/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/news/korean-netizen-express-outrage-enhypen-new-choreography-bite/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korean Netizens Express Outrage Over ENHYPEN&#x27;s &quot;New&quot;...25 May 2023 — Korean fans criticized ENHYPEN&#x27;s &quot;fixed&quot; choreography. Netizens rea...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: the funniest thing to me about the people  
-   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13yh7q0/the_funniest_thing_to_me_about_the_people/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the funniest thing to me about the people unstanning...June 2, 2023 — The members of enhypen all woke up and said &quot;we hate our fan...</p></details>
    Published: June 2, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen&#x27;s Bite Me comeback and the ridiculous outrage...I hear Enhypen had a &quot;controversy&quot; about it which made me worried cause th...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13wqont/enhypens_bite_me_comeback_and_the_ridiculous/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypen&#x27;s Bite Me comeback and the ridiculous outrage...I hear Enhypen had a &quot;controversy&quot; about it which made me worried cause th...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I think Enhypen&#x27;s controversy is a good example on how...Yes. The backlash was not directed towards the artists themselves, it was...</p></details>
+   Link:<a href="https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpopthoughts/comments/13xn8k8/i_think_enhypens_controversy_is_a_good_example_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I think Enhypen&#x27;s controversy is a good example on how...Yes. The backlash was not directed towards the artists themselves, it was...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: koreaboo.com  
    Title: enhypen bite performance without female dancers koreans  
-   Link: <a href="https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Koreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</p></details>
+   Link:<a href="https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/news/enhypen-bite-performance-without-female-dancers-koreans/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Koreans React To ENHYPEN&#x27;s First “Bite Me” Performance...15 Jul 2023 — Korean netizens react to ENHYPEN performing &quot;Bite Me&quot; for...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=w07d9rWDRKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w07d9rWDRKs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kdancers. 2.7K views 2 years ago...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=w07d9rWDRKs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=w07d9rWDRKs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kdancers. 2.7K views 2 years ago...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: bite me has a new choreo  
-   Link: <a href="https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>???: r/Enhypenthoughtsenhypen did a dance jam live today (230711), and they showed us a new choreo for the bite me chorus!!! they remove...</p></details>
+   Link:<a href="https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Enhypenthoughts/comments/14xh9jv/bite_me_has_a_new_choreo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>???: r/Enhypenthoughtsenhypen did a dance jam live today (230711), and they showed us a new choreo for the bite me chorus!!! they remove...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypens Bite Me choreography looks better with the...August 2, 2023 — The new choreography for Enhypen&#x27;s Bite Me has been release...</p></details>
+   Link:<a href="https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/unpopularkpopopinions/comments/15fvv73/enhypens_bite_me_choreography_looks_better_with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enhypens Bite Me choreography looks better with the...August 2, 2023 — The new choreography for Enhypen&#x27;s Bite Me has been release...</p></details>
    Published: August 2, 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does anyone still get embarrassed thinking about the bite...I still get embarrassed thinking about how a part of our fandom litera...</p></details>
+   Link:<a href="https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/1q5cq1b/does_anyone_still_get_embarrassed_thinking_about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does anyone still get embarrassed thinking about the bite...I still get embarrassed thinking about how a part of our fandom litera...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPENMUSIC VIDEO · ENHYPEN (엔하이픈) &#x27;Knife&#x27; Official MV · ENHYPEN (엔하이픈) &#x27;Shine On Me&#x27; Official MV · ENHYPEN (엔하이픈) &#x27;Outside&#x27; Official Pe...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCArLZtok93cO5R9RI4_Y5Jw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPENMUSIC VIDEO · ENHYPEN (엔하이픈) &#x27;Knife&#x27; Official MV · ENHYPEN (엔하이픈) &#x27;Shine On Me&#x27; Official MV · ENHYPEN (엔하이픈) &#x27;Outside&#x27; Official Pe...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bvy5Nc5OJUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvy5Nc5OJUM</a>  
+   Link:<a href="https://www.youtube.com/watch?v=bvy5Nc5OJUM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bvy5Nc5OJUM</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=m0S10kdStGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m0S10kdStGw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Korean ENHYPEN Fans Protest Against Their Female...ENHYPEN recently had a comeback with their song &#x27;Bite Me&#x27;, the choreography for which...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=m0S10kdStGw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m0S10kdStGw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Korean ENHYPEN Fans Protest Against Their Female...ENHYPEN recently had a comeback with their song &#x27;Bite Me&#x27;, the choreography for which...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SAsGObLZxjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SAsGObLZxjY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Bite Me&#x27; Dance Practicethe female dancer stare hits different #jake #enhypen #biteme #shorts. 845K views &amp;middot; Enhypen...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SAsGObLZxjY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SAsGObLZxjY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN (엔하이픈) &#x27;Bite Me&#x27; Dance Practicethe female dancer stare hits different #jake #enhypen #biteme #shorts. 845K views &amp;middot; Enhypen...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Who are the female dancers in bite me?: r/enhypenHello! I’m a gg fan mainly but I like some of enhypens songs, I absolutely love the way...</p></details>
+   Link:<a href="https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/enhypen/comments/17yukg7/who_are_the_female_dancers_in_bite_me/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Who are the female dancers in bite me?: r/enhypenHello! I’m a gg fan mainly but I like some of enhypens songs, I absolutely love the way...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: ENHYPEN's Bite Me Comeback + Choreography Controversy  
-   Link: <a href="https://www.youtube.com/watch?v=_On-WiXiQHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_On-WiXiQHU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 BITE ME ERA was a mess...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_On-WiXiQHU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_On-WiXiQHU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 BITE ME ERA was a mess...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: BITE ME ERA was a mess  
-   Link: <a href="https://www.youtube.com/watch?v=nAfJYqR5RNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nAfJYqR5RNY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Bite Me - ENHYPEN [Music Bank] | KBS WORLD TV 230526...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nAfJYqR5RNY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nAfJYqR5RNY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Bite Me - ENHYPEN [Music Bank] | KBS WORLD TV 230526...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Bite Me  
-   Link: <a href="https://www.youtube.com/watch?v=o3FLY3YeKbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o3FLY3YeKbc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Bite Me - ENHYPEN [Music Bank] | KBS WORLD TV 230602...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=o3FLY3YeKbc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=o3FLY3YeKbc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Bite Me - ENHYPEN [Music Bank] | KBS WORLD TV 230602...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Bite Me  
-   Link: <a href="https://www.youtube.com/watch?v=6p1u9BspPPI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6p1u9BspPPI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Bite Me choreography controversy protest truck Enhypen “Bite Me” Choreography Backlash angelina...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6p1u9BspPPI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6p1u9BspPPI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Bite Me choreography controversy protest truck Enhypen “Bite Me” Choreography Backlash angelina...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: businessinsider.com  
    Title: kpop fans protest truck removal female backup dancers enhypen korea 2023 5  
-   Link: <a href="https://www.businessinsider.com/kpop-fans-protest-truck-removal-female-backup-dancers-enhypen-korea-2023-5" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/kpop-fans-protest-truck-removal-female-backup-dancers-enhypen-korea-2023-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderK-Pop Fans Sent Protest Trucks for Removal of Female...29 May 2023 — Fans who disagreed with the choreography chosen for...</p></details>
+   Link:<a href="https://www.businessinsider.com/kpop-fans-protest-truck-removal-female-backup-dancers-enhypen-korea" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/kpop-fans-protest-truck-removal-female-backup-dancers-enhypen-korea</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Business InsiderK-Pop Fans Sent Protest Trucks for Removal of Female...29 May 2023 — Fans who disagreed with the choreography chosen for...</p></details>
    Published: May 2023  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenEnhypen (Korean: 엔하이픈, stylized in all caps) is a South Korean boy band formed by Belift Lab. Formerly a joint venture between...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EnhypenEnhypen (Korean: 엔하이픈, stylized in all caps) is a South Korean boy band formed by Belift Lab. Formerly a joint venture between...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bandwagonasia/posts/enhypen-just-updated-their-fan-chants-ahead-of-upcoming-concerts-belift-lab-rele/1571821101614752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bandwagonasia/posts/enhypen-just-updated-their-fan-chants-ahead-of-upcoming-concerts-belift-lab-rele/1571821101614752/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN just updated their fan chants 🤧 ahead...ENHYPEN just updated their fan chants ahead of upcoming concerts, BELIFT LAB released re...</p></details>
+   Link:<a href="https://www.facebook.com/bandwagonasia/posts/enhypen-just-updated-their-fan-chants-ahead-of-upcoming-concerts-belift-lab-rele/1571821101614752/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bandwagonasia/posts/enhypen-just-updated-their-fan-chants-ahead-of-upcoming-concerts-belift-lab-rele/1571821101614752/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN just updated their fan chants 🤧 ahead...ENHYPEN just updated their fan chants ahead of upcoming concerts, BELIFT LAB released re...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
    Title: in 2023 enhypen released bite me and its choreography featuring female dancers q  
-   Link: <a href="https://www.facebook.com/funktasy/posts/in-2023-enhypen-released-bite-me-and-its-choreography-featuring-female-dancers-q/1647917667335147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funktasy/posts/in-2023-enhypen-released-bite-me-and-its-choreography-featuring-female-dancers-q/1647917667335147/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, ENHYPEN released “Bite Me,” and its...13 Mar 2026 — In 2023, ENHYPEN released “Bite Me,” and its choreography featuring female...</p></details>
+   Link:<a href="https://www.facebook.com/funktasy/posts/in-2023-enhypen-released-bite-me-and-its-choreography-featuring-female-dancers-q/1647917667335147/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/funktasy/posts/in-2023-enhypen-released-bite-me-and-its-choreography-featuring-female-dancers-q/1647917667335147/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 2023, ENHYPEN released “Bite Me,” and its...13 Mar 2026 — In 2023, ENHYPEN released “Bite Me,” and its choreography featuring female...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: x.com  
-   Link: <a href="https://x.com/Koreaboo/status/1661263258425380865" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Koreaboo/status/1661263258425380865</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Fans Send Protest Trucks To Call For The...24 May 2023 — ENHYPEN Fans Send Protest Trucks To Call For The Removal Of The Choreog...</p></details>
+   Link:<a href="https://x.com/Koreaboo/status/1661263258425380865" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Koreaboo/status/1661263258425380865</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Fans Send Protest Trucks To Call For The...24 May 2023 — ENHYPEN Fans Send Protest Trucks To Call For The Removal Of The Choreog...</p></details>
    Published: May 2023

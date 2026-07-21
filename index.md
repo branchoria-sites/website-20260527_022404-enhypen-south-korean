@@ -148,7 +148,18 @@ ui_strings:
   further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
   further_reading_search_cta: Search Amazon
   website_contents: All pages
+  report_details: Report details
+  report_actions: Report actions
+  sources: sources
+  graphics: graphics
+  copy_link: Copy link
+  cite_page: Cite page
+  print_save: Print / save
+  link_copied: Link copied
+  citation_copied: Citation copied
+  copy_failed: Copy failed
   topics: Topics
+  explore_another_branch: Explore another branch
   vertical_mode: Vertical
   search_panel_title: Search
   open_search: Open search
@@ -166,372 +177,573 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-site_image_description: Six performers stand on a large concert stage with bright spotlights, raised platforms, microphones, and a cheering crowd holding...
+site_image_description: The six members of ENHYPEN stand together on a concert stage beneath suspended crescent shapes, red fabric ribbons and a glowing...
 ---
 
-<section class="home-adaptive-home home-adaptive-home--focused-tree" data-home-archetype="focused-tree" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="few" data-home-max-breadth="8" data-home-max-depth="3">
-  <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
-    <section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="2" data-home-vertical-top-count="1">
-      <div class="home-vertical-actions" role="group" aria-label="Topic view controls">
-        <button class="sidebar-tree-btn" type="button" data-home-vertical-expand-all>Expand all</button>
-        <button class="sidebar-tree-btn" type="button" data-home-vertical-collapse-all>Collapse all</button>
-      </div>
-      <div class="home-vertical-tree" data-home-vertical-tree>
-    <div class="home-vertical-node is-expanded is-locked-open" data-depth="1" data-level="1" data-node-id="node-enhypen-the-s-177f17" data-semantic-level="root" data-home-vertical-locked-open="true" id="topic-vertical-enhypen-the-s-177f17">
-  <div class="home-vertical-node-row">
-    <span class="home-vertical-toggle-spacer home-vertical-toggle-spacer-locked" aria-hidden="true"></span>
-    <div class="home-vertical-card home-vertical-bubble ct-node ct-node-root" data-depth="1" data-level="1" data-node-id="node-enhypen-the-s-177f17" data-node-kind="root" data-semantic-level="root">
-      <a class="ct-node-link home-vertical-primary-link" href="{{ 'enhypen-the-south-korean-band/' | relative_url }}" title="ENHYPEN" aria-label="Open page: ENHYPEN">
-        <div class="ct-node-thumb">
-          <img src="{{ 'assets/images/Enhypen_the_S_177f17-overview.webp' | relative_url }}" alt="Overview image for ENHYPEN" loading="lazy" decoding="async" fetchpriority="low">
-        </div>
-        <span class="ct-node-content">
-          <span class="ct-node-label">ENHYPEN</span>
-          <span class="ct-node-summary">Enhypen is a South Korean band under BELIFT LAB, best understood as a performance-led pop group built around connection: between members, fans, stories, stages and global markets.</span>
-        </span>
-      </a>
-      <span class="ct-node-badge" title="15 pages" aria-label="15 pages">15 pages</span>
-      <div class="home-vertical-card-actions">
-        <a class="topic-card-link home-vertical-read-more" href="{{ 'enhypen-the-south-korean-band/' | relative_url }}" title="ENHYPEN" aria-label="Read more about ENHYPEN">Read more</a>
-      </div>
-    </div>
-  </div>
-  <div class="home-vertical-children" id="home-vertical-children-node-enhypen-the-s-177f17">
-    <div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c" data-semantic-level="l1">
-      <div class="home-vertical-node-row">
-        <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-        <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c" data-node-kind="branch" data-semantic-level="l1">
-          <a class="ct-node-link home-vertical-primary-link" href="{{ 'members-now/' | relative_url }}" title="Who Is in ENHYPEN Now?" aria-label="Open page: Who Is in ENHYPEN Now?">
-            <div class="ct-node-thumb">
-              <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c-overview.webp' | relative_url }}" alt="Overview image for Who Is in ENHYPEN Now?" loading="lazy" decoding="async" fetchpriority="low">
-            </div>
-            <span class="ct-node-content">
-              <span class="ct-node-label">Members Now</span>
-              <span class="ct-node-title-full">Who Is in ENHYPEN Now?</span>
-              <span class="ct-node-summary">ENHYPEN&#x27;s current six-member lineup reshaped how fans understand the group&#x27;s roles, balance and future after 2026.</span>
-            </span>
-          </a>
-          <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
-          <div class="home-vertical-card-actions">
-            <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Who Is in ENHYPEN Now?" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-s-177f17-members-after-f4153c"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-            <a class="topic-card-link home-vertical-read-more" href="{{ 'members-now/' | relative_url }}" title="Who Is in ENHYPEN Now?" aria-label="Read more about Who Is in ENHYPEN Now?">Read more</a>
-          </div>
-        </div>
-      </div>
-      <div class="home-vertical-children" id="home-vertical-children-node-enhypen-the-s-177f17-members-after-f4153c" hidden>
-        <div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7" data-semantic-level="l2">
-          <div class="home-vertical-node-row">
-            <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-            <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7" data-node-kind="child" data-semantic-level="l2">
-              <a class="ct-node-link home-vertical-primary-link" href="{{ 'stage-changes/' | relative_url }}" title="How Does Six Member ENHYPEN Move Onstage?" aria-label="Open page: How Does Six Member ENHYPEN Move Onstage?">
-                <div class="ct-node-thumb">
-                  <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-1.webp' | relative_url }}" alt="Overview image for How Does Six Member ENHYPEN Move Onstage?" loading="lazy" decoding="async" fetchpriority="low">
-                </div>
-                <span class="ct-node-content">
-                  <span class="ct-node-label">Stage changes</span>
-                  <span class="ct-node-title-full">How Does Six Member ENHYPEN Move Onstage?</span>
-                  <span class="ct-node-summary">A six-member ENHYPEN stage creates new formations, pairings and center moments for a group built around sharp performance.</span>
-                </span>
-              </a>
-              <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="3 pages" aria-label="3 pages" aria-expanded="false">3 pages</button>
-              <div class="home-vertical-card-actions">
-                <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How Does Six Member ENHYPEN Move Onstage?" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-                <a class="topic-card-link home-vertical-read-more" href="{{ 'stage-changes/' | relative_url }}" title="How Does Six Member ENHYPEN Move Onstage?" aria-label="Read more about How Does Six Member ENHYPEN Move Onstage?">Read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7" data-leaf-grid-columns="2" hidden>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-six-member-pa-e993b3" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-six-member-pa-e993b3" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'pair-work/' | relative_url }}" title="How pair work changes ENHYPEN&#x27;s stage picture" aria-label="Open page: How pair work changes ENHYPEN&#x27;s stage picture">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-1.webp' | relative_url }}" alt="Overview image for How pair work changes ENHYPEN&#x27;s stage picture" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Pair work</span>
-                      <span class="ct-node-title-full">How pair work changes ENHYPEN&#x27;s stage picture</span>
-                      <span class="ct-node-summary">Six members make duos, mirrored pairs, and canon-style ripples more important to how ENHYPEN stages read.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'pair-work/' | relative_url }}" title="How pair work changes ENHYPEN&#x27;s stage picture" aria-label="Read more about How pair work changes ENHYPEN&#x27;s stage picture">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-niki-transiti-cf2da0" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-niki-transiti-cf2da0" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'ni-ki-bridge/' | relative_url }}" title="Why Ni ki matters more in six member stages" aria-label="Open page: Why Ni ki matters more in six member stages">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Ni ki matters more in six member stages" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Ni ki bridge</span>
-                      <span class="ct-node-title-full">Why Ni ki matters more in six member stages</span>
-                      <span class="ct-node-summary">Ni-ki&#x27;s speed and control can help six-member ENHYPEN stages feel connected instead of visually thinned out.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'ni-ki-bridge/' | relative_url }}" title="Why Ni ki matters more in six member stages" aria-label="Read more about Why Ni ki matters more in six member stages">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77" data-semantic-level="l2">
-          <div class="home-vertical-node-row">
-            <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-            <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77" data-node-kind="child" data-semantic-level="l2">
-              <a class="ct-node-link home-vertical-primary-link" href="{{ 'vocal-balance/' | relative_url }}" title="Who Carries ENHYPEN&#x27;s Vocals Now?" aria-label="Open page: Who Carries ENHYPEN&#x27;s Vocals Now?">
-                <div class="ct-node-thumb">
-                  <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-1.webp' | relative_url }}" alt="Overview image for Who Carries ENHYPEN&#x27;s Vocals Now?" loading="lazy" decoding="async" fetchpriority="low">
-                </div>
-                <span class="ct-node-content">
-                  <span class="ct-node-label">Vocal balance</span>
-                  <span class="ct-node-title-full">Who Carries ENHYPEN&#x27;s Vocals Now?</span>
-                  <span class="ct-node-summary">Heeseung&#x27;s exit changes how ENHYPEN fans hear choruses, bridges and live high points in the six-member era.</span>
-                </span>
-              </a>
-              <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="3 pages" aria-label="3 pages" aria-expanded="false">3 pages</button>
-              <div class="home-vertical-card-actions">
-                <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Who Carries ENHYPEN&#x27;s Vocals Now?" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-                <a class="topic-card-link home-vertical-read-more" href="{{ 'vocal-balance/' | relative_url }}" title="Who Carries ENHYPEN&#x27;s Vocals Now?" aria-label="Read more about Who Carries ENHYPEN&#x27;s Vocals Now?">Read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77" data-leaf-grid-columns="2" hidden>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-jungwon-sunoo-cb9332" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-jungwon-sunoo-cb9332" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'vocal-axis/' | relative_url }}" title="Can Jungwon and Sunoo Carry the New Sound?" aria-label="Open page: Can Jungwon and Sunoo Carry the New Sound?">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-1.webp' | relative_url }}" alt="Overview image for Can Jungwon and Sunoo Carry the New Sound?" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Vocal Axis</span>
-                      <span class="ct-node-title-full">Can Jungwon and Sunoo Carry the New Sound?</span>
-                      <span class="ct-node-summary">Jungwon and Sunoo give six-member ENHYPEN a clearer split between vocal control and emotional brightness after Heeseung&#x27;s exit.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'vocal-axis/' | relative_url }}" title="Can Jungwon and Sunoo Carry the New Sound?" aria-label="Read more about Can Jungwon and Sunoo Carry the New Sound?">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-live-vocal-re-fbf1a8" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-live-vocal-re-fbf1a8" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'live-changes/' | relative_url }}" title="What Sounds Different in Six Member Performances?" aria-label="Open page: What Sounds Different in Six Member Performances?">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8-Illustration-1.webp' | relative_url }}" alt="Overview image for What Sounds Different in Six Member Performances?" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Live Changes</span>
-                      <span class="ct-node-title-full">What Sounds Different in Six Member Performances?</span>
-                      <span class="ct-node-summary">Concert stages reveal how ENHYPEN may split choruses, shorten sustained notes and use harmonies to protect stamina live.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'live-changes/' | relative_url }}" title="What Sounds Different in Six Member Performances?" aria-label="Read more about What Sounds Different in Six Member Performances?">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa" data-semantic-level="l1">
-      <div class="home-vertical-node-row">
-        <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-        <div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa" data-node-kind="branch" data-semantic-level="l1">
-          <a class="ct-node-link home-vertical-primary-link" href="{{ 'stages/' | relative_url }}" title="Why ENHYPEN&#x27;s Stages Matter So Much" aria-label="Open page: Why ENHYPEN&#x27;s Stages Matter So Much">
-            <div class="ct-node-thumb">
-              <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa-overview.webp' | relative_url }}" alt="Overview image for Why ENHYPEN&#x27;s Stages Matter So Much" loading="lazy" decoding="async" fetchpriority="low">
-            </div>
-            <span class="ct-node-content">
-              <span class="ct-node-label">Stages</span>
-              <span class="ct-node-title-full">Why ENHYPEN&#x27;s Stages Matter So Much</span>
-              <span class="ct-node-summary">ENHYPEN&#x27;s reputation depends on synchronized choreography, touring milestones and stages that turn songs into fan moments.</span>
-            </span>
-          </a>
-          <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="7 pages" aria-label="7 pages" aria-expanded="false">7 pages</button>
-          <div class="home-vertical-card-actions">
-            <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why ENHYPEN&#x27;s Stages Matter So Much" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-s-177f17-performance-s-a0cafa"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-            <a class="topic-card-link home-vertical-read-more" href="{{ 'stages/' | relative_url }}" title="Why ENHYPEN&#x27;s Stages Matter So Much" aria-label="Read more about Why ENHYPEN&#x27;s Stages Matter So Much">Read more</a>
-          </div>
-        </div>
-      </div>
-      <div class="home-vertical-children" id="home-vertical-children-node-enhypen-the-s-177f17-performance-s-a0cafa" hidden>
-        <div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af" data-semantic-level="l2">
-          <div class="home-vertical-node-row">
-            <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-            <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af" data-node-kind="child" data-semantic-level="l2">
-              <a class="ct-node-link home-vertical-primary-link" href="{{ 'stadium-tour/' | relative_url }}" title="How WALK THE LINE made ENHYPEN bigger" aria-label="Open page: How WALK THE LINE made ENHYPEN bigger">
-                <div class="ct-node-thumb">
-                  <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-1.webp' | relative_url }}" alt="Overview image for How WALK THE LINE made ENHYPEN bigger" loading="lazy" decoding="async" fetchpriority="low">
-                </div>
-                <span class="ct-node-content">
-                  <span class="ct-node-label">Stadium tour</span>
-                  <span class="ct-node-title-full">How WALK THE LINE made ENHYPEN bigger</span>
-                  <span class="ct-node-summary">WALK THE LINE showed how ENHYPEN scaled from sharp choreography to stadium and arena shows without losing fan-facing detail.</span>
-                </span>
-              </a>
-              <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="3 pages" aria-label="3 pages" aria-expanded="false">3 pages</button>
-              <div class="home-vertical-card-actions">
-                <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How WALK THE LINE made ENHYPEN bigger" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-                <a class="topic-card-link home-vertical-read-more" href="{{ 'stadium-tour/' | relative_url }}" title="How WALK THE LINE made ENHYPEN bigger" aria-label="Read more about How WALK THE LINE made ENHYPEN bigger">Read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af" data-leaf-grid-columns="2" hidden>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-t-stage-fan-v-f91a5f" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-t-stage-fan-v-f91a5f" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'stage-layout/' | relative_url }}" title="How the Stage Reached More Fans" aria-label="Open page: How the Stage Reached More Fans">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f-Illustration-1.webp' | relative_url }}" alt="Overview image for How the Stage Reached More Fans" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Stage Layout</span>
-                      <span class="ct-node-title-full">How the Stage Reached More Fans</span>
-                      <span class="ct-node-summary">WALK THE LINE used extended stages, moving platforms and screens to keep choreography readable while bringing members closer to more seats.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'stage-layout/' | relative_url }}" title="How the Stage Reached More Fans" aria-label="Read more about How the Stage Reached More Fans">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-goyang-stadiu-98ed1f" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-goyang-stadiu-98ed1f" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'goyang-launch/' | relative_url }}" title="Why Goyang Stadium Changed the Tour" aria-label="Open page: Why Goyang Stadium Changed the Tour">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Goyang Stadium Changed the Tour" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Goyang Launch</span>
-                      <span class="ct-node-title-full">Why Goyang Stadium Changed the Tour</span>
-                      <span class="ct-node-summary">The Goyang opening showed how ENHYPEN moved from arena precision toward stadium-sized visibility, movement and fan connection.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'goyang-launch/' | relative_url }}" title="Why Goyang Stadium Changed the Tour" aria-label="Read more about Why Goyang Stadium Changed the Tour">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf" data-semantic-level="l2">
-          <div class="home-vertical-node-row">
-            <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-            <div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf" data-node-kind="child" data-semantic-level="l2">
-              <a class="ct-node-link home-vertical-primary-link" href="{{ 'bite-me-stage/' | relative_url }}" title="Why Bite Me choreography became such a debate" aria-label="Open page: Why Bite Me choreography became such a debate">
-                <div class="ct-node-thumb">
-                  <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bite Me choreography became such a debate" loading="lazy" decoding="async" fetchpriority="low">
-                </div>
-                <span class="ct-node-content">
-                  <span class="ct-node-label">Bite Me stage</span>
-                  <span class="ct-node-title-full">Why Bite Me choreography became such a debate</span>
-                  <span class="ct-node-summary">The Bite Me stage became a defining ENHYPEN debate because its partner choreography changed how fans read the song&#x27;s tension and era.</span>
-                </span>
-              </a>
-              <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="3 pages" aria-label="3 pages" aria-expanded="false">3 pages</button>
-              <div class="home-vertical-card-actions">
-                <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why Bite Me choreography became such a debate" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-                <a class="topic-card-link home-vertical-read-more" href="{{ 'bite-me-stage/' | relative_url }}" title="Why Bite Me choreography became such a debate" aria-label="Read more about Why Bite Me choreography became such a debate">Read more</a>
-              </div>
-            </div>
-          </div>
-          <div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf" data-leaf-grid-columns="2" hidden>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-fan-p-e0dfef" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-fan-p-e0dfef" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'fan-protests/' | relative_url }}" title="How fans changed the Bite Me stage" aria-label="Open page: How fans changed the Bite Me stage">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1.webp' | relative_url }}" alt="Overview image for How fans changed the Bite Me stage" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Fan protests</span>
-                      <span class="ct-node-title-full">How fans changed the Bite Me stage</span>
-                      <span class="ct-node-summary">The Bite Me backlash turned a choreography choice into a visible debate about fan boundaries, idol image, and artistic control.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'fan-protests/' | relative_url }}" title="How fans changed the Bite Me stage" aria-label="Read more about How fans changed the Bite Me stage">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="home-vertical-node is-collapsed" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-origi-5aa438" data-semantic-level="l3">
-              <div class="home-vertical-node-row">
-                <span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
-                <div class="home-vertical-card home-vertical-bubble ct-node ct-node-md" data-depth="4" data-level="4" data-node-id="node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-origi-5aa438" data-node-kind="child" data-semantic-level="l3">
-                  <a class="ct-node-link home-vertical-primary-link" href="{{ 'original-staging/' | relative_url }}" title="Why the Bite Me partner dance worked" aria-label="Open page: Why the Bite Me partner dance worked">
-                    <div class="ct-node-thumb">
-                      <img src="{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438-Illustration-1.webp' | relative_url }}" alt="Overview image for Why the Bite Me partner dance worked" loading="lazy" decoding="async" fetchpriority="low">
-                    </div>
-                    <span class="ct-node-content">
-                      <span class="ct-node-label">Original staging</span>
-                      <span class="ct-node-title-full">Why the Bite Me partner dance worked</span>
-                      <span class="ct-node-summary">The first Bite Me staging used partner work to make ENHYPEN&#x27;s vampire-romance concept feel physical, tense, and theatrical.</span>
-                    </span>
-                  </a>
-                  <div class="home-vertical-card-actions">
-                    <a class="topic-card-link home-vertical-read-more" href="{{ 'original-staging/' | relative_url }}" title="Why the Bite Me partner dance worked" aria-label="Read more about Why the Bite Me partner dance worked">Read more</a>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+<section class="home-adaptive-home home-adaptive-home--focused-tree" data-home-archetype="focused-tree" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="balanced" data-home-max-breadth="18" data-home-max-depth="2">
+<section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
+<section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="6" data-home-vertical-top-count="1">
+<div class="home-vertical-actions" role="group" aria-label="Topic view controls">
+<button class="sidebar-tree-btn" type="button" data-home-vertical-expand-all>Expand all</button>
+<button class="sidebar-tree-btn" type="button" data-home-vertical-collapse-all>Collapse all</button>
 </div>
-      </div>
-      <script type="application/json" data-home-vertical-data>{"mode": "tree-diagram", "layout_policy": "balanced", "home_cluster_version": 3, "branch_density_profile": {"l1_count": 2, "max_l2_children": 2, "max_l3_children": 2, "l1_tier": "sparse", "l2_max_tier": "balanced", "l3_max_tier": "balanced", "layout_policy": "balanced"}, "preferred_cluster_strategy": "tree", "preferred_cluster_strategy_mobile": "fanout", "max_title_length": 49, "nodes": [{"id": "node-enhypen-the-s-177f17", "kind": "root", "depth": 0, "level": 1, "basename": "Enhypen_the_S_177f17", "label": "ENHYPEN", "display_label": "ENHYPEN", "full_label": "ENHYPEN", "url": "{{ 'enhypen-the-south-korean-band/' | relative_url }}", "parent_id": "", "count": 15, "semantic_level": "root", "child_total": 2, "descendant_total": 14, "sibling_total": 1, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "short", "node_size_mode": "root", "node_size_mode_mobile": "root", "focus_card_size_mode": "hero", "focus_card_size_mode_mobile": "standard", "render_hint": "root-card", "level_label": "Overview", "summary": "Enhypen is a South Korean band under BELIFT LAB, best understood as a performance-led pop group built around connection: between members, fans, stories, stages and global markets.", "subtree_shape": {"total_nodes": 15, "max_depth": 3, "max_breadth": 8, "breadth_by_depth": {"0": 1, "1": 2, "2": 4, "3": 8}, "child_count": 2}, "preferred_cluster_strategy": "tree", "preferred_cluster_strategy_mobile": "fanout", "image": "{{ 'assets/images/Enhypen_the_S_177f17-overview.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_S_177f17_members_after_f4153c", "label": "Members Now", "display_label": "Members Now", "full_label": "Who Is in ENHYPEN Now?", "url": "{{ 'members-now/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17", "count": 7, "semantic_level": "l1", "child_total": 2, "descendant_total": 6, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "short", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "hero", "focus_card_size_mode_mobile": "standard", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "ENHYPEN's current six-member lineup reshaped how fans understand the group's roles, balance and future after 2026.", "subtree_shape": {"total_nodes": 7, "max_depth": 2, "max_breadth": 4, "breadth_by_depth": {"0": 1, "1": 2, "2": 4}, "child_count": 2}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c-overview.webp' | relative_url }}", "slot_index": 0}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7", "label": "Stage changes", "display_label": "Stage changes", "full_label": "How Does Six Member ENHYPEN Move Onstage?", "url": "{{ 'stage-changes/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-members-after-f4153c", "count": 3, "semantic_level": "l2", "child_total": 2, "descendant_total": 2, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "A six-member ENHYPEN stage creates new formations, pairings and center moments for a group built around sharp performance.", "subtree_shape": {"total_nodes": 3, "max_depth": 1, "max_breadth": 2, "breadth_by_depth": {"0": 1, "1": 2}, "child_count": 2}, "preferred_subtree_layout": "chip-grid", "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-niki-transiti-cf2da0", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0", "label": "Ni ki bridge", "display_label": "Ni ki bridge", "full_label": "Why Ni ki matters more in six member stages", "url": "{{ 'ni-ki-bridge/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "Ni-ki's speed and control can help six-member ENHYPEN stages feel connected instead of visually thinned out.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-six-member-pa-e993b3", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3", "label": "Pair work", "display_label": "Pair work", "full_label": "How pair work changes ENHYPEN's stage picture", "url": "{{ 'pair-work/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "Six members make duos, mirrored pairs, and canon-style ripples more important to how ENHYPEN stages read.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77", "label": "Vocal balance", "display_label": "Vocal balance", "full_label": "Who Carries ENHYPEN's Vocals Now?", "url": "{{ 'vocal-balance/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-members-after-f4153c", "count": 3, "semantic_level": "l2", "child_total": 2, "descendant_total": 2, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Heeseung's exit changes how ENHYPEN fans hear choruses, bridges and live high points in the six-member era.", "subtree_shape": {"total_nodes": 3, "max_depth": 1, "max_breadth": 2, "breadth_by_depth": {"0": 1, "1": 2}, "child_count": 2}, "preferred_subtree_layout": "chip-grid", "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-live-vocal-re-fbf1a8", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8", "label": "Live Changes", "display_label": "Live Changes", "full_label": "What Sounds Different in Six Member Performances?", "url": "{{ 'live-changes/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "Concert stages reveal how ENHYPEN may split choruses, shorten sustained notes and use harmonies to protect stamina live.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-jungwon-sunoo-cb9332", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332", "label": "Vocal Axis", "display_label": "Vocal Axis", "full_label": "Can Jungwon and Sunoo Carry the New Sound?", "url": "{{ 'vocal-axis/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "Jungwon and Sunoo give six-member ENHYPEN a clearer split between vocal control and emotional brightness after Heeseung's exit.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa", "label": "Stages", "display_label": "Stages", "full_label": "Why ENHYPEN's Stages Matter So Much", "url": "{{ 'stages/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17", "count": 7, "semantic_level": "l1", "child_total": 2, "descendant_total": 6, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "hero", "focus_card_size_mode_mobile": "standard", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "ENHYPEN's reputation depends on synchronized choreography, touring milestones and stages that turn songs into fan moments.", "subtree_shape": {"total_nodes": 7, "max_depth": 2, "max_breadth": 4, "breadth_by_depth": {"0": 1, "1": 2, "2": 4}, "child_count": 2}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa-overview.webp' | relative_url }}", "slot_index": 1}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf", "label": "Bite Me stage", "display_label": "Bite Me stage", "full_label": "Why Bite Me choreography became such a debate", "url": "{{ 'bite-me-stage/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-performance-s-a0cafa", "count": 3, "semantic_level": "l2", "child_total": 2, "descendant_total": 2, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "The Bite Me stage became a defining ENHYPEN debate because its partner choreography changed how fans read the song's tension and era.", "subtree_shape": {"total_nodes": 3, "max_depth": 1, "max_breadth": 2, "breadth_by_depth": {"0": 1, "1": 2}, "child_count": 2}, "preferred_subtree_layout": "chip-grid", "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-fan-p-e0dfef", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef", "label": "Fan protests", "display_label": "Fan protests", "full_label": "How fans changed the Bite Me stage", "url": "{{ 'fan-protests/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "The Bite Me backlash turned a choreography choice into a visible debate about fan boundaries, idol image, and artistic control.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-origi-5aa438", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438", "label": "Original staging", "display_label": "Original staging", "full_label": "Why the Bite Me partner dance worked", "url": "{{ 'original-staging/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "The first Bite Me staging used partner work to make ENHYPEN's vampire-romance concept feel physical, tense, and theatrical.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af", "label": "Stadium tour", "display_label": "Stadium tour", "full_label": "How WALK THE LINE made ENHYPEN bigger", "url": "{{ 'stadium-tour/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-performance-s-a0cafa", "count": 3, "semantic_level": "l2", "child_total": 2, "descendant_total": 2, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "WALK THE LINE showed how ENHYPEN scaled from sharp choreography to stadium and arena shows without losing fan-facing detail.", "subtree_shape": {"total_nodes": 3, "max_depth": 1, "max_breadth": 2, "breadth_by_depth": {"0": 1, "1": 2}, "child_count": 2}, "preferred_subtree_layout": "chip-grid", "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-goyang-stadiu-98ed1f", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f", "label": "Goyang Launch", "display_label": "Goyang Launch", "full_label": "Why Goyang Stadium Changed the Tour", "url": "{{ 'goyang-launch/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "The Goyang opening showed how ENHYPEN moved from arena precision toward stadium-sized visibility, movement and fan connection.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-t-stage-fan-v-f91a5f", "kind": "child", "depth": 3, "level": 4, "basename": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f", "label": "Stage Layout", "display_label": "Stage Layout", "full_label": "How the Stage Reached More Fans", "url": "{{ 'stage-layout/' | relative_url }}", "parent_id": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af", "count": 1, "semantic_level": "l3", "child_total": 0, "descendant_total": 0, "sibling_total": 2, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "sm", "node_size_mode_mobile": "xs", "focus_card_size_mode": "compact", "focus_card_size_mode_mobile": "micro", "render_hint": "mini-card", "level_label": "Page", "summary": "WALK THE LINE used extended stages, moving platforms and screens to keep choreography readable while bringing members closer to more seats.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f-Illustration-1.webp' | relative_url }}"}], "edges": [{"from": "node-enhypen-the-s-177f17", "to": "node-enhypen-the-s-177f17-members-after-f4153c", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-members-after-f4153c", "to": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7", "to": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-niki-transiti-cf2da0", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7", "to": "node-enhypen-the-s-177f17-members-after-f4153c-six-member-st-f9f5e7-six-member-pa-e993b3", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-members-after-f4153c", "to": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77", "to": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-live-vocal-re-fbf1a8", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77", "to": "node-enhypen-the-s-177f17-members-after-f4153c-vocal-balance-3c3a77-jungwon-sunoo-cb9332", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-performance-s-a0cafa", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-fan-p-e0dfef", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa-bite-me-chore-a5f9cf-bite-me-origi-5aa438", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-performance-s-a0cafa", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-goyang-stadiu-98ed1f", "kind": "tree"}, {"from": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af", "to": "node-enhypen-the-s-177f17-performance-s-a0cafa-walk-the-line-d772af-t-stage-fan-v-f91a5f", "kind": "tree"}], "note": "Scan the main sections visually. Smaller branches stay expanded so you can scan them without opening a secondary view.", "shape": {"total_nodes": 15, "max_depth": 3, "breadth_by_depth": {"0": 1, "1": 2, "2": 4, "3": 8}, "max_breadth": 8}}</script>
-    </section>
-  </section>
-  <div class="home-adaptive-utility home-adaptive-utility--full">
-    <section id="browse-reports" class="home-mode-disclosure home-detailed-catalog home-browse-disclosure home-search-pages-box" data-home-detailed-catalog>
-      <div class="home-detailed-catalog-summary home-search-pages-header">
-        <span class="home-mode-disclosure-copy">
-          <span class="home-detailed-catalog-title home-mode-disclosure-title">Search pages</span>
-          <span class="home-detailed-catalog-meta home-mode-disclosure-hint">Search topic, branch, or keyword...</span>
-        </span>
-        <span class="home-mode-disclosure-meta">
-          <span class="home-mode-disclosure-current-label">Scope</span>
-          <span class="home-mode-disclosure-current">15 pages</span>
-        </span>
-      </div>
-      <div class="home-detailed-catalog-body">
-        <div class="home-controls" role="search">
-          <label class="home-filter-label" for="home-report-filter">Search pages</label>
-          <div class="home-filter-row">
-            <input id="home-report-filter" class="home-filter" type="search" placeholder="Search topic, branch, or keyword..." data-home-filter>
-            <button class="home-filter-clear nav-pill nav-pill-button" type="button" data-home-filter-clear hidden>Clear</button>
-          </div>
-          <p class="home-filter-status" data-home-filter-status aria-live="polite"></p>
-          <div class="home-filter-results" data-home-filter-results hidden></div>
-        </div>
-      </div>
-    </section>
+<div class="home-vertical-tree" data-home-vertical-tree>
+<div class="home-vertical-node is-expanded is-locked-open" data-depth="1" data-level="1" data-node-id="node-enhypen-the-south-ko-177f17" data-semantic-level="root" data-home-vertical-locked-open="true" id="topic-vertical-enhypen-the-south-ko-177f17">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer home-vertical-toggle-spacer-locked" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-root" data-depth="1" data-level="1" data-node-id="node-enhypen-the-south-ko-177f17" data-node-kind="root" data-semantic-level="root">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'enhypen-the-south-korean-band/' | relative_url }}" title="ENHYPEN" aria-label="Open page: ENHYPEN">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17-overview.webp' | relative_url }}" alt="Overview image for ENHYPEN" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">ENHYPEN</span>
+<span class="ct-node-title-full">How ENHYPEN Turned Desire Into Pop Mythology</span>
+<span class="ct-node-summary">ENHYPEN are a South Korean boy band formed through the 2020 television competition I-LAND and managed by BELIFT LAB. As of July 2026, the group has six members: Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-Ki. They debuted as a seven-member act in November 2020, but Heeseung left in March 2026 to pursue a solo career under the name Evan.</span>
+</span>
+</a>
+<span class="ct-node-badge" title="25 pages" aria-label="25 pages">25 pages</span>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'enhypen-the-south-korean-band/' | relative_url }}" title="ENHYPEN" aria-label="Read more about ENHYPEN">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children" id="home-vertical-children-node-enhypen-the-south-ko-177f17">
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'choreography/' | relative_url }}" title="What Makes ENHYPEN&#x27;s Choreography So Distinctive?" aria-label="Open page: What Makes ENHYPEN&#x27;s Choreography So Distinctive?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5-photo1.webp' | relative_url }}" alt="Overview image for What Makes ENHYPEN&#x27;s Choreography So Distinctive?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Choreography</span>
+<span class="ct-node-title-full">What Makes ENHYPEN&#x27;s Choreography So Distinctive?</span>
+<span class="ct-node-summary">Sharp formations, low movement and narrative gestures make ENHYPEN&#x27;s choreography central to how their songs communicate tension and connection.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Makes ENHYPEN&#x27;s Choreography So Distinctive?" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'choreography/' | relative_url }}" title="What Makes ENHYPEN&#x27;s Choreography So Distinctive?" aria-label="Read more about What Makes ENHYPEN&#x27;s Choreography So Distinctive?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5" data-leaf-grid-columns="2" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-future-perfect-hip-h-ed6c0c" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-future-perfect-hip-h-ed6c0c" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'future-perfect/' | relative_url }}" title="How Future Perfect Made ENHYPEN Move Differently | Choreography" aria-label="Open page: How Future Perfect Made ENHYPEN Move Differently | Choreography">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c-Illustration-1.webp' | relative_url }}" alt="Overview image for How Future Perfect Made ENHYPEN Move Differently | Choreography" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Future Perfect</span>
+<span class="ct-node-title-full">How Future Perfect Made ENHYPEN Move Differently</span>
+<span class="ct-node-summary">Future Perfect turns ENHYPEN&#x27;s choreography from supernatural restraint into a forceful declaration of independence.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'future-perfect/' | relative_url }}" title="How Future Perfect Made ENHYPEN Move Differently | Choreography" aria-label="Read more about How Future Perfect Made ENHYPEN Move Differently | Choreography">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-dance-practi-bdefb3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-dance-practi-bdefb3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'dance-practice/' | relative_url }}" title="What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Choreography" aria-label="Open page: What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Choreography">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-1.webp' | relative_url }}" alt="Overview image for What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Choreography" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Dance Practice</span>
+<span class="ct-node-title-full">What ENHYPEN&#x27;s Dance Practices Reveal About Precision</span>
+<span class="ct-node-summary">ENHYPEN&#x27;s dance practices show how tiny differences in timing, head position and landing height can strengthen or break a formation.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dance-practice/' | relative_url }}" title="What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Choreography" aria-label="Read more about What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Choreography">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-floorwork-st-5c7039" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-floorwork-st-5c7039" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'floorwork/' | relative_url }}" title="Why ENHYPEN&#x27;s Floorwork Changes the Story | Choreography" aria-label="Open page: Why ENHYPEN&#x27;s Floorwork Changes the Story | Choreography">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039-Illustration-1.webp' | relative_url }}" alt="Overview image for Why ENHYPEN&#x27;s Floorwork Changes the Story | Choreography" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Floorwork</span>
+<span class="ct-node-title-full">Why ENHYPEN&#x27;s Floorwork Changes the Story</span>
+<span class="ct-node-summary">Crouches, kneeling sequences and floorwork let ENHYPEN stage weakness, temptation and transformation without changing the set.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'floorwork/' | relative_url }}" title="Why ENHYPEN&#x27;s Floorwork Changes the Story | Choreography" aria-label="Read more about Why ENHYPEN&#x27;s Floorwork Changes the Story | Choreography">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'eras/' | relative_url }}" title="How ENHYPEN&#x27;s Eras Connect Into One Story" aria-label="Open page: How ENHYPEN&#x27;s Eras Connect Into One Story">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026-overview.webp' | relative_url }}" alt="Overview image for How ENHYPEN&#x27;s Eras Connect Into One Story" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Eras</span>
+<span class="ct-node-title-full">How ENHYPEN&#x27;s Eras Connect Into One Story</span>
+<span class="ct-node-summary">Each ENHYPEN era develops a connected story about debut, identity, desire, rebellion and the cost of transformation.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How ENHYPEN&#x27;s Eras Connect Into One Story" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-eras-connected-story-288026"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'eras/' | relative_url }}" title="How ENHYPEN&#x27;s Eras Connect Into One Story" aria-label="Read more about How ENHYPEN&#x27;s Eras Connect Into One Story">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-south-ko-177f17-eras-connected-story-288026" data-leaf-grid-columns="2" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026-blessed-cursed-self-7d487f" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026-blessed-cursed-self-7d487f" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blessed-cursed/' | relative_url }}" title="When ENHYPEN Rejected the Correct Path | Eras" aria-label="Open page: When ENHYPEN Rejected the Correct Path | Eras">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-1.webp' | relative_url }}" alt="Overview image for When ENHYPEN Rejected the Correct Path | Eras" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Blessed Cursed</span>
+<span class="ct-node-title-full">When ENHYPEN Rejected the Correct Path</span>
+<span class="ct-node-summary">Blessed-Cursed marks the point where ENHYPEN stop searching for the correct path and choose a self-authored one instead.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blessed-cursed/' | relative_url }}" title="When ENHYPEN Rejected the Correct Path | Eras" aria-label="Read more about When ENHYPEN Rejected the Correct Path | Eras">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026-bite-me-dangerous-de-639f7e" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026-bite-me-dangerous-de-639f7e" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'bite-me/' | relative_url }}" title="Why Bite Me Makes Love Feel Dangerous | Eras" aria-label="Open page: Why Bite Me Makes Love Feel Dangerous | Eras">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Bite Me Makes Love Feel Dangerous | Eras" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Bite Me</span>
+<span class="ct-node-title-full">Why Bite Me Makes Love Feel Dangerous</span>
+<span class="ct-node-summary">Bite Me makes devotion a chosen bond, but Dark Blood shows how love can still blur into hunger, sacrifice and possession.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bite-me/' | relative_url }}" title="Why Bite Me Makes Love Feel Dangerous | Eras" aria-label="Read more about Why Bite Me Makes Love Feel Dangerous | Eras">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026-given-taken-debut-an-d4e3d3" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-eras-connected-story-288026-given-taken-debut-an-d4e3d3" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'given-taken/' | relative_url }}" title="Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Eras" aria-label="Open page: Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Eras">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-1.webp' | relative_url }}" alt="Overview image for Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Eras" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Given Taken</span>
+<span class="ct-node-title-full">Why ENHYPEN&#x27;s Debut Felt Like a Threshold</span>
+<span class="ct-node-summary">Given-Taken turns ENHYPEN&#x27;s debut into a question of whether success was earned, granted or seized before they were ready for it.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'given-taken/' | relative_url }}" title="Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Eras" aria-label="Read more about Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Eras">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'essential-songs/' | relative_url }}" title="Which Songs Best Explain ENHYPEN&#x27;s Appeal?" aria-label="Open page: Which Songs Best Explain ENHYPEN&#x27;s Appeal?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-overview.webp' | relative_url }}" alt="Overview image for Which Songs Best Explain ENHYPEN&#x27;s Appeal?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Essential Songs</span>
+<span class="ct-node-title-full">Which Songs Best Explain ENHYPEN&#x27;s Appeal?</span>
+<span class="ct-node-summary">Key tracks such as Given-Taken, Drunk-Dazed, FEVER and Bite Me reveal how ENHYPEN turn personal anxiety into memorable pop drama.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Which Songs Best Explain ENHYPEN&#x27;s Appeal?" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-essential-songs-dc7642"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'essential-songs/' | relative_url }}" title="Which Songs Best Explain ENHYPEN&#x27;s Appeal?" aria-label="Read more about Which Songs Best Explain ENHYPEN&#x27;s Appeal?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-south-ko-177f17-essential-songs-dc7642" data-leaf-grid-columns="2" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642-fever-desire-choreog-afe1b5" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642-fever-desire-choreog-afe1b5" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'fever/' | relative_url }}" title="How FEVER Made Restraint Feel Overwhelming | Essential Songs" aria-label="Open page: How FEVER Made Restraint Feel Overwhelming | Essential Songs">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-1.webp' | relative_url }}" alt="Overview image for How FEVER Made Restraint Feel Overwhelming | Essential Songs" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">FEVER</span>
+<span class="ct-node-title-full">How FEVER Made Restraint Feel Overwhelming</span>
+<span class="ct-node-summary">FEVER made restrained movement, breathy vocals and recurring gestures feel as intense as ENHYPEN&#x27;s largest supernatural spectacles.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fever/' | relative_url }}" title="How FEVER Made Restraint Feel Overwhelming | Essential Songs" aria-label="Read more about How FEVER Made Restraint Feel Overwhelming | Essential Songs">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642-drunk-dazed-fame-car-058527" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642-drunk-dazed-fame-car-058527" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'drunk-dazed/' | relative_url }}" title="Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs" aria-label="Open page: Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Drunk Dazed</span>
+<span class="ct-node-title-full">Why Drunk Dazed Makes Fame Feel Dangerous</span>
+<span class="ct-node-summary">Drunk-Dazed turns ENHYPEN&#x27;s post-debut excitement into a carnival where attention, exhaustion and loss of control become inseparable.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drunk-dazed/' | relative_url }}" title="Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs" aria-label="Read more about Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642-enhypen-controlled-c-d082e2" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-essential-songs-dc7642-enhypen-controlled-c-d082e2" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'controlled-chaos/' | relative_url }}" title="Why ENHYPEN&#x27;s Chaos Always Looks Precise | Essential Songs" aria-label="Open page: Why ENHYPEN&#x27;s Chaos Always Looks Precise | Essential Songs">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-1.webp' | relative_url }}" alt="Overview image for Why ENHYPEN&#x27;s Chaos Always Looks Precise | Essential Songs" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Controlled Chaos</span>
+<span class="ct-node-title-full">Why ENHYPEN&#x27;s Chaos Always Looks Precise</span>
+<span class="ct-node-summary">Across their defining songs, ENHYPEN make surrender look convincing by pairing unstable emotions with exact formations and disciplined movement.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'controlled-chaos/' | relative_url }}" title="Why ENHYPEN&#x27;s Chaos Always Looks Precise | Essential Songs" aria-label="Read more about Why ENHYPEN&#x27;s Chaos Always Looks Precise | Essential Songs">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'members/' | relative_url }}" title="Who Does What in ENHYPEN Now?" aria-label="Open page: Who Does What in ENHYPEN Now?">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-photo1.webp' | relative_url }}" alt="Overview image for Who Does What in ENHYPEN Now?" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Members</span>
+<span class="ct-node-title-full">Who Does What in ENHYPEN Now?</span>
+<span class="ct-node-summary">The six-member line-up combines distinct performance strengths, international backgrounds and newly adjusted roles after Heeseung&#x27;s departure.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Who Does What in ENHYPEN Now?" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'members/' | relative_url }}" title="Who Does What in ENHYPEN Now?" aria-label="Read more about Who Does What in ENHYPEN Now?">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a" data-leaf-grid-columns="2" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-post-heeseung-role-c-7b6c61" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-post-heeseung-role-c-7b6c61" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'post-heeseung-roles/' | relative_url }}" title="How ENHYPEN Rebuilt Its Six Member Performance | Members" aria-label="Open page: How ENHYPEN Rebuilt Its Six Member Performance | Members">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-1.webp' | relative_url }}" alt="Overview image for How ENHYPEN Rebuilt Its Six Member Performance | Members" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Post Heeseung Roles</span>
+<span class="ct-node-title-full">How ENHYPEN Rebuilt Its Six Member Performance</span>
+<span class="ct-node-summary">The six-member lineup had to reassign vocals, formations and live-performance responsibilities without simply replacing Heeseung member for member.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'post-heeseung-roles/' | relative_url }}" title="How ENHYPEN Rebuilt Its Six Member Performance | Members" aria-label="Read more about How ENHYPEN Rebuilt Its Six Member Performance | Members">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-member-performance-c-e323be" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-member-performance-c-e323be" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'member-contrast/' | relative_url }}" title="How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood" aria-label="Open page: How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-1.webp' | relative_url }}" alt="Overview image for How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Member Contrast</span>
+<span class="ct-node-title-full">How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood</span>
+<span class="ct-node-summary">Jay, Jake, Sunghoon and Sunoo shape songs through different combinations of intensity, warmth, precision and emotional contrast.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'member-contrast/' | relative_url }}" title="How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood" aria-label="Read more about How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-jungwon-niki-perform-9644b4" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-jungwon-niki-perform-9644b4" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'performance-axis/' | relative_url }}" title="Why Jungwon and Ni Ki Anchor ENHYPEN | Members" aria-label="Open page: Why Jungwon and Ni Ki Anchor ENHYPEN | Members">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Jungwon and Ni Ki Anchor ENHYPEN | Members" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Performance Axis</span>
+<span class="ct-node-title-full">Why Jungwon and Ni Ki Anchor ENHYPEN</span>
+<span class="ct-node-summary">Jungwon stabilises the team through leadership and control, while Ni-Ki serves as its clearest technical reference for dance.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'performance-axis/' | relative_url }}" title="Why Jungwon and Ni Ki Anchor ENHYPEN | Members" aria-label="Read more about Why Jungwon and Ni Ki Anchor ENHYPEN | Members">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'origins/' | relative_url }}" title="How I LAND Built ENHYPEN&#x27;s Fan Connection" aria-label="Open page: How I LAND Built ENHYPEN&#x27;s Fan Connection">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-overview.webp' | relative_url }}" alt="Overview image for How I LAND Built ENHYPEN&#x27;s Fan Connection" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Origins</span>
+<span class="ct-node-title-full">How I LAND Built ENHYPEN&#x27;s Fan Connection</span>
+<span class="ct-node-summary">ENHYPEN&#x27;s survival-show formation and hyphen-inspired identity explain why connection with ENGENE has shaped the group from before debut.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How I LAND Built ENHYPEN&#x27;s Fan Connection" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'origins/' | relative_url }}" title="How I LAND Built ENHYPEN&#x27;s Fan Connection" aria-label="Read more about How I LAND Built ENHYPEN&#x27;s Fan Connection">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10" data-leaf-grid-columns="2" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-engene-name-and-iden-45bed0" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-engene-name-and-iden-45bed0" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'engene-name/' | relative_url }}" title="How ENGENE Made Connection the Group&#x27;s Identity | Origins" aria-label="Open page: How ENGENE Made Connection the Group&#x27;s Identity | Origins">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1.webp' | relative_url }}" alt="Overview image for How ENGENE Made Connection the Group&#x27;s Identity | Origins" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">ENGENE Name</span>
+<span class="ct-node-title-full">How ENGENE Made Connection the Group&#x27;s Identity</span>
+<span class="ct-node-summary">The fandom name turned I-LAND&#x27;s participatory origins into an official identity built around shared growth and support.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'engene-name/' | relative_url }}" title="How ENGENE Made Connection the Group&#x27;s Identity | Origins" aria-label="Read more about How ENGENE Made Connection the Group&#x27;s Identity | Origins">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-final-lineup-v-90b54b" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-final-lineup-v-90b54b" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'final-lineup/' | relative_url }}" title="How Much Did Fans Really Choose ENHYPEN? | Origins" aria-label="Open page: How Much Did Fans Really Choose ENHYPEN? | Origins">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-1.webp' | relative_url }}" alt="Overview image for How Much Did Fans Really Choose ENHYPEN? | Origins" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Final Lineup</span>
+<span class="ct-node-title-full">How Much Did Fans Really Choose ENHYPEN?</span>
+<span class="ct-node-summary">Global voters secured six debut places, but the producers&#x27; final choice showed where fan power ended.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'final-lineup/' | relative_url }}" title="How Much Did Fans Really Choose ENHYPEN? | Origins" aria-label="Read more about How Much Did Fans Really Choose ENHYPEN? | Origins">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-predebut-fan-b-03e376" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-predebut-fan-b-03e376" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'pre-debut-bond/' | relative_url }}" title="Why ENGENE Felt Connected Before Debut | Origins" aria-label="Open page: Why ENGENE Felt Connected Before Debut | Origins">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-1.webp' | relative_url }}" alt="Overview image for Why ENGENE Felt Connected Before Debut | Origins" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Pre Debut Bond</span>
+<span class="ct-node-title-full">Why ENGENE Felt Connected Before Debut</span>
+<span class="ct-node-summary">Months of voting, setbacks and visible growth gave viewers a personal stake in ENHYPEN before the group released music.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-debut-bond/' | relative_url }}" title="Why ENGENE Felt Connected Before Debut | Origins" aria-label="Read more about Why ENGENE Felt Connected Before Debut | Origins">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5" data-semantic-level="l1">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-xl" data-depth="2" data-level="2" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5" data-node-kind="branch" data-semantic-level="l1">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'vampire-lore/' | relative_url }}" title="Why ENHYPEN&#x27;s Vampire Story Still Works" aria-label="Open page: Why ENHYPEN&#x27;s Vampire Story Still Works">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5-overview.webp' | relative_url }}" alt="Overview image for Why ENHYPEN&#x27;s Vampire Story Still Works" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Vampire Lore</span>
+<span class="ct-node-title-full">Why ENHYPEN&#x27;s Vampire Story Still Works</span>
+<span class="ct-node-summary">ENHYPEN&#x27;s vampire mythology uses blood, fate, memory and forbidden connection to make familiar emotions feel larger and more dramatic.</span>
+</span>
+</a>
+<button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
+<div class="home-vertical-card-actions">
+<button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why ENHYPEN&#x27;s Vampire Story Still Works" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vampire-lore/' | relative_url }}" title="Why ENHYPEN&#x27;s Vampire Story Still Works" aria-label="Read more about Why ENHYPEN&#x27;s Vampire Story Still Works">Read more</a>
+</div>
+</div>
+</div>
+<div class="home-vertical-children home-vertical-children-leaf-grid" id="home-vertical-children-node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5" data-leaf-grid-columns="2" hidden>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-two-moons-identity-c-73aae7" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-two-moons-identity-c-73aae7" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'two-moons/' | relative_url }}" title="Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore" aria-label="Open page: Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7-Illustration-1.webp' | relative_url }}" alt="Overview image for Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Two Moons</span>
+<span class="ct-node-title-full">Which Love Is Real in Dark Moon: Two Moons?</span>
+<span class="ct-node-summary">Two Moons tests whether a consciously built relationship matters more than memories and identities inherited from a previous life.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-moons/' | relative_url }}" title="Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore" aria-label="Read more about Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-dark-moon-blood-memo-751cf8" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-dark-moon-blood-memo-751cf8" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'blood-memory/' | relative_url }}" title="Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore" aria-label="Open page: Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Blood Memory</span>
+<span class="ct-node-title-full">Why Blood Remembers What Dark Moon Characters Forget</span>
+<span class="ct-node-summary">In Dark Moon, blood preserves recognition when conscious memory fails, turning attraction into evidence of an older bond.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blood-memory/' | relative_url }}" title="Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore" aria-label="Read more about Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore">Read more</a>
+</div>
+</div>
+</div>
+</div>
+<div class="home-vertical-node is-collapsed" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-orange-blood-mortali-f8a4e6" data-semantic-level="l2">
+<div class="home-vertical-node-row">
+<span class="home-vertical-toggle-spacer" aria-hidden="true"></span>
+<div class="home-vertical-card home-vertical-bubble ct-node ct-node-lg" data-depth="3" data-level="3" data-node-id="node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-orange-blood-mortali-f8a4e6" data-node-kind="child" data-semantic-level="l2">
+<a class="ct-node-link home-vertical-primary-link" href="{{ 'mortal-love/' | relative_url }}" title="Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Vampire Lore" aria-label="Open page: Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Vampire Lore">
+<div class="ct-node-thumb">
+<img src="{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6-Illustration-1.webp' | relative_url }}" alt="Overview image for Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Vampire Lore" loading="lazy" decoding="async" fetchpriority="low">
+</div>
+<span class="ct-node-content">
+<span class="ct-node-label">Mortal Love</span>
+<span class="ct-node-title-full">Why Mortality Matters in ENHYPEN&#x27;s Orange Blood</span>
+<span class="ct-node-summary">Orange Blood reframes mortality as a source of urgency and freedom rather than a weakness that immortality can simply overcome.</span>
+</span>
+</a>
+<div class="home-vertical-card-actions">
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mortal-love/' | relative_url }}" title="Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Vampire Lore" aria-label="Read more about Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Vampire Lore">Read more</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/json" data-home-vertical-data>{"mode": "tree-diagram", "layout_policy": "dense", "home_cluster_version": 3, "branch_density_profile": {"l1_count": 6, "max_l2_children": 3, "max_l3_children": 0, "l1_tier": "dense", "l2_max_tier": "balanced", "l3_max_tier": "sparse", "layout_policy": "dense"}, "preferred_cluster_strategy": "tree", "preferred_cluster_strategy_mobile": "fanout", "max_title_length": 68, "nodes": [{"id": "node-enhypen-the-south-ko-177f17", "kind": "root", "depth": 0, "level": 1, "basename": "Enhypen_the_South_Ko_177f17", "label": "ENHYPEN", "display_label": "ENHYPEN", "full_label": "ENHYPEN", "catchy_title": "How ENHYPEN Turned Desire Into Pop Mythology", "url": "{{ 'enhypen-the-south-korean-band/' | relative_url }}", "parent_id": "", "count": 25, "semantic_level": "root", "child_total": 6, "descendant_total": 24, "sibling_total": 1, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "balanced", "title_length_bucket": "short", "node_size_mode": "root", "node_size_mode_mobile": "root", "focus_card_size_mode": "hero", "focus_card_size_mode_mobile": "standard", "render_hint": "root-card", "level_label": "Overview", "summary": "ENHYPEN are a South Korean boy band formed through the 2020 television competition I-LAND and managed by BELIFT LAB. As of July 2026, the group has six members: Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-Ki. They debuted as a seven-member act in November 2020, but Heeseung left in March 2026 to pursue a solo career under the name Evan.", "subtree_shape": {"total_nodes": 25, "max_depth": 2, "max_breadth": 18, "breadth_by_depth": {"0": 1, "1": 6, "2": 18}, "child_count": 6}, "preferred_cluster_strategy": "tree", "preferred_cluster_strategy_mobile": "fanout", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17-overview.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5", "label": "Choreography", "display_label": "Choreography", "full_label": "What Makes ENHYPEN's Choreography So Distinctive?", "catchy_title": "What Makes ENHYPEN's Choreography So Distinctive?", "url": "{{ 'choreography/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17", "count": 4, "semantic_level": "l1", "child_total": 3, "descendant_total": 3, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "sm", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "Sharp formations, low movement and narrative gestures make ENHYPEN's choreography central to how their songs communicate tension and connection.", "subtree_shape": {"total_nodes": 4, "max_depth": 1, "max_breadth": 3, "breadth_by_depth": {"0": 1, "1": 3}, "child_count": 3}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5-photo1.webp' | relative_url }}", "slot_index": 0}, {"id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-dance-practi-bdefb3", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3", "label": "Dance Practice", "display_label": "Dance Practice", "full_label": "What ENHYPEN's Dance Practices Reveal About Precision | Choreography", "catchy_title": "What ENHYPEN's Dance Practices Reveal About Precision", "url": "{{ 'dance-practice/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "ENHYPEN's dance practices show how tiny differences in timing, head position and landing height can strengthen or break a formation.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-floorwork-st-5c7039", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039", "label": "Floorwork", "display_label": "Floorwork", "full_label": "Why ENHYPEN's Floorwork Changes the Story | Choreography", "catchy_title": "Why ENHYPEN's Floorwork Changes the Story", "url": "{{ 'floorwork/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Crouches, kneeling sequences and floorwork let ENHYPEN stage weakness, temptation and transformation without changing the set.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-future-perfect-hip-h-ed6c0c", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c", "label": "Future Perfect", "display_label": "Future Perfect", "full_label": "How Future Perfect Made ENHYPEN Move Differently | Choreography", "catchy_title": "How Future Perfect Made ENHYPEN Move Differently", "url": "{{ 'future-perfect/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Future Perfect turns ENHYPEN's choreography from supernatural restraint into a forceful declaration of independence.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026", "label": "Eras", "display_label": "Eras", "full_label": "How ENHYPEN's Eras Connect Into One Story", "catchy_title": "How ENHYPEN's Eras Connect Into One Story", "url": "{{ 'eras/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17", "count": 4, "semantic_level": "l1", "child_total": 3, "descendant_total": 3, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "Each ENHYPEN era develops a connected story about debut, identity, desire, rebellion and the cost of transformation.", "subtree_shape": {"total_nodes": 4, "max_depth": 1, "max_breadth": 3, "breadth_by_depth": {"0": 1, "1": 3}, "child_count": 3}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026-overview.webp' | relative_url }}", "slot_index": 1}, {"id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026-bite-me-dangerous-de-639f7e", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e", "label": "Bite Me", "display_label": "Bite Me", "full_label": "Why Bite Me Makes Love Feel Dangerous | Eras", "catchy_title": "Why Bite Me Makes Love Feel Dangerous", "url": "{{ 'bite-me/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Bite Me makes devotion a chosen bond, but Dark Blood shows how love can still blur into hunger, sacrifice and possession.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026-blessed-cursed-self-7d487f", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f", "label": "Blessed Cursed", "display_label": "Blessed Cursed", "full_label": "When ENHYPEN Rejected the Correct Path | Eras", "catchy_title": "When ENHYPEN Rejected the Correct Path", "url": "{{ 'blessed-cursed/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Blessed-Cursed marks the point where ENHYPEN stop searching for the correct path and choose a self-authored one instead.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026-given-taken-debut-an-d4e3d3", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3", "label": "Given Taken", "display_label": "Given Taken", "full_label": "Why ENHYPEN's Debut Felt Like a Threshold | Eras", "catchy_title": "Why ENHYPEN's Debut Felt Like a Threshold", "url": "{{ 'given-taken/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Given-Taken turns ENHYPEN's debut into a question of whether success was earned, granted or seized before they were ready for it.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642", "label": "Essential Songs", "display_label": "Essential Songs", "full_label": "Which Songs Best Explain ENHYPEN's Appeal?", "catchy_title": "Which Songs Best Explain ENHYPEN's Appeal?", "url": "{{ 'essential-songs/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17", "count": 4, "semantic_level": "l1", "child_total": 3, "descendant_total": 3, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "Key tracks such as Given-Taken, Drunk-Dazed, FEVER and Bite Me reveal how ENHYPEN turn personal anxiety into memorable pop drama.", "subtree_shape": {"total_nodes": 4, "max_depth": 1, "max_breadth": 3, "breadth_by_depth": {"0": 1, "1": 3}, "child_count": 3}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-overview.webp' | relative_url }}", "slot_index": 2}, {"id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642-enhypen-controlled-c-d082e2", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2", "label": "Controlled Chaos", "display_label": "Controlled Chaos", "full_label": "Why ENHYPEN's Chaos Always Looks Precise | Essential Songs", "catchy_title": "Why ENHYPEN's Chaos Always Looks Precise", "url": "{{ 'controlled-chaos/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Across their defining songs, ENHYPEN make surrender look convincing by pairing unstable emotions with exact formations and disciplined movement.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642-drunk-dazed-fame-car-058527", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527", "label": "Drunk Dazed", "display_label": "Drunk Dazed", "full_label": "Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs", "catchy_title": "Why Drunk Dazed Makes Fame Feel Dangerous", "url": "{{ 'drunk-dazed/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Drunk-Dazed turns ENHYPEN's post-debut excitement into a carnival where attention, exhaustion and loss of control become inseparable.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642-fever-desire-choreog-afe1b5", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5", "label": "FEVER", "display_label": "FEVER", "full_label": "How FEVER Made Restraint Feel Overwhelming | Essential Songs", "catchy_title": "How FEVER Made Restraint Feel Overwhelming", "url": "{{ 'fever/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "FEVER made restrained movement, breathy vocals and recurring gestures feel as intense as ENHYPEN's largest supernatural spectacles.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a", "label": "Members", "display_label": "Members", "full_label": "Who Does What in ENHYPEN Now?", "catchy_title": "Who Does What in ENHYPEN Now?", "url": "{{ 'members/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17", "count": 4, "semantic_level": "l1", "child_total": 3, "descendant_total": 3, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "The six-member line-up combines distinct performance strengths, international backgrounds and newly adjusted roles after Heeseung's departure.", "subtree_shape": {"total_nodes": 4, "max_depth": 1, "max_breadth": 3, "breadth_by_depth": {"0": 1, "1": 3}, "child_count": 3}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-photo1.webp' | relative_url }}", "slot_index": 3}, {"id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-member-performance-c-e323be", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be", "label": "Member Contrast", "display_label": "Member Contrast", "full_label": "How ENHYPEN's Members Change a Song's Mood", "catchy_title": "How ENHYPEN's Members Change a Song's Mood", "url": "{{ 'member-contrast/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Jay, Jake, Sunghoon and Sunoo shape songs through different combinations of intensity, warmth, precision and emotional contrast.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-jungwon-niki-perform-9644b4", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4", "label": "Performance Axis", "display_label": "Performance Axis", "full_label": "Why Jungwon and Ni Ki Anchor ENHYPEN | Members", "catchy_title": "Why Jungwon and Ni Ki Anchor ENHYPEN", "url": "{{ 'performance-axis/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Jungwon stabilises the team through leadership and control, while Ni-Ki serves as its clearest technical reference for dance.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-post-heeseung-role-c-7b6c61", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61", "label": "Post Heeseung Roles", "display_label": "Post Heeseung Roles", "full_label": "How ENHYPEN Rebuilt Its Six Member Performance | Members", "catchy_title": "How ENHYPEN Rebuilt Its Six Member Performance", "url": "{{ 'post-heeseung-roles/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "The six-member lineup had to reassign vocals, formations and live-performance responsibilities without simply replacing Heeseung member for member.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10", "label": "Origins", "display_label": "Origins", "full_label": "How I LAND Built ENHYPEN's Fan Connection", "catchy_title": "How I LAND Built ENHYPEN's Fan Connection", "url": "{{ 'origins/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17", "count": 4, "semantic_level": "l1", "child_total": 3, "descendant_total": 3, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "ENHYPEN's survival-show formation and hyphen-inspired identity explain why connection with ENGENE has shaped the group from before debut.", "subtree_shape": {"total_nodes": 4, "max_depth": 1, "max_breadth": 3, "breadth_by_depth": {"0": 1, "1": 3}, "child_count": 3}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-overview.webp' | relative_url }}", "slot_index": 4}, {"id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-engene-name-and-iden-45bed0", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0", "label": "ENGENE Name", "display_label": "ENGENE Name", "full_label": "How ENGENE Made Connection the Group's Identity | Origins", "catchy_title": "How ENGENE Made Connection the Group's Identity", "url": "{{ 'engene-name/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "The fandom name turned I-LAND's participatory origins into an official identity built around shared growth and support.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-final-lineup-v-90b54b", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b", "label": "Final Lineup", "display_label": "Final Lineup", "full_label": "How Much Did Fans Really Choose ENHYPEN? | Origins", "catchy_title": "How Much Did Fans Really Choose ENHYPEN?", "url": "{{ 'final-lineup/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Global voters secured six debut places, but the producers' final choice showed where fan power ended.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-predebut-fan-b-03e376", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376", "label": "Pre Debut Bond", "display_label": "Pre Debut Bond", "full_label": "Why ENGENE Felt Connected Before Debut | Origins", "catchy_title": "Why ENGENE Felt Connected Before Debut", "url": "{{ 'pre-debut-bond/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Months of voting, setbacks and visible growth gave viewers a personal stake in ENHYPEN before the group released music.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "kind": "branch", "depth": 1, "level": 2, "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5", "label": "Vampire Lore", "display_label": "Vampire Lore", "full_label": "Why ENHYPEN's Vampire Story Still Works", "catchy_title": "Why ENHYPEN's Vampire Story Still Works", "url": "{{ 'vampire-lore/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17", "count": 4, "semantic_level": "l1", "child_total": 3, "descendant_total": 3, "sibling_total": 6, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "medium", "node_size_mode": "lg", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l1-feature-card", "level_label": "Topic", "summary": "ENHYPEN's vampire mythology uses blood, fate, memory and forbidden connection to make familiar emotions feel larger and more dramatic.", "subtree_shape": {"total_nodes": 4, "max_depth": 1, "max_breadth": 3, "breadth_by_depth": {"0": 1, "1": 3}, "child_count": 3}, "preferred_subtree_layout": "card-grid", "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5-overview.webp' | relative_url }}", "slot_index": 5}, {"id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-dark-moon-blood-memo-751cf8", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8", "label": "Blood Memory", "display_label": "Blood Memory", "full_label": "Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore", "catchy_title": "Why Blood Remembers What Dark Moon Characters Forget", "url": "{{ 'blood-memory/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "In Dark Moon, blood preserves recognition when conscious memory fails, turning attraction into evidence of an older bond.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-orange-blood-mortali-f8a4e6", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6", "label": "Mortal Love", "display_label": "Mortal Love", "full_label": "Why Mortality Matters in ENHYPEN's Orange Blood | Vampire Lore", "catchy_title": "Why Mortality Matters in ENHYPEN's Orange Blood", "url": "{{ 'mortal-love/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Orange Blood reframes mortality as a source of urgency and freedom rather than a weakness that immortality can simply overcome.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6-Illustration-1.webp' | relative_url }}"}, {"id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-two-moons-identity-c-73aae7", "kind": "child", "depth": 2, "level": 3, "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7", "label": "Two Moons", "display_label": "Two Moons", "full_label": "Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore", "catchy_title": "Which Love Is Real in Dark Moon: Two Moons?", "url": "{{ 'two-moons/' | relative_url }}", "parent_id": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "count": 1, "semantic_level": "l2", "child_total": 0, "descendant_total": 0, "sibling_total": 3, "hidden_child_total": 0, "groupable_child_total": 0, "density_tier": "sparse", "title_length_bucket": "long", "node_size_mode": "md", "node_size_mode_mobile": "md", "focus_card_size_mode": "standard", "focus_card_size_mode_mobile": "compact", "render_hint": "l2-card", "level_label": "Section", "summary": "Two Moons tests whether a consciously built relationship matters more than memories and identities inherited from a previous life.", "subtree_shape": {"total_nodes": 1, "max_depth": 0, "max_breadth": 1, "breadth_by_depth": {"0": 1}, "child_count": 0}, "image": "{{ 'assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7-Illustration-1.webp' | relative_url }}"}], "edges": [{"from": "node-enhypen-the-south-ko-177f17", "to": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "to": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-dance-practi-bdefb3", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "to": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-floorwork-st-5c7039", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5", "to": "node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-future-perfect-hip-h-ed6c0c", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17", "to": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "to": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026-bite-me-dangerous-de-639f7e", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "to": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026-blessed-cursed-self-7d487f", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026", "to": "node-enhypen-the-south-ko-177f17-eras-connected-story-288026-given-taken-debut-an-d4e3d3", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17", "to": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "to": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642-enhypen-controlled-c-d082e2", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "to": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642-drunk-dazed-fame-car-058527", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642", "to": "node-enhypen-the-south-ko-177f17-essential-songs-dc7642-fever-desire-choreog-afe1b5", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17", "to": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "to": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-member-performance-c-e323be", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "to": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-jungwon-niki-perform-9644b4", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a", "to": "node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a-post-heeseung-role-c-7b6c61", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17", "to": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "to": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-engene-name-and-iden-45bed0", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "to": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-final-lineup-v-90b54b", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10", "to": "node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-predebut-fan-b-03e376", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17", "to": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "to": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-dark-moon-blood-memo-751cf8", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "to": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-orange-blood-mortali-f8a4e6", "kind": "tree"}, {"from": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5", "to": "node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-two-moons-identity-c-73aae7", "kind": "tree"}], "note": "Scan the main sections visually. Denser branches may fold into a focused view on smaller layouts.", "shape": {"total_nodes": 25, "max_depth": 2, "breadth_by_depth": {"0": 1, "1": 6, "2": 18}, "max_breadth": 18}}</script>
+</section>
+</section>
+<div class="home-adaptive-utility home-adaptive-utility--full">
+<section id="browse-reports" class="home-mode-disclosure home-detailed-catalog home-browse-disclosure home-search-pages-box" data-home-detailed-catalog>
+<div class="home-detailed-catalog-summary home-search-pages-header">
+<span class="home-mode-disclosure-copy">
+<span class="home-detailed-catalog-title home-mode-disclosure-title">Search pages</span>
+<span class="home-detailed-catalog-meta home-mode-disclosure-hint">Search topic, branch, or keyword...</span>
+</span>
+<span class="home-mode-disclosure-meta">
+<span class="home-mode-disclosure-current-label">Scope</span>
+<span class="home-mode-disclosure-current">25 pages</span>
+</span>
+</div>
+<div class="home-detailed-catalog-body">
+<div class="home-controls" role="search">
+<label class="home-filter-label" for="home-report-filter">Search pages</label>
+<div class="home-filter-row">
+<input id="home-report-filter" class="home-filter" type="search" placeholder="Search topic, branch, or keyword..." data-home-filter>
+<button class="home-filter-clear nav-pill nav-pill-button" type="button" data-home-filter-clear hidden>Clear</button>
+</div>
+<p class="home-filter-status" data-home-filter-status aria-live="polite"></p>
+<div class="home-filter-results" data-home-filter-results hidden></div>
+</div>
+</div>
+</section>
 
-  </div>
+</div>
 </section>
 

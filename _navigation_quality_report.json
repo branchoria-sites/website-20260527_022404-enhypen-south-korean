@@ -1,557 +1,1932 @@
 {
-  "generated_at_utc": "2026-06-11T17:14:43.045450Z",
+  "generated_at_utc": "2026-07-21T19:04:22.320501Z",
   "summary": {
-    "total_pages_with_permalink": 22,
-    "visible_pages": 15,
+    "total_pages_with_permalink": 32,
+    "visible_pages": 25,
     "hidden_pages": 7,
     "visible_pages_without_inbound_links": 0,
     "visible_orphan_pages": 0,
     "visible_pages_with_empty_branch_sections": 0,
     "visible_pages_with_missing_parent_target": 0,
     "branch_navigation_coverage_percent": 100.0,
-    "sample_edge_count": 107
+    "inline_internal_edge_count": 140,
+    "inline_internal_target_page_count": 25,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 24,
+    "visible_pages_without_inline_outbound_links": 1,
+    "average_inline_inbound_links_per_visible_page": 5.6,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 25,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
   },
   "samples": {
     "visible_without_inbound_links": [],
     "visible_orphan_pages": [],
     "visible_empty_branch_sections": [],
     "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "title": "Bite Me",
+        "permalink": "/bite-me/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Enhypen_the_South_Ko_177f17",
+        "title": "How ENHYPEN Turned Desire Into Pop Mythology",
+        "permalink": "/enhypen-the-south-korean-band/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "title": "Eras",
+        "permalink": "/eras/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "title": "Bite Me",
+        "permalink": "/bite-me/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "title": "Blessed Cursed",
+        "permalink": "/blessed-cursed/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "title": "Given Taken",
+        "permalink": "/given-taken/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "title": "Essential Songs",
+        "permalink": "/essential-songs/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "title": "Drunk Dazed",
+        "permalink": "/drunk-dazed/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "title": "Controlled Chaos",
+        "permalink": "/controlled-chaos/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "title": "FEVER",
+        "permalink": "/fever/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "title": "Origins",
+        "permalink": "/origins/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "title": "ENGENE Name",
+        "permalink": "/engene-name/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "title": "Final Lineup",
+        "permalink": "/final-lineup/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "title": "Pre Debut Bond",
+        "permalink": "/pre-debut-bond/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "title": "Members",
+        "permalink": "/members/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "title": "Performance Axis",
+        "permalink": "/performance-axis/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "title": "Member Contrast",
+        "permalink": "/member-contrast/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "title": "Post Heeseung Roles",
+        "permalink": "/post-heeseung-roles/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "title": "Choreography",
+        "permalink": "/choreography/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "title": "Dance Practice",
+        "permalink": "/dance-practice/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "title": "Floorwork",
+        "permalink": "/floorwork/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "title": "Future Perfect",
+        "permalink": "/future-perfect/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "title": "Vampire Lore",
+        "permalink": "/vampire-lore/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "title": "Blood Memory",
+        "permalink": "/blood-memory/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "title": "Mortal Love",
+        "permalink": "/mortal-love/"
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "title": "Two Moons",
+        "permalink": "/two-moons/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "title": "Members",
+        "permalink": "/members/",
+        "inline_inbound_count": 22
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "title": "Choreography",
+        "permalink": "/choreography/",
+        "inline_inbound_count": 17
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "title": "Given Taken",
+        "permalink": "/given-taken/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "title": "Drunk Dazed",
+        "permalink": "/drunk-dazed/",
+        "inline_inbound_count": 14
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "title": "Bite Me",
+        "permalink": "/bite-me/",
+        "inline_inbound_count": 11
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "title": "FEVER",
+        "permalink": "/fever/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "title": "Dance Practice",
+        "permalink": "/dance-practice/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "title": "Future Perfect",
+        "permalink": "/future-perfect/",
+        "inline_inbound_count": 9
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "title": "Blessed Cursed",
+        "permalink": "/blessed-cursed/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "title": "Origins",
+        "permalink": "/origins/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "title": "Vampire Lore",
+        "permalink": "/vampire-lore/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "title": "Floorwork",
+        "permalink": "/floorwork/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "title": "Two Moons",
+        "permalink": "/two-moons/",
+        "inline_inbound_count": 3
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "title": "Eras",
+        "permalink": "/eras/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "title": "Essential Songs",
+        "permalink": "/essential-songs/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "title": "Final Lineup",
+        "permalink": "/final-lineup/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "title": "Performance Axis",
+        "permalink": "/performance-axis/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "title": "Member Contrast",
+        "permalink": "/member-contrast/",
+        "inline_inbound_count": 2
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17",
+        "title": "How ENHYPEN Turned Desire Into Pop Mythology",
+        "permalink": "/enhypen-the-south-korean-band/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "title": "Controlled Chaos",
+        "permalink": "/controlled-chaos/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "title": "ENGENE Name",
+        "permalink": "/engene-name/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "title": "Pre Debut Bond",
+        "permalink": "/pre-debut-bond/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "title": "Post Heeseung Roles",
+        "permalink": "/post-heeseung-roles/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "title": "Blood Memory",
+        "permalink": "/blood-memory/",
+        "inline_inbound_count": 1
+      },
+      {
+        "basename": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "title": "Mortal Love",
+        "permalink": "/mortal-love/",
+        "inline_inbound_count": 1
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
     "edge_samples": [
       {
-        "from": "Enhypen_the_S_177f17",
-        "to": "Enhypen_the_S_177f17_index",
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_index",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_index",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "to": "Enhypen_the_S_177f17",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_index",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_index",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
-        "type": "child"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_index",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "type": "sibling"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_index",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_index",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "type": "sibling"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_index",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
         "type": "child"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_index",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_niki_transiti_cf2da0",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_six_member_pa_e993b3",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_jungwon_sunoo_cb9332",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_live_vocal_re_fbf1a8",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_index",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_fan_p_e0dfef",
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_bite_me_origi_5aa438",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
-        "to": "Enhypen_the_S_177f17",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "type": "parent"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_goyang_stadiu_98ed1f",
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
         "type": "sibling"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_index",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_t_stage_fan_v_f91a5f",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_index",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "type": "child"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_six_member_st_f9f5e7",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77_index",
-        "to": "Enhypen_the_S_177f17_members_after_f4153c_vocal_balance_3c3a77",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf",
-        "type": "ancestor"
-      },
-      {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "parent"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_index",
-        "to": "Enhypen_the_S_177f17",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa",
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
         "type": "ancestor"
       },
       {
-        "from": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af_index",
-        "to": "Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af",
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "to": "Enhypen_the_South_Ko_177f17",
         "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_index",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_index",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_index",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_index",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_index",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_index",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_index",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_index",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_index",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "parent"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_index",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "ancestor"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
       }
-    ]
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_index",
+        "to": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+        "to": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
   }
 }

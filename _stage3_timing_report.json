@@ -1,0 +1,950 @@
+{
+  "version": 1,
+  "page_count": 25,
+  "total_page_seconds": 45.4374,
+  "average_page_seconds": 1.8175,
+  "phase_totals_seconds": {
+    "monetization": 24.5701,
+    "media_svg": 9.4339,
+    "youtube": 4.2709,
+    "content_assembly": 4.0283,
+    "internal_links": 1.2994,
+    "quality_write": 1.0045,
+    "content_cleanup_final": 0.4496,
+    "preparation": 0.3703,
+    "content_cleanup_initial": 0.0102
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0028,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0129,
+        "content_cleanup_final": 0.0129,
+        "media_svg": 0.2303,
+        "youtube": 0.0062,
+        "content_assembly": 0.1404,
+        "monetization": 5.5468,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3079,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.1729,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 0.1421,
+        "youtube": 1.3458,
+        "content_assembly": 0.2122,
+        "monetization": 3.3349,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5676,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.1825,
+        "content_cleanup_final": 0.0435,
+        "media_svg": 0.1468,
+        "youtube": 1.3641,
+        "content_assembly": 0.2575,
+        "monetization": 1.5052,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.467,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.1648,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.1001,
+        "youtube": 1.347,
+        "content_assembly": 0.2055,
+        "monetization": 1.5603,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8715,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0216,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.2295,
+        "youtube": 0.0086,
+        "content_assembly": 0.1501,
+        "monetization": 2.393,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8687,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.6163,
+        "youtube": 0.0088,
+        "content_assembly": 0.1457,
+        "monetization": 2.0159,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2127,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0135,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.7035,
+        "youtube": 0.009,
+        "content_assembly": 0.1381,
+        "monetization": 1.2837,
+        "quality_write": 0.0344
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0715,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.117,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.6989,
+        "youtube": 0.0094,
+        "content_assembly": 0.1438,
+        "monetization": 1.029,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0291,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0123,
+        "content_cleanup_final": 0.0081,
+        "media_svg": 0.7096,
+        "youtube": 0.0086,
+        "content_assembly": 0.1308,
+        "monetization": 1.1097,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9883,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.6528,
+        "youtube": 0.01,
+        "content_assembly": 0.1455,
+        "monetization": 1.0938,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9554,
+      "phases": {
+        "preparation": 0.0139,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0112,
+        "content_cleanup_final": 0.0121,
+        "media_svg": 0.6532,
+        "youtube": 0.0083,
+        "content_assembly": 0.1388,
+        "monetization": 1.0809,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9416,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.6623,
+        "youtube": 0.0092,
+        "content_assembly": 0.1499,
+        "monetization": 1.0334,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4504,
+      "phases": {
+        "preparation": 0.015,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.2368,
+        "youtube": 0.0071,
+        "content_assembly": 0.1378,
+        "monetization": 0.9899,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1212,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.1579,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.7113,
+        "youtube": 0.0084,
+        "content_assembly": 0.1366,
+        "monetization": 0.0483,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9755,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0228,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.6882,
+        "youtube": 0.0072,
+        "content_assembly": 0.1398,
+        "monetization": 0.0497,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9628,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0149,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.6817,
+        "youtube": 0.0091,
+        "content_assembly": 0.138,
+        "monetization": 0.0513,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6072,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.1744,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.1042,
+        "youtube": 0.0125,
+        "content_assembly": 0.1836,
+        "monetization": 0.0495,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.565,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0305,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.1243,
+        "youtube": 0.0103,
+        "content_assembly": 0.2578,
+        "monetization": 0.0532,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.5315,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.2364,
+        "youtube": 0.0063,
+        "content_assembly": 0.1495,
+        "monetization": 0.0503,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.5258,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0179,
+        "content_cleanup_final": 0.0113,
+        "media_svg": 0.2365,
+        "youtube": 0.0094,
+        "content_assembly": 0.1389,
+        "monetization": 0.0587,
+        "quality_write": 0.0362
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.5676,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.001,
+        "internal_links": 0.1825,
+        "content_cleanup_final": 0.0435,
+        "media_svg": 0.1468,
+        "youtube": 1.3641,
+        "content_assembly": 0.2575,
+        "monetization": 1.5052,
+        "quality_write": 0.0521
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.6072,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.1744,
+        "content_cleanup_final": 0.0199,
+        "media_svg": 0.1042,
+        "youtube": 0.0125,
+        "content_assembly": 0.1836,
+        "monetization": 0.0495,
+        "quality_write": 0.0465
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.565,
+      "phases": {
+        "preparation": 0.0172,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0305,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.1243,
+        "youtube": 0.0103,
+        "content_assembly": 0.2578,
+        "monetization": 0.0532,
+        "quality_write": 0.0485
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.4538,
+      "phases": {
+        "preparation": 0.0159,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0237,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.0932,
+        "youtube": 0.0267,
+        "content_assembly": 0.1862,
+        "monetization": 0.0444,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.467,
+      "phases": {
+        "preparation": 0.0167,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.1648,
+        "content_cleanup_final": 0.026,
+        "media_svg": 0.1001,
+        "youtube": 1.347,
+        "content_assembly": 0.2055,
+        "monetization": 1.5603,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 0.4178,
+      "phases": {
+        "preparation": 0.0164,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0212,
+        "content_cleanup_final": 0.0245,
+        "media_svg": 0.0672,
+        "youtube": 0.0162,
+        "content_assembly": 0.1797,
+        "monetization": 0.0471,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.5258,
+      "phases": {
+        "preparation": 0.0165,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0179,
+        "content_cleanup_final": 0.0113,
+        "media_svg": 0.2365,
+        "youtube": 0.0094,
+        "content_assembly": 0.1389,
+        "monetization": 0.0587,
+        "quality_write": 0.0362
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0715,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.117,
+        "content_cleanup_final": 0.0192,
+        "media_svg": 0.6989,
+        "youtube": 0.0094,
+        "content_assembly": 0.1438,
+        "monetization": 1.029,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.516,
+      "phases": {
+        "preparation": 0.015,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0207,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.2333,
+        "youtube": 0.0068,
+        "content_assembly": 0.1395,
+        "monetization": 0.0489,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8715,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0216,
+        "content_cleanup_final": 0.0158,
+        "media_svg": 0.2295,
+        "youtube": 0.0086,
+        "content_assembly": 0.1501,
+        "monetization": 2.393,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.3079,
+      "phases": {
+        "preparation": 0.0166,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.1729,
+        "content_cleanup_final": 0.0362,
+        "media_svg": 0.1421,
+        "youtube": 1.3458,
+        "content_assembly": 0.2122,
+        "monetization": 3.3349,
+        "quality_write": 0.0464
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0291,
+      "phases": {
+        "preparation": 0.0146,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0123,
+        "content_cleanup_final": 0.0081,
+        "media_svg": 0.7096,
+        "youtube": 0.0086,
+        "content_assembly": 0.1308,
+        "monetization": 1.1097,
+        "quality_write": 0.0352
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.1212,
+      "phases": {
+        "preparation": 0.0001,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.1579,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.7113,
+        "youtube": 0.0084,
+        "content_assembly": 0.1366,
+        "monetization": 0.0483,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9755,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0228,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.6882,
+        "youtube": 0.0072,
+        "content_assembly": 0.1398,
+        "monetization": 0.0497,
+        "quality_write": 0.039
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9554,
+      "phases": {
+        "preparation": 0.0139,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0112,
+        "content_cleanup_final": 0.0121,
+        "media_svg": 0.6532,
+        "youtube": 0.0083,
+        "content_assembly": 0.1388,
+        "monetization": 1.0809,
+        "quality_write": 0.0368
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.9628,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0149,
+        "content_cleanup_final": 0.0137,
+        "media_svg": 0.6817,
+        "youtube": 0.0091,
+        "content_assembly": 0.138,
+        "monetization": 0.0513,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.5015,
+      "phases": {
+        "preparation": 0.0149,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.0119,
+        "content_cleanup_final": 0.0099,
+        "media_svg": 0.2347,
+        "youtube": 0.0083,
+        "content_assembly": 0.1351,
+        "monetization": 0.0484,
+        "quality_write": 0.038
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8687,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0156,
+        "content_cleanup_final": 0.0133,
+        "media_svg": 0.6163,
+        "youtube": 0.0088,
+        "content_assembly": 0.1457,
+        "monetization": 2.0159,
+        "quality_write": 0.0374
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 6.0028,
+      "phases": {
+        "preparation": 0.0154,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0129,
+        "content_cleanup_final": 0.0129,
+        "media_svg": 0.2303,
+        "youtube": 0.0062,
+        "content_assembly": 0.1404,
+        "monetization": 5.5468,
+        "quality_write": 0.0376
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9883,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0162,
+        "content_cleanup_final": 0.0176,
+        "media_svg": 0.6528,
+        "youtube": 0.01,
+        "content_assembly": 0.1455,
+        "monetization": 1.0938,
+        "quality_write": 0.0373
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_floorwork_st_5c7039",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9416,
+      "phases": {
+        "preparation": 0.0152,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.6623,
+        "youtube": 0.0092,
+        "content_assembly": 0.1499,
+        "monetization": 1.0334,
+        "quality_write": 0.0396
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_future_perfect_hip_h_ed6c0c",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 1.4504,
+      "phases": {
+        "preparation": 0.015,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0114,
+        "media_svg": 0.2368,
+        "youtube": 0.0071,
+        "content_assembly": 0.1378,
+        "monetization": 0.9899,
+        "quality_write": 0.0388
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.5315,
+      "phases": {
+        "preparation": 0.0161,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0164,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.2364,
+        "youtube": 0.0063,
+        "content_assembly": 0.1495,
+        "monetization": 0.0503,
+        "quality_write": 0.0387
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 0.5248,
+      "phases": {
+        "preparation": 0.0151,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0159,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.2407,
+        "youtube": 0.0076,
+        "content_assembly": 0.1475,
+        "monetization": 0.0438,
+        "quality_write": 0.0364
+      }
+    },
+    {
+      "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+      "level": 3,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2127,
+      "phases": {
+        "preparation": 0.0147,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0135,
+        "content_cleanup_final": 0.0155,
+        "media_svg": 0.7035,
+        "youtube": 0.009,
+        "content_assembly": 0.1381,
+        "monetization": 1.2837,
+        "quality_write": 0.0344
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 25,
+    "reused_pages": 0,
+    "rebuilt_pages": 25,
+    "error_pages": 0,
+    "page_work_wall_seconds": 23.4775,
+    "rebuilt_pages_per_minute": 63.8911,
+    "queued_rebuild_pages_per_minute": 63.8911,
+    "apparent_page_work_speedup": 1.9354,
+    "youtube_cache_prepare": {
+      "entries": 42676,
+      "updated": true,
+      "elapsed_seconds": 2.806
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 25,
+      "successful_pages": 25,
+      "failed_pages": 0,
+      "worker_summary": {
+        "12420": {
+          "pages": 10,
+          "successes": 10,
+          "failures": 0,
+          "total_worker_seconds": 17.3913,
+          "max_worker_seconds": 6.0425,
+          "last_base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_two_moons_identity_c_73aae7"
+        },
+        "9704": {
+          "pages": 9,
+          "successes": 9,
+          "failures": 0,
+          "total_worker_seconds": 16.0539,
+          "max_worker_seconds": 3.5077,
+          "last_base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8"
+        },
+        "17664": {
+          "pages": 6,
+          "successes": 6,
+          "failures": 0,
+          "total_worker_seconds": 12.9777,
+          "max_worker_seconds": 5.3483,
+          "last_base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_orange_blood_mortali_f8a4e6"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12420,
+          "worker_duration_seconds": 6.0425,
+          "total_seconds": 6.0028,
+          "worker_started_at_utc": "2026-07-21T19:04:10.774136Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:16.776962Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10",
+          "level": 2,
+          "success": true,
+          "worker_pid": 17664,
+          "worker_duration_seconds": 5.3483,
+          "total_seconds": 5.3079,
+          "worker_started_at_utc": "2026-07-21T19:04:05.641135Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:10.949112Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17",
+          "level": 1,
+          "success": true,
+          "worker_pid": 12420,
+          "worker_duration_seconds": 3.6127,
+          "total_seconds": 3.5676,
+          "worker_started_at_utc": "2026-07-21T19:04:01.474451Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:05.042110Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642",
+          "level": 2,
+          "success": true,
+          "worker_pid": 9704,
+          "worker_duration_seconds": 3.5077,
+          "total_seconds": 3.467,
+          "worker_started_at_utc": "2026-07-21T19:04:03.570036Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:07.037129Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5",
+          "level": 3,
+          "success": true,
+          "worker_pid": 12420,
+          "worker_duration_seconds": 2.9096,
+          "total_seconds": 2.8715,
+          "worker_started_at_utc": "2026-07-21T19:04:07.864150Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:10.735640Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4",
+          "level": 3,
+          "success": true,
+          "worker_pid": 17664,
+          "worker_duration_seconds": 2.9068,
+          "total_seconds": 2.8687,
+          "worker_started_at_utc": "2026-07-21T19:04:13.162556Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:16.031288Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9704,
+          "worker_duration_seconds": 2.2499,
+          "total_seconds": 2.2127,
+          "worker_started_at_utc": "2026-07-21T19:04:17.376934Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:19.589674Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9704,
+          "worker_duration_seconds": 2.1107,
+          "total_seconds": 2.0715,
+          "worker_started_at_utc": "2026-07-21T19:04:07.078079Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:09.149607Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bite_me_dangerous_de_639f7e",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9704,
+          "worker_duration_seconds": 2.0679,
+          "total_seconds": 2.0291,
+          "worker_started_at_utc": "2026-07-21T19:04:09.743564Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:11.772721Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3",
+          "level": 3,
+          "success": true,
+          "worker_pid": 9704,
+          "worker_duration_seconds": 2.0281,
+          "total_seconds": 1.9883,
+          "worker_started_at_utc": "2026-07-21T19:04:15.348464Z",
+          "worker_finished_at_utc": "2026-07-21T19:04:17.336750Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

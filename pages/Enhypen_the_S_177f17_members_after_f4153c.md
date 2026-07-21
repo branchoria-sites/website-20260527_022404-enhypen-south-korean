@@ -250,33 +250,33 @@ image: /assets/images/Enhypen_the_S_177f17_members_after_f4153c-overview-social.
 
 ## Introduction
 
-ENHYPEN are now officially a six-member group: Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. BELIFT LAB’s current profile lists only those six members and describes ENHYPEN as a six-member multinational boy group under the company, still rooted in the idea of “connecting” through music after their 2020 debut through *I-LAND*. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
+ENHYPEN are now officially a six-member group: Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. BELIFT LAB’s current profile lists only those six members and describes ENHYPEN as a six-member multinational boy group under the company, still rooted in the idea of “connecting” through music after their 2020 debut through *I-LAND*.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-overview.webp" | relative_url }}" alt="Overview image for Members Now" loading="eager" decoding="sync" fetchpriority="high">
-The change followed BELIFT LAB’s March 2026 announcement that Heeseung would leave ENHYPEN to prepare a solo album while remaining an artist under the label. The agency framed the decision as the result of discussions about the team’s future and Heeseung’s “distinct musical vision”, while saying ENHYPEN would continue official activities as six. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">NOTICE] ENHYPEN&#x27;s Future Activities</span><span class="citation-popover-snippet">NOTICE] ENHYPEN&#x27;s Future Activities</span></span></span> For fans, the practical question is not just “who is left?” but how the remaining members now carry the group’s vocals, performance identity, leadership, fan connection and long-term balance.
+The change followed BELIFT LAB’s March 2026 announcement that Heeseung would leave ENHYPEN to prepare a solo album while remaining an artist under the label. The agency framed the decision as the result of discussions about the team’s future and Heeseung’s “distinct musical vision”, while saying ENHYPEN would continue official activities as six.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">NOTICE] ENHYPEN&#x27;s Future Activities</span><span class="citation-popover-snippet">NOTICE] ENHYPEN&#x27;s Future Activities</span></span></span> For fans, the practical question is not just “who is left?” but how the remaining members now carry the group’s vocals, performance identity, leadership, fan connection and long-term balance.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U320XLE04vM" title="ENHYPEN IS 6 NOW? The Real Reason Heeseung Left" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U320XLE04vM" target="_blank" rel="noopener noreferrer">ENHYPEN IS 6 NOW? The Real Reason Heeseung Left</a></p><p class="youtube-embed-meta">Channel: Cristina Faye &middot; Views: 1.2K &middot; Uploaded: March 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U320XLE04vM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U320XLE04vM">Open on YouTube</a></p></div></div></div>
 
 ## The Current Six-Member Lineup
 
-The present ENHYPEN lineup is Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. BELIFT LAB’s profile gives their birthdays as Jungwon, 9 February 2004; Jay, 20 April 2002; Jake, 15 November 2002; Sunghoon, 8 December 2002; Sunoo, 24 June 2003; and Ni-ki, 9 December 2005. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> Weverse also identifies Jungwon as the group’s leader and Ni-ki as the youngest member, which matters because those two poles — Jungwon’s steadiness and Ni-ki’s performance-centred youth — still shape how the group reads on stage and in fan spaces. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span>
+The present ENHYPEN lineup is Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. BELIFT LAB’s profile gives their birthdays as Jungwon, 9 February 2004; Jay, 20 April 2002; Jake, 15 November 2002; Sunghoon, 8 December 2002; Sunoo, 24 June 2003; and Ni-ki, 9 December 2005.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> Weverse also identifies Jungwon as the group’s leader and Ni-ki as the youngest member, which matters because those two poles — Jungwon’s steadiness and Ni-ki’s performance-centred youth — still shape how the group reads on stage and in fan spaces.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span>
 
 The simplest way to understand the six-member formation is that ENHYPEN did not replace Heeseung; they reorganised around the members already central to the group’s public identity. That distinction matters. A replacement would invite a “new member” story. Instead, the current era asks fans to reassess familiar members under different pressure: more vocal distribution, different centre moments, altered formations and a stronger need for the existing members’ individual colours to be legible.
 
-The group’s official description also subtly changed the emotional framing. BELIFT LAB now explains the name ENHYPEN as six different boys connecting, discovering one another and growing together, rather than simply preserving the original seven-member symbolism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> That does not erase the group’s history, but it does show how the company is presenting the current lineup as complete in its own right.
+The group’s official description also subtly changed the emotional framing. BELIFT LAB now explains the name ENHYPEN as six different boys connecting, discovering one another and growing together, rather than simply preserving the original seven-member symbolism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span> That does not erase the group’s history, but it does show how the company is presenting the current lineup as complete in its own right.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-1-dark.svg" | relative_url }}" alt="Members Now illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Each Member Shapes ENHYPEN Now
 
-Jungwon’s role is the easiest to name and one of the hardest to replace: he remains the leader. In a six-member era that began with an emotional shock, his value is not only administrative. He represents continuity. Fans who followed ENHYPEN from *I-LAND* already know him as the member often associated with calm, precise leadership; after the lineup change, that steadiness becomes part of the group’s public reassurance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">NOTICE] ENHYPEN&#x27;s Future Activities</span><span class="citation-popover-snippet">NOTICE] ENHYPEN&#x27;s Future Activities</span></span></span>
+Jungwon’s role is the easiest to name and one of the hardest to replace: he remains the leader. In a six-member era that began with an emotional shock, his value is not only administrative. He represents continuity. Fans who followed ENHYPEN from *I-LAND* already know him as the member often associated with calm, precise leadership; after the lineup change, that steadiness becomes part of the group’s public reassurance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">NOTICE] ENHYPEN&#x27;s Future Activities</span><span class="citation-popover-snippet">NOTICE] ENHYPEN&#x27;s Future Activities</span></span></span>
 
-Jay and Jake now carry even more of ENHYPEN’s international-facing texture. Earlier profiles and interviews often highlighted Jay’s curiosity, musical interests and outward confidence, while Jake’s Australian background and easy English fluency have long helped the group feel accessible to global fans. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-title">who are enhypen members</span><span class="citation-popover-snippet">Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</span></span></span> In a six-member setup, those traits are not just personality notes; they help the group maintain a conversational, globally legible identity across interviews, tour stops and fan communication.
+Jay and Jake now carry even more of ENHYPEN’s international-facing texture. Earlier profiles and interviews often highlighted Jay’s curiosity, musical interests and outward confidence, while Jake’s Australian background and easy English fluency have long helped the group feel accessible to global fans.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-title">who are enhypen members</span><span class="citation-popover-snippet">Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</span></span></span> In a six-member setup, those traits are not just personality notes; they help the group maintain a conversational, globally legible identity across interviews, tour stops and fan communication.
 
-Sunghoon gives the lineup a different kind of recognisable anchor. His former figure-skating career has always shaped the way fans read his movement: controlled, polished, visually exact. In 2026, that athletic past became part of his public story again when he was selected as a Winter Olympics torchbearer, a role he described in interviews as emotionally meaningful because of his childhood skating ambitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">enhypen sunghoon winter olympics 2026 torchbearer interview</span><span class="citation-popover-snippet">Sunghoon also discusses the challenges of training for both figure skating and idol life, noting how each has informed the other—especial...</span></span></span> For ENHYPEN, Sunghoon’s appeal is not only “visual” in the shallow sense; it is the combination of elegance, discipline and stage line.
+Sunghoon gives the lineup a different kind of recognisable anchor. His former figure-skating career has always shaped the way fans read his movement: controlled, polished, visually exact. In 2026, that athletic past became part of his public story again when he was selected as a Winter Olympics torchbearer, a role he described in interviews as emotionally meaningful because of his childhood skating ambitions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">enhypen sunghoon winter olympics 2026 torchbearer interview</span><span class="citation-popover-snippet">Sunghoon also discusses the challenges of training for both figure skating and idol life, noting how each has informed the other—especial...</span></span></span> For ENHYPEN, Sunghoon’s appeal is not only “visual” in the shallow sense; it is the combination of elegance, discipline and stage line.
 
-Sunoo’s importance is more emotional and tonal. In a group known for darker concepts, vampire imagery and intense choreography, Sunoo often gives ENHYPEN brightness, expressiveness and a direct fan-facing warmth. Earlier member profiles described him as someone who grew from being more introverted into a more spontaneous performer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-title">who are enhypen members</span><span class="citation-popover-snippet">Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</span></span></span> After Heeseung’s departure, that warmth matters because the group’s challenge is not only technical redistribution but keeping the fan relationship from feeling cold or purely corporate.
+Sunoo’s importance is more emotional and tonal. In a group known for darker concepts, vampire imagery and intense choreography, Sunoo often gives ENHYPEN brightness, expressiveness and a direct fan-facing warmth. Earlier member profiles described him as someone who grew from being more introverted into a more spontaneous performer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-title">who are enhypen members</span><span class="citation-popover-snippet">Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</span></span></span> After Heeseung’s departure, that warmth matters because the group’s challenge is not only technical redistribution but keeping the fan relationship from feeling cold or purely corporate.
 
-Ni-ki remains central to ENHYPEN’s dance identity. Weverse identifies him as the youngest member, and fan-facing profiles widely frame him as the group’s main dance figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> In the six-member era, his role becomes even more visible because choreography has to be rebalanced: formations, transitions and centre points all change when a seven-member performance group becomes six. For a group whose reputation depends heavily on sharp, synchronised staging, Ni-ki is one of the clearest bridges between the old performance language and the new one.
+Ni-ki remains central to ENHYPEN’s dance identity. Weverse identifies him as the youngest member, and fan-facing profiles widely frame him as the group’s main dance figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> In the six-member era, his role becomes even more visible because choreography has to be rebalanced: formations, transitions and centre points all change when a seven-member performance group becomes six. For a group whose reputation depends heavily on sharp, synchronised staging, Ni-ki is one of the clearest bridges between the old performance language and the new one.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdRYBMwWBXA" title="ENHYPEN CONCERT &#x27;Go Big or Go Home + Future Perfect&#x27; 4K Fancam 직캠 | 엔하이픈 콘서트 &#x27;BLOOD SAGA&#x27; 260502" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdRYBMwWBXA" target="_blank" rel="noopener noreferrer">ENHYPEN CONCERT &#x27;Go Big or Go Home + Future Perfect&#x27; 4K Fancam 직캠 | 엔하이픈 콘서트 &#x27;BLOOD SAGA&#x27; 260502</a></p><p class="youtube-embed-meta">Channel: K-PLANET &middot; Views: 30.9K &middot; Uploaded: May 2026 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdRYBMwWBXA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdRYBMwWBXA">Open on YouTube</a></p></div></div></div>
 
@@ -284,26 +284,26 @@ Ni-ki remains central to ENHYPEN’s dance identity. Weverse identifies him as t
 
 The most obvious change is structural. ENHYPEN’s [stages]({{ 'stages/' | relative_url }}), line distributions and visual formations were built for seven members for more than five years. A six-member group creates different symmetry: no single middle member in many formations, more pairing, more diagonal blocking and a higher burden on each member to fill space. That is especially significant for ENHYPEN because the group’s appeal has always been tied to performance rather than only recorded music.
 
-The second change is vocal. Heeseung had been widely understood by fans and media as one of ENHYPEN’s strongest vocal centres, so his departure naturally changes how listeners hear choruses, bridges and climactic live parts. BELIFT LAB did not announce a new “main vocalist” or a formal reassignment of positions in the notice; it simply said ENHYPEN would continue as six while Heeseung prepared solo work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> That leaves fans to judge the new balance through releases, tour performances and redistributed parts rather than through a neat official role chart.
+The second change is vocal. Heeseung had been widely understood by fans and media as one of ENHYPEN’s strongest vocal centres, so his departure naturally changes how listeners hear choruses, bridges and climactic live parts. BELIFT LAB did not announce a new “main vocalist” or a formal reassignment of positions in the notice; it simply said ENHYPEN would continue as six while Heeseung prepared solo work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> That leaves fans to judge the new balance through releases, tour performances and redistributed parts rather than through a neat official role chart.
 
-The third change is emotional. Yonhap reported that Heeseung thanked his bandmates and fans in a separate statement and said he was preparing an album for his solo debut. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.yna.co.kr/view/AEN20260310008800315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.yna.co.kr">[Yonhap News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.yna.co.kr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Teen Vogue similarly reported that he had expressed gratitude and apologies to fans while explaining that he had been working on personal projects and would focus on solo activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">enhypen sunghoon winter olympics 2026 torchbearer interview</span><span class="citation-popover-snippet">Sunghoon also discusses the challenges of training for both figure skating and idol life, noting how each has informed the other—especial...</span></span></span> For fans, that creates a complicated split: supporting ENHYPEN as six does not necessarily mean losing interest in Heeseung, and supporting Heeseung’s solo career does not require treating the remaining members as diminished.
+The third change is emotional. Yonhap reported that Heeseung thanked his bandmates and fans in a separate statement and said he was preparing an album for his solo debut.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.yna.co.kr/view/AEN20260310008800315" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.yna.co.kr">[Yonhap News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.yna.co.kr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Teen Vogue similarly reported that he had expressed gratitude and apologies to fans while explaining that he had been working on personal projects and would focus on solo activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">enhypen sunghoon winter olympics 2026 torchbearer interview</span><span class="citation-popover-snippet">Sunghoon also discusses the challenges of training for both figure skating and idol life, noting how each has informed the other—especial...</span></span></span> For fans, that creates a complicated split: supporting ENHYPEN as six does not necessarily mean losing interest in Heeseung, and supporting Heeseung’s solo career does not require treating the remaining members as diminished.
 
-The fourth change is practical fandom behaviour. BELIFT LAB’s March notice asked for continued support for both ENHYPEN and Heeseung, but the reaction was not calm or uniform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> Forbes reported that more than one million fans signed a petition asking for Heeseung to pursue solo music without leaving ENHYPEN, and later coverage noted BELIFT LAB’s reaffirmation that he would not return to the group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/jeffbenjamin/2026/03/11/over-1-million-sign-petition-for-heeseung-to-pursue-solo-music-without-enhypen-exit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Open source on forbes.com.</span></span></span> That dispute matters because it shows the core tension of the transition: the company presented the change as a future-facing arrangement, while many fans initially read it as a rupture in the group they had followed since debut.
+The fourth change is practical fandom behaviour. BELIFT LAB’s March notice asked for continued support for both ENHYPEN and Heeseung, but the reaction was not calm or uniform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> Forbes reported that more than one million fans signed a petition asking for Heeseung to pursue solo music without leaving ENHYPEN, and later coverage noted BELIFT LAB’s reaffirmation that he would not return to the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.forbes.com/sites/jeffbenjamin/2026/03/11/over-1-million-sign-petition-for-heeseung-to-pursue-solo-music-without-enhypen-exit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Open source on forbes.com.</span></span></span> That dispute matters because it shows the core tension of the transition: the company presented the change as a future-facing arrangement, while many fans initially read it as a rupture in the group they had followed since debut.
 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-2-dark.svg" | relative_url }}" alt="Members Now illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Six-Member Balance Still Works
 
 The strongest argument for the six-member ENHYPEN is that the group already had several distinct centres of gravity before the change. Jungwon was not suddenly made important by the departure; he was already leader. Ni-ki was not newly asked to dance; he was already one of the defining performers. Sunghoon’s polished movement, Sunoo’s expressiveness, Jay’s presence and Jake’s international accessibility were already part of the group’s appeal. The six-member era concentrates those traits rather than inventing them from nothing.
 
-There is also a clean narrative advantage. Because Heeseung remains with BELIFT LAB as a solo artist, the story is not a hostile label split in the usual sense. BELIFT LAB’s notice positioned both sides as beginning a “new chapter”, and its separate EVAN profile describes Heeseung’s solo identity as a new artistic phase after debuting in 2020 as HEESEUNG of ENHYPEN. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> Fans may still disagree with the decision, but the official structure allows both ENHYPEN and Heeseung to keep moving under the same company umbrella.
+There is also a clean narrative advantage. Because Heeseung remains with BELIFT LAB as a solo artist, the story is not a hostile label split in the usual sense. BELIFT LAB’s notice positioned both sides as beginning a “new chapter”, and its separate EVAN profile describes Heeseung’s solo identity as a new artistic phase after debuting in 2020 as HEESEUNG of ENHYPEN.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span> Fans may still disagree with the decision, but the official structure allows both ENHYPEN and Heeseung to keep moving under the same company umbrella.
 
-The bigger test is not whether six members can stand on stage together; clearly they can. The test is whether future songs, performances and promotions make the six-member version feel intentionally arranged rather than merely edited down from seven. The most promising signs are practical ones: Weverse’s current ENHYPEN area lists six active artist profiles and current notices for the group’s tour and fan chant, suggesting that the fan-facing machinery has already been updated around the new lineup. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span>
+The bigger test is not whether six members can stand on stage together; clearly they can. The test is whether future songs, performances and promotions make the six-member version feel intentionally arranged rather than merely edited down from seven. The most promising signs are practical ones: Weverse’s current ENHYPEN area lists six active artist profiles and current notices for the group’s tour and fan chant, suggesting that the fan-facing machinery has already been updated around the new lineup.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">ENHYPEN Community Highlight</span><span class="citation-popover-snippet">ENHYPEN Community Highlight</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5e2lZcYFAfw" title="Every ENHYPEN Member Explained in 16 Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5e2lZcYFAfw" target="_blank" rel="noopener noreferrer">Every ENHYPEN Member Explained in 16 Minutes</a></p><p class="youtube-embed-meta">Channel: Kpop in Minutes &middot; Views: 99.8K &middot; Uploaded: November 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5e2lZcYFAfw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5e2lZcYFAfw">Open on YouTube</a></p></div></div></div>
 
 ## How Fans Can Read This Era Without Erasing the Past
 
-The fairest way to talk about ENHYPEN now is to hold two truths at once. First, Heeseung was a founding member, and his departure changed the group’s sound, stage geometry and emotional history. Second, the current ENHYPEN is not a placeholder version waiting to be explained by what is missing. It is the official six-member group of Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki. <span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
+The fairest way to talk about ENHYPEN now is to hold two truths at once. First, Heeseung was a founding member, and his departure changed the group’s sound, stage geometry and emotional history. Second, the current ENHYPEN is not a placeholder version waiting to be explained by what is missing. It is the official six-member group of Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-ki.<span class="citation-chip-wrap"><a class="citation-chip" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
 That distinction helps avoid two common fan traps. One is pretending nothing changed, which ignores why the announcement hurt so many people. The other is reducing the remaining members to a damaged lineup, which misses how much of ENHYPEN’s identity was always distributed across leadership, dance, visual performance, fan communication and global reach.
 
@@ -312,194 +312,194 @@ For a new or returning fan, the best entry point is to watch the six members as 
 <img src="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-3-dark.svg" | relative_url }}" alt="Members Now illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_S_177f17_members_after_f4153c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Is in ENHYPEN Now?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Is in ENHYPEN Now?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Croft</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: The Ultimate Fan Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SP5aEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: The Ultimate Fan Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: The Ultimate Fan Book">K-Pop: The Ultimate Fan Book</a>
+</h4>
+<p class="fr-book-author">By Malcolm Croft</p>
         
-        <p class="fr-book-desc">Fits readers trying to understand ENHYPEN’s place within modern idol-group culture and fandom.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits readers trying to understand ENHYPEN’s place within modern idol-group culture and fandom.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+The+Ultimate+Fan+Book+by+Malcolm+Croft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond the Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjvFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Beyond the Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the Story">Beyond the Story</a>
-        </h4>
-        <p class="fr-book-author">By BTS, Myeongseok Kang</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond the Story on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjvFEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Beyond the Story" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the Story">Beyond the Story</a>
+</h4>
+<p class="fr-book-author">By BTS, Myeongseok Kang</p>
         
-        <p class="fr-book-desc">Readers interested in ENHYPEN often also buy broader HYBE and K-pop industry books.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Readers interested in ENHYPEN often also buy broader HYBE and K-pop industry books.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Beyond+the+Story+by+BTS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
-        </h4>
-        <p class="fr-book-author">By Stephan Lee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Confidential on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5my_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-pop Confidential" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Confidential">K-pop Confidential</a>
+</h4>
+<p class="fr-book-author">By Stephan Lee</p>
         
-        <p class="fr-book-desc">Captures trainee pressure, idol identity and group dynamics relevant to ENHYPEN discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures trainee pressure, idol identity and group dynamics relevant to ENHYPEN discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Confidential+by+Stephan+Lee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
-        </h4>
-        <p class="fr-book-author">By Jessica Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xi9qEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Shine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shine">Shine</a>
+</h4>
+<p class="fr-book-author">By Jessica Jung</p>
         
-        <p class="fr-book-desc">Explores the emotional and commercial realities behind K-pop group careers and transitions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the emotional and commercial realities behind K-pop group careers and transitions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shine+by+Jessica+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the Story</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+The+Ultimate+Fan+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: The Ultimate Fan Book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+Story&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the Story</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Confidential&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Confidential</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Sunghoon 4 Photocard Set Coquette Style Fanmade ♡"><img src="https://i.ebayimg.com/images/g/al4AAeSwKQRo8iRq/s-l225.jpg" alt="Listing image for Enhypen Sunghoon 4 Photocard Set Coquette Style Fanmade ♡" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">Enhypen Sunghoon 4 Photocard Set Coquette Style Fanmade ♡</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen Sunghoon 4 Photocard Set Coquette Style Fanmade ♡"><img src="https://i.ebayimg.com/images/g/al4AAeSwKQRo8iRq/s-l225.jpg" alt="Listing image for Enhypen Sunghoon 4 Photocard Set Coquette Style Fanmade ♡" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">Enhypen Sunghoon 4 Photocard Set Coquette Style Fanmade ♡</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen 7 Photocard Set Album The Sin : Vanish Official Weverse Ver"><img src="https://i.ebayimg.com/images/g/c2oAAeSwd5ppnb6f/s-l225.jpg" alt="Listing image for Enhypen 7 Photocard Set Album The Sin : Vanish Official Weverse Ver" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">Enhypen 7 Photocard Set Album The Sin : Vanish Official Weverse Ver</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Enhypen 7 Photocard Set Album The Sin : Vanish Official Weverse Ver"><img src="https://i.ebayimg.com/images/g/c2oAAeSwd5ppnb6f/s-l225.jpg" alt="Listing image for Enhypen 7 Photocard Set Album The Sin : Vanish Official Weverse Ver" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">Enhypen 7 Photocard Set Album The Sin : Vanish Official Weverse Ver</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7pcs/Set ENHYPEN DESIRE UNLEASH Self Made Photo cards HD Photocard OUTSIDE K4"><img src="https://i.ebayimg.com/images/g/pzwAAeSwZTVoY-xY/s-l225.jpg" alt="Listing image for 7pcs/Set ENHYPEN DESIRE UNLEASH Self Made Photo cards HD Photocard OUTSIDE K4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">7pcs/Set ENHYPEN DESIRE UNLEASH Self Made Photo cards HD Photocard OUTSIDE K4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7pcs/Set ENHYPEN DESIRE UNLEASH Self Made Photo cards HD Photocard OUTSIDE K4"><img src="https://i.ebayimg.com/images/g/pzwAAeSwZTVoY-xY/s-l225.jpg" alt="Listing image for 7pcs/Set ENHYPEN DESIRE UNLEASH Self Made Photo cards HD Photocard OUTSIDE K4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">7pcs/Set ENHYPEN DESIRE UNLEASH Self Made Photo cards HD Photocard OUTSIDE K4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7pcs/Set ENHYPEN JAPAN Membership Self Made Photo cards HD Photocard"><img src="https://i.ebayimg.com/images/g/1JUAAeSwzMRpaNS7/s-l225.jpg" alt="Listing image for 7pcs/Set ENHYPEN JAPAN Membership Self Made Photo cards HD Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">7pcs/Set ENHYPEN JAPAN Membership Self Made Photo cards HD Photocard</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search <span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 7pcs/Set ENHYPEN JAPAN Membership Self Made Photo cards HD Photocard"><img src="https://i.ebayimg.com/images/g/1JUAAeSwzMRpaNS7/s-l225.jpg" alt="Listing image for 7pcs/Set ENHYPEN JAPAN Membership Self Made Photo cards HD Photocard" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">7pcs/Set ENHYPEN JAPAN Membership Self Made Photo cards HD Photocard</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ENHYPEN photocard set">Search<span data-ebay-domain-label>eBay.co.uk</span>: ENHYPEN photocard set</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ENHYPEN+photocard+set&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-is-in-enhypen-now-enhypen-photocard-set&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ENHYPEN photocard set" data-ebay-reference="who-is-in-enhypen-now-enhypen-photocard-set" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ For a new or returning fan, the best entry point is to watch the six members as 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ For a new or returning fan, the best entry point is to watch the six members as 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ For a new or returning fan, the best entry point is to watch the six members as 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ For a new or returning fan, the best entry point is to watch the six members as 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ For a new or returning fan, the best entry point is to watch the six members as 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,143 +705,143 @@ For a new or returning fan, the best entry point is to watch the six members as 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: weverse.io  
    Title: [NOTICE] ENHYPEN's Future Activities  
-   Link: <a href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/34159</a>  
+   Link:<a href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/notice/34159</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: weverse.io  
    Title: ENHYPEN Community Highlight  
-   Link: <a href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/highlight</a>  
+   Link:<a href="https://weverse.io/enhypen/highlight" target="_blank" rel="noopener noreferrer nofollow">https://weverse.io/enhypen/highlight</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: elle.com  
    Title: who are enhypen members  
-   Link: <a href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</p></details>
+   Link:<a href="https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/" target="_blank" rel="noopener noreferrer nofollow">https://www.elle.com/culture/music/a69979808/who-are-enhypen-members/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jungwon, the leader, emphasized their development during global tours and their artistic involvement in performances. Heeseung recently p...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: people.com  
-   Link: <a href="https://people.com/enhypen-sunghoon-2026-winter-olympics-torchbearer-exclusive-photos-11908430" target="_blank" rel="noopener noreferrer nofollow">https://people.com/enhypen-sunghoon-2026-winter-olympics-torchbearer-exclusive-photos-11908430</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In the interview, Sunghoon discusses his emotional Olympic experience, including supporting Team Korea and reminiscing about his skating...</p></details>
+   Link:<a href="https://people.com/enhypen-sunghoon-2026-winter-olympics-torchbearer-exclusive-photos-11908430" target="_blank" rel="noopener noreferrer nofollow">https://people.com/enhypen-sunghoon-2026-winter-olympics-torchbearer-exclusive-photos-11908430</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the interview, Sunghoon discusses his emotional Olympic experience, including supporting Team Korea and reminiscing about his skating...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/jeffbenjamin/2026/03/11/over-1-million-sign-petition-for-heeseung-to-pursue-solo-music-without-enhypen-exit/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jeffbenjamin/2026/03/11/over-1-million-sign-petition-for-heeseung-to-pursue-solo-music-without-enhypen-exit/</a>  
+   Link:<a href="https://www.forbes.com/sites/jeffbenjamin/2026/03/11/over-1-million-sign-petition-for-heeseung-to-pursue-solo-music-without-enhypen-exit/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jeffbenjamin/2026/03/11/over-1-million-sign-petition-for-heeseung-to-pursue-solo-music-without-enhypen-exit/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/</a>  
+   Link:<a href="https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/hannahabraham/2026/03/15/belift-lab-reaffirms-enhypens-heeseung-will-not-return-despite-1-million-petition-signatures/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: change.org  
    Title: urge belift lab to reinstate heeseung in enhypen  
-   Link: <a href="https://www.change.org/p/urge-belift-lab-to-reinstate-heeseung-in-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.change.org/p/urge-belift-lab-to-reinstate-heeseung-in-enhypen</a>  
+   Link:<a href="https://www.change.org/p/urge-belift-lab-to-reinstate-heeseung-in-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.change.org/p/urge-belift-lab-to-reinstate-heeseung-in-enhypen</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: enhypen.fandom.com  
-   Link: <a href="https://enhypen.fandom.com/wiki/Heeseung" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/Heeseung</a>  
+   Link:<a href="https://enhypen.fandom.com/wiki/Heeseung" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/Heeseung</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: beliftlab.com  
    Title: BELIFT LAB빌리프랩 | BELIFT LAB  
-   Link: <a href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/ENHYPEN</a>  
+   Link:<a href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/ENHYPEN</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.yna.co.kr  
-   Link: <a href="https://en.yna.co.kr/view/AEN20260310008800315" target="_blank" rel="noopener noreferrer nofollow">https://en.yna.co.kr/view/AEN20260310008800315</a>  
+   Link:<a href="https://en.yna.co.kr/view/AEN20260310008800315" target="_blank" rel="noopener noreferrer nofollow">https://en.yna.co.kr/view/AEN20260310008800315</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: teenvogue.com  
    Title: enhypen sunghoon winter olympics 2026 torchbearer interview  
-   Link: <a href="https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunghoon also discusses the challenges of training for both figure skating and idol life, noting how each has informed the other—especial...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-sunghoon-winter-olympics-2026-torchbearer-interview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sunghoon also discusses the challenges of training for both figure skating and idol life, noting how each has informed the other—especial...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: teenvogue.com  
    Title: heeseung is leaving enhypen  
-   Link: <a href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/heeseung-is-leaving-enhypen</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</p></details>
+   Link:<a href="https://www.teenvogue.com/story/heeseung-is-leaving-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/heeseung-is-leaving-enhypen</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Heeseung expressed his gratitude and apologies to fans in a handwritten letter on Weverse, explaining that he had been working on persona...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: beliftlab.com  
-   Link: <a href="https://beliftlab.com/artist/profile/EVAN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/EVAN</a>  
+   Link:<a href="https://beliftlab.com/artist/profile/EVAN" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/profile/EVAN</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVskuW3jAcp/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVskuW3jAcp/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DVskuW3jAcp/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVskuW3jAcp/?hl=en</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpop/comments/1rud1co/belift_lab_reaffirms_heeseung_will_not_return_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1rud1co/belift_lab_reaffirms_heeseung_will_not_return_to/</a>  
+   Link:<a href="https://www.reddit.com/r/kpop/comments/1rud1co/belift_lab_reaffirms_heeseung_will_not_return_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1rud1co/belift_lab_reaffirms_heeseung_will_not_return_to/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheRealTruthSlaps/posts/belift-lab-shared-a-new-statement-regarding-heeseungs-departure-from-enhypenwe-c/1334532668709249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheRealTruthSlaps/posts/belift-lab-shared-a-new-statement-regarding-heeseungs-departure-from-enhypenwe-c/1334532668709249/</a>  
+   Link:<a href="https://www.facebook.com/TheRealTruthSlaps/posts/belift-lab-shared-a-new-statement-regarding-heeseungs-departure-from-enhypenwe-c/1334532668709249/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheRealTruthSlaps/posts/belift-lab-shared-a-new-statement-regarding-heeseungs-departure-from-enhypenwe-c/1334532668709249/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/mtvuk/videos/belift-lab-have-released-a-statement-following-heeseungs-departure-from-enhypen-/1550360726055042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mtvuk/videos/belift-lab-have-released-a-statement-following-heeseungs-departure-from-enhypen-/1550360726055042/</a>  
+   Link:<a href="https://www.facebook.com/mtvuk/videos/belift-lab-have-released-a-statement-following-heeseungs-departure-from-enhypen-/1550360726055042/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mtvuk/videos/belift-lab-have-released-a-statement-following-heeseungs-departure-from-enhypen-/1550360726055042/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Enhypen" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Enhypen</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: teenvogue.com  
    Title: enhypen members talk sacrifices songwriting favorite karaoke songs interview  
-   Link: <a href="https://www.teenvogue.com/story/enhypen-members-talk-sacrifices-songwriting-favorite-karaoke-songs-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-members-talk-sacrifices-songwriting-favorite-karaoke-songs-interview</a>  
+   Link:<a href="https://www.teenvogue.com/story/enhypen-members-talk-sacrifices-songwriting-favorite-karaoke-songs-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.teenvogue.com/story/enhypen-members-talk-sacrifices-songwriting-favorite-karaoke-songs-interview</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: soompi.com  
    Title: belift lab reaffirms heeseung is not returning to enhypen  
-   Link: <a href="https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen</a>  
+   Link:<a href="https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1825105wpp/belift-lab-reaffirms-heeseung-is-not-returning-to-enhypen</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: ENHYPEN's Heeseung to Leave Group, Saying He Will Continue as a Six-Member Group  
-   Link: <a href="https://www.youtube.com/watch?v=Rm0sAw9ewv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rm0sAw9ewv0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN CONCERT &#x27;Go Big or Go Home + Future Perfect&#x27; 4K Fancam 직캠 | 엔하이픈 콘서트 &#x27;BLOOD SAGA&#x27; 260502...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Rm0sAw9ewv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Rm0sAw9ewv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN CONCERT &#x27;Go Big or Go Home + Future Perfect&#x27; 4K Fancam 직캠 | 엔하이픈 콘서트 &#x27;BLOOD SAGA&#x27; 260502...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=c2ihvPmCXOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c2ihvPmCXOs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Heeseung to Leave Group, Saying He Will Continue as a Six-Member Group...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=c2ihvPmCXOs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c2ihvPmCXOs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN&#x27;s Heeseung to Leave Group, Saying He Will Continue as a Six-Member Group...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: ENHYPEN IS 6 NOW? The Real Reason Heeseung Left  
-   Link: <a href="https://www.youtube.com/watch?v=U320XLE04vM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U320XLE04vM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] ENHYPEN&#x27;s First Appearance as 6 Members! Blinded by Flashes at PRADA Photo Wall...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U320XLE04vM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U320XLE04vM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[4K] ENHYPEN&#x27;s First Appearance as 6 Members! Blinded by Flashes at PRADA Photo Wall...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tdRYBMwWBXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tdRYBMwWBXA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Every ENHYPEN Member Explained in 16 Minutes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tdRYBMwWBXA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tdRYBMwWBXA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Every ENHYPEN Member Explained in 16 Minutes...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVxrssnjq2W/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVxrssnjq2W/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/p/DVxrssnjq2W/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVxrssnjq2W/?hl=en</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: kpopping.com  
-   Link: <a href="https://kpopping.com/profiles/group/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://kpopping.com/profiles/group/ENHYPEN</a>  
+   Link:<a href="https://kpopping.com/profiles/group/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow">https://kpopping.com/profiles/group/ENHYPEN</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: enhypenguide.com  
-   Link: <a href="https://www.enhypenguide.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.enhypenguide.com/</a>  
+   Link:<a href="https://www.enhypenguide.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.enhypenguide.com/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/kpop/comments/1rr05qi/enhypen_label_belift_lab_says_heeseungs_exit_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1rr05qi/enhypen_label_belift_lab_says_heeseungs_exit_is/</a>  
+   Link:<a href="https://www.reddit.com/r/kpop/comments/1rr05qi/enhypen_label_belift_lab_says_heeseungs_exit_is/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/kpop/comments/1rr05qi/enhypen_label_belift_lab_says_heeseungs_exit_is/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/525183416/Facts-100" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/525183416/Facts-100</a>  
+   Link:<a href="https://www.scribd.com/document/525183416/Facts-100" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/525183416/Facts-100</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/sunstardavaonews/posts/enhypen-starts-anew-as-sixk-pop-group-enhypen-recently-changed-their-group-photo/1424475689720642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunstardavaonews/posts/enhypen-starts-anew-as-sixk-pop-group-enhypen-recently-changed-their-group-photo/1424475689720642/</a>
+   Link:<a href="https://www.facebook.com/sunstardavaonews/posts/enhypen-starts-anew-as-sixk-pop-group-enhypen-recently-changed-their-group-photo/1424475689720642/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/sunstardavaonews/posts/enhypen-starts-anew-as-sixk-pop-group-enhypen-recently-changed-their-group-photo/1424475689720642/</a>

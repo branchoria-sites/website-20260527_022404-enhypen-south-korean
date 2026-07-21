@@ -1,53 +1,83 @@
 sidebar_generated:
 - title: ENHYPEN
-  title_full: Why ENHYPEN's Eras Keep Fans Watching
+  title_full: How ENHYPEN Turned Desire Into Pop Mythology
   url: /enhypen-the-south-korean-band/
   children:
-  - title: Members Now
-    title_full: Who Is in ENHYPEN Now?
-    url: /members-now/
+  - title: Choreography
+    title_full: What Makes ENHYPEN's Choreography So Distinctive?
+    url: /choreography/
     children:
-    - title: Stage changes
-      title_full: How Does Six Member ENHYPEN Move Onstage?
-      url: /stage-changes/
-      children:
-      - title: Ni ki bridge
-        title_full: Why Ni ki matters more in six member stages
-        url: /ni-ki-bridge/
-      - title: Pair work
-        title_full: How pair work changes ENHYPEN's stage picture
-        url: /pair-work/
-    - title: Vocal balance
-      title_full: Who Carries ENHYPEN's Vocals Now?
-      url: /vocal-balance/
-      children:
-      - title: Live Changes
-        title_full: What Sounds Different in Six Member Performances?
-        url: /live-changes/
-      - title: Vocal Axis
-        title_full: Can Jungwon and Sunoo Carry the New Sound?
-        url: /vocal-axis/
-  - title: Stages
-    title_full: Why ENHYPEN's Stages Matter So Much
-    url: /stages/
+    - title: Dance Practice
+      title_full: What ENHYPEN's Dance Practices Reveal About Precision | Choreography
+      url: /dance-practice/
+    - title: Floorwork
+      title_full: Why ENHYPEN's Floorwork Changes the Story | Choreography
+      url: /floorwork/
+    - title: Future Perfect
+      title_full: How Future Perfect Made ENHYPEN Move Differently | Choreography
+      url: /future-perfect/
+  - title: Eras
+    title_full: How ENHYPEN's Eras Connect Into One Story
+    url: /eras/
     children:
-    - title: Bite Me stage
-      title_full: Why Bite Me choreography became such a debate
-      url: /bite-me-stage/
-      children:
-      - title: Fan protests
-        title_full: How fans changed the Bite Me stage
-        url: /fan-protests/
-      - title: Original staging
-        title_full: Why the Bite Me partner dance worked
-        url: /original-staging/
-    - title: Stadium tour
-      title_full: How WALK THE LINE made ENHYPEN bigger
-      url: /stadium-tour/
-      children:
-      - title: Goyang Launch
-        title_full: Why Goyang Stadium Changed the Tour
-        url: /goyang-launch/
-      - title: Stage Layout
-        title_full: How the Stage Reached More Fans
-        url: /stage-layout/
+    - title: Bite Me
+      title_full: Why Bite Me Makes Love Feel Dangerous | Eras
+      url: /bite-me/
+    - title: Blessed Cursed
+      title_full: When ENHYPEN Rejected the Correct Path | Eras
+      url: /blessed-cursed/
+    - title: Given Taken
+      title_full: Why ENHYPEN's Debut Felt Like a Threshold | Eras
+      url: /given-taken/
+  - title: Essential Songs
+    title_full: Which Songs Best Explain ENHYPEN's Appeal?
+    url: /essential-songs/
+    children:
+    - title: Controlled Chaos
+      title_full: Why ENHYPEN's Chaos Always Looks Precise | Essential Songs
+      url: /controlled-chaos/
+    - title: Drunk Dazed
+      title_full: Why Drunk Dazed Makes Fame Feel Dangerous | Essential Songs
+      url: /drunk-dazed/
+    - title: FEVER
+      title_full: How FEVER Made Restraint Feel Overwhelming | Essential Songs
+      url: /fever/
+  - title: Members
+    title_full: Who Does What in ENHYPEN Now?
+    url: /members/
+    children:
+    - title: Member Contrast
+      title_full: How ENHYPEN's Members Change a Song's Mood
+      url: /member-contrast/
+    - title: Performance Axis
+      title_full: Why Jungwon and Ni Ki Anchor ENHYPEN | Members
+      url: /performance-axis/
+    - title: Post Heeseung Roles
+      title_full: How ENHYPEN Rebuilt Its Six Member Performance | Members
+      url: /post-heeseung-roles/
+  - title: Origins
+    title_full: How I LAND Built ENHYPEN's Fan Connection
+    url: /origins/
+    children:
+    - title: ENGENE Name
+      title_full: How ENGENE Made Connection the Group's Identity | Origins
+      url: /engene-name/
+    - title: Final Lineup
+      title_full: How Much Did Fans Really Choose ENHYPEN? | Origins
+      url: /final-lineup/
+    - title: Pre Debut Bond
+      title_full: Why ENGENE Felt Connected Before Debut | Origins
+      url: /pre-debut-bond/
+  - title: Vampire Lore
+    title_full: Why ENHYPEN's Vampire Story Still Works
+    url: /vampire-lore/
+    children:
+    - title: Blood Memory
+      title_full: Why Blood Remembers What Dark Moon Characters Forget | Vampire Lore
+      url: /blood-memory/
+    - title: Mortal Love
+      title_full: Why Mortality Matters in ENHYPEN's Orange Blood | Vampire Lore
+      url: /mortal-love/
+    - title: Two Moons
+      title_full: 'Which Love Is Real in Dark Moon: Two Moons? | Vampire Lore'
+      url: /two-moons/
