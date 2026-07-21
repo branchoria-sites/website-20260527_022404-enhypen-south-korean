@@ -475,14 +475,14 @@ Seen through uninterrupted rehearsal footage, these small adjustments accumulate
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Making Dances on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Making Dances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/900883-M.jpg" alt="Cover for The Art of Making Dances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
 <a href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Making Dances">The Art of Making Dances</a>
 </h4>
 <p class="fr-book-author">By Doris Humphrey</p>
         
-        
+<p class="fr-book-desc">First published 1959. Subjects: Choreography, Modern dance.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

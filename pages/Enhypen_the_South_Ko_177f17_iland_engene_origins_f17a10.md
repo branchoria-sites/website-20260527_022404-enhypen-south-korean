@@ -470,16 +470,16 @@ That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Companion to K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Companion to K-Pop">The Cambridge Companion to K-Pop</a>
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
 </h4>
-<p class="fr-book-author">By JungBong Choi and Roald Maliangkay</p>
+<p class="fr-book-author">By Nir Eyal</p>
         
-        
+<p class="fr-book-desc">First published 2019. Subjects: Business.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
