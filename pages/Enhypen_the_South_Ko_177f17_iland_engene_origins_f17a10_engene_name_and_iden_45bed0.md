@@ -371,50 +371,16 @@ That distinction continues to shape how ENHYPEN presents its relationship with f
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk+Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Live: Fans, Idols, and Multimedia Performance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-Pop Live: Fans, Idols, and Multimedia Performance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Textual+Poachers+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Textual Poachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y20hBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Textual Poachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk+Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Live: Fans, Idols, and Multimedia Performance">K-Pop Live: Fans, Idols, and Multimedia Performance</a>
-</h4>
-<p class="fr-book-author">By Suk-Young Kim</p>
-        
-<p class="fr-book-desc">1990s South Korea saw the transition from a military dictatorship to a civilian government, from a manufacturing economy to a postindustr...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk+Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
-</h4>
-<p class="fr-book-author">By John Lie</p>
-        
-<p class="fr-book-desc">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea seeks at once to describe and explain the emergence of exp...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Textual Poachers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y20hBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Textual Poachers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Textual Poachers">Textual Poachers</a>
+<a href="https://www.amazon.com/s?k=Textual+Poachers+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Textual Poachers">Textual Poachers</a>
 </h4>
 <p class="fr-book-author">By Henry Jenkins</p>
         
 <p class="fr-book-desc">The twentieth anniversary edition of Henry Jenkins’s Textual Poachers brings this now-canonical text to a new generation of students inte...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Textual+Poachers+by+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Textual+Poachers+Henry+Jenkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -422,16 +388,50 @@ That distinction continues to shape how ENHYPEN presents its relationship with f
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Companion to K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Companion to K-Pop">The Cambridge Companion to K-Pop</a>
+<a href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
+</h4>
+<p class="fr-book-author">By Suk-Young Kim</p>
+        
+<p class="fr-book-desc">1990s South Korea saw the transition from a military dictatorship to a civilian government, from a manufacturing economy to a postindustr...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fans+Cornel+Sandvoss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fans on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/483252-M.jpg" alt="Cover for Fans" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fans+Cornel+Sandvoss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fans">Fans</a>
+</h4>
+<p class="fr-book-author">By Cornel Sandvoss</p>
+        
+<p class="fr-book-desc">First published 2005. Subjects: Fans (persons).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fans+Cornel+Sandvoss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Companion to K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Companion to K-Pop">The Cambridge Companion to K-Pop</a>
 </h4>
 <p class="fr-book-author">By JungBong Choi and Roald Maliangkay</p>
         
         
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -439,7 +439,7 @@ That distinction continues to shape how ENHYPEN presents its relationship with f
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop Live: Fans, Idols, and Multimedia Performance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Textual+Poachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Textual Poachers</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Textual+Poachers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Textual Poachers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fans</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

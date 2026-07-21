@@ -410,23 +410,6 @@ Within the sequence of songs that best explain ENHYPEN, “FEVER” is therefore
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment+Jack+Morin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/42749-M.jpg" alt="Cover for The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment+Jack+Morin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment">The Erotic Mind: Unlocking the Inner Sources of Passion and F...</a>
-</h4>
-<p class="fr-book-author">By Jack Morin</p>
-        
-<p class="fr-book-desc">First published 1995. Subjects: Sex (Psychology), Sexual excitement, Long Now Manual for Civilization, Sex (psychology), Erotica.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment+Jack+Morin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Dance%3A+Fandoming+Yourself+on+Social+Media+Chuyun+Oh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Dance: Fandoming Yourself on Social Media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14047110-M.jpg" alt="Cover for K-pop Dance: Fandoming Yourself on Social Media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -442,9 +425,26 @@ Within the sequence of songs that best explain ENHYPEN, “FEVER” is therefore
 </div>
 </div>
 </article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment+Jack+Morin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/42749-M.jpg" alt="Cover for The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment+Jack+Morin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment">The Erotic Mind: Unlocking the Inner Sources of Passion and F...</a>
+</h4>
+<p class="fr-book-author">By Jack Morin</p>
+        
+<p class="fr-book-desc">First published 1995. Subjects: Sex (Psychology), Sexual excitement, Long Now Manual for Civilization, Sex (psychology), Erotica.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment+Jack+Morin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Loving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Loving</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Dance%3A+Fandoming+Yourself+on+Social+Media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Dance: Fandoming Yourself on Social Media</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Loving&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Loving</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Dance%3A+Fandoming+Yourself+on+Social+Media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Dance: Fandoming Yourself on Social Media</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Erotic+Mind%3A+Unlocking+the+Inner+Sources+of+Passion+and+Fulfillment&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Erotic Mind: Unlocking the Inner Sources of Passion and Fulfillment</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

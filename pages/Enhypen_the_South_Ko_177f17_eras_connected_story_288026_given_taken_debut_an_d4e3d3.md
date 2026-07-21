@@ -381,23 +381,6 @@ For that reason, *Given-Taken* remains one of the most important chapters in ENH
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Now!: The Korean Music Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=etDZAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Now!: The Korean Music Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Now!: The Korean Music Revolution">K-Pop Now!: The Korean Music Revolution</a>
-</h4>
-<p class="fr-book-author">By Mark James Russell</p>
-        
-<p class="fr-book-desc">&quot;This is the book on K-pop everybody has been waiting for.…A must-read!&quot; --Charlotte Naudin, PR Manager, Torpedo Productions K-Pop Now! e...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hero with a Thousand Faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/443668-M.jpg" alt="Cover for The Hero with a Thousand Faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -408,6 +391,23 @@ For that reason, *Given-Taken* remains one of the most important chapters in ENH
 <p class="fr-book-desc">First published 1949. Subjects: Mythology, Psychoanalysis, Mythologie, Helden (personen), Psychanalyse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-POP+Now%21+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-POP Now! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=etDZAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-POP Now!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-POP+Now%21+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-POP Now!">K-POP Now!</a>
+</h4>
+<p class="fr-book-author">By Mark James Russell</p>
+        
+<p class="fr-book-desc">&quot;This is the book on K-pop everybody has been waiting for.…A must-read!&quot; --Charlotte Naudin, PR Manager, Torpedo Productions K-Pop Now! e...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-POP+Now%21+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -449,7 +449,7 @@ For that reason, *Given-Taken* remains one of the most important chapters in ENH
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop Now!: The Korean Music Revolution</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hero with a Thousand Faces</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hero with a Thousand Faces</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+POP+Now%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K POP Now!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

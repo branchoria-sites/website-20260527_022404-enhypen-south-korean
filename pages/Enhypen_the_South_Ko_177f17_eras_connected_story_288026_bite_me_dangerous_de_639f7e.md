@@ -379,6 +379,23 @@ That is why the song remains distinctive within the group's discography. Its rom
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Vampires, Ourselves on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139564-M.jpg" alt="Cover for Our Vampires, Ourselves" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Vampires, Ourselves">Our Vampires, Ourselves</a>
+</h4>
+<p class="fr-book-author">By Nina Auerbach</p>
+        
+<p class="fr-book-desc">First published 1995. Subjects: Gays in popular culture, Psychology, Vampires, History, Psychological aspects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hero with a Thousand Faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/443668-M.jpg" alt="Cover for The Hero with a Thousand Faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -396,16 +413,16 @@ That is why the song remains distinctive within the group's discography. Its rom
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Uses+of+Enchantment%3A+The+Meaning+and+Importance+of+Fairy+Tales+Bruno+Bettelheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Uses of Enchantment: The Meaning and Importance of Fairy Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8343125-M.jpg" alt="Cover for The Uses of Enchantment: The Meaning and Importance of Fairy Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vampire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=61JxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Vampire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Uses+of+Enchantment%3A+The+Meaning+and+Importance+of+Fairy+Tales+Bruno+Bettelheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Uses of Enchantment: The Meaning and Importance of Fairy Tales">The Uses of Enchantment: The Meaning and Importance of Fairy...</a>
+<a href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire">The Vampire</a>
 </h4>
-<p class="fr-book-author">By Bruno Bettelheim</p>
+<p class="fr-book-author">By Nick Groom</p>
         
-<p class="fr-book-desc">Subjects: Fairy tales.</p>
+<p class="fr-book-desc">An authoritative new history of the vampire, two hundred years after it first appeared on the literary scene Published to mark the bicent...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Uses+of+Enchantment%3A+The+Meaning+and+Importance+of+Fairy+Tales+Bruno+Bettelheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -428,26 +445,9 @@ That is why the song remains distinctive within the group's discography. Its rom
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Vampires, Ourselves on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139564-M.jpg" alt="Cover for Our Vampires, Ourselves" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Vampires, Ourselves">Our Vampires, Ourselves</a>
-</h4>
-<p class="fr-book-author">By Nina Auerbach</p>
-        
-<p class="fr-book-desc">First published 1995. Subjects: Gays in popular culture, Psychology, Vampires, History, Psychological aspects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hero with a Thousand Faces</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Uses+of+Enchantment%3A+The+Meaning+and+Importance+of+Fairy+Tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Uses of Enchantment: The Meaning and Importance of Fairy Tales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Philosophy+of+Horror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Philosophy of Horror</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Our Vampires, Ourselves</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hero with a Thousand Faces</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Vampire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Vampire</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

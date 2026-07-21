@@ -408,23 +408,6 @@ Rather than treating dance as accompaniment, ENHYPEN use choreography as narrati
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Choreography: A Basic Approach Using Improvisation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/676796-M.jpg" alt="Cover for Choreography: A Basic Approach Using Improvisation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Choreography: A Basic Approach Using Improvisation">Choreography: A Basic Approach Using Improvisation</a>
-</h4>
-<p class="fr-book-author">By Sandra Cerny Minton</p>
-        
-<p class="fr-book-desc">First published 1986. Subjects: Choreography, Improvisatie, Choregraphie, Choreografie, Chorégraphie.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Dance%3A+Fandoming+Yourself+on+Social+Media+Chuyun+Oh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Dance: Fandoming Yourself on Social Media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14047110-M.jpg" alt="Cover for K-pop Dance: Fandoming Yourself on Social Media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -440,9 +423,26 @@ Rather than treating dance as accompaniment, ENHYPEN use choreography as narrati
 </div>
 </div>
 </article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Choreography: A Basic Approach Using Improvisation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/676796-M.jpg" alt="Cover for Choreography: A Basic Approach Using Improvisation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Choreography: A Basic Approach Using Improvisation">Choreography: A Basic Approach Using Improvisation</a>
+</h4>
+<p class="fr-book-author">By Sandra Cerny Minton</p>
+        
+<p class="fr-book-desc">First published 1986. Subjects: Choreography, Improvisatie, Choregraphie, Choreografie, Chorégraphie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Choreography: A Basic Approach Using Improvisation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Dance%3A+Fandoming+Yourself+on+Social+Media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Dance: Fandoming Yourself on Social Media</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Dance%3A+Fandoming+Yourself+on+Social+Media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Dance: Fandoming Yourself on Social Media</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Choreography: A Basic Approach Using Improvisation</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

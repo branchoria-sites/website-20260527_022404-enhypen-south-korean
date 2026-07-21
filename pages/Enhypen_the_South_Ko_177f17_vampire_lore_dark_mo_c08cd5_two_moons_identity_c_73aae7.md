@@ -406,26 +406,9 @@ For fans following ENHYPEN's interconnected storytelling, this makes *Two Moons*
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to Which Love Is Real in Dark Moon Two Moons?. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to Which Love Is Real in Dark Moon: Two Moons?. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Interview+with+the+Vampire+by+Anne+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Interview with the Vampire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EzJbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Interview with the Vampire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Interview+with+the+Vampire+by+Anne+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interview with the Vampire">Interview with the Vampire</a>
-</h4>
-<p class="fr-book-author">By Anne Rice</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 17 Google Books ratings</p>
-<p class="fr-book-desc">A young journalist is called to interview someone with a terrific tale to tell.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Interview+with+the+Vampire+by+Anne+Rice&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 
 <article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Traveler%27s+Wife+Audrey+Niffenegger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Traveler&#x27;s Wife on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273734-M.jpg" alt="Cover for The Time Traveler&#x27;s Wife" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
@@ -477,9 +460,26 @@ For fans following ENHYPEN's interconnected storytelling, this makes *Two Moons*
 </div>
 </div>
 </article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hero with a Thousand Faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/443668-M.jpg" alt="Cover for The Hero with a Thousand Faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hero with a Thousand Faces">The Hero with a Thousand Faces</a>
+</h4>
+<p class="fr-book-author">By Joseph Campbell</p>
+        
+<p class="fr-book-desc">First published 1949. Subjects: Mythology, Psychoanalysis, Mythologie, Helden (personen), Psychanalyse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Interview+with+the+Vampire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Interview with the Vampire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Traveler%27s+Wife&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Traveler&#x27;s Wife</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cloud+Atlas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cloud Atlas</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Time+Traveler%27s+Wife&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Time Traveler&#x27;s Wife</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cloud+Atlas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cloud Atlas</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Man+and+His+Symbols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man and His Symbols</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

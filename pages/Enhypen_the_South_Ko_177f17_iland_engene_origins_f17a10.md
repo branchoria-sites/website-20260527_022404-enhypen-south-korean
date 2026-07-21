@@ -414,21 +414,21 @@ That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* 
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to How I LAND Built ENHYPEN&#x27;s Fan Connection. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to How I-LAND Built ENHYPEN&#x27;s Fan Connection. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk+Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Live: Fans, Idols, and Multimedia Performance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-Pop Live: Fans, Idols, and Multimedia Performance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk+Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Live: Fans, Idols, and Multimedia Performance">K-Pop Live: Fans, Idols, and Multimedia Performance</a>
+<a href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
 </h4>
 <p class="fr-book-author">By Suk-Young Kim</p>
         
 <p class="fr-book-desc">1990s South Korea saw the transition from a military dictatorship to a civilian government, from a manufacturing economy to a postindustr...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk+Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -436,16 +436,33 @@ That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Media+Marshall+McLuhan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Media on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6572346-M.jpg" alt="Cover for Understanding Media" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
+<a href="https://www.amazon.com/s?k=Understanding+Media+Marshall+McLuhan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Media">Understanding Media</a>
+</h4>
+<p class="fr-book-author">By Marshall McLuhan, Marshal McLuhan</p>
+        
+<p class="fr-book-desc">First published 1964. Subjects: Communication, Communication and traffic, Mass media, Technology and civilization, Transports et communic...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Understanding+Media+Marshall+McLuhan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
 </h4>
 <p class="fr-book-author">By John Lie</p>
         
 <p class="fr-book-desc">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea seeks at once to describe and explain the emergence of exp...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -453,33 +470,16 @@ That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Companion to K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cambridge Companion to K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Companion to K-Pop">The Cambridge Companion to K-Pop</a>
+<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Companion to K-Pop">The Cambridge Companion to K-Pop</a>
 </h4>
 <p class="fr-book-author">By JungBong Choi and Roald Maliangkay</p>
         
         
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hooked: How to Build Habit-Forming Products on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hooked: How to Build Habit-Forming Products">Hooked: How to Build Habit-Forming Products</a>
-</h4>
-<p class="fr-book-author">By Nir Eyal</p>
-        
-<p class="fr-book-desc">The Hooked workshop is designed to give you practical insights and actionable steps for building products people love and use regularly....</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Hooked%3A+How+to+Build+Habit-Forming+Products+by+Nir+Eyal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K-Pop+JungBong+Choi+and+Roald+Maliangkay&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -487,7 +487,7 @@ That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* 
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop Live: Fans, Idols, and Multimedia Performance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cambridge+Companion+to+K+Pop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cambridge Companion to K Pop</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Media&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Media</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

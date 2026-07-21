@@ -381,21 +381,21 @@ Instead, the group's implementation spread vocal, choreographic and performance 
 <p class="fr-section-kicker">Amazon book picks</p>
 <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
 </div>
-<p class="fr-intro">Books and field guides related to How ENHYPEN Rebuilt Its Six Member Performance. Use these as the next step if you want deeper reading beyond the article.</p>
+<p class="fr-intro">Books and field guides related to How ENHYPEN Rebuilt Its Six-Member Performance. Use these as the next step if you want deeper reading beyond the article.</p>
 </div>
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title+by+Robin+Sharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Leader Who Had No Title on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LjVw9YtC88sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Leader Who Had No Title" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title+Robin+Sharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Leader Who Had No Title on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LjVw9YtC88sC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Leader Who Had No Title" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title+by+Robin+Sharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Leader Who Had No Title">The Leader Who Had No Title</a>
+<a href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title+Robin+Sharma&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Leader Who Had No Title">The Leader Who Had No Title</a>
 </h4>
 <p class="fr-book-author">By Robin Sharma</p>
         
 <p class="fr-book-desc">From The Monk Who Sold His Ferrari author comes an inspiring parable about the skills needed to excel in career and life. For more than f...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title+by+Robin+Sharma&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title+Robin+Sharma&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -403,16 +403,33 @@ Instead, the group's implementation spread vocal, choreographic and performance 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak%3A+Secrets+from+the+New+Science+of+Expertise+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak: Secrets from the New Science of Expertise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak: Secrets from the New Science of Expertise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+Patrick+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Five Dysfunctions of a Team on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7979384-M.jpg" alt="Cover for The Five Dysfunctions of a Team" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Peak%3A+Secrets+from+the+New+Science+of+Expertise+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak: Secrets from the New Science of Expertise">Peak: Secrets from the New Science of Expertise</a>
+<a href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+Patrick+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Five Dysfunctions of a Team">The Five Dysfunctions of a Team</a>
+</h4>
+<p class="fr-book-author">By Patrick Lencioni, Joel Leffert</p>
+        
+<p class="fr-book-desc">First published 2005. Subjects: Business, Management, Nonfiction, Teams in the workplace, Work environment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team+Patrick+Lencioni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Peak on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rLECDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Peak" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Peak">Peak</a>
 </h4>
 <p class="fr-book-author">By Anders Ericsson, Robert Pool</p>
         
 <p class="fr-book-desc">Selected as a Book of the Year by New Statesman Mozart wasn&#x27;t born with perfect pitch. Most athletes are not born with any natural advant...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Peak%3A+Secrets+from+the+New+Science+of+Expertise+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Peak+Anders+Ericsson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -420,33 +437,16 @@ Instead, the group's implementation spread vocal, choreographic and performance 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atomic Habits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mSiOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Atomic Habits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code: The Secrets of Highly Successful Groups on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10242550-M.jpg" alt="Cover for The Culture Code: The Secrets of Highly Successful Groups" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Habits">Atomic Habits</a>
-</h4>
-<p class="fr-book-author">By James Clear</p>
-        
-<p class="fr-book-desc">A leading expert on habit formation reveals practical strategies to form good habits, break bad ones, and master the tiny behaviors that...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Atomic+Habits+by+James+Clear&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Culture+Code+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Culture Code on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10242550-M.jpg" alt="Cover for The Culture Code" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Culture+Code+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code">The Culture Code</a>
+<a href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Culture Code: The Secrets of Highly Successful Groups">The Culture Code: The Secrets of Highly Successful Groups</a>
 </h4>
 <p class="fr-book-author">By Daniel Coyle</p>
         
 <p class="fr-book-desc">First published 2018. Subjects: Corporate culture, Leadership, SELF-HELP / Personal Growth / General, Teams in the workplace, BUSINESS &amp;...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Culture+Code+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups+Daniel+Coyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -454,7 +454,7 @@ Instead, the group's implementation spread vocal, choreographic and performance 
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Leader Who Had No Title</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak%3A+Secrets+from+the+New+Science+of+Expertise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak: Secrets from the New Science of Expertise</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Atomic+Habits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Leader+Who+Had+No+Title&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Leader Who Had No Title</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Dysfunctions of a Team</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

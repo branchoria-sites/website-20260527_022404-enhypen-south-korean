@@ -415,48 +415,14 @@ For ENHYPEN's vampire mythology, this represents one of its most significant the
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Essential+Dracula+by+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Essential Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jTkOAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Essential Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Essential+Dracula+by+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Essential Dracula">The Essential Dracula</a>
-</h4>
-<p class="fr-book-author">By Bram Stoker</p>
-        
-<p class="fr-book-desc">An essay on the history of the vampire myth in literature accompanies an annotated version of the classic vampire tale.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Essential+Dracula+by+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Interview+with+the+Vampire+by+Anne+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Interview with the Vampire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=EzJbAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Interview with the Vampire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Interview+with+the+Vampire+by+Anne+Rice&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Interview with the Vampire">Interview with the Vampire</a>
-</h4>
-<p class="fr-book-author">By Anne Rice</p>
-<p class="fr-book-popularity">Rating: 4.0/5 from 17 Google Books ratings</p>
-<p class="fr-book-desc">A young journalist is called to interview someone with a terrific tale to tell.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Interview+with+the+Vampire+by+Anne+Rice&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jTkOAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8028797-M.jpg" alt="Cover for Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
 <a href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dracula">Dracula</a>
 </h4>
-<p class="fr-book-author">By Bram Stoker</p>
+<p class="fr-book-author">By Bram Stoker, Mary Shelley et al.</p>
         
-<p class="fr-book-desc">An essay on the history of the vampire myth in literature accompanies an annotated version of the classic vampire tale.</p>
+<p class="fr-book-desc">First published 1897. Subjects: Fiction, horror, Children: Grades 3-4, Dracula, count (fictitious character), fiction, Frankenstein (fict...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -466,16 +432,50 @@ For ENHYPEN's vampire mythology, this represents one of its most significant the
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Time+Traveler%27s+Wife+Audrey+Niffenegger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Time Traveler&#x27;s Wife on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9273734-M.jpg" alt="Cover for The Time Traveler&#x27;s Wife" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+Viktor+E.+Frankl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Man&#x27;s Search for Meaning on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11203708-M.jpg" alt="Cover for Man&#x27;s Search for Meaning" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Time+Traveler%27s+Wife+Audrey+Niffenegger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Time Traveler&#x27;s Wife">The Time Traveler&#x27;s Wife</a>
+<a href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+Viktor+E.+Frankl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Man&#x27;s Search for Meaning">Man&#x27;s Search for Meaning</a>
 </h4>
-<p class="fr-book-author">By Audrey Niffenegger</p>
+<p class="fr-book-author">By Viktor E. Frankl</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: mutants, love, death, amputation, sex.</p>
+<p class="fr-book-desc">First published 2017. Subjects: Frankl, viktor emil, 1905-1997, Holocaust, jewish (1939-1945), personal narratives, Holocaust, jewish (19...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Time+Traveler%27s+Wife+Audrey+Niffenegger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning+Viktor+E.+Frankl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Denial+of+Death+Ernest+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Denial of Death on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4506134-M.jpg" alt="Cover for The Denial of Death" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Denial+of+Death+Ernest+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Denial of Death">The Denial of Death</a>
+</h4>
+<p class="fr-book-author">By Ernest Becker, Ernest Becker</p>
+        
+<p class="fr-book-desc">First published 1973. Subjects: Death, Heroes, Myth, Psychological aspects, Psychological aspects of Death.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Denial+of+Death+Ernest+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Essential+Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Essential Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jTkOAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Essential Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Essential+Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Essential Dracula">The Essential Dracula</a>
+</h4>
+<p class="fr-book-author">By Bram Stoker</p>
+        
+<p class="fr-book-desc">An essay on the history of the vampire myth in literature accompanies an annotated version of the classic vampire tale.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Essential+Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -483,7 +483,7 @@ For ENHYPEN's vampire mythology, this represents one of its most significant the
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Essential+Dracula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Essential Dracula</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Interview+with+the+Vampire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Interview with the Vampire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dracula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dracula</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dracula&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dracula</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Man%27s+Search+for+Meaning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Man&#x27;s Search for Meaning</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Denial+of+Death&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Denial of Death</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

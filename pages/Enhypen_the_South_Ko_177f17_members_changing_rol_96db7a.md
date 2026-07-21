@@ -401,16 +401,33 @@ The six-member era is still too new for every long-term role to be settled. What
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
+<a href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
 </h4>
 <p class="fr-book-author">By John Lie</p>
         
 <p class="fr-book-desc">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea seeks at once to describe and explain the emergence of exp...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11038291-M.jpg" alt="Cover for The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture">The Birth of Korean Cool: How One Nation Is Conquering the Wo...</a>
+</h4>
+<p class="fr-book-author">By Y. Euny Hong</p>
+        
+<p class="fr-book-desc">First published 2014. Subjects: HISTORY / Asia / Korea, Social life and customs, Popular culture, BIOGRAPHY &amp; AUTOBIOGRAPHY / Personal Me...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -450,26 +467,9 @@ The six-member era is still too new for every long-term role to be settled. What
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Team+of+Teams%3A+New+Rules+of+Engagement+for+a+Complex+World+General+Stanley+McChrystal%2C+Tantum+Collins%2C+David+Silverman+and+Chris+Fussell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Team of Teams: New Rules of Engagement for a Complex World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Team+of+Teams%3A+New+Rules+of+Engagement+for+a+Complex+World+General+Stanley+McChrystal%2C+Tantum+Collins%2C+David+Silverman+and+Chris+Fussell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Team of Teams: New Rules of Engagement for a Complex World">Team of Teams: New Rules of Engagement for a Complex World</a>
-</h4>
-<p class="fr-book-author">By General Stanley McChrystal, Tantum Collins, David Silverman and Chris Fussell</p>
-        
-        
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Team+of+Teams%3A+New+Rules+of+Engagement+for+a+Complex+World+General+Stanley+McChrystal%2C+Tantum+Collins%2C+David+Silverman+and+Chris+Fussell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Dysfunctions of a Team</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Culture+Code%3A+The+Secrets+of+Highly+Successful+Groups&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Culture Code: The Secrets of Highly Successful Groups</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Five+Dysfunctions+of+a+Team&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Five Dysfunctions of a Team</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
