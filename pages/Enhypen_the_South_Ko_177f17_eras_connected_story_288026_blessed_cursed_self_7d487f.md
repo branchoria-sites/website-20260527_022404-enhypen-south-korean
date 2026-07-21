@@ -282,15 +282,11 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_bl
 
 “Blessed-Cursed” marks one of the clearest turning points in ENHYPEN’s narrative. Rather than continuing to search for the "right" answer, the group rejects the idea that such an answer exists if it is defined by other people. Across *DIMENSION: DILEMMA*, *DIMENSION: ANSWER* and *MANIFESTO: DAY 1*, ENHYPEN's storyline evolves from confusion over competing desires into an explicit commitment to self-determination. Instead of asking which path society approves, they decide to author their own future, even if that choice invites conflict. This shift is not simply a change in musical style or visual concept; it is the mechanism that connects the uncertainty of the *Dimension* era with the collective confidence of *Manifesto*. Official album narratives consistently frame this progression as a movement from questioning identity to rejecting imposed identities altogether.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-1-dark.svg" | relative_url }}" alt="Blessed Cursed illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 ## How *Dimension* turns desire into an identity crisis
 
 The *Dimension* era begins with a world that is more complicated than the [members]({{ 'members/' | relative_url }}) expected after crossing the metaphorical border established in their debut series. According to BELIFT LAB, the protagonists discover that conflicting values, ambitions and expectations force them to confront desires they had never previously recognised. Instead of finding certainty, they become trapped between incompatible possibilities, questioning who they really are.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -314,8 +310,6 @@ The *Dimension* era begins with a world that is more complicated than the [membe
 
 This uncertainty is significant because it transforms desire into an identity problem. Earlier albums explored the excitement and confusion of entering a new world, but *Dimension* asks a different question: if every available path has been shaped by someone else's expectations, how can an authentic identity emerge?
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yfBlglAdHTk" title="ENHYPEN (엔하이픈) ‘Blessed-Cursed’ Dance Practice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yfBlglAdHTk" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘Blessed-Cursed’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yfBlglAdHTk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yfBlglAdHTk">Open on YouTube</a></p></div></div></div>
 
 ## Why *Blessed-Cursed* rejects society's approved answer
@@ -325,7 +319,6 @@ The repackage album *DIMENSION: ANSWER* fundamentally changes the group's positi
 BELIFT LAB's official description is unusually explicit about this shift. The members recognise a society driven by competition, constant comparison and social media pressures. What once appeared to be a blessing—accepting prescribed rules and succeeding within them—comes to feel like a curse. The title track becomes a declaration: "I'll go my own way."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
 This reversal explains the apparent contradiction in the song's title.
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -339,8 +332,6 @@ Instead of portraying rebellion as impulsive teenage defiance, the album frames 
 
 The accompanying visual language reinforces this message. Earlier eras frequently contrasted elegant uniforms, ritualised settings and carefully ordered spaces with moments of emotional instability. In "Blessed-Cursed," vintage hip-hop styling, industrial environments and more direct [choreography]({{ 'choreography/' | relative_url }}) replace much of that symbolism, reflecting a move away from inherited roles towards self-expression. Even later live performances retained this old-school streetwear aesthetic for "Blessed-Cursed," linking its visual identity to independence rather than fantasy alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teenvogue.com/story/enhypen-manifesto-world-tour-nyc-style-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue ENHYPEN Take Us Backstage at &quot;Manifesto&quot; World Tour in New York City</span><span class="citation-popover-snippet">stop of their Manifesto world tour. Each concert segment reflected the group&#x27;s thematic evolution, with Heeseung&#x27;s meticulous hairdo bein...</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/osmHArcf_aE" title="ENHYPEN (엔하이픈) &#x27;Blessed-Cursed&#x27; Official MV" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:09">3:09</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=osmHArcf_aE" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) &#x27;Blessed-Cursed&#x27; Official MV</a></p><p class="youtube-embed-meta">Channel: HYBE LABELS &middot; Views: 69.7M &middot; Uploaded: January 2022 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=osmHArcf_aE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=osmHArcf_aE">Open on YouTube</a></p></div></div></div>
 
 ## From private awakening to public declaration
@@ -348,7 +339,6 @@ The accompanying visual language reinforces this message. Earlier eras frequentl
 One reason "Blessed-Cursed" occupies such an important place in ENHYPEN's broader storyline is that it changes the scale of the conflict.
 
 Earlier albums focus primarily on internal uncertainty:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,8 +351,6 @@ Earlier albums focus primarily on internal uncertainty:
 After "Blessed-Cursed," those questions become decisions rather than dilemmas. The conflict is no longer internal confusion but external resistance against systems that expect obedience.
 
 This distinction matters because identity becomes something actively created rather than passively discovered. The members stop waiting for permission to define themselves.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-2-dark.svg" | relative_url }}" alt="Blessed Cursed illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -380,8 +368,6 @@ EraCentral questionResponse*DIMENSION: DILEMMA*Who am I among conflicting desire
 
 Rather than treating rebellion as an endpoint, *Manifesto* portrays it as the beginning of responsibility. Freedom is meaningful only when it becomes the basis for a new future instead of simply an escape from the old one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TAPIupaThnk" title="The Kulture Study: ENHYPEN &#x27;Blessed-Cursed&#x27; MV REACTION &amp; REVIEW" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TAPIupaThnk" target="_blank" rel="noopener noreferrer">The Kulture Study: ENHYPEN &#x27;Blessed-Cursed&#x27; MV REACTION &amp; REVIEW</a></p><p class="youtube-embed-meta">Channel: Form of Therapy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TAPIupaThnk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TAPIupaThnk">Open on YouTube</a></p></div></div></div>
 
 ## Why this turning point matters within ENHYPEN's larger story
@@ -392,10 +378,7 @@ The *Border* series explored entering an unfamiliar world. *Dimension* exposed t
 
 Because of this progression, "Blessed-Cursed" represents more than a title track between two album cycles. It is the moment when ENHYPEN stop asking which path is correct and instead claim the authority to decide what "correct" means for themselves. That decision becomes the emotional foundation for every subsequent era, where choices are no longer made from confusion but from a consciously asserted identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-3-dark.svg" | relative_url }}" alt="Blessed Cursed illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_blessed_cursed_self_7d487f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -903,4 +886,4 @@ Because of this progression, "Blessed-Cursed" represents more than a title track
 25.<a id="endnote-25"></a>
    Source: koreatimes.co.kr  
    Title: ENHYPE N talks about desires, dilemmas in new album 'DIMENSION: DILEMMA'  
-   Link:<a href="https://www.koreatimes.co.kr/entertainment/k-pop/20211012/enhypen-talks-about-desires-dilemmas-in-new-album-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20211012/enhypen-talks-about-desires-dilemmas-in-new-album-dimension-dilemma</a>  
+   Link:<a href="https://www.koreatimes.co.kr/entertainment/k-pop/20211012/enhypen-talks-about-desires-dilemmas-in-new-album-dimension-dilemma" target="_blank" rel="noopener noreferrer nofollow">https://www.koreatimes.co.kr/entertainment/k-pop/20211012/enhypen-talks-about-desires-dilemmas-in-new-album-dimension-dilemma</a>

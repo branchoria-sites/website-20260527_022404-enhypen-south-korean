@@ -276,13 +276,9 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_gi
 
 “Given-Taken” introduced ENHYPEN with an unusually uncertain debut narrative. Rather than celebrating success as an uncomplicated achievement, the title track asks whether the group's place in the industry was something they truly earned, something handed to them by circumstance, or both at once. That question reflected the [members]({{ 'members/' | relative_url }})' real situation after emerging from the survival programme *I-LAND*, where public votes and competition determined the final line-up. Instead of separating reality from fiction, *Border: Day One* transformed those emotions into a supernatural coming-of-age story, using vampire imagery, ritual spaces and recurring motifs of crossing thresholds to express the exhilaration and anxiety of becoming idols.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-1-dark.svg" | relative_url }}" alt="Given Taken illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Within ENHYPEN's wider storyline, *Given-Taken* is less about vampires than about irreversible transformation. The debut era establishes the emotional pattern that later releases expand upon: every new world promises opportunity, but entering it also means surrendering an older identity. That tension makes the first era distinct from the group's later explorations of temptation, identity and rebellion.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -312,8 +308,6 @@ The introductory and closing tracks, "Walk the Line" and "Cross the Line", reinf
 
 The music video strengthens this interpretation. Instead of depicting youthful celebration, it places the members inside stately halls, shadowed rooms and open landscapes that resemble places of initiation. The visual language evokes ceremonies and transformation rather than victory, suggesting that success itself has become something mysterious and unsettling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teenvogue.com/story/enhypen-debut-given-taken-mv-border-day-one-mini-album" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-snippet">Open source on teenvogue.com.</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Cj2J9WefYoU" title="The Kulture Study: ENHYPEN &#x27;Given-Taken&#x27; MV" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Cj2J9WefYoU" target="_blank" rel="noopener noreferrer">The Kulture Study: ENHYPEN &#x27;Given-Taken&#x27; MV</a></p><p class="youtube-embed-meta">Channel: Form of Therapy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Cj2J9WefYoU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Cj2J9WefYoU">Open on YouTube</a></p></div></div></div>
 
 ## Why *Given-Taken* questions ownership of success
@@ -328,8 +322,6 @@ This gives the lyrics an unusual emotional texture for a debut song. Instead of 
 
 For fans who watched *I-LAND*, this ambiguity carried additional emotional weight. Every member had experienced ranking changes, eliminations of fellow contestants and constant public evaluation. The debut therefore represented not only fulfilment but also the lingering psychological effects of competition.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-2-dark.svg" | relative_url }}" alt="Given Taken illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## How vampire transformation mirrors life after *I-LAND*
@@ -342,7 +334,6 @@ British *Vogue* observed that ENHYPEN's fictional universe combines vampire myth
 
 Several visual motifs reinforce this reading:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * **Mirrors and reflections** suggest uncertainty about personal identity after transformation.
@@ -353,8 +344,6 @@ Several visual motifs reinforce this reading:
 </div>
 
 Because these images are symbolic rather than narrative exposition, they leave room for multiple interpretations while remaining anchored in the members' lived experience of debut.
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9OHc7g6EKIo" title="ENHYPEN GIVEN-TAKEN Debut Theory: Intro: Walk the Line &amp; Given-Taken Teasers Explored" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9OHc7g6EKIo" target="_blank" rel="noopener noreferrer">ENHYPEN GIVEN-TAKEN Debut Theory: Intro: Walk the Line &amp; Given-Taken Teasers Explored</a></p><p class="youtube-embed-meta">Channel: Bookish Theories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9OHc7g6EKIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9OHc7g6EKIo">Open on YouTube</a></p></div></div></div>
 
@@ -368,8 +357,6 @@ The group's early interviews reinforce this perspective. As their career quickly
 
 Seen in retrospect, *Given-Taken* already contains that trajectory. The debut is portrayed not as the destination but as the moment when uncertainty becomes permanent.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-3-dark.svg" | relative_url }}" alt="Given Taken illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_eras_connected_story_288026_given_taken_debut_an_d4e3d3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Why the debut still matters within ENHYPEN's larger story
@@ -380,10 +367,7 @@ The debut asks a deceptively simple question: what happens when a long-awaited d
 
 For that reason, *Given-Taken* remains one of the most important chapters in ENHYPEN's catalogue. Its supernatural imagery is memorable, but its lasting significance lies in how honestly it captures the emotional contradiction of debut after *I-LAND*: success feels exhilarating, irreversible and deeply uncertain all at once.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[beliftlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-title">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LAB</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nQ6wLuYvGd4" title="ENHYPEN (엔하이픈) &#x27;Given-Taken&#x27; Official MV" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nQ6wLuYvGd4" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) &#x27;Given-Taken&#x27; Official MV</a></p><p class="youtube-embed-meta">Channel: HYBE LABELS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nQ6wLuYvGd4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nQ6wLuYvGd4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -891,4 +875,4 @@ For that reason, *Given-Taken* remains one of the most important chapters in ENH
 22.<a id="endnote-22"></a>
    Source: oricon.co.jp  
    Title: ENHYPE Nデビューショーケース「この瞬間を忘れずに一生懸命活動していきたい」〖会見全文〗 | オリコンニュース（ORICON NEWS）  
-   Link:<a href="https://www.oricon.co.jp/news/2178077/full/" target="_blank" rel="noopener noreferrer nofollow">https://www.oricon.co.jp/news/2178077/full/</a>  
+   Link:<a href="https://www.oricon.co.jp/news/2178077/full/" target="_blank" rel="noopener noreferrer nofollow">https://www.oricon.co.jp/news/2178077/full/</a>

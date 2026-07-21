@@ -276,15 +276,11 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_il
 
 Many ENHYPEN fans felt connected to the group long before its official debut because *I-LAND* turned the usual trainee process into a public journey. Rather than meeting seven finished idols, viewers spent months watching contestants train, struggle, improve and face elimination in real time. The uncertainty of the competition, combined with repeated global voting, encouraged fans to feel that their time, emotions and participation mattered. By the time ENHYPEN debuted in November 2020, many supporters already had detailed memories of individual [members]({{ 'members/' | relative_url }})' setbacks, friendships and personal growth rather than simply their performances. This pre-debut investment became one of the defining features of ENHYPEN's relationship with ENGENE and helps explain why the fandom developed unusually quickly after the final episode.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/59?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine The World of ENHYPEN</span><span class="citation-popover-snippet">Weverse MagazineThe World of ENHYPEN - Weverse Magazine...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-1-dark.svg" | relative_url }}" alt="Pre Debut Bond illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 ## Watching trainees grow under pressure
 
 Unlike a conventional debut campaign, *I-LAND* placed uncertainty at the centre of the viewing experience. Every contestant entered without any guarantee of debuting. Rankings shifted, missions became progressively harder and eliminations permanently changed the group dynamic.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -306,7 +302,6 @@ Unlike a conventional debut campaign, *I-LAND* placed uncertainty at the centre 
 
 For viewers, this meant attachment developed through observation rather than marketing. Audiences repeatedly saw trainees:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * struggle during rehearsals before delivering stronger performances;
@@ -321,8 +316,6 @@ These recurring moments encouraged fans to evaluate contestants not only by tech
 
 This gradual exposure also created what media researchers often describe as a "journey" rather than a product launch. Fans were not simply anticipating music—they were following personal stories whose endings remained unknown until the live finale. ENHYPEN's own official profile continues to describe the members as having grown individually and collectively through the programme's succession of missions, reinforcing that development was central to the group's identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://enhypen-jp.weverse.io/profile/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: enhypen-jp.weverse.io">[ENHYPEN OFFICIAL SITE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">enhypen-jp.weverse.io</span><span class="citation-popover-title">ENHYPEN OFFICIAL SITEENHYPEN OFFICIAL SITE &#124; PROFILE</span><span class="citation-popover-snippet">ENHYPEN OFFICIAL SITEENHYPEN OFFICIAL SITE &#124; PROFILE</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SKquN2GlQAc" title="Yang Jungwon&#x27;s journey to ENHYPEN (the hidden ace)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SKquN2GlQAc" target="_blank" rel="noopener noreferrer">Yang Jungwon&#x27;s journey to ENHYPEN (the hidden ace)</a></p><p class="youtube-embed-meta">Channel: JANINAH</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SKquN2GlQAc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SKquN2GlQAc">Open on YouTube</a></p></div></div></div>
 
 ## Voting changed viewers from spectators into participants
@@ -332,7 +325,6 @@ The strongest mechanism behind pre-debut investment was participation.
 As *I-LAND* progressed, international viewers were given opportunities to influence the debut line-up through global voting. While producers retained significant authority—including selecting the final member—the audience knew that sustained voting could meaningfully affect the outcome. That transformed watching into an active commitment rather than passive entertainment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/59?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine The World of ENHYPEN</span><span class="citation-popover-snippet">Weverse MagazineThe World of ENHYPEN - Weverse Magazine...</span></span></span>
 
 Voting also created emotional consequences. Fans who spent weeks supporting particular trainees naturally experienced:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -344,8 +336,6 @@ Voting also created emotional consequences. Fans who spent weeks supporting part
 </div>
 
 Because viewers had invested both emotionally and practically, ENHYPEN's formation felt partially shared. The final group represented not only the producers' decisions but also months of coordinated audience participation.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-2-dark.svg" | relative_url }}" alt="Pre Debut Bond illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -359,8 +349,6 @@ This collaborative activity strengthened identification with individual trainees
 
 The global scale was unusually visible. According to *Weverse Magazine*, viewers from 178 countries participated in *I-LAND* voting, demonstrating that support was internationally distributed rather than concentrated in a single market. That worldwide participation helped establish ENHYPEN as a globally connected group from the beginning instead of gradually expanding overseas after debut.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/59?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine The World of ENHYPEN</span><span class="citation-popover-snippet">Weverse MagazineThe World of ENHYPEN - Weverse Magazine...</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lm0qhGR9U2o" title="Everything that was wrong with I-Land Finale (Just bitter about K...) | ENHYPEN Revealed!" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lm0qhGR9U2o" target="_blank" rel="noopener noreferrer">Everything that was wrong with I-Land Finale (Just bitter about K...) | ENHYPEN Revealed!</a></p><p class="youtube-embed-meta">Channel: Janice Jeong</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lm0qhGR9U2o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lm0qhGR9U2o">Open on YouTube</a></p></div></div></div>
 
 ## Emotional investment survived beyond the final line-up
@@ -372,8 +360,6 @@ Viewers remembered friendships formed inside the programme, emotional farewells 
 Even supporters whose favourite trainee did not make the final group often remained interested in ENHYPEN because they had become invested in the broader cast and their relationships during the competition. Others followed eliminated contestants into later projects while still supporting ENHYPEN, illustrating how survival programmes can create multiple lasting fan communities from a single series.
 
 This explains why many early ENGENEs describe the debut as the continuation of an existing story rather than the beginning of one.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-3-dark.svg" | relative_url }}" alt="Pre Debut Bond illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_predebut_fan_b_03e376-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -393,10 +379,7 @@ Instead of discovering polished performers all at once, early supporters witness
 
 For ENGENEs who followed *I-LAND* from the beginning, ENHYPEN's first album did not introduce unfamiliar artists. It marked the next chapter of a journey they believed they had helped shape.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J5kh36YJ-jk" title="How ENHYPEN Will Make K-Pop Dangerous Again" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J5kh36YJ-jk" target="_blank" rel="noopener noreferrer">How ENHYPEN Will Make K-Pop Dangerous Again</a></p><p class="youtube-embed-meta">Channel: THE NOITE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J5kh36YJ-jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J5kh36YJ-jk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -926,4 +909,4 @@ For ENGENEs who followed *I-LAND* from the beginning, ENHYPEN's first album did 
 
 26.<a id="endnote-26"></a>
    Source: beliftlab.com  
-   Link:<a href="https://beliftlab.com/artist/discography/ENHYPEN/1" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/discography/ENHYPEN/1</a>  
+   Link:<a href="https://beliftlab.com/artist/discography/ENHYPEN/1" target="_blank" rel="noopener noreferrer nofollow">https://beliftlab.com/artist/discography/ENHYPEN/1</a>

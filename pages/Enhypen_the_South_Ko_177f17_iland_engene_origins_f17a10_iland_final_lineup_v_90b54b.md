@@ -282,8 +282,6 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_il
 
 ENHYPEN was not chosen entirely by either fans or producers. The final line-up of the seven-member group emerged from a hybrid system in *I-LAND* that deliberately combined global audience participation with professional oversight. In the live finale on 18 September 2020, viewers around the world determined six of the seven debut places through global voting, while the producers retained the authority to select the final member. That structure gave fans genuine influence over the group's composition, but it also established a clear limit: public votes shaped the majority of the team, yet the production staff reserved the right to complete the line-up according to their own assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
 <h2>Follow this branch</h2>
@@ -302,8 +300,6 @@ ENHYPEN was not chosen entirely by either fans or producers. The final line-up o
 </aside>
 <!-- HIERARCHY_NAV_END -->
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-1-dark.svg" | relative_url }}" alt="Final Lineup illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 This balance between audience power and producer judgement became one of the defining features of ENHYPEN's origin story. For ENGENE, voting was not simply a promotional activity but a direct part of the group's creation. At the same time, the producer's final selection demonstrated that *I-LAND* was designed as a managed competition rather than a pure popularity contest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
@@ -316,7 +312,6 @@ During the early stages of *I-LAND*, contestants were primarily evaluated by pro
 
 The final voting process itself also changed over time:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * Early Part 2 voting allowed viewers to support two trainees each day.
@@ -327,8 +322,6 @@ The final voting process itself also changed over time:
 
 The move from multiple selections to a single-choice vote had important consequences. It rewarded contestants with especially committed fanbases rather than simply broad popularity, making the closing weeks of the competition particularly competitive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OhCl-0iG-iI" title="I-Land Global Vote Results: Round 2" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OhCl-0iG-iI" target="_blank" rel="noopener noreferrer">I-Land Global Vote Results: Round 2</a></p><p class="youtube-embed-meta">Channel: ENHYPEN ON AIR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OhCl-0iG-iI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OhCl-0iG-iI">Open on YouTube</a></p></div></div></div>
 
 ## Why six members debuted through global ranking
@@ -336,7 +329,6 @@ The move from multiple selections to a single-choice vote had important conseque
 The most distinctive feature of the finale was that six of the seven debut positions were awarded directly according to global vote rankings.
 
 The final global ranking was:<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/mnetiland/comments/ivcrxs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">SPOILER) Vote Totals for the Top 9 from the Final Global Voting</span><span class="citation-popover-snippet">Reddit(SPOILER) Vote Totals for the Top 9 from the Final Global Voting...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -357,8 +349,6 @@ First, viewers knew that their votes had immediate consequences rather than mere
 
 For many viewers, the six-member public selection validated months of participation. The voting campaign became part of ENGENE's shared history long before the fandom received its official name.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-2-dark.svg" | relative_url }}" alt="Final Lineup illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## What the producer selection changed
@@ -372,8 +362,6 @@ That decision illustrated the central governance principle of *I-LAND*: audience
 By retaining one producer-selected place, the programme preserved flexibility to consider factors beyond raw vote totals, including overall team balance, performance consistency, future group chemistry and long-term artistic direction. Although the producers did not publish a detailed scoring formula explaining the decision, the format itself openly stated that the final member would be selected by the production team rather than by audience ranking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The result also avoided an all-or-nothing interpretation of fan influence. Rather than overruling viewers entirely, the producers accepted the audience's choices for most of the group while using their final authority only once.
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ACTeGsY0GI8" title="Sunoo SHOULDN&#x27;T Have Debuted... but he found a way" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ACTeGsY0GI8" target="_blank" rel="noopener noreferrer">Sunoo SHOULDN&#x27;T Have Debuted... but he found a way</a></p><p class="youtube-embed-meta">Channel: PurpleTeeJ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ACTeGsY0GI8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ACTeGsY0GI8">Open on YouTube</a></p></div></div></div>
 
@@ -390,8 +378,6 @@ This distinction remains important because it corrects two common misconceptions
 
 The format therefore represented a compromise between participatory entertainment and traditional talent management, allowing both audience preference and professional judgement to shape ENHYPEN's debut.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-3-dark.svg" | relative_url }}" alt="Final Lineup illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_iland_final_lineup_v_90b54b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## The lasting significance of the final line-up
@@ -402,10 +388,7 @@ Because fans had invested weeks of daily voting into determining most of the mem
 
 At the same time, the producer selection became an enduring reminder that *I-LAND* was never designed as a pure popularity contest. Its governance model balanced democratic participation with institutional decision-making, producing a line-up that reflected both global fan support and the producers' final vision for the group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fnmZbrPfRFw" title="I-LAND FINAL DEBUT LINE UP (ENHYPEN)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fnmZbrPfRFw" target="_blank" rel="noopener noreferrer">I-LAND FINAL DEBUT LINE UP (ENHYPEN)</a></p><p class="youtube-embed-meta">Channel: ENHYPEN ON AIR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fnmZbrPfRFw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fnmZbrPfRFw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -885,4 +868,4 @@ At the same time, the producer selection became an enduring reminder that *I-LAN
 
 16.<a id="endnote-16"></a>
    Source: iland.weverse.io  
-   Link:<a href="https://iland.weverse.io/cast" target="_blank" rel="noopener noreferrer nofollow">https://iland.weverse.io/cast</a>  
+   Link:<a href="https://iland.weverse.io/cast" target="_blank" rel="noopener noreferrer nofollow">https://iland.weverse.io/cast</a>

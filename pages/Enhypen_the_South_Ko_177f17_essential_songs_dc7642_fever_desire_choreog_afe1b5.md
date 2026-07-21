@@ -276,13 +276,9 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_d
 
 “FEVER” is the moment where ENHYPEN prove that intensity does not always require speed. Released as a B-side on *BORDER: CARNIVAL* in 2021, the song exchanges the explosive momentum of “[Drunk-Dazed]({{ 'drunk-dazed/' | relative_url }})” for something quieter and more unsettling. Rather than depicting desire as a dramatic supernatural event, it presents it as an overwhelming physical condition that spreads through the body like an illness. The result is one of the group's defining performances: a slow-burning combination of restrained vocals, deliberate [choreography]({{ 'choreography/' | relative_url }}) and recurring gestures that made a non-title track as recognisable as many of ENHYPEN's official singles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.elle.com/culture/music/a36345233/enhypen-border-carnival-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-snippet">ENHYPEN on Border: Carnival&#x27;s Meaning, Fame, and Their Favorite Disney CharactersMay 6, 2021...</span><span class="citation-popover-meta">Published: May 6, 2021</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-1-dark.svg" | relative_url }}" alt="FEVER illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Within ENHYPEN's broader storytelling, “FEVER” feels like the private aftermath of the chaos depicted in “Drunk-Dazed”. Instead of a crowded carnival spinning out of control, the focus narrows to one person's fixation on another. That shift in scale is what gives the song its lasting appeal. It transforms supernatural imagery into something intimate, allowing choreography rather than spectacle to communicate emotional danger.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -308,7 +304,6 @@ The placement of “FEVER” on *BORDER: CARNIVAL* is significant. BELIFT LAB de
 
 Musically, the song avoids the dramatic drops and explosive choruses common in performance-heavy K-pop. Instead it relies on:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * restrained R&B production;
@@ -322,8 +317,6 @@ This gives the impression that the emotional state never truly resolves. Rather 
 
 The members themselves highlighted this emotional quality before the album's release. In an interview with *Elle*, several members identified “FEVER” as their favourite B-side, describing its grooved R&B sound and explaining that the lyrics express the sincere longing to be recognised by someone important. That emphasis on yearning distinguishes it from songs driven primarily by confidence or seduction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.elle.com/culture/music/a36345233/enhypen-border-carnival-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-snippet">ENHYPEN on Border: Carnival&#x27;s Meaning, Fame, and Their Favorite Disney CharactersMay 6, 2021...</span><span class="citation-popover-meta">Published: May 6, 2021</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/efZq23q6Fd8" title="[EN-focus] &#x27;FEVER&#x27; stage @ ENHYPEN WORLD TOUR &#x27;MANIFESTO&#x27; in SEOUL" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=efZq23q6Fd8" target="_blank" rel="noopener noreferrer">[EN-focus] &#x27;FEVER&#x27; stage @ ENHYPEN WORLD TOUR &#x27;MANIFESTO&#x27; in SEOUL</a></p><p class="youtube-embed-meta">Channel: ENHYPEN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=efZq23q6Fd8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=efZq23q6Fd8">Open on YouTube</a></p></div></div></div>
 
 ## How neck, wrist and floor gestures shape the song's tension
@@ -331,7 +324,6 @@ The members themselves highlighted this emotional quality before the album's rel
 The choreography became almost inseparable from the song's identity. Rather than filling every beat with large movements, it repeatedly returns to a small vocabulary of gestures that gradually accumulate emotional weight.
 
 The most recognisable motifs include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,8 +340,6 @@ One of the choreography's defining features is its relationship with gravity. Fl
 
 During ENHYPEN's *MANIFESTO* tour, performance director Kim explained that the famous collar-biting movement was designed to emphasise the group's vampire imagery while simultaneously signalling artistic maturity beyond their debut image. The choreography therefore serves two purposes at once: reinforcing ENHYPEN's fictional mythology while demonstrating a more restrained, confident style of performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/575?artist=ENHYPEN&amp;lang=live+fir" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine ENHYPEN’s MANIFESTO world tour report</span><span class="citation-popover-snippet">Weverse MagazineENHYPEN’s MANIFESTO world tour report - Weverse Magazine...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-2-dark.svg" | relative_url }}" alt="FEVER illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Why restraint makes the choreography more powerful
@@ -357,7 +347,6 @@ During ENHYPEN's *MANIFESTO* tour, performance director Kim explained that the f
 Many K-pop choreographies create excitement through constant motion. “FEVER” achieves the opposite effect.
 
 Several implementation choices contribute to this unusual impact:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,8 +359,6 @@ Several implementation choices contribute to this unusual impact:
 
 Because the choreography avoids constant visual overload, individual gestures become memorable. Fans often identify “FEVER” through a single motion rather than an elaborate dance sequence, demonstrating how effectively repetition can build iconic imagery.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/X7d6Dt17yHk" title="ENHYPEN (엔하이픈) &#x27;FEVER&#x27; Official MV" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=X7d6Dt17yHk" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) &#x27;FEVER&#x27; Official MV</a></p><p class="youtube-embed-meta">Channel: HYBE LABELS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=X7d6Dt17yHk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=X7d6Dt17yHk">Open on YouTube</a></p></div></div></div>
 
 ## How a B-side became one of ENHYPEN's signature performances
@@ -381,8 +368,6 @@ Commercially and culturally, “FEVER” far exceeded expectations for a B-side.
 Performance played a decisive role in that success. Unlike songs that rely primarily on their studio recording, “FEVER” gained momentum every time audiences watched it rather than simply listened to it. Reviews of ENHYPEN concerts consistently single out the number as one of the show's emotional centrepieces, often highlighting its dance break and striking stage compositions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thekrazemag.com/latest-updates/2022/10/10/enhypen-goes-big-in-b-side-performances" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thekrazemag.com">[The Kraze]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thekrazemag.com</span><span class="citation-popover-title">The Kraze ENHYPEN Goes Big in B-Side Performances — The Kraze</span><span class="citation-popover-snippet">The KrazeENHYPEN Goes Big in B-Side Performances — The KrazeOctober 10, 2022...</span><span class="citation-popover-meta">Published: October 10, 2022</span></span></span>
 
 The choreography also became a gateway into ENHYPEN for new audiences. Fans frequently describe discovering the group through dance clips or relay performances before exploring the wider discography, suggesting that “FEVER” functioned as an unusually effective introduction to ENHYPEN's performance identity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/enhypen/comments/w07rgv" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">How did you get into Enhypen?</span><span class="citation-popover-snippet">How did you get into Enhypen?July 16, 2022...</span><span class="citation-popover-meta">Published: July 16, 2022</span></span></span>
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RPt-84_heRs" title="[EN-TER key] &#x27;FEVER&#x27; Part Change Mission - ENHYPEN (엔하이픈) (ENG/JPN)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RPt-84_heRs" target="_blank" rel="noopener noreferrer">[EN-TER key] &#x27;FEVER&#x27; Part Change Mission - ENHYPEN (엔하이픈) (ENG/JPN)</a></p><p class="youtube-embed-meta">Channel: ENHYPEN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RPt-84_heRs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RPt-84_heRs">Open on YouTube</a></p></div></div></div>
 
@@ -394,10 +379,7 @@ The song also established an enduring performance principle. ENHYPEN often achie
 
 Within the sequence of songs that best explain ENHYPEN, “FEVER” is therefore indispensable. If “[Given-Taken]({{ 'given-taken/' | relative_url }})” asks whether transformation is deserved and “Drunk-Dazed” celebrates the overwhelming rush of entering a new world, “FEVER” asks what happens when that transformation becomes internal. The answer is not explosive excitement but quiet obsession—a desire expressed through breath, posture and controlled movement until restraint itself feels overwhelming.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-3-dark.svg" | relative_url }}" alt="FEVER illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_fever_desire_choreog_afe1b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -919,4 +901,4 @@ Within the sequence of songs that best explain ENHYPEN, “FEVER” is therefore
 27.<a id="endnote-27"></a>
    Source: intrend.trueid.net  
    Title: netรีวิว FEVER เพลงใหม่ของหนุ่ม ๆ ENHYPEN | True ID Creator  
-   Link:<a href="https://intrend.trueid.net/article/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-fever-%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-%E0%B9%86-enhypen-trueidintrend_220130" target="_blank" rel="noopener noreferrer nofollow">https://intrend.trueid.net/article/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-fever-%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-%E0%B9%86-enhypen-trueidintrend_220130</a>  
+   Link:<a href="https://intrend.trueid.net/article/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-fever-%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-%E0%B9%86-enhypen-trueidintrend_220130" target="_blank" rel="noopener noreferrer nofollow">https://intrend.trueid.net/article/%E0%B8%A3%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%A7-fever-%E0%B9%80%E0%B8%9E%E0%B8%A5%E0%B8%87%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B8%B8%E0%B9%88%E0%B8%A1-%E0%B9%86-enhypen-trueidintrend_220130</a>

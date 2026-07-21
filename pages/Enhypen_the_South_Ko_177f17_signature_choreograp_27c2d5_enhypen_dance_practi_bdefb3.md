@@ -276,8 +276,6 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_en
 
 ENHYPEN's dance practice videos provide the clearest evidence of why the group is widely recognised for synchronisation rather than simply energetic [choreography]({{ 'choreography/' | relative_url }}). Unlike music videos or televised performances, practice footage removes rapid editing, dramatic camera angles and stage effects, allowing viewers to judge whether seven dancers are truly moving as one. What becomes visible is that their precision depends on far more than reaching the same pose: tiny differences in timing, head direction, shoulder angle and landing height determine whether a formation reads as a single moving structure or as seven separate performers. Official practice releases for songs ranging from **"Given-Taken"** to **"[Drunk-Dazed]({{ 'drunk-dazed/' | relative_url }})"**, **"FEVER"**, **"ParadoXXX Invasion"**, **"XO (Only If You Say Yes)"** and **"Bad Desire (With or Without You)"** consistently highlight these qualities by presenting the choreography from an uninterrupted, front-facing perspective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soompi.com/article/1441830wpp/watch-enhypen-gives-closer-look-at-choreo-for-debut-track-given-taken-in-new-dance-practice-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soompi.com">[Soompi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soompi.com</span><span class="citation-popover-snippet">Watch: ENHYPEN Gives Closer Look At Choreo For Debut Track &quot;Given-Taken&quot; In New Dance Practice Video &#124; SoompiDecember 5, 2020...</span><span class="citation-popover-meta">Published: December 5, 2020</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-1-dark.svg" | relative_url }}" alt="Dance Practice illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 ## Pose Matching Is Not the Same as Synchronisation
@@ -286,8 +284,6 @@ One of the easiest misconceptions for casual viewers is to equate synchronisatio
 
 * **Pose similarity** – whether dancers reach the same body shape.
 * **Temporal alignment** – whether movements begin, accelerate, peak and finish at the same instant.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -327,8 +323,6 @@ Arm extensions, bent elbows, wrist positions and shoulder height create clean si
 
 During routines such as **"[Given-Taken]({{ 'given-taken/' | relative_url }})"** and **"Drunk-Dazed"**, the choreography relies on sharp angular shapes that resemble one expanding and contracting organism. Small discrepancies in elbow bend or wrist rotation would soften these collective images, making formations appear less deliberate. Official dance practice releases intentionally provide an unobstructed view of these geometric relationships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soompi.com/article/1441830wpp/watch-enhypen-gives-closer-look-at-choreo-for-debut-track-given-taken-in-new-dance-practice-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soompi.com">[Soompi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soompi.com</span><span class="citation-popover-snippet">Watch: ENHYPEN Gives Closer Look At Choreo For Debut Track &quot;Given-Taken&quot; In New Dance Practice Video &#124; SoompiDecember 5, 2020...</span><span class="citation-popover-meta">Published: December 5, 2020</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4-keAPArp9A" title="ENHYPEN (엔하이픈) ‘Drunk-Dazed’ Dance Practice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:28">3:28</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4-keAPArp9A" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘Drunk-Dazed’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 14.0M &middot; Uploaded: May 2021 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4-keAPArp9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4-keAPArp9A">Open on YouTube</a></p></div></div></div>
 
 ### Landing height
@@ -345,7 +339,6 @@ Music videos naturally prioritise storytelling. Television broadcasts prioritise
 
 Because the camera usually remains static and the entire group stays visible, fans can evaluate aspects of performance that editing normally conceals:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * spacing between members during travelling formations
@@ -360,8 +353,6 @@ Official dance practice releases are therefore not simply promotional content; t
 
 For fans, this format makes repeated viewing rewarding because attention gradually shifts away from individual members towards relationships between members.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-2-dark.svg" | relative_url }}" alt="Dance Practice illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Formations Stay Clean Because Timing Controls Space
@@ -371,7 +362,6 @@ Synchronisation is often discussed as a matter of rhythm, but ENHYPEN's practice
 When every dancer begins travelling at exactly the same moment and maintains identical speed, formations naturally preserve their intended geometry. If one performer accelerates slightly sooner than another, the group can drift out of alignment before the next pose is even reached.
 
 This is especially visible in routines involving:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -385,8 +375,6 @@ This is especially visible in routines involving:
 
 Rather than treating movement and formation as separate challenges, ENHYPEN's rehearsals demonstrate that accurate timing is what keeps spatial designs intact.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CxxX6iNhx28" title="ENHYPEN (엔하이픈) ‘Given-Taken’ Dance Practice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:18">3:18</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CxxX6iNhx28" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘Given-Taken’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 7.6M &middot; Uploaded: December 2020 &middot; Length: 3 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CxxX6iNhx28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CxxX6iNhx28">Open on YouTube</a></p></div></div></div>
 
 ## Repetition Makes Corrections Visible
@@ -397,8 +385,6 @@ Dance researchers note that performers typically record rehearsals, review foota
 
 Although viewers do not see ENHYPEN's full rehearsal process, the polished official practice videos reflect the outcome of this iterative correction. Instead of looking for spectacular individual moments, experienced fans often notice the absence of visible hesitation during difficult transitions—a sign that repeated refinement has eliminated small inconsistencies.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3437BF0B4z4" title="ENHYPEN - Drunk-Dazed Dance Practice - UK K-Pop Fans Reaction" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 10:05">10:05</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3437BF0B4z4" target="_blank" rel="noopener noreferrer">ENHYPEN - Drunk-Dazed Dance Practice - UK K-Pop Fans Reaction</a></p><p class="youtube-embed-meta">Channel: Along For The Ride &middot; Views: 6.4K &middot; Uploaded: March 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3437BF0B4z4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3437BF0B4z4">Open on YouTube</a></p></div></div></div>
 
 ## Why Fans Return to Dance Practices
@@ -406,7 +392,6 @@ Although viewers do not see ENHYPEN's full rehearsal process, the polished offic
 For many ENGENEs, dance practice videos become more replayable than stage performances because they encourage a different kind of viewing.
 
 Rather than following whichever member occupies the centre, viewers begin noticing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -418,8 +403,6 @@ Rather than following whichever member occupies the centre, viewers begin notici
 </div>
 
 Online fan discussions frequently describe discovering new details after multiple viewings, with many highlighting choreography videos as the best way to appreciate individual improvement and the group's collective precision. Community conversations repeatedly cite performances such as **"Go Big or Go Home"**, **"Given-Taken"**, **"Drunk-Dazed"** and **"[FEVER]({{ 'fever/' | relative_url }})"** as examples where synchronisation becomes especially apparent in rehearsal footage rather than edited broadcasts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/kpopthoughts/comments/17piiln" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Add!cted to Enhypen&#x27;s Choreographies</span><span class="citation-popover-snippet">Add!cted to Enhypen&#x27;s Choreographies - Don&#x27;t Send Help But if You&#x27;re Another ECAA Member Pls Come Say Hi:)November 7, 2023...</span><span class="citation-popover-meta">Published: November 7, 2023</span></span></span>
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-3-dark.svg" | relative_url }}" alt="Dance Practice illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_enhypen_dance_practi_bdefb3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -947,4 +930,4 @@ Seen through uninterrupted rehearsal footage, these small adjustments accumulate
 28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: (PDF) Pose Sync: Robust pose based video synchronization  
-   Link:<a href="https://www.researchgate.net/publication/373364181_PoseSync_Robust_pose_based_video_synchronization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373364181_PoseSync_Robust_pose_based_video_synchronization</a>  
+   Link:<a href="https://www.researchgate.net/publication/373364181_PoseSync_Robust_pose_based_video_synchronization" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373364181_PoseSync_Robust_pose_based_video_synchronization</a>

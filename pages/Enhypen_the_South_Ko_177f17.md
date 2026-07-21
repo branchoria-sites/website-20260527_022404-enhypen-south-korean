@@ -253,15 +253,11 @@ image: /assets/images/Enhypen_the_South_Ko_177f17-overview-social.jpg
 
 For fans, ENHYPEN are more than a group with a vampire concept. Their strongest releases use fantasy to express recognisable experiences: entering an unfamiliar world, questioning whether success was earned, losing control amid attention, and wanting connection without surrendering one’s identity. That continuity has helped them grow from survival-show rookies into a major touring and album-selling act whose releases have repeatedly reached the upper end of the US Billboard 200.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[beliftlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-snippet">IMENSION: DILEMMA which unraveled ENHYPEN’s story beyond the border of debut where they realized their new world was even more complex a...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17-overview.webp" | relative_url }}" alt="Overview image for Enhypen the South Korean band" loading="eager" decoding="sync" fetchpriority="high">
 
 ## How ENHYPEN were formed
 
 ENHYPEN emerged from *I-LAND*, a global trainee competition broadcast by Mnet in 2020. The programme followed contestants through performances, evaluations and public voting, giving viewers a direct role in creating the final group. BELIFT LAB describes the project as a global artist-development initiative, an origin that explains why ENHYPEN possessed an international audience even before their official debut.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/profile/ENHYPEN?lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-snippet">BELIFT LAB빌리프랩 &#124; BELIFT LABNovember 30, 2020 — ENHYPEN—consisting of JUNGWON, JAY, JAKE, SUNGHOON, SUNOO, and NI-KI—are a six-member mult...</span><span class="citation-popover-meta">Published: November 30, 2020</span></span></span>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -298,8 +294,6 @@ The current line-up mixes Korean, Korean-American, Australian-raised and Japanes
 
 Heeseung was an original member and one of the group’s principal vocalists. BELIFT LAB announced his departure in March 2026, stating that ENHYPEN and Heeseung would begin separate chapters. He subsequently debuted as the soloist Evan in June 2026. The change marked the first alteration to the group’s line-up and inevitably reshaped vocal distribution and performance arrangements developed over the preceding five years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN&#x27;s Future Activities# [NOTICE] ENHYPEN&#x27;s Future Activities... We ask for ENGENE&#x27;s continued love and support for...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17-Illustration-1-dark.svg" | relative_url }}" alt="Enhypen the South Korean band illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## The songs and eras that define them
@@ -316,12 +310,9 @@ In 2024, *Romance: Untold* placed loyalty and romantic commitment at the centre 
 
 The subsequent releases *Desire: Unleash* and *The Sin: Vanish* pushed the narrative towards longing, temptation and transgression. BELIFT LAB described *Desire: Unleash* as an exploration of yearning to stand as an equal beside the person one loves, while *The Sin: Vanish* began a more immersive narrative series that incorporated songs, spoken narration and dramatic interludes. In August 2026, the group is scheduled to continue this sequence with the eighth EP *The Sin: Bliss*.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/discography/ENHYPEN/14" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[BELIFT LAB]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-snippet">Open source on beliftlab.com.</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ErIJXhAwVCU" title="Why ENHYPEN Aren’t at Their Peak Yet?" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ErIJXhAwVCU" target="_blank" rel="noopener noreferrer">Why ENHYPEN Aren’t at Their Peak Yet?</a></p><p class="youtube-embed-meta">Channel: THE NOITE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ErIJXhAwVCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ErIJXhAwVCU">Open on YouTube</a></p></div></div></div>
 
 ## Why the vampire story matters
-
 
 <div class="content-callout content-callout--key content-callout--takeaway" markdown="1">
 
@@ -341,8 +332,6 @@ Their live development became especially visible through international touring a
 
 Their appearance at Coachella in April 2025 was an important test outside the controlled setting of a dedicated fan concert. ENHYPEN performed a roughly 45-minute Sahara-stage set with rearranged material, live vocals and choreography adapted for a festival-scale audience. The members later described the performance as an attempt to create a moment that felt recognisably their own rather than simply reproduce a standard concert set.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teenvogue.com/story/enhypen-coachella-interview-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">enhypen coachella interview 2025</span><span class="citation-popover-snippet">The group reflected on their growth since debuting in 2020, citing their performances at Coachella as a significant milestone. They tease...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17-Illustration-2-dark.svg" | relative_url }}" alt="Enhypen the South Korean band illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## How large their success has become
@@ -352,8 +341,6 @@ ENHYPEN’s commercial growth is most evident in album sales. *Romance: Untold* 
 The group have also developed a consistent US chart presence. *Romance: Untold* debuted at number two on the Billboard 200 in July 2024 and led the Top Album Sales chart. Subsequent releases, including *Desire: Unleash* in 2025 and *The Sin: Vanish* in 2026, likewise reached number two on the Billboard 200. These results show unusually durable album demand rather than reliance on one crossover single.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ca.billboard.com/charts/billboard-200/2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ca.billboard.com">[Billboard Canada]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ca.billboard.com</span><span class="citation-popover-snippet">Open source on billboard.com.</span></span></span>
 
 That distinction matters. ENHYPEN’s international strength has been built principally through albums, concerts, physical collecting and a highly organised global fandom. Songs such as “Polaroid Love”, “FEVER”, “Bite Me” and “XO” have extended their reach, but the group’s broader success is rooted in listeners following each era as part of an evolving body of work.
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/It76r8yis_g" title="ENHYPEN celebrate five years of growth | AP interview" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=It76r8yis_g" target="_blank" rel="noopener noreferrer">ENHYPEN celebrate five years of growth | AP interview</a></p><p class="youtube-embed-meta">Channel: Associated Press</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=It76r8yis_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=It76r8yis_g">Open on YouTube</a></p></div></div></div>
 
@@ -365,10 +352,7 @@ Their catalogue is varied—moving through dark pop, synth-pop, hip-hop-influenc
 
 The transition to six members is a significant break in ENHYPEN’s history, particularly because the original line-up had remained intact from *I-LAND* through five years of releases and tours. Yet the group’s identity has never depended on one device or one era. Its lasting foundation is the idea contained in its name: separate individuals becoming connected, changing through that connection and continually renegotiating what they will become next.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Gz5H0Ek3yEY" title="ENHYPEN Embraces New Chapter, Reacts to Old Interviews, Talks Music &amp; Tour | Billboard News" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Gz5H0Ek3yEY" target="_blank" rel="noopener noreferrer">ENHYPEN Embraces New Chapter, Reacts to Old Interviews, Talks Music &amp; Tour | Billboard News</a></p><p class="youtube-embed-meta">Channel: Billboard News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Gz5H0Ek3yEY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Gz5H0Ek3yEY">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -382,16 +366,16 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Now!: The Korean Music Revolution on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=etDZAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop Now!: The Korean Music Revolution" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-POP+Now%21+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-POP Now! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=etDZAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-POP Now!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Now!: The Korean Music Revolution">K-Pop Now!: The Korean Music Revolution</a>
+<a href="https://www.amazon.com/s?k=K-POP+Now%21+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-POP Now!">K-POP Now!</a>
 </h4>
 <p class="fr-book-author">By Mark James Russell</p>
         
 <p class="fr-book-desc">&quot;This is the book on K-pop everybody has been waiting for.…A must-read!&quot; --Charlotte Naudin, PR Manager, Torpedo Productions K-Pop Now! e...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-POP+Now%21+Mark+James+Russell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -399,16 +383,16 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
+<a href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop">K-Pop</a>
 </h4>
 <p class="fr-book-author">By John Lie</p>
         
 <p class="fr-book-desc">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea seeks at once to describe and explain the emergence of exp...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-Pop+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -416,16 +400,16 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11038291-M.jpg" alt="Cover for The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture">The Birth of Korean Cool: How One Nation Is Conquering the Wo...</a>
+<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture">The Birth of Korean Cool: How One Nation Is Conquering the Wo...</a>
 </h4>
-<p class="fr-book-author">By Euny Hong</p>
+<p class="fr-book-author">By Y. Euny Hong</p>
         
-        
+<p class="fr-book-desc">First published 2014. Subjects: HISTORY / Asia / Korea, Social life and customs, Popular culture, BIOGRAPHY &amp; AUTOBIOGRAPHY / Personal Me...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -433,16 +417,16 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Vampire%3A+A+New+History+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vampire: A New History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Our Vampires, Ourselves on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/139564-M.jpg" alt="Cover for Our Vampires, Ourselves" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Vampire%3A+A+New+History+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire: A New History">The Vampire: A New History</a>
+<a href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Our Vampires, Ourselves">Our Vampires, Ourselves</a>
 </h4>
-<p class="fr-book-author">By Nick Groom</p>
+<p class="fr-book-author">By Nina Auerbach</p>
         
-        
+<p class="fr-book-desc">First published 1995. Subjects: Gays in popular culture, Psychology, Vampires, History, Psychological aspects.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Vampire%3A+A+New+History+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves+Nina+Auerbach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -450,7 +434,7 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop+Now%21%3A+The+Korean+Music+Revolution&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop Now!: The Korean Music Revolution</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+POP+Now%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K POP Now!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
@@ -1186,4 +1170,4 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 
 99.<a id="endnote-99"></a>
    Source: officialcharts.com  
-   Link:<a href="https://www.officialcharts.com/artist/59110/enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/59110/enhypen/</a>  
+   Link:<a href="https://www.officialcharts.com/artist/59110/enhypen/" target="_blank" rel="noopener noreferrer nofollow">https://www.officialcharts.com/artist/59110/enhypen/</a>

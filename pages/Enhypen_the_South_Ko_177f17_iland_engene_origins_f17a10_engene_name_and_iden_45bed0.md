@@ -276,11 +276,7 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_en
 
 The announcement of **ENGENE** as ENHYPEN's official fandom name did more than give fans a shared label. It extended the participatory spirit of *I-LAND* into the group's official identity by recognising that supporters had helped shape ENHYPEN before debut and would continue to play a visible role afterwards. Rather than presenting fans as passive consumers, BELIFT LAB invited name submissions from the global community, involved the [members]({{ 'members/' | relative_url }}) in selecting the final result, and built the meaning of the name around mutual growth. In this way, the transition from *I-LAND* to ENGENE preserved the idea that the relationship between ENHYPEN and its audience was something created together rather than simply announced from above.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/641" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">Notice] ENHYPEN Fan Club Naming Event Information</span><span class="citation-popover-snippet">Weverse[Notice] ENHYPEN Fan Club Naming Event Information...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1-dark.svg" | relative_url }}" alt="ENGENE Name illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -310,8 +306,6 @@ Second, **"gene"** expresses the idea that ENHYPEN and their fans share the same
 
 This dual meaning also subtly continued the narrative established during *I-LAND*. Viewers had watched the trainees develop week by week, and the fandom name reframed that process as an ongoing relationship rather than something that ended with the finale.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rKW--QGe-bE" title="[SUB]Happy ENGENE day 💞I Official Fan Club Name Unveiled! ENHYPEN" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rKW--QGe-bE" target="_blank" rel="noopener noreferrer">[SUB]Happy ENGENE day 💞I Official Fan Club Name Unveiled! ENHYPEN</a></p><p class="youtube-embed-meta">Channel: EN-DOOR Sub Español</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rKW--QGe-bE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rKW--QGe-bE">Open on YouTube</a></p></div></div></div>
 
 ## How Fan Submissions Shaped the Naming Process
@@ -323,8 +317,6 @@ Following ENHYPEN's formation, BELIFT LAB opened a public naming event on Wevers
 When the final announcement was made, BELIFT LAB explicitly thanked fans for their "valuable contributions" and stated that the members had spent considerable time discussing the submitted ideas before reaching a decision. The company also confirmed that **ENGENE** itself originated from the fan submission process rather than being imposed entirely by management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">NOTICE] ENHYPEN Official Fan Club Name &amp; ENGENE MEMBERSHIP Open Information</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN Official Fan Club Name &amp; ENGENE MEMBERSHIP Open Information...</span></span></span>
 
 This mattered because it echoed the collaborative atmosphere of *I-LAND*. Although fans no longer voted on eliminations, they were still invited to influence a lasting part of ENHYPEN's identity.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-2-dark.svg" | relative_url }}" alt="ENGENE Name illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -338,8 +330,6 @@ BELIFT LAB reinforced this continuity by pairing the fandom-name announcement wi
 
 For many early supporters, becoming ENGENE represented an evolution of the role they had already played rather than the beginning of an entirely new relationship.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tK_xT4yBeJc" title="¿Quiénes son ENHYPEN? La increíble historia de I LAND al escenario mundial! 🔥✨ #enhypen" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tK_xT4yBeJc" target="_blank" rel="noopener noreferrer">¿Quiénes son ENHYPEN? La increíble historia de I LAND al escenario mundial! 🔥✨ #enhypen</a></p><p class="youtube-embed-meta">Channel: Koreli KEK Español</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tK_xT4yBeJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tK_xT4yBeJc">Open on YouTube</a></p></div></div></div>
 
 ## Why the Naming Strategy Worked
@@ -347,7 +337,6 @@ For many early supporters, becoming ENGENE represented an evolution of the role 
 The ENGENE announcement illustrates how the participation model of *I-LAND* evolved from a television format into a long-term fandom identity.
 
 Several implementation choices reinforced this continuity:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -360,8 +349,6 @@ Several implementation choices reinforced this continuity:
 
 Together, these decisions ensured that participation did not end when *I-LAND* concluded. Instead, it became institutionalised as part of ENHYPEN's official fan culture.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-3-dark.svg" | relative_url }}" alt="ENGENE Name illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Lasting Significance for ENHYPEN's Identity
@@ -370,10 +357,7 @@ Many K-pop fandom names symbolise support or affection, but ENGENE stands out be
 
 That distinction continues to shape how ENHYPEN presents its relationship with fans. Official communications repeatedly describe ENGENE as both the group's driving force and a community that grows alongside the members, reinforcing the same themes first introduced through the fan naming event. The result is a fandom identity that extends *I-LAND*'s collaborative spirit into ENHYPEN's long-term narrative, turning a pre-debut audience into an officially recognised partner in the group's continuing development.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-title">NOTICE] ENHYPEN Official Fan Club Name &amp; ENGENE MEMBERSHIP Open Information</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN Official Fan Club Name &amp; ENGENE MEMBERSHIP Open Information...</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_orgZoIOFyw" title="ENHYPEN Gave Up EVERYTHING As Children (here’s how)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_orgZoIOFyw" target="_blank" rel="noopener noreferrer">ENHYPEN Gave Up EVERYTHING As Children (here’s how)</a></p><p class="youtube-embed-meta">Channel: PurpleTeeJ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_orgZoIOFyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_orgZoIOFyw">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -883,4 +867,4 @@ That distinction continues to shape how ENHYPEN presents its relationship with f
 24.<a id="endnote-24"></a>
    Source: kpopstarz.com  
    Title: ENHYPHE N Announce Their Official Fanclub Name  
-   Link:<a href="https://www.kpopstarz.com/articles/295153/20201009/enhyphen-announce-their-official-fanclub-name.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.kpopstarz.com/articles/295153/20201009/enhyphen-announce-their-official-fanclub-name.htm</a>  
+   Link:<a href="https://www.kpopstarz.com/articles/295153/20201009/enhyphen-announce-their-official-fanclub-name.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.kpopstarz.com/articles/295153/20201009/enhyphen-announce-their-official-fanclub-name.htm</a>

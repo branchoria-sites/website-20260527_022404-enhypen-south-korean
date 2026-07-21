@@ -276,13 +276,9 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_po
 
 ENHYPEN's transition to a six-member group in March 2026 did not involve appointing a direct replacement for Heeseung. Instead, the group redistributed his responsibilities across the remaining [members]({{ 'members/' | relative_url }}), adjusting vocal assignments, [choreography]({{ 'choreography/' | relative_url }}), stage formations and live-performance routines. This approach reflects how ENHYPEN had already evolved before the lineup change: although fans often describe members using labels such as "main vocalist" or "lead dancer", the group has increasingly operated with overlapping strengths rather than rigid official positions. Following BELIFT LAB's announcement that Heeseung would leave to pursue solo activities while remaining with the company, ENHYPEN's challenge became preserving the group's performance identity without expecting any one member to replicate his role.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.yna.co.kr/view/AEN20260310008800315?section=culture%2Fk-pop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.yna.co.kr">[yna.co.kr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.yna.co.kr</span><span class="citation-popover-snippet">Yonhap NewsEnhypen reshaped as six-member group with Heeseung&#x27;s departure &#124; Yonhap News AgencyMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-1-dark.svg" | relative_url }}" alt="Post Heeseung Roles illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Rather than creating a new hierarchy, the six-member lineup appears to have redistributed different aspects of Heeseung's contribution according to each song's demands. Early concerts and public comments from the members suggest that flexibility, not one-for-one substitution, became the defining principle of the rebuilt group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.indulgexpress.com/entertainment/celebs/2026/Mar/15/enhypen-performs-without-lee-heeseung-in-melbourne-as-fans-launch-massive-petition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indulgexpress.com">[IndulgExpress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indulgexpress.com</span><span class="citation-popover-title">Indulg Express ENHYPEN performs in Melbourne after Leee Heeseung&#x27;s exit</span><span class="citation-popover-snippet">ENHYPEN performs in Melbourne after Leee Heeseung&#x27;s exitMarch 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -308,7 +304,6 @@ Heeseung had contributed in several distinct ways at once. Beyond singing many c
 
 The six-member arrangement therefore involved three parallel adjustments:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Vocals:** high notes, choruses and transitional phrases were shared among several members rather than concentrated in one voice.
@@ -319,8 +314,6 @@ The six-member arrangement therefore involved three parallel adjustments:
 
 BELIFT LAB's announcement also emphasised continuity rather than reinvention, confirming that ENHYPEN would continue scheduled activities as six members rather than entering an extended restructuring period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.yna.co.kr/view/AEN20260310008800315?section=culture%2Fk-pop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.yna.co.kr">[Yonhap News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.yna.co.kr</span><span class="citation-popover-snippet">Yonhap NewsEnhypen reshaped as six-member group with Heeseung&#x27;s departure &#124; Yonhap News AgencyMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/38rx7hCZaLY" title="ENHYPEN addresses Heeseung’s departure, promises to continue operations | THE DAILY LIST" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=38rx7hCZaLY" target="_blank" rel="noopener noreferrer">ENHYPEN addresses Heeseung’s departure, promises to continue operations | THE DAILY LIST</a></p><p class="youtube-embed-meta">Channel: THE BUZZ</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=38rx7hCZaLY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=38rx7hCZaLY">Open on YouTube</a></p></div></div></div>
 
 ## How vocals and formations were redistributed
@@ -328,7 +321,6 @@ BELIFT LAB's announcement also emphasised continuity rather than reinvention, co
 The clearest practical change appeared during the group's first performances after the departure. Reports from the Melbourne show noted that the remaining members divided Heeseung's singing parts across the lineup instead of assigning them to one designated successor. Songs such as "[Bite Me]({{ 'bite-me/' | relative_url }})" therefore became collaborative redistributions rather than straightforward rewrites.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.indulgexpress.com/entertainment/celebs/2026/Mar/15/enhypen-performs-without-lee-heeseung-in-melbourne-as-fans-launch-massive-petition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: indulgexpress.com">[IndulgExpress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">indulgexpress.com</span><span class="citation-popover-title">Indulg Express ENHYPEN performs in Melbourne after Leee Heeseung&#x27;s exit</span><span class="citation-popover-snippet">ENHYPEN performs in Melbourne after Leee Heeseung&#x27;s exitMarch 15, 2026...</span><span class="citation-popover-meta">Published: March 15, 2026</span></span></span>
 
 This strategy offers several advantages:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,8 +332,6 @@ This strategy offers several advantages:
 
 The choreography required equally significant adaptation. Seven-member formations naturally create a permanent centre flanked by three members on each side. Six-member formations require different geometry, with centre positions rotating more frequently and spacing redesigned to preserve visual balance. As a result, performances were re-blocked instead of merely leaving an empty space where Heeseung had previously stood. Fan discussions following the first six-[member performances]({{ 'member-contrast/' | relative_url }}) also focused on these formation changes, recognising that choreography had been rebuilt rather than minimally edited.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1rqlg63/what_is_the_plan_for_concerts_what_will_happen/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">what is the plan for concerts? what will happen during heeseung&#x27;s lines</span><span class="citation-popover-snippet">what is the plan for concerts? what will happen during heeseung&#x27;s linesMarch 11, 2026...</span><span class="citation-popover-meta">Published: March 11, 2026</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-2-dark.svg" | relative_url }}" alt="Post Heeseung Roles illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Why overlapping skills matter more than fixed positions
@@ -349,7 +339,6 @@ The choreography required equally significant adaptation. Seven-member formation
 The post-March 2026 lineup demonstrates why ENHYPEN's relatively flexible internal structure became an advantage.
 
 Instead of creating a new "main vocalist", different members appear to assume different responsibilities depending on the material:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -365,8 +354,6 @@ This distributed model reduces dependence on any single performer. A member who 
 
 The approach is also consistent with ENHYPEN's long-standing presentation as an all-round performance group rather than one organised around a rigid official position chart. The six-member era therefore reinforced an existing philosophy instead of introducing an entirely new one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.yna.co.kr/view/AEN20260310008800315?section=culture%2Fk-pop" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.yna.co.kr">[Yonhap News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.yna.co.kr</span><span class="citation-popover-snippet">Yonhap NewsEnhypen reshaped as six-member group with Heeseung&#x27;s departure &#124; Yonhap News AgencyMarch 10, 2026...</span><span class="citation-popover-meta">Published: March 10, 2026</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tGnk-F3saHE" title="UNDERSTANDING HEESEUNG’S DEPARTURE FROM ENHYPEN" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tGnk-F3saHE" target="_blank" rel="noopener noreferrer">UNDERSTANDING HEESEUNG’S DEPARTURE FROM ENHYPEN</a></p><p class="youtube-embed-meta">Channel: Asian Entertainment and Culture</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tGnk-F3saHE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tGnk-F3saHE">Open on YouTube</a></p></div></div></div>
 
 ## Early performances showed the implementation in practice
@@ -377,8 +364,6 @@ Rather than dramatically altering the setlist, ENHYPEN continued performing esta
 
 Among fans, discussion quickly shifted from whether someone would "replace" Heeseung to evaluating how effectively individual lines matched each member's voice and stage presence. Many community discussions praised the reassignment strategy for fitting vocal colour and performance style instead of simply allocating the largest number of lines to one member, although these remain fan interpretations rather than official explanations of the internal decision-making process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Enhypenthoughts/comments/1rtg2te/the_line_changes_were_quite_well_done/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The line changes were quite well done</span><span class="citation-popover-snippet">The line changes were quite well doneMarch 14, 2026...</span><span class="citation-popover-meta">Published: March 14, 2026</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-3-dark.svg" | relative_url }}" alt="Post Heeseung Roles illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_post_heeseung_role_c_7b6c61-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## The broader significance of the redistribution
@@ -387,10 +372,7 @@ The most notable feature of ENHYPEN's six-member rebuild is that it avoided conc
 
 Instead, the group's implementation spread vocal, choreographic and performance duties across the remaining members, allowing different strengths to emerge depending on the repertoire. That strategy preserves flexibility for future releases while reducing reliance on fixed positions. For fans watching the transition unfold, the defining characteristic of the post-Heeseung era has therefore been adaptation through shared responsibility rather than replacement through hierarchy.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dqMYxkfeEjo" title="Why Would Heeseung Leave Enhypen? Discussion Deep Dive" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dqMYxkfeEjo" target="_blank" rel="noopener noreferrer">Why Would Heeseung Leave Enhypen? Discussion Deep Dive</a></p><p class="youtube-embed-meta">Channel: Kpop Cancelled with Angelina</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dqMYxkfeEjo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dqMYxkfeEjo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -882,4 +864,4 @@ Instead, the group's implementation spread vocal, choreographic and performance 
 
 16.<a id="endnote-16"></a>
    Source: soompi.com  
-   Link:<a href="https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group%3Fref%3Dthelowkeygeek.com" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group%3Fref%3Dthelowkeygeek.com</a>  
+   Link:<a href="https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group%3Fref%3Dthelowkeygeek.com" target="_blank" rel="noopener noreferrer nofollow">https://www.soompi.com/article/1824084wpp/breaking-enhypen-announces-heeseungs-departure-from-group%3Fref%3Dthelowkeygeek.com</a>

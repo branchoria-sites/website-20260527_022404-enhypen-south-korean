@@ -304,13 +304,9 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-ov
 
 ENHYPEN’s bond with ENGENE began before the group officially existed. Through the 2020 competition series *I-LAND*, viewers watched trainees live together, complete performance missions, face elimination and gradually form working relationships under pressure. Global voting then helped determine six places in the debut line-up, while the producers selected the seventh. Fans were therefore not simply introduced to a finished act: they had participated in a tightly controlled process that helped decide who would become ENHYPEN.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://beliftlab.com/artist/profile/ENHYPEN" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: beliftlab.com">[beliftlab.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">beliftlab.com</span><span class="citation-popover-snippet">빌리프랩 홈페이지: ENHYPEN30 Nov 2020 — ENHYPEN—consisting of JUNGWON, JAY, JAKE, SUNGHOON, SUNOO, and NI-KI—are a six-member multinational boy g...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-overview.webp" | relative_url }}" alt="Overview image for Origins" loading="eager" decoding="sync" fetchpriority="high">
 
 That origin explains why connection became central to the group’s identity. The name ENHYPEN evokes a hyphen joining separate elements, while ENGENE combines the ideas of an “engine” that drives the group forward and shared “genes” linking artists and fans. These names turned the experience of *I-LAND* into a lasting principle: ENHYPEN’s story would be presented not as something created by the [members]({{ 'members/' | relative_url }}) alone, but as a journey shaped in public alongside an audience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">selected winner will be contacted individually) ENGENE MEMBERSHIP On October 12, 2020, the ENHYPEN GLOBAL OFFICIAL FANCLUB ENGENE MEMBER...</span><span class="citation-popover-meta">Published: October 12, 2020</span></span></span>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -338,7 +334,6 @@ The show’s structure changed as it progressed. Early rounds combined performan
 
 That distinction matters. It is common to describe ENHYPEN simply as a group “chosen by fans”, but *I-LAND* divided authority among several actors:
 
-
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
 * **Viewers** voted repeatedly and ultimately determined most of the debut line-up.
@@ -349,8 +344,6 @@ That distinction matters. It is common to describe ENHYPEN simply as a group “
 </div>
 
 The process gave fans consequential power without transferring full control. ENHYPEN’s formation is best understood as a managed form of audience participation: viewers could change outcomes, but only within a system whose candidates, tests and final safeguards remained under institutional authority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-1-dark.svg" | relative_url }}" alt="Origins illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -366,8 +359,6 @@ The numbers recorded during the pre-debut period show how quickly that attention
 
 These figures were not merely signs of promotional reach. They represented an audience that had already been asked to perform the basic work of fandom: choose favourites, campaign, vote, translate, share and endure uncertainty. ENHYPEN did not have to create a fan community from nothing after debut. The more delicate task was turning several contestant-centred support bases into one group-centred fandom.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9OHc7g6EKIo" title="ENHYPEN GIVEN-TAKEN Debut Theory: Intro: Walk the Line &amp; Given-Taken Teasers Explored" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9OHc7g6EKIo" target="_blank" rel="noopener noreferrer">ENHYPEN GIVEN-TAKEN Debut Theory: Intro: Walk the Line &amp; Given-Taken Teasers Explored</a></p><p class="youtube-embed-meta">Channel: Bookish Theories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9OHc7g6EKIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9OHc7g6EKIo">Open on YouTube</a></p></div></div></div>
 
 ## The meaning behind ENHYPEN and ENGENE
@@ -379,8 +370,6 @@ The fandom name ENGENE, announced on 9 October 2020, developed the same idea in 
 This naming process reinforced the participatory logic inherited from *I-LAND*. The audience had helped shape the line-up; it was then invited to contribute to the identity under which that audience would be organised. ENGENE Membership opened only days after the name was announced, formalising the relationship through Weverse and converting a loose pre-debut following into an official global fan club.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/709" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">selected winner will be contacted individually) ENGENE MEMBERSHIP On October 12, 2020, the ENHYPEN GLOBAL OFFICIAL FANCLUB ENGENE MEMBER...</span><span class="citation-popover-meta">Published: October 12, 2020</span></span></span>
 
 The two names also distribute responsibility in revealing ways. ENHYPEN emphasises connection among separate people, while ENGENE describes fans as both energy source and shared substance. Together, they create a reciprocal story: the members connect to form the group, and the group connects with fans to keep developing. It is an effective identity because it reflects what viewers had already experienced. The “connection” was not invented retrospectively for marketing; the selection programme had made audience participation part of the group’s foundation.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-2-dark.svg" | relative_url }}" alt="Origins illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -394,8 +383,6 @@ This is why ENHYPEN’s fan connection should not be described as uncomplicated 
 
 At the same time, the restrictions do not make that participation imaginary. Jungwon’s first-place final total, the narrow differences among several successful contestants and the elimination of highly supported finalists all show that voting had consequences. The group that debuted was neither solely selected by executives nor solely elected by viewers. It emerged from negotiation between public preference and producer judgement—a hybrid model that continues to shape how fans remember its legitimacy and origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/I-Land" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/coKYvB08CNg" title="I-LAND Final 9 Popularity Ranking Over Time (15 weeks)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=coKYvB08CNg" target="_blank" rel="noopener noreferrer">I-LAND Final 9 Popularity Ranking Over Time (15 weeks)</a></p><p class="youtube-embed-meta">Channel: ENHYPEN ON AIR</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=coKYvB08CNg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=coKYvB08CNg">Open on YouTube</a></p></div></div></div>
 
 ## How debut music carried the story forward
@@ -405,8 +392,6 @@ ENHYPEN’s debut single, “[Given-Taken]({{ 'given-taken/' | relative_url }})�
 The song allowed the group to acknowledge gratitude without presenting debut as simple destiny. Its tension between receiving and earning made the audience’s role part of the music itself. Fans had helped “give” the members an opportunity, but the members still had to justify that opportunity through performance, teamwork and subsequent growth.
 
 This became an early model for ENHYPEN’s relationship with ENGENE. The group’s songs and concepts could operate in a fictional world, but their emotional foundation often returned to recognisable experiences from the programme: being watched, being selected, crossing into an unfamiliar life and wondering what one owes to the people who helped make that transition possible. Contemporary interviews around *Border: Day One* repeatedly connected the record’s emotions to the members’ selection by global fans and the uncertainty surrounding their new position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.elle.com/culture/music/a34920728/enhypen-debut-border-day-one-interview/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: elle.com">[ELLE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">elle.com</span><span class="citation-popover-title">ENHYPEN on Debuting During COVID, Their First EP, and Growing Together</span><span class="citation-popover-snippet">ENHYPEN on Debuting During COVID, Their First EP, and Growing Together</span></span></span>
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-3-dark.svg" | relative_url }}" alt="Origins illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -420,10 +405,7 @@ The bond nevertheless changed in character. During the competition, viewers acte
 
 That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* made fans participants in a bounded selection system; the ENHYPEN and ENGENE identities then recast that participation as a continuing partnership. The result is a fandom relationship grounded not only in admiration for finished performers, but in the memory of having watched—and partly helped govern—the uncertain process through which the group came into being.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k1d7UWGhHmI" title="ENHYPEN &quot;Shout Out&quot; - &#x27;DARK BLOOD&#x27; SPECIAL SHOWCASE" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k1d7UWGhHmI" target="_blank" rel="noopener noreferrer">ENHYPEN &quot;Shout Out&quot; - &#x27;DARK BLOOD&#x27; SPECIAL SHOWCASE</a></p><p class="youtube-embed-meta">Channel: Eye&#x27;s Inn</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k1d7UWGhHmI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k1d7UWGhHmI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -1059,4 +1041,4 @@ That transition is the clearest way to understand ENHYPEN’s origins. *I-LAND* 
 
 58.<a id="endnote-58"></a>
    Source: x.com  
-   Link:<a href="https://x.com/Jeff__Benjamin/status/1314431320672677890?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Jeff__Benjamin/status/1314431320672677890?lang=en</a>  
+   Link:<a href="https://x.com/Jeff__Benjamin/status/1314431320672677890?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/Jeff__Benjamin/status/1314431320672677890?lang=en</a>

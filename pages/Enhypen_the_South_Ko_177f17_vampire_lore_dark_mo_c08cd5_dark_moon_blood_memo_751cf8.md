@@ -276,8 +276,6 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_da
 
 In **ENHYPEN’s *Dark Moon*** universe, blood is more than a source of vampire power or desire. It functions as a living archive that preserves emotional truth when conscious memory has been erased, fragmented or distorted. Characters repeatedly fail to remember their shared past through ordinary recollection, yet blood-based attraction, instinctive trust and involuntary recognition continue to pull them towards one another. This mechanism transforms familiar vampire mythology into a story about identity: memory is not stored only in the mind, but also in the body.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-1-dark.svg" | relative_url }}" alt="Blood Memory illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Rather than presenting fate as an abstract prophecy, *Dark Moon* gives it a physical medium. Blood carries traces of ancient relationships across reincarnations, making longing feel less like coincidence and more like evidence that forgotten lives continue to shape the present. The webtoon, the associated novel, and songs such as **"One In A Billion"** and **"Criminal Love"** all return to this idea, although each emphasises different emotional consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://yenpress.com/series/dark-moon-the-blood-altar-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenpress.com">[Yen Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenpress.com</span><span class="citation-popover-title">Yen Press DARK MOON: THE BLOOD ALTAR (novel) &#124; Comics &#124; Yen Press</span><span class="citation-popover-snippet">Yen PressDARK MOON: THE BLOOD ALTAR (novel) &#124; Comics &#124; Yen PressJuly 6, 2026...</span><span class="citation-popover-meta">Published: July 6, 2026</span></span></span>
@@ -285,8 +283,6 @@ Rather than presenting fate as an abstract prophecy, *Dark Moon* gives it a phys
 ## How blood links hunger, kinship and recognition
 
 Traditional vampire fiction often treats blood as nourishment, inheritance or infection. *Dark Moon* expands that symbolism by allowing blood to perform three functions simultaneously.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -314,8 +310,6 @@ Most importantly, blood acts as a mechanism of recognition. Characters repeatedl
 
 This distinction matters because it separates *Dark Moon* from stories in which recovered memories solve the mystery outright. Here, emotional certainty usually appears before factual certainty. Recognition comes first; explanation follows later.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zSk2C1Lip5k" title="A Basic Explanation of ENHYPEN&#x27;s Dark Moon Lore in 15 Minutes" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zSk2C1Lip5k" target="_blank" rel="noopener noreferrer">A Basic Explanation of ENHYPEN&#x27;s Dark Moon Lore in 15 Minutes</a></p><p class="youtube-embed-meta">Channel: I&#x27;m LUNÉtic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zSk2C1Lip5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zSk2C1Lip5k">Open on YouTube</a></p></div></div></div>
 
 ## Why forgotten memories still shape present relationships
@@ -323,7 +317,6 @@ This distinction matters because it separates *Dark Moon* from stories in which 
 The central romance between Sooha and the vampire brothers is built on recurring encounters across different lifetimes rather than a single continuous history. Official descriptions emphasise recurring dreams, an inexplicable attraction and shared visions of a princess and her knights long before the characters fully understand those images.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://yenpress.com/series/dark-moon-the-blood-altar-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenpress.com">[Yen Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenpress.com</span><span class="citation-popover-title">Yen Press DARK MOON: THE BLOOD ALTAR (novel) &#124; Comics &#124; Yen Press</span><span class="citation-popover-snippet">Yen PressDARK MOON: THE BLOOD ALTAR (novel) &#124; Comics &#124; Yen PressJuly 6, 2026...</span><span class="citation-popover-meta">Published: July 6, 2026</span></span></span>
 
 Those dreams are important because they show memory operating indirectly. Instead of restoring complete historical knowledge, fragments emerge through:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -341,8 +334,6 @@ As a result, attraction in *Dark Moon* is rarely presented as "love at first sig
 ## One In A Billion, Criminal Love and inherited connection
 
 The soundtrack reinforces this bodily understanding of memory without always describing it directly.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-2-dark.svg" | relative_url }}" alt="Blood Memory illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -365,8 +356,6 @@ Blood therefore becomes ethically ambiguous. It is not merely proof of affection
 
 Within the wider *Dark Moon* narrative, this helps explain why reunion rarely brings immediate happiness. Recovering emotional memory forces characters to confront unresolved conflicts carried across multiple lifetimes rather than allowing them to begin anew.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://darkmoon-tba.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darkmoon-tba.com">[「DARK MOON -黒の月:月の祭壇-」アニメ公式サイト]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darkmoon-tba.com</span><span class="citation-popover-title">「DARK MOON -黒の月:月の祭壇-」アニメ公式サイト「DARK MOON -黒の月:月の祭壇-」アニメ公式サイト</span><span class="citation-popover-snippet">「DARK MOON -黒の月:月の祭壇-」アニメ公式サイト「DARK MOON -黒の月:月の祭壇-」アニメ公式サイト</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z8rEDPU-fCU" title="ENHYPEN ‘Fatal Trouble’ Explained + Memorabilia UPDATED! Dark Moon Timeline &amp; Clues" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z8rEDPU-fCU" target="_blank" rel="noopener noreferrer">ENHYPEN ‘Fatal Trouble’ Explained + Memorabilia UPDATED! Dark Moon Timeline &amp; Clues</a></p><p class="youtube-embed-meta">Channel: Bookish Theories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z8rEDPU-fCU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z8rEDPU-fCU">Open on YouTube</a></p></div></div></div>
 
 ## What bodily memory changes about fate and choice
@@ -381,8 +370,6 @@ The bond may survive every erased memory, but each generation must still decide 
 
 This makes bodily memory dramatically richer than simple reincarnation. Reincarnation alone explains repeated meetings. Blood memory explains why those meetings immediately feel meaningful.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-3-dark.svg" | relative_url }}" alt="Blood Memory illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_dark_moon_blood_memo_751cf8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Why blood memory is central to Dark Moon's emotional world
@@ -395,10 +382,7 @@ For readers, this mechanism explains why scenes of eye contact, instinctive prot
 
 That approach aligns closely with ENHYPEN's broader mythology, where recurring themes of destiny, reunion and sacrifice appear across music, concept films and *Dark Moon*. Blood is not simply what sustains immortal life—it is the medium through which forgotten love, loyalty and grief continue to survive even when names, places and conscious memories disappear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://yenpress.com/series/dark-moon-the-blood-altar-novel" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yenpress.com">[Yen Press]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yenpress.com</span><span class="citation-popover-title">Yen Press DARK MOON: THE BLOOD ALTAR (novel) &#124; Comics &#124; Yen Press</span><span class="citation-popover-snippet">Yen PressDARK MOON: THE BLOOD ALTAR (novel) &#124; Comics &#124; Yen PressJuly 6, 2026...</span><span class="citation-popover-meta">Published: July 6, 2026</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sNmadZ2dkqM" title="DARK MOON: THE BLOOD ALTAR Ending | &quot;CRIMINAL LOVE&quot; by ENHYPEN" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sNmadZ2dkqM" target="_blank" rel="noopener noreferrer">DARK MOON: THE BLOOD ALTAR Ending | &quot;CRIMINAL LOVE&quot; by ENHYPEN</a></p><p class="youtube-embed-meta">Channel: Crunchyroll</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sNmadZ2dkqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sNmadZ2dkqM">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -862,4 +846,4 @@ That approach aligns closely with ENHYPEN's broader mythology, where recurring t
 
 22.<a id="endnote-22"></a>
    Source: enhypen.fandom.com  
-   Link:<a href="https://enhypen.fandom.com/wiki/Jakah" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/Jakah</a>  
+   Link:<a href="https://enhypen.fandom.com/wiki/Jakah" target="_blank" rel="noopener noreferrer nofollow">https://enhypen.fandom.com/wiki/Jakah</a>

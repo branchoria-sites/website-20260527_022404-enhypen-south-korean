@@ -282,8 +282,6 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_d
 
 “Drunk-Dazed” is the song that most directly transforms ENHYPEN’s real experience of sudden success into a surreal horror fantasy. Released as the title track of *Border: Carnival* in April 2021, it imagines post-debut life as an endless carnival where excitement, glamour and danger become impossible to separate. Rather than celebrating fame as a straightforward reward, the song presents it as an intoxicating state in which the [members]({{ 'members/' | relative_url }}) are simultaneously exhilarated, overwhelmed and at risk of losing themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nme.com/reviews/enhypen-border-carnival-drunk-dazed-review-2929601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nme.com">[NME]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nme.com</span><span class="citation-popover-title">ENHYPEN – ‘Border: Carnival’ review: a disorientating but delectable party</span><span class="citation-popover-snippet">ENHYPEN – ‘Border: Carnival’ review: a disorientating but delectable partyApril 28, 2021...</span><span class="citation-popover-meta">Published: April 28, 2021</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-1-dark.svg" | relative_url }}" alt="Drunk Dazed illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Within ENHYPEN’s wider storyline, “Drunk-Dazed” represents the moment after crossing the threshold introduced by “[Given-Taken]({{ 'given-taken/' | relative_url }})”. The uncertainty of debut has been replaced by public attention, but that attention comes with distorted reality, relentless stimulation and constant performance. The result is one of the group's defining artistic statements: a high-energy anthem whose euphoric surface conceals an unusually thoughtful reflection on what rapid fame can feel like.
@@ -291,8 +289,6 @@ Within ENHYPEN’s wider storyline, “Drunk-Dazed” represents the moment afte
 ## The real post-debut pressures behind the carnival concept
 
 The central idea behind *Border: Carnival* was not fictional excess for its own sake. BELIFT LAB described the album as depicting the unfamiliar, glamorous and confusing world ENHYPEN encountered after debut, comparing their new reality to an overwhelming carnival where ordinary rules no longer seemed to apply. Early promotional descriptions likewise explained that “Drunk-Dazed” portrays a first encounter with a chaotic world in which everything has been turned upside down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/140?artist=&amp;category=&amp;lang=en&amp;query=enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine ENHYPEN’s grand carnival</span><span class="citation-popover-snippet">Weverse MagazineENHYPEN’s grand carnival - Weverse Magazine...</span></span></span>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -318,7 +314,6 @@ The members themselves consistently framed the song through that experience rath
 
 This makes "Drunk-Dazed" unusual among celebratory comeback singles. It acknowledges that achieving a dream does not eliminate uncertainty. Instead, success introduces new forms of pressure:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * constant public observation
@@ -330,8 +325,6 @@ This makes "Drunk-Dazed" unusual among celebratory comeback singles. It acknowle
 </div>
 
 Rather than rejecting fame, the song explores how intoxicating it can become. The carnival is attractive precisely because the members willingly enter it.
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-YJxjdygdes" title="ENHYPEN DRUNK-DAZED Concept Explained + Storyline Theory (DARK MOON with ENHYPEN)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 15:00">15:00</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-YJxjdygdes" target="_blank" rel="noopener noreferrer">ENHYPEN DRUNK-DAZED Concept Explained + Storyline Theory (DARK MOON with ENHYPEN)</a></p><p class="youtube-embed-meta">Channel: Bookish Theories &middot; Views: 47.5K &middot; Uploaded: April 2021 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-YJxjdygdes" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-YJxjdygdes">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +340,6 @@ The song's structure reinforces the same idea.
 
 Instead of offering long melodic pauses, it continually accelerates through:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * dense instrumental layering
@@ -360,8 +352,6 @@ Instead of offering long melodic pauses, it continually accelerates through:
 This constant forward motion mirrors the emotional state implied by the title. Being "drunk" and "dazed" is not simply about celebration—it suggests losing orientation while still moving forward.
 
 Weverse Magazine similarly observed that the members' vocals are frequently submerged beneath the enormous instrumental backdrop. Rather than emphasising individual voices, the mix creates the impression that the carnival itself is louder than the people inside it, making the spectacle almost overpowering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/140?artist=&amp;category=&amp;lang=en&amp;query=enhypen" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine ENHYPEN’s grand carnival</span><span class="citation-popover-snippet">Weverse MagazineENHYPEN’s grand carnival - Weverse Magazine...</span></span></span>
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-2-dark.svg" | relative_url }}" alt="Drunk Dazed illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -379,8 +369,6 @@ This visual approach also extends ideas introduced in "Given-Taken". Instead of 
 
 Later commentary on the group's artistic development has repeatedly identified *Border: Carnival* as the moment where the vampire narrative became inseparable from reflections on celebrity, using supernatural transformation as an allegory for becoming public figures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dazeddigital.com/music/article/59946/1/enhypen-interview-dark-blood-jungwon-eeeseung-jay-jake-sunghoon-sunoo-ni-ki" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dazeddigital.com">[Dazed Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dazeddigital.com</span><span class="citation-popover-snippet">Dazed DigitalENHYPEN ride high with their new EP: ‘Pressure makes us better artists’ &#124; DazedMay 26, 2023...</span><span class="citation-popover-meta">Published: May 26, 2023</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Adq2EUa0-6A" title="ENHYPEN&#x27;s Vampire Concept is DEEPER Than You Think" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 16:56">16:56</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Adq2EUa0-6A" target="_blank" rel="noopener noreferrer">ENHYPEN&#x27;s Vampire Concept is DEEPER Than You Think</a></p><p class="youtube-embed-meta">Channel: PurpleTeeJ &middot; Views: 19.3K &middot; Uploaded: February 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Adq2EUa0-6A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Adq2EUa0-6A">Open on YouTube</a></p></div></div></div>
 
 ## Why the blood-soaked performance remains a concert highlight
@@ -397,7 +385,6 @@ The recurring use of blood-red costumes and effects has become especially memora
 
 The choreography itself contains several moments that fans immediately associate with the song:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the explosive opening formations
@@ -409,8 +396,6 @@ The choreography itself contains several moments that fans immediately associate
 
 Because of this combination of narrative, athleticism and theatrical imagery, "Drunk-Dazed" remains one of the performances most closely associated with ENHYPEN's identity.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-3-dark.svg" | relative_url }}" alt="Drunk Dazed illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_drunk_dazed_fame_car_058527-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Why the song became a defining statement
@@ -421,10 +406,7 @@ Many K-pop songs celebrate reaching success. Far fewer examine what happens imme
 
 That balance explains why the song continues to occupy a distinctive place within ENHYPEN's catalogue. It advances the group's vampire mythology, showcases one of their strongest performance pieces and captures a specific emotional moment that could only have been written immediately after debut: the bewildering experience of discovering that dreams, once achieved, can feel just as destabilising as they are exhilarating.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nme.com/reviews/enhypen-border-carnival-drunk-dazed-review-2929601" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nme.com">[nme.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nme.com</span><span class="citation-popover-title">ENHYPEN – ‘Border: Carnival’ review: a disorientating but delectable party</span><span class="citation-popover-snippet">ENHYPEN – ‘Border: Carnival’ review: a disorientating but delectable partyApril 28, 2021...</span><span class="citation-popover-meta">Published: April 28, 2021</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zc1KaUNYfw8" title="ENHYPEN - Drunk-Dazed - UK K-Pop Fans Reaction" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zc1KaUNYfw8" target="_blank" rel="noopener noreferrer">ENHYPEN - Drunk-Dazed - UK K-Pop Fans Reaction</a></p><p class="youtube-embed-meta">Channel: Along For The Ride</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zc1KaUNYfw8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zc1KaUNYfw8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -953,4 +935,4 @@ That balance explains why the song continues to occupy a distinctive place withi
 25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: BORDER: CARNIVAL by ENHYPEN — Honest First Listen & Review  
-   Link:<a href="https://www.youtube.com/watch?v=6ZmM0BgICHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6ZmM0BgICHc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=6ZmM0BgICHc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6ZmM0BgICHc</a>

@@ -306,17 +306,11 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-overvie
 
 The four songs that best explain ENHYPEN are “[Given-Taken]({{ 'given-taken/' | relative_url }})”, “[Drunk-Dazed]({{ 'drunk-dazed/' | relative_url }})”, “FEVER” and “Bite Me”. Together, they trace the group’s central dramatic movement: uncertainty becomes exhilaration, exhilaration becomes desire, and desire becomes a dangerous form of connection. They also show why ENHYPEN’s vampire imagery works. Blood, thirst, curses and surrender are not merely decorations; they give physical shape to anxieties about debuting, being watched, wanting someone and depending on them.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-overview.webp" | relative_url }}" alt="Overview image for Essential Songs" loading="eager" decoding="sync" fetchpriority="high">
 
 Each track captures a different strength. “Given-Taken” turns the group’s survival-show origin into an unusually self-questioning debut. “Drunk-Dazed” makes sudden fame sound like a party spinning out of control. “[FEVER]({{ 'fever/' | relative_url }})” slows that chaos into intimate longing. “[Bite Me]({{ 'bite-me/' | relative_url }})” then compresses ENHYPEN’s ideas about fate, sacrifice and performance into one of their clearest pop statements. Heard in sequence, the songs reveal a group whose appeal lies in making vulnerable emotions feel theatrical without making them feel unreal.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4-keAPArp9A" title="ENHYPEN (엔하이픈) ‘Drunk-Dazed’ Dance Practice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:28">3:28</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4-keAPArp9A" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘Drunk-Dazed’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 14.0M &middot; Uploaded: May 2021 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4-keAPArp9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4-keAPArp9A">Open on YouTube</a></p></div></div></div>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -348,8 +342,6 @@ The supernatural imagery strengthens that tension. Fangs, blood and transformati
 
 Not every critic regarded the track as a fully formed debut statement. Some reviews found its opening slow or its vocal processing too heavy. Yet those reservations help explain why it remains revealing: “Given-Taken” is less an instant crowd-pleaser than a blueprint. Its atmosphere, moral uncertainty and polished unease provided material ENHYPEN would sharpen on later releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://thebiaslist.com/2020/11/30/song-review-enhypen-given-taken/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thebiaslist.com">[Bias List]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thebiaslist.com</span><span class="citation-popover-title">Bias List Song Review: ENHYPEN – Given-Taken</span><span class="citation-popover-snippet">Bias ListSong Review: ENHYPEN – Given-TakenNovember 30, 2020 — 30 Nov 2020 — The song takes way too long to get going, wasting its first...</span><span class="citation-popover-meta">Published: November 30, 2020</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-1-dark.svg" | relative_url }}" alt="Essential Songs illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## How “Drunk-Dazed” turns fame into a carnival
@@ -363,8 +355,6 @@ This is why “Drunk-Dazed” is more than a high-energy comeback. Its excitemen
 The music video makes the metaphor deliberately excessive. A grand party becomes a blood-soaked nightmare, with fountains, chandeliers and formal styling collapsing into supernatural chaos. Blood functions simultaneously as drink, inheritance and danger. The members appear to belong at the celebration and to be trapped inside it. That visual uncertainty mirrors the song’s perspective: they are intoxicated by the new world even as they recognise that it may be changing them.
 
 On stage, “Drunk-Dazed” demonstrates ENHYPEN’s ability to turn group synchronisation into narrative. The choreography is rapid and densely organised, with sharp head movements, collapses and rebounds that suggest bodies being pulled by forces outside themselves. Yet the formations remain disciplined. The dancers look dazed without the performance ever becoming messy. This combination of apparent abandon and hidden exactness is one reason the track became such a durable concert centrepiece.
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fc7-Oe0tj5k" title="ENHYPEN (엔하이픈) &#x27;Drunk-Dazed&#x27; Official MV" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 4:43">4:43</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fc7-Oe0tj5k" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) &#x27;Drunk-Dazed&#x27; Official MV</a></p><p class="youtube-embed-meta">Channel: HYBE LABELS &middot; Views: 165.7M &middot; Uploaded: April 2021 &middot; Length: 4 minutes 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fc7-Oe0tj5k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fc7-Oe0tj5k">Open on YouTube</a></p></div></div></div>
 
@@ -382,8 +372,6 @@ Its restraint distinguishes it within the catalogue. Many ENHYPEN songs build dr
 
 Together, “Drunk-Dazed” and “FEVER” form an especially useful pair. The first externalises pressure as a chaotic celebration, while the second internalises it as bodily longing. One is crowded and dizzying; the other is close and claustrophobic. Both describe surrender, but at different scales.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-2-dark.svg" | relative_url }}" alt="Essential Songs illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## What “Bite Me” clarifies about connection
@@ -400,14 +388,11 @@ The performance makes the song’s relational theme visible. Pair choreography w
 
 The controversy should not overshadow the artistic choice. The choreography gives physical meaning to a song about mutual dependence: another body is not background decoration but the force that completes the movement. It also makes “Bite Me” an important performance marker for ENHYPEN, demonstrating greater confidence in presenting desire as an interaction rather than an abstract pose.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jcsLJ_xlDsM" title="Musicians React &amp; Review: ENHYPEN &#x27;Drunk-Dazed&#x27;" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 14:28">14:28</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jcsLJ_xlDsM" target="_blank" rel="noopener noreferrer">Musicians React &amp; Review: ENHYPEN &#x27;Drunk-Dazed&#x27;</a></p><p class="youtube-embed-meta">Channel: ReacttotheK &middot; Views: 232.2K &middot; Uploaded: May 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jcsLJ_xlDsM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jcsLJ_xlDsM">Open on YouTube</a></p></div></div></div>
 
 ## What these four songs reveal together
 
 These tracks are not simply four popular points in ENHYPEN’s discography. They form a compact emotional sequence:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -423,10 +408,7 @@ Sound and choreography perform the same work. Dark electronic pop supplies uneas
 
 This is the core of ENHYPEN’s appeal: their songs do not ask listeners to choose between personal confession and elaborate concept. At their best, the concept is the confession. “Given-Taken”, “Drunk-Dazed”, “FEVER” and “Bite Me” make anxiety, attention, longing and attachment large enough for an arena while preserving the uncertainty that made those feelings compelling in the first place.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-3-dark.svg" | relative_url }}" alt="Essential Songs illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -1003,4 +985,4 @@ This is the core of ENHYPEN’s appeal: their songs do not ask listeners to choo
 
 37.<a id="endnote-37"></a>
    Source: grammy.com  
-   Link:<a href="https://www.grammy.com/news/enhypen-paradoxxx-invasion-performance-video-manifesto-day-1-grammy-museum-global-spin-live" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/enhypen-paradoxxx-invasion-performance-video-manifesto-day-1-grammy-museum-global-spin-live</a>  
+   Link:<a href="https://www.grammy.com/news/enhypen-paradoxxx-invasion-performance-video-manifesto-day-1-grammy-museum-global-spin-live" target="_blank" rel="noopener noreferrer nofollow">https://www.grammy.com/news/enhypen-paradoxxx-invasion-performance-video-manifesto-day-1-grammy-museum-global-spin-live</a>

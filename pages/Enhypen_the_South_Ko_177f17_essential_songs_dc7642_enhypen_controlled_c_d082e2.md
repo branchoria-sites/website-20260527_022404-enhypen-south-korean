@@ -276,8 +276,6 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen
 
 ENHYPEN’s performances are built on a deliberate contradiction. Their songs repeatedly describe confusion, temptation, obsession and emotional surrender, yet their [choreography]({{ 'choreography/' | relative_url }}) is among the most exacting elements of their identity. Rather than illustrating chaos with uncontrolled movement, the group creates the *illusion* of instability through flawless timing, rapid formation changes and carefully measured gestures. This tension has become one of the defining mechanisms that connects their major title tracks, making emotions that seem overwhelming feel even more convincing because every movement remains under complete control.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-1-dark.svg" | relative_url }}" alt="Controlled Chaos illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Across “[Given-Taken]({{ 'given-taken/' | relative_url }})”, “[Drunk-Dazed]({{ 'drunk-dazed/' | relative_url }})”, “FEVER” and “Bite Me”, the choreography functions almost like a second narrative. Instead of simply decorating the music, it shows how ENHYPEN transform uncertainty into something visible: bodies appear to lose balance, become pulled by unseen forces or surrender to desire, while the group's collective precision quietly reassures the audience that nothing is accidental. This contrast is one of the clearest ways to understand why ENHYPEN's stage identity feels distinctive within fourth-generation K-pop.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grammy.com/news/enhypen-interview-border-day-one-k-pop/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[grammy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-title">Meet ENHYPEN, K-Pop’s Latest Breakout Boy Group &#124; Grammy</span><span class="citation-popover-snippet">Meet ENHYPEN, K-Pop’s Latest Breakout Boy Group &#124; GrammyJanuary 8, 2021...</span><span class="citation-popover-meta">Published: January 8, 2021</span></span></span>
@@ -285,8 +283,6 @@ Across “[Given-Taken]({{ 'given-taken/' | relative_url }})”, “[Drunk-Dazed
 ## The performance grammar established by *Given-Taken*
 
 Although "Given-Taken" introduced ENHYPEN through questions about whether success had been earned or simply received, its choreography established an equally important visual language. The performance rarely relies on constant explosive movement. Instead, it alternates between stillness and sudden expansion, creating the impression that the [members]({{ 'members/' | relative_url }}) are repeatedly crossing invisible boundaries.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -310,7 +306,6 @@ One of the choreography's defining features is its unusually dense sequence of f
 
 The choreography also establishes recurring visual ideas that ENHYPEN continue using in later eras:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Linked bodies** suggest shared fate rather than individual expression.
@@ -321,8 +316,6 @@ The choreography also establishes recurring visual ideas that ENHYPEN continue u
 </div>
 
 Contemporary commentary noted that the choreography was unusually intricate for a rookie group, particularly in its opening sequence and its constant movement between formations. Rather than overwhelming viewers with acrobatics, the difficulty comes from synchronisation and spatial awareness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.soompi.com/article/1441830wpp/watch-enhypen-gives-closer-look-at-choreo-for-debut-track-given-taken-in-new-dance-practice-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: soompi.com">[Soompi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">soompi.com</span><span class="citation-popover-snippet">Watch: ENHYPEN Gives Closer Look At Choreo For Debut Track &quot;Given-Taken&quot; In New Dance Practice Video &#124; SoompiDecember 5, 2020...</span><span class="citation-popover-meta">Published: December 5, 2020</span></span></span>
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4-keAPArp9A" title="ENHYPEN (엔하이픈) ‘Drunk-Dazed’ Dance Practice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 3:28">3:28</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4-keAPArp9A" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘Drunk-Dazed’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 14.0M &middot; Uploaded: May 2021 &middot; Length: 3 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4-keAPArp9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4-keAPArp9A">Open on YouTube</a></p></div></div></div>
 
@@ -342,8 +335,6 @@ Several choreographic choices reinforce this paradox.
 
 The result resembles theatrical disorientation rather than spontaneous disorder. The choreography communicates that the characters have lost emotional control while the performers never lose technical control. Weverse Magazine described this contrast as central to the performance, noting how zombie- and vampire-like movement paradoxically highlights the group's vitality because of its exceptional synchronisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/140?category=5&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine ENHYPEN’s grand carnival</span><span class="citation-popover-snippet">Weverse MagazineENHYPEN’s grand carnival - Weverse Magazine...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-2-dark.svg" | relative_url }}" alt="Controlled Chaos illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## How *FEVER* makes surrender feel deliberate
@@ -356,7 +347,6 @@ This slower vocabulary changes how emotional vulnerability is presented. Desire 
 
 Because the choreography avoids unnecessary excess, viewers focus on details that would disappear inside faster routines:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * the exact timing of body waves,
@@ -368,8 +358,6 @@ Because the choreography avoids unnecessary excess, viewers focus on details tha
 </div>
 
 The choreography therefore transforms surrender into something intentional. Rather than depicting emotional collapse through disorder, ENHYPEN show characters yielding step by step, reinforcing the group's recurring theme that temptation is strongest when it appears voluntary.
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SAsGObLZxjY" title="ENHYPEN (엔하이픈) ‘Bite Me’ Dance Practice" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 2:55">2:55</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SAsGObLZxjY" target="_blank" rel="noopener noreferrer">ENHYPEN (엔하이픈) ‘Bite Me’ Dance Practice</a></p><p class="youtube-embed-meta">Channel: ENHYPEN &middot; Views: 9.1M &middot; Uploaded: May 2023 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SAsGObLZxjY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SAsGObLZxjY">Open on YouTube</a></p></div></div></div>
 
@@ -385,8 +373,6 @@ This balance is important to the song's themes. "Bite Me" explores connection, d
 
 By maintaining immaculate synchronisation even during emotionally charged sections, ENHYPEN reinforce a recurring message across their discography: surrender is never random. It follows rules.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-3-dark.svg" | relative_url }}" alt="Controlled Chaos illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_essential_songs_dc7642_enhypen_controlled_c_d082e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## Why the contradiction defines ENHYPEN's stage identity
@@ -394,7 +380,6 @@ By maintaining immaculate synchronisation even during emotionally charged sectio
 Many performance-focused K-pop groups emphasise synchronisation, but ENHYPEN repeatedly use synchronisation for a specific dramatic purpose rather than as an end in itself.
 
 Across these defining songs, precision serves several narrative functions:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -409,10 +394,7 @@ This consistency also reflects how the group describe themselves. From debut int
 
 Rather than treating dance as accompaniment, ENHYPEN use choreography as narrative architecture. Their songs often describe people overwhelmed by circumstances beyond their control, yet the performances reveal something more subtle: chaos becomes compelling precisely because every gesture has already been mastered. That enduring contrast—emotional surrender expressed through absolute physical discipline—is one of the clearest threads linking "Given-Taken", "Drunk-Dazed", "FEVER" and "Bite Me", and one of the strongest explanations for ENHYPEN's distinctive performance identity.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3Od-4tNaZgA" title="Проф. хореографы про ENHYPEN | Drunk-dazed, Bite me, Fatal trouble" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3Od-4tNaZgA" target="_blank" rel="noopener noreferrer">Проф. хореографы про ENHYPEN | Drunk-dazed, Bite me, Fatal trouble</a></p><p class="youtube-embed-meta">Channel: NEMESIS</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3Od-4tNaZgA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3Od-4tNaZgA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">

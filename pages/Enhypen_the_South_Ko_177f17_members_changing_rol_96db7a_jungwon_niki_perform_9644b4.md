@@ -282,11 +282,7 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_ju
 
 Within ENHYPEN, performance leadership is not concentrated in a single member. Instead, it operates along two complementary axes: Jungwon provides the formal leadership that keeps rehearsals, performances and team dynamics steady, while Ni-Ki functions as the group's strongest technical reference point for dance. Rather than competing for authority, the two fulfil different needs. Jungwon maintains consistency under pressure and helps align the [members]({{ 'members/' | relative_url }}) behind a shared performance standard, whereas Ni-Ki raises the technical ceiling by introducing movement details, stylistic precision and choreographic insight. Together, they form the mechanism that helps ENHYPEN deliver cohesive, demanding stages without relying on a single all-purpose performance leader.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/459?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-snippet">Weverse MagazineJUNGWON: “I don’t have any regrets because I’m doing the job I want to” - Weverse Magazine...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-1-dark.svg" | relative_url }}" alt="Performance Axis illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -314,8 +310,6 @@ His interviews also show how he approaches performance analytically. Jungwon spe
 
 This makes him an important stabilising figure during live performances. Even when choreography becomes increasingly complex, Jungwon's emphasis remains on control, timing and maintaining the group's overall balance instead of drawing attention solely to himself. His leadership therefore extends beyond organisation into performance quality itself.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VVCa8_xDPAE" title="Dancer Breakdown: ENHYPEN (엔하이픈) &#x27;Fatal Trouble&#x27; Dance Practice (ft. MOTF)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 8:28">8:28</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VVCa8_xDPAE" target="_blank" rel="noopener noreferrer">Dancer Breakdown: ENHYPEN (엔하이픈) &#x27;Fatal Trouble&#x27; Dance Practice (ft. MOTF)</a></p><p class="youtube-embed-meta">Channel: STEEZY &middot; Views: 347.1K &middot; Uploaded: February 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VVCa8_xDPAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VVCa8_xDPAE">Open on YouTube</a></p></div></div></div>
 
 ## Ni-Ki's authority in dance and choreography
@@ -327,8 +321,6 @@ Jungwon himself has openly acknowledged this dynamic. Discussing their STUDIO CH
 That influence became even more explicit during preparations for "[Bite Me]({{ 'bite-me/' | relative_url }})". Jungwon revealed that Ni-Ki helped develop aspects of the choreography and introduced unfamiliar movement vocabulary derived from his longer dance experience. Jungwon explained that the members learned directly from Ni-Ki during practice and that he personally spent significant time refining those new techniques afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/740?artist=ENHYPEN&amp;lang=en%2F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine JUNGWON: “I don’t want to lower their expectations”</span><span class="citation-popover-snippet">Weverse MagazineJUNGWON: “I don’t want to lower their expectations” - Weverse Magazine...</span></span></span>
 
 This places Ni-Ki in an unusual position for someone who debuted as the group's youngest member. His authority comes not from formal rank but from recognised expertise, allowing him to shape performance quality through technical knowledge rather than organisational responsibility.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-2-dark.svg" | relative_url }}" alt="Performance Axis illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -344,16 +336,11 @@ Their STUDIO CHOOM MIX & MAX performance offers a practical example of this part
 
 Another important aspect of this mechanism is that Jungwon does not attempt to be the unquestioned dance authority. Instead, he consistently acknowledges learning from other members—including Ni-Ki and Jay—while focusing on refining his own execution. That willingness to recognise specialist strengths reinforces, rather than weakens, his leadership because it encourages collaboration instead of hierarchy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/740?artist=ENHYPEN&amp;lang=en%2F" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine JUNGWON: “I don’t want to lower their expectations”</span><span class="citation-popover-snippet">Weverse MagazineJUNGWON: “I don’t want to lower their expectations” - Weverse Magazine...</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oiBLJPvGNc8" title="[MIX &amp; MAX] ENHYPEN JUNGWON &amp; NI-KI (정원 &amp; 니키) &#x27;Bleeding Darkness&#x27; (4K)" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oiBLJPvGNc8" target="_blank" rel="noopener noreferrer">[MIX &amp; MAX] ENHYPEN JUNGWON &amp; NI-KI (정원 &amp; 니키) &#x27;Bleeding Darkness&#x27; (4K)</a></p><p class="youtube-embed-meta">Channel: STUDIO CHOOM [스튜디오 춤]</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oiBLJPvGNc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oiBLJPvGNc8">Open on YouTube</a></p></div></div></div>
-
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UlqHuIDSqng" title="ENHYPEN Dance Jam Live #220521" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UlqHuIDSqng" target="_blank" rel="noopener noreferrer">ENHYPEN Dance Jam Live #220521</a></p><p class="youtube-embed-meta">Channel: ENHYPEN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UlqHuIDSqng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UlqHuIDSqng">Open on YouTube</a></p></div></div></div>
 
 ## Why this performance axis matters
-
 
 <div class="content-callout content-callout--key content-callout--takeaway" markdown="1">
 
@@ -363,10 +350,7 @@ As ENHYPEN's choreography has evolved from high-energy routines towards performa
 
 For fans, this explains why the pair are frequently discussed together despite holding different roles. Jungwon anchors the group through composure, communication and dependable execution, while Ni-Ki provides the artistic and technical reference that pushes the choreography forward. ENHYPEN's performance identity is therefore sustained not by a single dominant figure but by the interaction between these complementary forms of leadership.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-3-dark.svg" | relative_url }}" alt="Performance Axis illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_jungwon_niki_perform_9644b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -899,4 +883,4 @@ For fans, this explains why the pair are frequently discussed together despite h
 29.<a id="endnote-29"></a>
    Source: koreaboo.com  
    Title: ENHYPE N's Leader Jungwon Revealed Why BTS' Jungkook Is His Role Model  
-   Link:<a href="https://www.koreaboo.com/stories/bts-jungkook-enhypen-jungwon-rolemodel/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/stories/bts-jungkook-enhypen-jungwon-rolemodel/</a>  
+   Link:<a href="https://www.koreaboo.com/stories/bts-jungkook-enhypen-jungwon-rolemodel/" target="_blank" rel="noopener noreferrer nofollow">https://www.koreaboo.com/stories/bts-jungkook-enhypen-jungwon-rolemodel/</a>

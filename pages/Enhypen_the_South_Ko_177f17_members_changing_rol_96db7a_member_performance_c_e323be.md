@@ -276,8 +276,6 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_me
 
 One of ENHYPEN's defining strengths is that the [members]({{ 'members/' | relative_url }}) rarely perform fixed, unchanging roles. Instead, they create contrast by bringing different physical qualities, vocal colours and emotional approaches to the same song. Rather than relying on one member to carry a particular concept, ENHYPEN's performances become more dynamic because individual members shift the atmosphere whenever they take centre stage. This flexibility allows darker concepts to include moments of warmth, energetic tracks to gain precision, and softer passages to retain dramatic tension. Official interviews with the group and BELIFT LAB's performance team consistently emphasise that each member has a distinctive performance identity rather than a rigid position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/612?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-snippet">Weverse Magazine2022 ENHYPEN MOMENT: Performance - Weverse Magazine...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-1-dark.svg" | relative_url }}" alt="Member Contrast illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 
 Within that broader system, Jay, Jake, Sunghoon and Sunoo illustrate particularly different ways of shaping a song's emotional direction. Their contrasting strengths help explain why ENHYPEN's performances feel varied even when the [choreography]({{ 'choreography/' | relative_url }}) remains tightly synchronised.
@@ -285,8 +283,6 @@ Within that broader system, Jay, Jake, Sunghoon and Sunoo illustrate particularl
 ## Jay and Jake: intensity and warmth in the same performance
 
 Although Jay and Jake often stand beside each other in formations, they usually affect a performance in different ways.
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -314,8 +310,6 @@ That quality gives ENHYPEN an emotional peak whenever choreography requires forc
 
 Importantly, this intensity is not limited to darker songs. In brighter material, Jay often provides the edge that prevents performances from becoming overly soft, maintaining dramatic momentum while adapting to the overall concept.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MM5lBmfHj7U" title="Professional Dancer Reacts To ENHYPEN &quot;Drunk-Dazed&quot; [Rehearsal + Performance]" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 25:45">25:45</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MM5lBmfHj7U" target="_blank" rel="noopener noreferrer">Professional Dancer Reacts To ENHYPEN &quot;Drunk-Dazed&quot; [Rehearsal + Performance]</a></p><p class="youtube-embed-meta">Channel: Emeroy Bernardo &middot; Views: 97.7K &middot; Uploaded: July 2021 &middot; Length: 25 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MM5lBmfHj7U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MM5lBmfHj7U">Open on YouTube</a></p></div></div></div>
 
 ### Jake softens transitions without reducing energy
@@ -328,7 +322,6 @@ This flexibility is particularly valuable because ENHYPEN's music frequently mov
 
 Together, Jay and Jake demonstrate two different methods of creating impact:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Jay** increases dramatic intensity through power and emotional commitment.
@@ -340,8 +333,6 @@ Together, Jay and Jake demonstrate two different methods of creating impact:
 ## Sunghoon and Sunoo: precision and emotional contrast
 
 Sunghoon and Sunoo provide another important form of contrast. Their differences are less about energy levels than about the emotional texture they bring to identical choreography.
-
-
 
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-2-dark.svg" | relative_url }}" alt="Member Contrast illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -363,8 +354,6 @@ His own interviews reinforce that this versatility comes through deliberate work
 
 As a result, Sunoo often functions as emotional contrast rather than emotional opposition. His brighter facial expressions can make dark concepts feel more layered, while his increasingly refined technique allows him to match technically demanding choreography without losing his individual character.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XM-2dHkGhis" title="Who&#x27;s the best idol performer? | Enhypen ultimate dance analysis" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XM-2dHkGhis" target="_blank" rel="noopener noreferrer">Who&#x27;s the best idol performer? | Enhypen ultimate dance analysis</a></p><p class="youtube-embed-meta">Channel: Psychorious</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XM-2dHkGhis" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XM-2dHkGhis">Open on YouTube</a></p></div></div></div>
 
 ## Why performing against type matters
@@ -374,7 +363,6 @@ Perhaps the most interesting aspect of ENHYPEN's performance style is that these
 The group's performance director has explained that ENHYPEN's individuality has become stronger as members contribute more ideas during choreography development and become increasingly involved in shaping performances themselves. Rather than assigning each member one permanent image, the team develops choreography that allows different personalities to emerge within the same concept.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/612?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-snippet">Weverse Magazine2022 ENHYPEN MOMENT: Performance - Weverse Magazine...</span></span></span>
 
 This explains why members can successfully perform against audience expectations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,8 +375,6 @@ This explains why members can successfully perform against audience expectations
 
 These shifts prevent the group from becoming predictable. Fans often recognise familiar strengths, but the performances remain engaging because those strengths are continually applied in new contexts.
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-3-dark.svg" | relative_url }}" alt="Member Contrast illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_member_performance_c_e323be-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 ## How these contrasts strengthen ENHYPEN's identity
@@ -397,10 +383,7 @@ ENHYPEN's flexible role system works because contrasting performance styles are 
 
 Instead of assigning permanent emotional functions to individual members, ENHYPEN's performances rely on controlled contrast. As concepts evolve from comeback to comeback, these members repeatedly demonstrate that the group's identity comes not from fixed positions but from the interaction between distinct personalities, allowing the same choreography and music to communicate different moods depending on who occupies the spotlight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/612?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-snippet">Weverse Magazine2022 ENHYPEN MOMENT: Performance - Weverse Magazine...</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cGnWeZ_7-6I" title="PRO DANCER REACTS TO ENHYPEN &#x27;Future Perfect (Pass the MIC)&#x27; Official MV + 엔하이픈 Pass the MIC Dance" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cGnWeZ_7-6I" target="_blank" rel="noopener noreferrer">PRO DANCER REACTS TO ENHYPEN &#x27;Future Perfect (Pass the MIC)&#x27; Official MV + 엔하이픈 Pass the MIC Dance</a></p><p class="youtube-embed-meta">Channel: ChrisStillBeTalkin</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cGnWeZ_7-6I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cGnWeZ_7-6I">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
@@ -931,4 +914,4 @@ Instead of assigning permanent emotional functions to individual members, ENHYPE
 26.<a id="endnote-26"></a>
    Source: vogue.co.uk  
    Title: Say Hello To Enhypen, Your Latest K-Pop Obsession | British Vogue  
-   Link:<a href="https://www.vogue.co.uk/miss-vogue/article/enhypen-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.co.uk/miss-vogue/article/enhypen-interview</a>  
+   Link:<a href="https://www.vogue.co.uk/miss-vogue/article/enhypen-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.vogue.co.uk/miss-vogue/article/enhypen-interview</a>

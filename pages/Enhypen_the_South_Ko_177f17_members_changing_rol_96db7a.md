@@ -306,13 +306,9 @@ image: /assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-ph
 
 ENHYPEN now operate as a six-member group: Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-Ki. They debuted with seven members in November 2020, but BELIFT LAB announced on 10 March 2026 that Heeseung would leave to pursue a distinct musical direction while remaining with the company as a solo artist. The agency’s current profile formally presents ENHYPEN as a six-member act.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[weverse.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN&#x27;s Future ActivitiesHEESEUNG will be parting ways with ENHYPEN, and ENHYPEN will continue official activities henc...</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-1-dark.svg" | relative_url }}" alt="Members illustration 1" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 The change matters because Heeseung had been one of the group’s most prominent vocal and performance anchors. His departure did not simply remove one face from photographs; it required ENHYPEN to redistribute lines, formations, vocal responsibility and the less visible work of stabilising live performances. Yet it would be misleading to treat the remaining members as replacements filling six rigid job descriptions. Apart from Jungwon’s confirmed leadership, ENHYPEN have generally been presented as a flexible, all-round performance team rather than a group built around an extensive list of official positions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.teenvogue.com/story/enhypen-guide-k-pop-rookies-with-global-fandom" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: teenvogue.com">[Teen Vogue]</a><span class="citation-popover" role="note"><span class="citation-popover-source">teenvogue.com</span><span class="citation-popover-title">Teen Vogue Meet ENHYPEN, the K-Pop Rookies That Already Have a Global Fandom</span><span class="citation-popover-snippet">Jungwon was chosen to be ENHYPEN&#x27;s leader after a lengthy selection process that included personality tests and member voting.... As a k...</span></span></span>
-
-
 
 <!-- HIERARCHY_NAV_START -->
 <aside class="related-reports" aria-label="Related pages">
@@ -332,8 +328,6 @@ The change matters because Heeseung had been one of the group’s most prominent
 </aside>
 <!-- HIERARCHY_NAV_END -->
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lwyS2RaMwJE" title="Heeseung’s Departure Doesn’t Make Sense" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lwyS2RaMwJE" target="_blank" rel="noopener noreferrer">Heeseung’s Departure Doesn’t Make Sense</a></p><p class="youtube-embed-meta">Channel: BPM Stories</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lwyS2RaMwJE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lwyS2RaMwJE">Open on YouTube</a></p></div></div></div>
 
 ## The current six-member line-up
@@ -349,8 +343,6 @@ The most useful way to understand ENHYPEN’s present structure is to distinguis
 
 Their international backgrounds remain part of the group’s public architecture. Jay was born in the United States, Jake grew up in Australia and Ni-Ki is Japanese, while Jungwon, Sunghoon and Sunoo are Korean. This mixture supports global interviews and promotions, but its greater significance is cultural adaptability: the members have spent their careers moving among Korean, Japanese, English-speaking and wider international audiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.grammy.com/news/enhypen-jvke-collab-xo-only-if-you-say-yes-interview-new-music/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grammy.com">[Grammy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grammy.com</span><span class="citation-popover-snippet">Open source on grammy.com.</span></span></span>
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XygURxTcvJo" title="Enhypen Members EXPLAINED" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XygURxTcvJo" target="_blank" rel="noopener noreferrer">Enhypen Members EXPLAINED</a></p><p class="youtube-embed-meta">Channel: Ben Kim</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XygURxTcvJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XygURxTcvJo">Open on YouTube</a></p></div></div></div>
 
 ## Performance strengths and public roles
@@ -365,11 +357,7 @@ Public duties are similarly distributed. Jungwon remains the formal spokesperson
 
 The members’ collaborative habits also complicate the idea that roles are imposed solely by management. Sunoo has recalled Ni-Ki giving detailed advice about hand and foot movements. Jake has described changing how he listens and responds according to each member’s temperament. Ni-Ki, meanwhile, has repeatedly framed concert quality as a collective achievement rather than an individual showcase. These accounts suggest that ENHYPEN’s internal roles are relational: one member’s expertise becomes useful because the others accept, translate and build upon it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://magazine.weverse.io/article/view/464?artist=ENHYPEN&amp;lang=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magazine.weverse.io">[Weverse Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magazine.weverse.io</span><span class="citation-popover-title">Magazine JAKE: “I don’t really like to lose, but it’s okay when it’s ENGENE”</span><span class="citation-popover-snippet">Magazine JAKE: “I don’t really like to lose, but it’s okay when it’s ENGENE”</span></span></span>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-3-dark.svg" | relative_url }}" alt="Members illustration 3" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
-
 
 <figure class="archive-evidence-panel"><div class="archive-evidence-kicker">Person</div><a class="archive-evidence-image-link" href="https://commons.wikimedia.org/wiki/File:Enhypen_-_Border_DAY_ONE_(Cover).jpg" target="_blank" rel="noopener noreferrer"><img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-photo1.webp" | relative_url }}" alt="Enhypen - Border DAY ONE (Cover) Untitled" loading="lazy" decoding="async"></a><figcaption><strong>Enhypen - Border DAY ONE (Cover)</strong><span class="archive-evidence-meta">Belift Lab &middot; Wikimedia Commons &middot; 2020 &middot; 109698746</span><span class="archive-evidence-explanation">Only candidate depicting ENHYPEN themselves; an official album cover that directly represents the group and is widely recognisable, giving clear reader value for an article about their member roles.</span><span class="archive-evidence-rights">Public domain &middot;<a class="archive-evidence-source" href="https://commons.wikimedia.org/wiki/File:Enhypen_-_Border_DAY_ONE_(Cover).jpg" target="_blank" rel="noopener noreferrer">View original record</a></span></figcaption></figure>
 
@@ -378,7 +366,6 @@ The members’ collaborative habits also complicate the idea that roles are impo
 BELIFT LAB said Heeseung’s departure followed discussions about the future direction of both the artist and the team, and that his individual musical vision had become distinct enough for the parties to pursue separate paths. He remained under the label to prepare solo work, while ENHYPEN continued with the six members named in the agency’s notice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weverse.io/enhypen/notice/34159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverse.io">[Weverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverse.io</span><span class="citation-popover-snippet">Weverse[NOTICE] ENHYPEN&#x27;s Future ActivitiesHEESEUNG will be parting ways with ENHYPEN, and ENHYPEN will continue official activities henc...</span></span></span>
 
 From a performance perspective, the difficult part is that Heeseung’s former contribution cannot be reduced to one vacant “position”. He was widely regarded as a dependable singer and all-round performer, meaning his absence affects several systems simultaneously:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -398,14 +385,9 @@ The departure additionally changed the meaning of seniority. Heeseung had been t
 
 The six-member era is still too new for every long-term role to be settled. What is already clear is that ENHYPEN have not responded by publishing a rigid replacement chart. Their established model—one confirmed leader surrounded by adaptable performers with recognisable but overlapping strengths—is now being tested more intensely. The defining question is not which member becomes “the new Heeseung”, but how Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-Ki turn a set of redistributed duties into a performance identity that feels complete on its own.
 
-
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pkLBU-nJZKg" title="ENHYPEN Members Profile and Facts 2025" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pkLBU-nJZKg" target="_blank" rel="noopener noreferrer">ENHYPEN Members Profile and Facts 2025</a></p><p class="youtube-embed-meta">Channel: Busy Comparing Data</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pkLBU-nJZKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pkLBU-nJZKg">Open on YouTube</a></p></div></div></div>
 
-
-
 <img src="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-2-dark.svg" | relative_url }}" alt="Members illustration 2" data-theme-src-dark="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
 <div class="fr-section-shell">
