@@ -383,6 +383,23 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9005092-M.jpg" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
+</h4>
+<p class="fr-book-author">By John Lie</p>
+        
+<p class="fr-book-desc">First published 2014. Subjects: Music, korean, Popular music, history and criticism, Globalization, Music, social aspects, Popular music.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture+Y.+Euny+Hong&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11038291-M.jpg" alt="Cover for The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
@@ -415,26 +432,9 @@ The transition to six members is a significant break in ENHYPEN’s history, par
 </div>
 </div>
 </article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vampire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=61JxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Vampire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire">The Vampire</a>
-</h4>
-<p class="fr-book-author">By Nick Groom</p>
-        
-<p class="fr-book-desc">An authoritative new history of the vampire, two hundred years after it first appeared on the literary scene Published to mark the bicent...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+POP+Now%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K POP Now!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Our+Vampires%2C+Ourselves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Our Vampires, Ourselves</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+POP+Now%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K POP Now!</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Birth+of+Korean+Cool%3A+How+One+Nation+Is+Conquering+the+World+Through+Pop+Culture&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Birth of Korean Cool: How One Nation Is Conquering the World Through Pop Culture</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>

@@ -1,0 +1,55 @@
+{
+  "selection_strategy": "legacy-resolvers",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 25,
+    "max_level": 3,
+    "deep_report_count": 18,
+    "level_1_count": 1,
+    "level_counts": {
+      "1": 1,
+      "2": 6,
+      "3": 18
+    },
+    "max_children_any_node": 6,
+    "p90_children": 4,
+    "p90_topic_children": 6,
+    "avg_children": 3.43,
+    "primary_branch_count": 6,
+    "visible_nodes_depth_2": 7,
+    "visible_nodes_depth_3": 25,
+    "max_depth": 2,
+    "max_breadth": 18,
+    "breadth_by_depth": {
+      "0": 1,
+      "1": 6,
+      "2": 18
+    },
+    "p90_title_length": 16,
+    "root_density_tier": "dense",
+    "top_branch_density_counts": {
+      "sparse": 0,
+      "balanced": 0,
+      "dense": 1,
+      "very-dense": 0
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": true,
+    "topic_labels": [
+      "How ENHYPEN Turned Desire Into Pop Mythology"
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "heritage-amber",
+    "site_visual_identity_source": "remote_model",
+    "site_visual_identity_confidence": "high",
+    "visual_profile": "atlas",
+    "layout_archetype": "atlas",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "tree-diagram",
+    "palette": "heritage-amber",
+    "motif": "constellation"
+  },
+  "candidates": []
+}

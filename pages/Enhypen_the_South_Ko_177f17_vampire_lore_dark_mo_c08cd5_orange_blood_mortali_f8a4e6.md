@@ -466,16 +466,16 @@ For ENHYPEN's vampire mythology, this represents one of its most significant the
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Essential+Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Essential Dracula on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jTkOAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Essential Dracula" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Vampire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=61JxDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Vampire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Essential+Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Essential Dracula">The Essential Dracula</a>
+<a href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire">The Vampire</a>
 </h4>
-<p class="fr-book-author">By Bram Stoker</p>
+<p class="fr-book-author">By Nick Groom</p>
         
-<p class="fr-book-desc">An essay on the history of the vampire myth in literature accompanies an annotated version of the classic vampire tale.</p>
+<p class="fr-book-desc">An authoritative new history of the vampire, two hundred years after it first appeared on the literary scene Published to mark the bicent...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Essential+Dracula+Bram+Stoker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Vampire+Nick+Groom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

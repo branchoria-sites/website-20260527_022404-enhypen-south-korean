@@ -392,16 +392,16 @@ Because of this progression, "Blessed-Cursed" represents more than a title track
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PVglDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9005092-M.jpg" alt="Cover for K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
+<a href="https://www.amazon.com/s?k=K-Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovati...</a>
 </h4>
 <p class="fr-book-author">By John Lie</p>
         
-<p class="fr-book-desc">K-Pop: Popular Music, Cultural Amnesia, and Economic Innovation in South Korea seeks at once to describe and explain the emergence of exp...</p>
+<p class="fr-book-desc">First published 2014. Subjects: Music, korean, Popular music, history and criticism, Globalization, Music, social aspects, Popular music.</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K+Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-Pop%3A+Popular+Music%2C+Cultural+Amnesia%2C+and+Economic+Innovation+in+South+Korea+John+Lie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -426,16 +426,16 @@ Because of this progression, "Blessed-Cursed" represents more than a title track
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Courage+to+Be+Disliked+by+Ichiro+Kishimi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Courage to Be Disliked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=db0AEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Courage to Be Disliked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Courage+to+Be+Disliked+Ichiro+Kishimi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Courage to Be Disliked on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=db0AEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Courage to Be Disliked" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Courage+to+Be+Disliked+by+Ichiro+Kishimi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Courage to Be Disliked">The Courage to Be Disliked</a>
+<a href="https://www.amazon.com/s?k=The+Courage+to+Be+Disliked+Ichiro+Kishimi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Courage to Be Disliked">The Courage to Be Disliked</a>
 </h4>
 <p class="fr-book-author">By Ichiro Kishimi, Fumitake Koga</p>
         
 <p class="fr-book-desc">&quot;[This book] demonstrates how to unlock the power within yourself to be the person you truly want to be. Using the theories of Alfred Adl...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Courage+to+Be+Disliked+by+Ichiro+Kishimi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=The+Courage+to+Be+Disliked+Ichiro+Kishimi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>

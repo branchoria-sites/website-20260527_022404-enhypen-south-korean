@@ -364,16 +364,16 @@ For fans, this explains why the pair are frequently discussed together despite h
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-pop Live on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vY_vtAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for K-pop Live" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=K-Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open K-Pop Live: Fans, Idols, and Multimedia Performance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9227666-M.jpg" alt="Cover for K-Pop Live: Fans, Idols, and Multimedia Performance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-pop Live">K-pop Live</a>
+<a href="https://www.amazon.com/s?k=K-Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="K-Pop Live: Fans, Idols, and Multimedia Performance">K-Pop Live: Fans, Idols, and Multimedia Performance</a>
 </h4>
 <p class="fr-book-author">By Suk-Young Kim</p>
         
-<p class="fr-book-desc">1990s South Korea saw the transition from a military dictatorship to a civilian government, from a manufacturing economy to a postindustr...</p>
+<p class="fr-book-desc">First published 2018. Subjects: Popular music, history and criticism, Concerts, Korea, social conditions, Popular music, History and crit...</p>
 <div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=K-pop+Live+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.amazon.com/s?k=K-Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance+Suk-Young+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
 </a>
 </div>
@@ -432,7 +432,7 @@ For fans, this explains why the pair are frequently discussed together despite h
 </article>
 </div>
 <div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+pop+Live&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K pop Live</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Talent+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Talent Code</a></div>
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=K+Pop+Live%3A+Fans%2C+Idols%2C+and+Multimedia+Performance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">K Pop Live: Fans, Idols, and Multimedia Performance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Peak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Peak</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Talent+Code&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Talent Code</a></div>
 <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
 </div>
 </div>
