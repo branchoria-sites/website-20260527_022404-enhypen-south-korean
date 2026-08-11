@@ -379,72 +379,72 @@ ENHYPEN’s performance identity is therefore defined less by maximum complexity
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0g80-L4ypVc" title="[FULL TUTORIAL] ENHYPEN (엔하이픈) - &#x27;Drunk-Dazed&#x27; - Dance Tutorial - FULL EXPLANATION" loading="lazy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><span class="youtube-embed-duration" aria-label="Video length 1:02:29">1:02:29</span></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0g80-L4ypVc" target="_blank" rel="noopener noreferrer">[FULL TUTORIAL] ENHYPEN (엔하이픈) - &#x27;Drunk-Dazed&#x27; - Dance Tutorial - FULL EXPLANATION</a></p><p class="youtube-embed-meta">Channel: LEIA 리아 &middot; Views: 228.8K &middot; Uploaded: June 2021 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0g80-L4ypVc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0g80-L4ypVc">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes ENHYPEN&#x27;s Choreography So Distinctive?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes ENHYPEN&#x27;s Choreography So Distinctive?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Making Dances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/900883-M.jpg" alt="Cover for The Art of Making Dances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Making Dances">The Art of Making Dances</a>
-        </h4>
-        <p class="fr-book-author">By Doris Humphrey</p>
-
-        <p class="fr-book-desc">First published 1959. Subjects: Choreography, Modern dance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Making Dances on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/900883-M.jpg" alt="Cover for The Art of Making Dances" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Making Dances">The Art of Making Dances</a>
+</h4>
+<p class="fr-book-author">By Doris Humphrey</p>
+        
+<p class="fr-book-desc">First published 1959. Subjects: Choreography, Modern dance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Making+Dances+Doris+Humphrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Choreography: A Basic Approach Using Improvisation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/676796-M.jpg" alt="Cover for Choreography: A Basic Approach Using Improvisation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Choreography: A Basic Approach Using Improvisation">Choreography: A Basic Approach Using Improvisation</a>
-        </h4>
-        <p class="fr-book-author">By Sandra Cerny Minton</p>
-
-        <p class="fr-book-desc">First published 1986. Subjects: Choreography, Improvisatie, Choregraphie, Choreografie, Chorégraphie.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Choreography: A Basic Approach Using Improvisation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/676796-M.jpg" alt="Cover for Choreography: A Basic Approach Using Improvisation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Choreography: A Basic Approach Using Improvisation">Choreography: A Basic Approach Using Improvisation</a>
+</h4>
+<p class="fr-book-author">By Sandra Cerny Minton</p>
+        
+<p class="fr-book-desc">First published 1986. Subjects: Choreography, Improvisatie, Choregraphie, Choreografie, Chorégraphie.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation+Sandra+Cerny+Minton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being+Rick+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Creative Act: A Way of Being on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13316390-M.jpg" alt="Cover for The Creative Act: A Way of Being" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being+Rick+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Creative Act: A Way of Being">The Creative Act: A Way of Being</a>
-        </h4>
-        <p class="fr-book-author">By Rick Rubin</p>
-
-        <p class="fr-book-desc">First published 2023. Subjects: New York Times Bestseller, creativity, Artists.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being+Rick+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being+Rick+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Creative Act: A Way of Being on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13316390-M.jpg" alt="Cover for The Creative Act: A Way of Being" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being+Rick+Rubin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Creative Act: A Way of Being">The Creative Act: A Way of Being</a>
+</h4>
+<p class="fr-book-author">By Rick Rubin</p>
+        
+<p class="fr-book-desc">First published 2023. Subjects: New York Times Bestseller, creativity, Artists.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being+Rick+Rubin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Making+Dances&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Making Dances</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Choreography: A Basic Approach Using Improvisation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Creative Act: A Way of Being</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Making+Dances&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Making Dances</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Choreography%3A+A+Basic+Approach+Using+Improvisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Choreography: A Basic Approach Using Improvisation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Creative+Act%3A+A+Way+of+Being&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Creative Act: A Way of Being</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

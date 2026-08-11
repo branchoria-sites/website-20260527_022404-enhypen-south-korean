@@ -1,0 +1,817 @@
+{
+  "schema_version": "1.2",
+  "site": {
+    "id": "legacy-08d9d3e0a569d237e7a4",
+    "identity_source": "legacy_source_set",
+    "network": "unassigned",
+    "title": "ENHYPEN",
+    "canonical_url": "https://enhypen.branchoria.com",
+    "description": "Practical guides on ENHYPEN, organized for fast browsing and comparison.",
+    "primary_focus_id": "",
+    "focus_ids": [],
+    "primary_topic_ids": [],
+    "primary_subject_ids": []
+  },
+  "release_id": "release-01d0d672916250b0fe75",
+  "previous_release_id": "release-0519924264048251b3ef",
+  "generated_at": "2026-08-11T17:53:45Z",
+  "entity_entrypoints": [],
+  "pages": [
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04",
+      "logical_id": "enhypen-the-south-ko-177f17",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-korean-band/",
+      "title": "How ENHYPEN Turned Desire Into Pop Mythology",
+      "summary": "ENHYPEN are a South Korean boy band formed through the 2020 television competition I-LAND and managed by BELIFT LAB. As of July 2026, the group has six members: Jungwon, Jay, Jake, Sunghoon, Sunoo and Ni-Ki. They debuted as a seven-member act in November 2020, but Heeseung left in March 2026 to pursue a solo career under the name Evan.",
+      "hierarchy": {
+        "level": 1,
+        "parent_id": null
+      },
+      "tags": [
+        "enhypen-the-south-korean-band"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:8536a255cf75dd0f3049cba06d1bc5c7bb9b023154ec2108f7cda1502b94cbc2",
+      "reconciliation_fingerprint": "sha256:ba95ea2b38061e69c6e9f0dcbb623e4d64a92c61aa692872bad97043e328cb9f",
+      "updated_at": "2026-07-21 15:44:58"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:fa3925277a85b5ca8e57f4c8",
+      "logical_id": "enhypen-the-south-ko-177f17-eras-connected-story-288026",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/eras/",
+      "title": "Eras",
+      "summary": "Each ENHYPEN era develops a connected story about debut, identity, desire, rebellion and the cost of transformation.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "eras"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:33c0a71c722c75cc335aa3f6e7353fce2bf567c0360138ea5a5238e66e998d42",
+      "reconciliation_fingerprint": "sha256:de43caac97a27b9774c4264d03644c10c0457e69109e036d30c795a356a63ef3",
+      "updated_at": "2026-07-21 15:45:08"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:67ec057b00aabcc92b864018",
+      "logical_id": "enhypen-the-south-ko-177f17-eras-connected-story-288026-bite-me-dangerous-de-639f7e",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/bite-me/",
+      "title": "Bite Me",
+      "summary": "Bite Me makes devotion a chosen bond, but Dark Blood shows how love can still blur into hunger, sacrifice and possession.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:fa3925277a85b5ca8e57f4c8"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "eras",
+        "bite-me"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e48ba5d3d9aeda126c18ccae714abc2fe57ce3ca9a57759b30c24eefe3172f81",
+      "reconciliation_fingerprint": "sha256:c5bf90947c3f32c806acfb9a4b7c4166e17fcf154ac5ec44e1743ad5ba3708a4",
+      "updated_at": "2026-07-21 19:21:22"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:6b2ac1e60b1de15d1cfd933e",
+      "logical_id": "enhypen-the-south-ko-177f17-eras-connected-story-288026-blessed-cursed-self-7d487f",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/blessed-cursed/",
+      "title": "Blessed Cursed",
+      "summary": "Blessed-Cursed marks the point where ENHYPEN stop searching for the correct path and choose a self-authored one instead.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:fa3925277a85b5ca8e57f4c8"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "eras",
+        "blessed-cursed"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:34299839d0cfef8abec8fc982e778a2360a240d18bb80b8a84ce9b77fa342f6a",
+      "reconciliation_fingerprint": "sha256:90f788faf68b01c6aa49b267631d4a6115ad39fd3ae8e9e9f43ec134ed194a54",
+      "updated_at": "2026-07-21 15:45:08"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:394604065850541f7ac0021a",
+      "logical_id": "enhypen-the-south-ko-177f17-eras-connected-story-288026-given-taken-debut-an-d4e3d3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/given-taken/",
+      "title": "Given Taken",
+      "summary": "Given-Taken turns ENHYPEN's debut into a question of whether success was earned, granted or seized before they were ready for it.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:fa3925277a85b5ca8e57f4c8"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "eras",
+        "given-taken"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:f3e5a3d013552e67a9966df9ed210ecb1ea78f8cbcf279b43c1d13f0269bbac0",
+      "reconciliation_fingerprint": "sha256:d883e3d7325f2ebeb2f97a66410f8718be068cba848b942eb87d5d4ea23b33e0",
+      "updated_at": "2026-07-21 15:45:08"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:aa52250891013b191f15a728",
+      "logical_id": "Enhypen_the_South_Ko_177f17_eras_connected_story_288026_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-eras/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Eras.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:fa3925277a85b5ca8e57f4c8"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:286a0bc63fb81a5611fa0cb0af92997d948baf57b844d37ea1461191481dd15b",
+      "reconciliation_fingerprint": "sha256:2580344a86aac0f93e5fd49a74bef44151849088fc19d503c7ee15c7eb6c2dc5",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:c16ca1fc4579caac3ef75a50",
+      "logical_id": "enhypen-the-south-ko-177f17-essential-songs-dc7642",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/essential-songs/",
+      "title": "Essential Songs",
+      "summary": "Key tracks such as Given-Taken, Drunk-Dazed, FEVER and Bite Me reveal how ENHYPEN turn personal anxiety into memorable pop drama.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "essential-songs"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:4018ddc9df0a7ce321c136387a286403c1ca5dfaa8388c23a6dec52d86cbfd7d",
+      "reconciliation_fingerprint": "sha256:eb6290e2a9609440997a732eac543e831c1fa4bc8d3eafd017cf63f1aa6d8958",
+      "updated_at": "2026-07-21 15:45:10"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:1272c4c55c430711171c2908",
+      "logical_id": "enhypen-the-south-ko-177f17-essential-songs-dc7642-drunk-dazed-fame-car-058527",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/drunk-dazed/",
+      "title": "Drunk Dazed",
+      "summary": "Drunk-Dazed turns ENHYPEN's post-debut excitement into a carnival where attention, exhaustion and loss of control become inseparable.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:c16ca1fc4579caac3ef75a50"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "essential-songs",
+        "drunk-dazed"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:92ae7ae9d056fb6c5ca31c361515fc9b72ddace947f105d574eb61153b51796b",
+      "reconciliation_fingerprint": "sha256:fb369d9f8c6e7555784d8d079f0e76f3d419d375ed76f80bc3e965ce94e9aae4",
+      "updated_at": "2026-07-21 19:21:22"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:8144784d575de40d4d6cce5b",
+      "logical_id": "enhypen-the-south-ko-177f17-essential-songs-dc7642-enhypen-controlled-c-d082e2",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/controlled-chaos/",
+      "title": "Controlled Chaos",
+      "summary": "Across their defining songs, ENHYPEN make surrender look convincing by pairing unstable emotions with exact formations and disciplined movement.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:c16ca1fc4579caac3ef75a50"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "essential-songs",
+        "controlled-chaos"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:590595875c488200d2c2d252e9b28fdabb51be0c07e092769d6a6b01b859ce91",
+      "reconciliation_fingerprint": "sha256:133b9b8a57a16c2379e2e93b50bd639260f9d11a64fabed658448628cd8a2b59",
+      "updated_at": "2026-07-21 16:23:18"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:6e611751f03434096c5dadfa",
+      "logical_id": "enhypen-the-south-ko-177f17-essential-songs-dc7642-fever-desire-choreog-afe1b5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/fever/",
+      "title": "FEVER",
+      "summary": "FEVER made restrained movement, breathy vocals and recurring gestures feel as intense as ENHYPEN's largest supernatural spectacles.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:c16ca1fc4579caac3ef75a50"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "essential-songs",
+        "fever"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:6a1d234006e5f14ff58c65ce0b2efe73a99a2ea72eab117a69cb7d80d0b96b1d",
+      "reconciliation_fingerprint": "sha256:f4db92ca668e44ab43a5a6323ba93d93cc5c7dbf830311b2456a70ebcf055b48",
+      "updated_at": "2026-07-21 16:23:17"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:d1b2303fecfa5c0ffb559833",
+      "logical_id": "Enhypen_the_South_Ko_177f17_essential_songs_dc7642_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-essential/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Essential Songs.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:c16ca1fc4579caac3ef75a50"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:155202a857cde864a7bff254aa7f0c13f6be07657437efed28a5e4b5b9c70989",
+      "reconciliation_fingerprint": "sha256:1805d7c2c484cdbb87757cd15d9bb7f7b040fd27cad2a63308fdc83f75fd13b9",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:069a3991df3904d21e249df5",
+      "logical_id": "enhypen-the-south-ko-177f17-iland-engene-origins-f17a10",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/origins/",
+      "title": "Origins",
+      "summary": "ENHYPEN's survival-show formation and hyphen-inspired identity explain why connection with ENGENE has shaped the group from before debut.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "origins"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9bd0ee45cd9103bed2439966bf4a28a434e9b1ec51bbbc8e4c794e6bc406e3d8",
+      "reconciliation_fingerprint": "sha256:74870eb961f4c77548a4cd70168cd829934f4dff4c1949dd37bda99093c399cc",
+      "updated_at": "2026-07-21 19:38:34"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:bc973f8059ff5fa73e138a13",
+      "logical_id": "enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-engene-name-and-iden-45bed0",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/engene-name/",
+      "title": "ENGENE Name",
+      "summary": "The fandom name turned I-LAND's participatory origins into an official identity built around shared growth and support.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:069a3991df3904d21e249df5"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "origins",
+        "engene-name"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:55b3a0a2a21f5ff3b7c49c7bd3a0b8d88c71ab4727c9d2cedde83c85c5c4c24c",
+      "reconciliation_fingerprint": "sha256:f00a974aefdc22c107befef9482d87b8cfdc4a5c15bf3dfde09c19b7ec005d05",
+      "updated_at": "2026-07-21 20:04:11"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:88fce9f7a864763bb5a6f61f",
+      "logical_id": "enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-final-lineup-v-90b54b",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/final-lineup/",
+      "title": "Final Lineup",
+      "summary": "Global voters secured six debut places, but the producers' final choice showed where fan power ended.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:069a3991df3904d21e249df5"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "origins",
+        "final-lineup"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:43d4ddb67218f1ef7a53d5cfc34de1623f0e8883bfc3ba5adace4f22900c0079",
+      "reconciliation_fingerprint": "sha256:39ebb8abb59bc849e89da073a5b6112690e6187bac1ed827a7e4102ef8ff3525",
+      "updated_at": "2026-07-21 19:38:34"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:22887aec54549c64562fb938",
+      "logical_id": "enhypen-the-south-ko-177f17-iland-engene-origins-f17a10-iland-predebut-fan-b-03e376",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/pre-debut-bond/",
+      "title": "Pre Debut Bond",
+      "summary": "Months of voting, setbacks and visible growth gave viewers a personal stake in ENHYPEN before the group released music.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:069a3991df3904d21e249df5"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "origins",
+        "pre-debut-bond"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:61336b0c2af79c3cd44cce19050bd93b40f3e03703e97e4e8e1e7f66f0742b19",
+      "reconciliation_fingerprint": "sha256:b09e6be947338c9d52278fc0c2667b84639b4cbec89781e8cee13935cf85e1ad",
+      "updated_at": "2026-07-21 19:38:34"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:7eee97c36f8aad85e6726ace",
+      "logical_id": "Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-iland/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Origins.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:069a3991df3904d21e249df5"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0cdf573efc01d44d04027a7a27befa93f0bb8c6689c3d89775d2e31e718f828d",
+      "reconciliation_fingerprint": "sha256:aac3505e29b20dd46eb6cac395617a60fdce8105842d8fab7b252a4fe1377a02",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:b579121e77389f2c92da2ef6",
+      "logical_id": "Enhypen_the_South_Ko_177f17_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-index/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Enhypen the South Korean band.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:83b4fba1d52cbe419e29b0df0efef7d442211aac3332dea7e03d0af85fa7c99a",
+      "reconciliation_fingerprint": "sha256:d8342c5ef1ce8efbe97475d190efbfae1d3eb5ad4b65c1f3500cfbffc9749882",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:387aeb764b368a69689017dc",
+      "logical_id": "enhypen-the-south-ko-177f17-members-changing-rol-96db7a",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/members/",
+      "title": "Members",
+      "summary": "The six-member line-up combines distinct performance strengths, international backgrounds and newly adjusted roles after Heeseung's departure.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "members"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:1f194fb93574f7fb22b8b62290344b26cb472ba480c88a9c5cfd970d19b74285",
+      "reconciliation_fingerprint": "sha256:a8b37461e42ae43092deb8fb697f21ffa56f22dd2feccf192b0a021dc4f53c43",
+      "updated_at": "2026-07-21 15:45:00"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:f72e85a2f95b8b26b1823e94",
+      "logical_id": "Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-members/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Members.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:387aeb764b368a69689017dc"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:12ed7d607538ab0ab39b0eb439807458a784425fc9331206a50a8ca4036cda20",
+      "reconciliation_fingerprint": "sha256:e253510f0c962fa357d27b169f8324f5f0aa2d38f0b0d3dd14cc06efbeb08493",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:62330e9bdb909be8e0c469ef",
+      "logical_id": "enhypen-the-south-ko-177f17-members-changing-rol-96db7a-jungwon-niki-perform-9644b4",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/performance-axis/",
+      "title": "Performance Axis",
+      "summary": "Jungwon stabilises the team through leadership and control, while Ni-Ki serves as its clearest technical reference for dance.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:387aeb764b368a69689017dc"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "members",
+        "performance-axis"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:0c213438050870e1cbcb61e078cb59f9af09d89b009f340d8bc4a9ed37842f9e",
+      "reconciliation_fingerprint": "sha256:874c80d1dc2a4a043325fd99249aba9f1fd7c46a9049a124ebecc2008d40a3e2",
+      "updated_at": "2026-07-21 19:26:47"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:ac745e6f701bae94503fefa6",
+      "logical_id": "enhypen-the-south-ko-177f17-members-changing-rol-96db7a-member-performance-c-e323be",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/member-contrast/",
+      "title": "Member Contrast",
+      "summary": "Jay, Jake, Sunghoon and Sunoo shape songs through different combinations of intensity, warmth, precision and emotional contrast.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:387aeb764b368a69689017dc"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "members",
+        "member-contrast"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7a9bf87c1f70ef4141c79c29476938dc7e5c96b9e0230312eef08091ef2790ba",
+      "reconciliation_fingerprint": "sha256:81009dbece57d1ccd7f285333ce4b15f6e8556ae92e4c15f87355afea898b87a",
+      "updated_at": "2026-07-21 19:26:46"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:a289844d11b0d43d0ba3f8e2",
+      "logical_id": "enhypen-the-south-ko-177f17-members-changing-rol-96db7a-post-heeseung-role-c-7b6c61",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/post-heeseung-roles/",
+      "title": "Post Heeseung Roles",
+      "summary": "The six-member lineup had to reassign vocals, formations and live-performance responsibilities without simply replacing Heeseung member for member.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:387aeb764b368a69689017dc"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "members",
+        "post-heeseung-roles"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:bca472f120f74fb3616b70488d8c41b0883a51013fc7d14a75159b1b32eea375",
+      "reconciliation_fingerprint": "sha256:aac8023083ca2dbd967c85e2364da76ef474461eed74fe57bd79b1d74920cf0a",
+      "updated_at": "2026-07-21 15:45:02"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:ea46f6a15b5ad7f865390eac",
+      "logical_id": "enhypen-the-south-ko-177f17-signature-choreograp-27c2d5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/choreography/",
+      "title": "Choreography",
+      "summary": "Sharp formations, low movement and narrative gestures make ENHYPEN's choreography central to how their songs communicate tension and connection.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "choreography"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a8a8cd7e401ed4bf362460a70b483c240a5eec56e5559ad431458963ce7f6cea",
+      "reconciliation_fingerprint": "sha256:6712d09b0ea2f9ff8a19d28cc1be8b6ee7f13c5e3615ca2236654804f2e0f2fc",
+      "updated_at": "2026-07-21 19:13:55"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:6d4bee8baf8b8cfb5fec9e21",
+      "logical_id": "enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-dance-practi-bdefb3",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/dance-practice/",
+      "title": "Dance Practice",
+      "summary": "ENHYPEN's dance practices show how tiny differences in timing, head position and landing height can strengthen or break a formation.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:ea46f6a15b5ad7f865390eac"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "choreography",
+        "dance-practice"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:7d9e9bd0e45271dfe3645daa02ef09cf4a799c00f6626f79040bcf655b345350",
+      "reconciliation_fingerprint": "sha256:1476fff7575ccf87884aa8d2af4eb7546d789feca8593bfb6ed165732a0800bd",
+      "updated_at": "2026-07-21 19:13:56"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:2e825dc5dc97aec75f69f962",
+      "logical_id": "enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-enhypen-floorwork-st-5c7039",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/floorwork/",
+      "title": "Floorwork",
+      "summary": "Crouches, kneeling sequences and floorwork let ENHYPEN stage weakness, temptation and transformation without changing the set.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:ea46f6a15b5ad7f865390eac"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "choreography",
+        "floorwork"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:93a62d179cbb0414a2542a17fbb925c82fb5207722c95c8034aae6b873a6e57c",
+      "reconciliation_fingerprint": "sha256:0d6b8f5781152de05909d6699d348e0ad65176379409279c845eb77ea5d460f0",
+      "updated_at": "2026-07-21 19:13:55"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:b7aab3b69cfdcb7682d7c86e",
+      "logical_id": "enhypen-the-south-ko-177f17-signature-choreograp-27c2d5-future-perfect-hip-h-ed6c0c",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/future-perfect/",
+      "title": "Future Perfect",
+      "summary": "Future Perfect turns ENHYPEN's choreography from supernatural restraint into a forceful declaration of independence.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:ea46f6a15b5ad7f865390eac"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "choreography",
+        "future-perfect"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ea63697f13f655a09d24c61591df6c1455df2adf9aa15f51ab09a3e07a044c69",
+      "reconciliation_fingerprint": "sha256:b1f9bc6e514fba1747b2e1a400a5cd8d3eab2cc1faee07a0d4eff917e5ed9d3d",
+      "updated_at": "2026-07-21 19:13:54"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:52d3a815626149fbe2c3c224",
+      "logical_id": "Enhypen_the_South_Ko_177f17_signature_choreograp_27c2d5_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-signature/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Choreography.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:ea46f6a15b5ad7f865390eac"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:e9dfb2c8ba37fe97d7531c5dadaf3aabf35729a71cbc577dd6d3ba5b6d224afa",
+      "reconciliation_fingerprint": "sha256:f2cf49e3a5242b50c809b0ea57bf396e007485b0c735d91b88a94d0eacf8567a",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:bf33fd3651d400776ded3334",
+      "logical_id": "enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/vampire-lore/",
+      "title": "Vampire Lore",
+      "summary": "ENHYPEN's vampire mythology uses blood, fate, memory and forbidden connection to make familiar emotions feel larger and more dramatic.",
+      "hierarchy": {
+        "level": 2,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:3d09c87050365a9a629a8c04"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "vampire-lore"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:8dd1af1ea326f4b70614f2db9c93534dd5779f95249b515c73d77e13420d3f34",
+      "reconciliation_fingerprint": "sha256:b2228768dff91ff1206f17a2d6992d3a1a3c72191200245a740f625c84555953",
+      "updated_at": "2026-07-21 16:23:18"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:42d99b2a99949d739fa6773f",
+      "logical_id": "enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-dark-moon-blood-memo-751cf8",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/blood-memory/",
+      "title": "Blood Memory",
+      "summary": "In Dark Moon, blood preserves recognition when conscious memory fails, turning attraction into evidence of an older bond.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:bf33fd3651d400776ded3334"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "vampire-lore",
+        "blood-memory"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:a7939f7a880f1046a0057aa3a3c778c0a724bd0a768f51cc8c8a2467abb46ca9",
+      "reconciliation_fingerprint": "sha256:dc9e91930bfe90575079f2770b3589e29efa2fc78ba092e73843c722e638f4dc",
+      "updated_at": "2026-07-21 19:26:46"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:32cc72f539468ab536fcdd7b",
+      "logical_id": "Enhypen_the_South_Ko_177f17_vampire_lore_dark_mo_c08cd5_index",
+      "identity_source": "legacy_basename",
+      "canonical_url": "https://enhypen.branchoria.com/enhypen-the-south-ko-177f17-vampire/",
+      "title": "Sub-Topic Index",
+      "summary": "Focused pages that expand on Vampire Lore.",
+      "hierarchy": {
+        "level": 0,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:bf33fd3651d400776ded3334"
+      },
+      "tags": [],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:9017de44ffe4a475a25c7893d9443b8e0b758b4fe674cb34fda1d2081d778e21",
+      "reconciliation_fingerprint": "sha256:10cbc96739e29fe78ecf596b8bba798a94bd6f8707b5527b91b29b8d6c83a6d8",
+      "updated_at": "2026"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:17c09eb7ef36fd359b0a797d",
+      "logical_id": "enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-orange-blood-mortali-f8a4e6",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/mortal-love/",
+      "title": "Mortal Love",
+      "summary": "Orange Blood reframes mortality as a source of urgency and freedom rather than a weakness that immortality can simply overcome.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:bf33fd3651d400776ded3334"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "vampire-lore",
+        "mortal-love"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:ea7a931104c4356243cb7afa0463e44ee81cddcbaf3cd6cc2469c7e49cdfcf6f",
+      "reconciliation_fingerprint": "sha256:eced99b7783ef2e5a909d4d7c08d79f89e9001ea34e7477dd4dcd3cb3c6baf9d",
+      "updated_at": "2026-07-21 19:13:54"
+    },
+    {
+      "id": "legacy-08d9d3e0a569d237e7a4:page:2c5c6c0f10fce11c9d670909",
+      "logical_id": "enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5-two-moons-identity-c-73aae7",
+      "identity_source": "article_manifest",
+      "canonical_url": "https://enhypen.branchoria.com/two-moons/",
+      "title": "Two Moons",
+      "summary": "Two Moons tests whether a consciously built relationship matters more than memories and identities inherited from a previous life.",
+      "hierarchy": {
+        "level": 3,
+        "parent_id": "legacy-08d9d3e0a569d237e7a4:page:bf33fd3651d400776ded3334"
+      },
+      "tags": [
+        "enhypen-the-south-korean-band",
+        "vampire-lore",
+        "two-moons"
+      ],
+      "entities": [],
+      "entity_ids": [],
+      "collection_ids": [],
+      "time_periods": [],
+      "topic_ids": [],
+      "geography_ids": [],
+      "content_fingerprint": "sha256:be3cedb0dabd36b51b09f31414e07b688e3282e323947b7b3f49dcb816c17a3f",
+      "reconciliation_fingerprint": "sha256:17806825b794f4cffb27c9963c41a744f31f23baf4409e1ce4533cb1295a8a98",
+      "updated_at": "2026-07-21 19:13:54"
+    }
+  ]
+}
