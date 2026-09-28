@@ -4,7 +4,7 @@ title_full: Vocal balance Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /enhypen-the-s-177f17-members-after/
+permalink: /enhypen-the-s-177f17-members-after-3c3a77/
 description: Focused pages that expand on Vocal balance.
 date: '2026'
 layout: default

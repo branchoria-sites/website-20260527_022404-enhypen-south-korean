@@ -15,7 +15,7 @@ show_ads: true
 description: 'Enhypen is a South Korean band under BELIFT LAB, best understood as a performance-led pop group built around connection: between members, fans, stories,...'
 hero_summary: 'Enhypen is a South Korean band under BELIFT LAB, best understood as a performance-led pop group built around connection: between members, fans, stories, stages and global markets.'
 layout: default
-permalink: /enhypen-the-south-korean-band/
+permalink: /enhypen-the-s-177f17/
 nav_short_title: Why ENHYPEN's Eras Keep Fans Watching
 title: Why ENHYPEN's Eras Keep Fans Watching
 title_full: Why ENHYPEN's Eras Keep Fans Watching

@@ -4,7 +4,7 @@ title_full: Bite Me stage Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /enhypen-the-s-177f17-performance-s/
+permalink: /enhypen-the-s-177f17-performance-s-a5f9cf/
 description: Focused pages that expand on Bite Me stage.
 date: '2026'
 layout: default

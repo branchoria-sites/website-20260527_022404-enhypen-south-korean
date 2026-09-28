@@ -4,7 +4,7 @@ title_full: Stage changes Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /enhypen-the-s-177f17-members-after/
+permalink: /enhypen-the-s-177f17-members-after-f9f5e7/
 description: Focused pages that expand on Stage changes.
 date: '2026'
 layout: default
