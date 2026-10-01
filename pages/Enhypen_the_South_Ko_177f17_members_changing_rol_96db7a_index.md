@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-south-ko-177f17-members/
 description: Focused pages that expand on Members.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Enhypen_the_South_Ko_177f17_members_changing_rol_96db7a
 parent_title: Members

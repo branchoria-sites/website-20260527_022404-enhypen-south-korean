@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-s-177f17-performance-s-d772af/
 description: Focused pages that expand on Stadium tour.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Enhypen_the_S_177f17_performance_s_a0cafa_walk_the_line_d772af
 parent_title: Stadium tour

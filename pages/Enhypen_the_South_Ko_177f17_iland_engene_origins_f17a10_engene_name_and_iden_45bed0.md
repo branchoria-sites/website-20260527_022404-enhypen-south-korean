@@ -266,6 +266,7 @@ next_link:
   short_title: Final Lineup
   heading_title: How Much Did Fans Really Choose ENHYPEN?
 date: '2026-07-21 20:04:11 '
+last_modified_at: '2026-07-21 20:04:11 '
 header:
   og_image: /assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1-social.jpg
   preview_image: /assets/images/Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10_engene_name_and_iden_45bed0-Illustration-1.webp

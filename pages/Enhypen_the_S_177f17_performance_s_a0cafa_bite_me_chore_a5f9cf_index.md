@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-s-177f17-performance-s-a5f9cf/
 description: Focused pages that expand on Bite Me stage.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Enhypen_the_S_177f17_performance_s_a0cafa_bite_me_chore_a5f9cf
 parent_title: Bite Me stage
