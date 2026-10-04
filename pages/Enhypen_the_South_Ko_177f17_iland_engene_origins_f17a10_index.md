@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-south-ko-177f17-iland/
 description: Focused pages that expand on Origins.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Enhypen_the_South_Ko_177f17_iland_engene_origins_f17a10
 parent_title: Origins

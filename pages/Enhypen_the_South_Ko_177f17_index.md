@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-south-ko-177f17-index/
 description: Focused pages that expand on Enhypen the South Korean band.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Enhypen_the_South_Ko_177f17
 parent_title: Enhypen the South Korean band
