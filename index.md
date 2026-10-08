@@ -247,7 +247,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: What Makes ENHYPEN&#x27;s Choreography So Distinctive? | Enhypen the South" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-signature-choreograp-27c2d5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'choreography/' | relative_url }}" title="What Makes ENHYPEN&#x27;s Choreography So Distinctive? | Enhypen the South" aria-label="Read more about What Makes ENHYPEN&#x27;s Choreography So Distinctive? | Enhypen the South">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'choreography/' | relative_url }}" title="What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -267,7 +267,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'future-perfect/' | relative_url }}" title="How Future Perfect Made ENHYPEN Move Differently | Enhypen the South Ko 177 f17 signature choreograp" aria-label="Read more about How Future Perfect Made ENHYPEN Move Differently | Enhypen the South Ko 177 f17 signature choreograp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'future-perfect/' | relative_url }}" title="How Future Perfect Made ENHYPEN Move Differently | What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How Future Perfect Made ENHYPEN Move Differently | What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -287,7 +287,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'dance-practice/' | relative_url }}" title="What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Enhypen the South Ko 177 f17 signature choreograp" aria-label="Read more about What ENHYPEN&#x27;s Dance Practices Reveal About Precision | Enhypen the South Ko 177 f17 signature choreograp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'dance-practice/' | relative_url }}" title="What ENHYPEN's Dance Practices Reveal About Precision | What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about What ENHYPEN's Dance Practices Reveal About Precision | What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -307,7 +307,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'floorwork/' | relative_url }}" title="Why ENHYPEN&#x27;s Floorwork Changes the Story | Enhypen the South Ko 177 f17 signature choreograp" aria-label="Read more about Why ENHYPEN&#x27;s Floorwork Changes the Story | Enhypen the South Ko 177 f17 signature choreograp">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'floorwork/' | relative_url }}" title="Why ENHYPEN's Floorwork Changes the Story | What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why ENHYPEN's Floorwork Changes the Story | What Makes ENHYPEN's Choreography So Distinctive? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -331,7 +331,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How ENHYPEN&#x27;s Eras Connect Into One Story | Enhypen the South" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-eras-connected-story-288026"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'eras/' | relative_url }}" title="How ENHYPEN&#x27;s Eras Connect Into One Story | Enhypen the South" aria-label="Read more about How ENHYPEN&#x27;s Eras Connect Into One Story | Enhypen the South">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'eras/' | relative_url }}" title="How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -351,7 +351,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blessed-cursed/' | relative_url }}" title="When ENHYPEN Rejected the Correct Path | Enhypen the South Ko 177 f17 eras connected story" aria-label="Read more about When ENHYPEN Rejected the Correct Path | Enhypen the South Ko 177 f17 eras connected story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blessed-cursed/' | relative_url }}" title="When ENHYPEN Rejected the Correct Path | How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about When ENHYPEN Rejected the Correct Path | How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -371,7 +371,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'bite-me/' | relative_url }}" title="Why Bite Me Makes Love Feel Dangerous | Enhypen the South Ko 177 f17 eras connected story" aria-label="Read more about Why Bite Me Makes Love Feel Dangerous | Enhypen the South Ko 177 f17 eras connected story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'bite-me/' | relative_url }}" title="Why Bite Me Makes Love Feel Dangerous | How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why Bite Me Makes Love Feel Dangerous | How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -391,7 +391,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'given-taken/' | relative_url }}" title="Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Enhypen the South Ko 177 f17 eras connected story" aria-label="Read more about Why ENHYPEN&#x27;s Debut Felt Like a Threshold | Enhypen the South Ko 177 f17 eras connected story">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'given-taken/' | relative_url }}" title="Why ENHYPEN's Debut Felt Like a Threshold | How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why ENHYPEN's Debut Felt Like a Threshold | How ENHYPEN's Eras Connect Into One Story | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -415,7 +415,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Which Songs Best Explain ENHYPEN&#x27;s Appeal? | Enhypen the South" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-essential-songs-dc7642"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'essential-songs/' | relative_url }}" title="Which Songs Best Explain ENHYPEN&#x27;s Appeal? | Enhypen the South" aria-label="Read more about Which Songs Best Explain ENHYPEN&#x27;s Appeal? | Enhypen the South">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'essential-songs/' | relative_url }}" title="Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -435,7 +435,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'fever/' | relative_url }}" title="How FEVER Made Restraint Feel Overwhelming | Enhypen the South Ko 177 f17 essential songs" aria-label="Read more about How FEVER Made Restraint Feel Overwhelming | Enhypen the South Ko 177 f17 essential songs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'fever/' | relative_url }}" title="How FEVER Made Restraint Feel Overwhelming | Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How FEVER Made Restraint Feel Overwhelming | Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -455,7 +455,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'drunk-dazed/' | relative_url }}" title="Why Drunk Dazed Makes Fame Feel Dangerous | Enhypen the South Ko 177 f17 essential songs" aria-label="Read more about Why Drunk Dazed Makes Fame Feel Dangerous | Enhypen the South Ko 177 f17 essential songs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'drunk-dazed/' | relative_url }}" title="Why Drunk Dazed Makes Fame Feel Dangerous | Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why Drunk Dazed Makes Fame Feel Dangerous | Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -475,7 +475,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'controlled-chaos/' | relative_url }}" title="Why ENHYPEN&#x27;s Chaos Always Looks Precise | Enhypen the South Ko 177 f17 essential songs" aria-label="Read more about Why ENHYPEN&#x27;s Chaos Always Looks Precise | Enhypen the South Ko 177 f17 essential songs">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'controlled-chaos/' | relative_url }}" title="Why ENHYPEN's Chaos Always Looks Precise | Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why ENHYPEN's Chaos Always Looks Precise | Which Songs Best Explain ENHYPEN's Appeal? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -499,7 +499,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Who Does What in ENHYPEN Now? | Enhypen the South" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-members-changing-rol-96db7a"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'members/' | relative_url }}" title="Who Does What in ENHYPEN Now? | Enhypen the South" aria-label="Read more about Who Does What in ENHYPEN Now? | Enhypen the South">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'members/' | relative_url }}" title="Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -519,7 +519,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'post-heeseung-roles/' | relative_url }}" title="How ENHYPEN Rebuilt Its Six Member Performance | Enhypen the South Ko 177 f17 members changing rol" aria-label="Read more about How ENHYPEN Rebuilt Its Six Member Performance | Enhypen the South Ko 177 f17 members changing rol">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'post-heeseung-roles/' | relative_url }}" title="How ENHYPEN Rebuilt Its Six Member Performance | Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How ENHYPEN Rebuilt Its Six Member Performance | Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -539,7 +539,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'member-contrast/' | relative_url }}" title="How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood | Enhypen the South Ko 177 f17 members changing rol" aria-label="Read more about How ENHYPEN&#x27;s Members Change a Song&#x27;s Mood | Enhypen the South Ko 177 f17 members changing rol">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'member-contrast/' | relative_url }}" title="How ENHYPEN's Members Change a Song's Mood | Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How ENHYPEN's Members Change a Song's Mood | Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -559,7 +559,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'performance-axis/' | relative_url }}" title="Why Jungwon and Ni Ki Anchor ENHYPEN | Enhypen the South Ko 177 f17 members changing rol" aria-label="Read more about Why Jungwon and Ni Ki Anchor ENHYPEN | Enhypen the South Ko 177 f17 members changing rol">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'performance-axis/' | relative_url }}" title="Why Jungwon and Ni Ki Anchor ENHYPEN | Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why Jungwon and Ni Ki Anchor ENHYPEN | Who Does What in ENHYPEN Now? | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -583,7 +583,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: How I LAND Built ENHYPEN&#x27;s Fan Connection | Enhypen the South" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-iland-engene-origins-f17a10"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'origins/' | relative_url }}" title="How I LAND Built ENHYPEN&#x27;s Fan Connection | Enhypen the South" aria-label="Read more about How I LAND Built ENHYPEN&#x27;s Fan Connection | Enhypen the South">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'origins/' | relative_url }}" title="How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -603,7 +603,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'engene-name/' | relative_url }}" title="How ENGENE Made Connection the Group&#x27;s Identity | Enhypen the South Ko 177 f17 iland engene origins" aria-label="Read more about How ENGENE Made Connection the Group&#x27;s Identity | Enhypen the South Ko 177 f17 iland engene origins">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'engene-name/' | relative_url }}" title="How ENGENE Made Connection the Group's Identity | How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How ENGENE Made Connection the Group's Identity | How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -623,7 +623,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'final-lineup/' | relative_url }}" title="How Much Did Fans Really Choose ENHYPEN? | Enhypen the South Ko 177 f17 iland engene origins" aria-label="Read more about How Much Did Fans Really Choose ENHYPEN? | Enhypen the South Ko 177 f17 iland engene origins">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'final-lineup/' | relative_url }}" title="How Much Did Fans Really Choose ENHYPEN? | How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about How Much Did Fans Really Choose ENHYPEN? | How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -643,7 +643,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-debut-bond/' | relative_url }}" title="Why ENGENE Felt Connected Before Debut | Enhypen the South Ko 177 f17 iland engene origins" aria-label="Read more about Why ENGENE Felt Connected Before Debut | Enhypen the South Ko 177 f17 iland engene origins">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'pre-debut-bond/' | relative_url }}" title="Why ENGENE Felt Connected Before Debut | How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why ENGENE Felt Connected Before Debut | How I LAND Built ENHYPEN's Fan Connection | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -667,7 +667,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 <button class="ct-node-badge ct-node-badge-toggle" type="button" data-home-vertical-badge-toggle title="4 pages" aria-label="4 pages" aria-expanded="false">4 pages</button>
 <div class="home-vertical-card-actions">
 <button class="home-vertical-toggle" type="button" data-home-vertical-toggle aria-label="Expand section: Why ENHYPEN&#x27;s Vampire Story Still Works | Enhypen the South" aria-expanded="false" aria-controls="home-vertical-children-node-enhypen-the-south-ko-177f17-vampire-lore-dark-mo-c08cd5"><span class="home-vertical-toggle-icon">+</span><span class="home-vertical-toggle-text">Show subtopics</span></button>
-<a class="topic-card-link home-vertical-read-more" href="{{ 'vampire-lore/' | relative_url }}" title="Why ENHYPEN&#x27;s Vampire Story Still Works | Enhypen the South" aria-label="Read more about Why ENHYPEN&#x27;s Vampire Story Still Works | Enhypen the South">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'vampire-lore/' | relative_url }}" title="Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -687,7 +687,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'two-moons/' | relative_url }}" title="Which Love Is Real in Dark Moon: Two Moons? | Enhypen the South Ko 177 f17 vampire lore dark" aria-label="Read more about Which Love Is Real in Dark Moon: Two Moons? | Enhypen the South Ko 177 f17 vampire lore dark">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'two-moons/' | relative_url }}" title="Which Love Is Real in Dark Moon: Two Moons? | Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Which Love Is Real in Dark Moon: Two Moons? | Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -707,7 +707,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'blood-memory/' | relative_url }}" title="Why Blood Remembers What Dark Moon Characters Forget | Enhypen the South Ko 177 f17 vampire lore dark" aria-label="Read more about Why Blood Remembers What Dark Moon Characters Forget | Enhypen the South Ko 177 f17 vampire lore dark">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'blood-memory/' | relative_url }}" title="Why Blood Remembers What Dark Moon Characters Forget | Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why Blood Remembers What Dark Moon Characters Forget | Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
@@ -727,7 +727,7 @@ site_image_description: The six members of ENHYPEN stand together on a concert s
 </span>
 </a>
 <div class="home-vertical-card-actions">
-<a class="topic-card-link home-vertical-read-more" href="{{ 'mortal-love/' | relative_url }}" title="Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Enhypen the South Ko 177 f17 vampire lore dark" aria-label="Read more about Why Mortality Matters in ENHYPEN&#x27;s Orange Blood | Enhypen the South Ko 177 f17 vampire lore dark">Read more</a>
+<a class="topic-card-link home-vertical-read-more" href="{{ 'mortal-love/' | relative_url }}" title="Why Mortality Matters in ENHYPEN's Orange Blood | Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology" aria-label="Read more about Why Mortality Matters in ENHYPEN's Orange Blood | Why ENHYPEN's Vampire Story Still Works | How ENHYPEN Turned Desire Into Pop Mythology">Read more</a>
 </div>
 </div>
 </div>
