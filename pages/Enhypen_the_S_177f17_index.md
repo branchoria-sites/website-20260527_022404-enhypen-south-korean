@@ -1,11 +1,11 @@
 ---
-title: Enhypen the South Korean band Sub-Topic Index
-title_full: Enhypen the South Korean band Sub-Topic Index
+title: "Enhypen the South Korean band Sub-Topic Index (enhypen the s)"
+title_full: "Enhypen the South Korean band Sub-Topic Index (enhypen the s)"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /enhypen-the-s-177f17-index/
-description: Focused pages that expand on Enhypen the South Korean band.
+description: "Focused pages that expand on Enhypen the South Korean band (enhypen the s)."
 date: '2026-01-01 00:00:00'
 last_modified_at: '2026-01-01 00:00:00'
 layout: default
