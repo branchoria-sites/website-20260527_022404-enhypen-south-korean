@@ -923,7 +923,7 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
 
 27.<a id="endnote-27"></a>
    Source: lemon8-app.com  
-   Link:<a href="https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us</a>  
+   Link:https://www.lemon8-app.com/stayofskz/7370877903938109957?region=us  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>ENHYPEN Ni-Ki&#x27;s Iconic Black Hair &amp; Mesmerizing Dance...As an ENGENE, I&#x27;m completely obsessed with Ni-Ki&#x27;s incredible dance skills and h...</p></details>
 
 28.<a id="endnote-28"></a>
@@ -944,7 +944,7 @@ In that sense, the choreography challenge is also the group’s opportunity. ENH
 
 31.<a id="endnote-31"></a>
    Source: lemon8-app.com  
-   Link:<a href="https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us" target="_blank" rel="noopener noreferrer nofollow">https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us</a>  
+   Link:https://www.lemon8-app.com/lemon4926195126/7431398347573658117?region=us  
 
 32.<a id="endnote-32"></a>
    Source: kstationtv.com  
